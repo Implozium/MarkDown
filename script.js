@@ -47,7 +47,7 @@ function makeContent(arr) {
 
     const madeArr = arr.map(row => {
         let match = null;
-        if (match = /(.*?)\n(===+)$/m.exec(row)) {
+        if (match = /(.*?)\r?\n(===+)$/m.exec(row)) {
             headers.push({
                 level: 1,
                 title: match[1]
