@@ -26,10 +26,11 @@ function mdParse(content) {
 }
 
 function getHash(str) {
-    return crypto.createHmac('sha256', secret)
+    return str.replace(/ /g, '-').replace(/[^a-z0-9а-яё\-]/gi, '');
+    /*return crypto.createHmac('sha256', secret)
         .update(str)
         .digest('hex')
-        .substr(0, 10);
+        .substr(0, 10);*/
 }
 
 function mekeHrefId(content) {
