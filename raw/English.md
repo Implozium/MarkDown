@@ -71,7 +71,7 @@ She | reads |    | her notes   | to Peter | every day
 Единственное число                | Множественное число      | Употребление
 --------------------------------- | ------------------------ | ------------
 `this` - `[ðis]` - этот, эта, это | `these` - `[ði:z]` - эти | которые находятся на расстоянии "вытянутой" руки
-`that` - `[ðæt]` - тот, та, то	  | `those` - `[ðouz]` - те  | все в отдалении
+`that` - `[ðæt]` - тот, та, то    | `those` - `[ðouz]` - те  | все в отдалении
 
 ## Местоимения (pronoun)
 Лицо | Личные (именительный)            |-| Косвенный падеж                  |-| Притяжательные  | -
@@ -155,8 +155,8 @@ She | reads |    | her notes   | to Peter | every day
 
 ## Суффикс `–ly`
 
-1.	Образует наречия (**как?**...) из прилагательных (**какой?**...);
-2.	Образует прилагательные и наречия от существительных (**кто?**, **что?**).
+1. Образует наречия (**как?**...) из прилагательных (**какой?**...);
+2. Образует прилагательные и наречия от существительных (**кто?**, **что?**).
 
 ## Глагол связка `to be`
 
@@ -216,7 +216,7 @@ She | reads |    | her notes   | to Peter | every day
 
 Используются по аналогии с `some`/`any`.
 
-.          | Positive    | Interrogative | Negative
+Refer for  | Positive    | Interrogative | Negative
 ---------- | ----------- | ------------- | --------
 **people** | `someone`   | `anyone`      | `no one`/`not anyone`
 .          | `somebody`  | `anybody`     | `nobody`/`not anybody`
@@ -289,6 +289,59 @@ She | reads |    | her notes   | to Peter | every day
 10%       | `seldom` - редко                     | I **seldom** add salt to my food.
 5%        | `hardly ever`/`rarely` - очень редко | I **hardly ever** get angry.
 0%        | `never` - никогда                    | Vegetarians **never** eat meat.
+
+## Прилагательное (adjective)
+
+Описывают существительные. Имеют одинаковую форму для единственного и множественного числа. Ставятся перед существительным. А также могут использываться после глагола `to be` и глаголов таких как: `look`, `smell`, `sound`, `feel`, `taste` и подобных.
+
+### Порядок прилагательных
+
+Прилагательные распологаются в следующем порядке - прилагательные которые выражают собсвенное мнение (*opinion*) (`beautiful`, `lovely`, `great`, `expensive` и подобные) и которые выражают фактическую информацию (*fact*) о ком-то или о чем-то, в указаном порядке:
+1. Размер (*size*) - `small`, `big`, `short`, `long`, etc;
+2. Вес (*weight*) - `heavy`, `light`, etc;
+3. Форма (*shape*) - `triangular`, `round`, `rectangular`, `square`, etc;
+4. Цвет (*colour*) - `dark/light blue`, `yellow`, `pink`, `cream`, etc;
+5. Материал (*material*) - `cotton`, `wooden`, `woollen`, `gold`, etc.
+
+Прилагательные обычно разделяются запятыми.
+
+> an expensive, red, leather suitcase
+
+### Сравнение
+
+.                  | Adjective       | Comparative form          | Superlative form
+------------------ | --------------- | ------------------------- | --------------------
+Вопрос             | `какой?`/`как?` | `как?`                    | `самый какой?`/`как?`
+Одно-, двусложные  | `<adj>`         | `<adj>-er` (`than`)       | `the` + `<adj>-est` (`in`/`of`)
+.                  | big             | bigger than               | the biggest in
+Двусложные и более | `<adj>`         | `more` + `<adj>` (`than`) | `the most` + `<adj>` (`in`/`of`)
+.                  | comfortable     | more comfortable than     | the most comfortable of
+Исключения         | good/well       | better                    | the best
+.                  | bad/badly       | worse                     | the worst
+.                  | much/many       | more                      | the most
+.                  | little          | less                      | the least
+.                  | far             | farther/further           | the farthest/furthest
+.                  | old             | elder                     | the eldest
+
+Если прилагательное заканчивается на `y`, то `y` преобразуется в `i`, и тогда будет:
+- `y` + `er` -> `ier`
+- `y` + `est` -> `iest`
+> happy - happier - happiest
+
+Если прилагательное окончивается согласной и ей предшествует краткий гласный звук, то она удваивается.
+> big - bigger - biggest
+
+Использование:
+- **Comparative form** (сравнительная степень) используется для сравнения двух людей, вещей, мест и т.п. Обычно используется `than` после сравнительного прилагательного;
+    > Sue's skirt is longer than Mary's.
+- **Superlative form** (превосходная степень) используется для сравнения человека, вещи, местности с целой группой, к которой они принадлежат. Обычно используется `in`/`of` после превосходного прилагательного;
+    > Pluto is the coldest planet in our solar system.
+- Для указания не похожести двух людей, вещей, мест используется конструкция: `(not) as <adj> as`;
+    > Tom is as tall as Peter.
+- Для указания сравнения в меньшую степень двух людей, вещей, мест используется конструкция: `less <adj> than`;
+    > The green jacket is less expensive than the yellow jacket.
+- Для указания сравнения в большую степень двух людей, вещей, мест используется конструкция: `more <comparative_form> than`;
+    > This tie is much longer than one.
 
 ## Времена
 
@@ -535,7 +588,7 @@ Verb                                          | Preposition
 
 ## `To used to`
 
-Структура, которая используется для передачи привычки или состояния предмета или человека в прошлом, которого больше не существует или не происходит.
+Структура, которая используется для передачи привычки или состояния предмета/человека в прошлом, которого больше не существует или не происходит.
 
 `<субъект>` + `to used to` + `<предикат>` + `<остальное>`
 
@@ -546,11 +599,37 @@ Verb                                          | Preposition
 
 Конструкция  | Употребление        | Пример
 ------------ | ------------------- | ------
-`<h>`.00     | `<h> o'clock`       | 8.00 - eight o'clock
-`<h>`.01..14 | `<m> past <h>`      | 8.10 - ten past eigth
-`<h>`.15     | `a quater past <h>` | 8.15 - a quater past eigth
-`<h>`.16..29 | `<m> past <h>`      |
-`<h>`.30     | `half past <h>`     | 8.30 - half past eigth
-`<h>`.31..44 | `60-<m> to <h>+1`   | 8.35 - twenty five to nine
-`<h>`.45     | `a quater to <h>+1` | 8.45 - a quater to nine
-`<h>`.46..59 | `60-<m> to <h>+1`   | 
+`<h>`:00     | `<h> o'clock`       | 8:00 - eight o'clock
+`<h>`:01..14 | `<m> past <h>`      | 8:10 - ten past eigth
+`<h>`:15     | `a quater past <h>` | 8:15 - a quater past eigth
+`<h>`:16..29 | `<m> past <h>`      |
+`<h>`:30     | `half past <h>`     | 8:30 - half past eigth
+`<h>`:31..44 | `60-<m> to <h>+1`   | 8:35 - twenty five to nine
+`<h>`:45     | `a quater to <h>+1` | 8:45 - a quater to nine
+`<h>`:46..59 | `60-<m> to <h>+1`   | 
+
+## Согласие и не согласие
+
+Для выражения согласия с утвердительным предложением используется конструкция:
+
+`So` + `<вспом._глагол_предложения>` + `<личное_местоимение_субъекта_или_существительное>`.
+
+> A: Jim lives in London.  
+> B: So do I.
+
+> A: Mike is helping grandmother.  
+> B: So are we.
+
+Для выражения согласия с отрицательным предложением используется конструкция:
+
+`Neither/Nor` + `<вспом._глагол_предложения>` + `<личное_местоимение_субъекта_или_существительное>`.
+
+> A: Eve doesn't like going to the cinema.  
+> B: Neither/Nor does Ann.
+
+Для не согласия с предложением используется конструкция:
+
+`<личное_местоимение_субъекта>` + `<вспом._глагол_предложения>`.
+
+> A: I often go swimming at weekends.  
+> B: I don't.

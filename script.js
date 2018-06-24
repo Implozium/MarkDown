@@ -1,7 +1,4 @@
-const crypto = require('crypto');
 const fs = require('fs');
-
-const secret = 'markdown';
 
 function mdParse(content) {
     const arr = content.split(/\r?\n/);
@@ -27,10 +24,6 @@ function mdParse(content) {
 
 function getHash(str) {
     return str.replace(/ /g, '-').replace(/[^a-z0-9а-яё\-]/gi, '');
-    /*return crypto.createHmac('sha256', secret)
-        .update(str)
-        .digest('hex')
-        .substr(0, 10);*/
 }
 
 function mekeHrefId(content) {
