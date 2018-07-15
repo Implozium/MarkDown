@@ -1,7 +1,7 @@
 class Item {
     constructor(key, value) {
         this.key = key;
-        this.value= value;
+        this.value = value;
     }
     clone() {
         return new Item(this.key, this.value);

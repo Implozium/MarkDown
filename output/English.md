@@ -17,7 +17,6 @@
     - [Предлоги `in`, `at`, `on`, `to`, `from`, `into`](#Предлоги-in-at-on-to-from-into)
     - [Суффиксы `–er`, `-or`](#Суффиксы-er--or)
     - [Оборот `there is`/`there are`](#Оборот-there-isthere-are)
-    - [Суффикс `–ly`](#Суффикс-ly)
     - [Глагол связка `to be`](#Глагол-связка-to-be)
     - [Глагол `to have`](#Глагол-to-have)
     - [Отрицательная форма глагола](#Отрицательная-форма-глагола)
@@ -27,24 +26,42 @@
     - [Количество предметов `much`/`many`/`a lot of`/`lots of`/`a little`/`a few`/`little`/`few`](#Количество-предметов-muchmanya-lot-oflots-ofa-littlea-fewlittlefew)
         - [Неисчисляемые существительные](#Неисчисляемые-существительные)
     - [Наречие (adverb)](#Наречие-adverb)
+    - [Суффикс `–ly`](#Суффикс-ly)
     - [Прилагательное (adjective)](#Прилагательное-adjective)
         - [Порядок прилагательных](#Порядок-прилагательных)
         - [Сравнение](#Сравнение)
-    - [Времена](#Времена)
+- [Времена](#Времена)
+    - [Настоящие времена](#Настоящие-времена)
         - [Present Simple (Indefinite)](#Present-Simple-Indefinite)
-        - [Past Simple (Indefinite)](#Past-Simple-Indefinite)
         - [Present Continuous](#Present-Continuous)
-    - [Вопросительные предложения](#Вопросительные-предложения)
-        - [Общие вопросы](#Общие-вопросы)
-            - [Краткие ответы](#Краткие-ответы)
-        - [Специальные вопросы](#Специальные-вопросы)
-        - [Альтернативные вопросы](#Альтернативные-вопросы)
-        - [Разделительные вопросы](#Разделительные-вопросы)
+    - [Прошедшие времена](#Прошедшие-времена)
+        - [Past Simple (Indefinite)](#Past-Simple-Indefinite)
+        - [Past Continious](#Past-Continious)
+    - [Будущие времена](#Будущие-времена)
+        - [Fututre Simple](#Fututre-Simple)
+- [Вопросительные предложения](#Вопросительные-предложения)
+    - [Общие вопросы](#Общие-вопросы)
+        - [Краткие ответы](#Краткие-ответы)
+    - [Специальные вопросы](#Специальные-вопросы)
+    - [Альтернативные вопросы](#Альтернативные-вопросы)
+    - [Разделительные вопросы](#Разделительные-вопросы)
 - [Употребляемые конструкции](#Употребляемые-конструкции)
     - [Глаголы с предлогами](#Глаголы-с-предлогами)
     - [`To used to`](#To-used-to)
+    - [`Must` - `Can't`](#Must---Cant)
     - [Время](#Время)
     - [Согласие и не согласие](#Согласие-и-не-согласие)
+- [Синонимы](#Синонимы)
+    - [`say`, `tell`, `speak`, `talk`](#say-tell-speak-talk)
+    - [`see`, `watch`, `look`](#see-watch-look)
+    - [`teach`, `study`, `learn`](#teach-study-learn)
+- [Разное](#Разное)
+    - [Еда](#Еда)
+    - [Synonyms for word `very`](#Synonyms-for-word-very)
+    - [Similar words](#Similar-words)
+        - [`small` and `little`](#small-and-little)
+        - [`big` and `large`](#big-and-large)
+        - [`tall` and `high`](#tall-and-high)
 
 <a id="Буква-Звук" href="#Буква-Звук">Буква. Звук</a>
 ===========
@@ -193,11 +210,6 @@ She | reads |    | her notes   | to Peter | every day
 Вопросительное | Is there any milk in the fridge?    | Are there any people in the room?
 Краткий ответ  | Yes, there is.                      | Yes, there are.
 
-## <a id="Суффикс-ly" href="#Суффикс-ly">Суффикс `–ly`</a>
-
-1. Образует наречия (**как?**...) из прилагательных (**какой?**...);
-2. Образует прилагательные и наречия от существительных (**кто?**, **что?**).
-
 ## <a id="Глагол-связка-to-be" href="#Глагол-связка-to-be">Глагол связка `to be`</a>
 
 Обозначает есть, обычно не переводится. Спряжение формы глагола-связки быть:
@@ -307,6 +319,8 @@ Refer for  | Positive    | Interrogative | Negative
 
 ## <a id="Наречие-adverb" href="#Наречие-adverb">Наречие (adverb)</a>
 
+Описывают глаголы, другие наречия или прилагательные. Ставятся после глаголов.
+
 Наречия, которые выражают частоту времени (`sometimes`, `often`, `usually` и др.) обычно распологаются:
 1. Перед главным смысловым глаголом, между субъектом и предикатом:  
     `<субъект>` + `<наречие>` + `<предикат>` + `<остальное>`
@@ -330,9 +344,28 @@ Refer for  | Positive    | Interrogative | Negative
 5%        | `hardly ever`/`rarely` - очень редко | I **hardly ever** get angry.
 0%        | `never` - никогда                    | Vegetarians **never** eat meat.
 
+## <a id="Суффикс-ly" href="#Суффикс-ly">Суффикс `–ly`</a>
+
+1. Образует наречия (**как?**...) из прилагательных (**какой?**...):
+    - `<word>-le` + `-ly` - `<word>-ly`:
+        > gentle - gently
+    - `<word>-y` + `-ly` - `<word>-ily`:
+        > easy - easily
+    - `<word>-l` + `-ly` - `<word>-lly`:
+        > wonderful - wonderfully
+    - `<word>` + `-ly` - `<word>-ly`:
+        > dangerous - dangerously
+2. Образует прилагательные и наречия от существительных (**кто?**, **что?**).
+
 ## <a id="Прилагательное-adjective" href="#Прилагательное-adjective">Прилагательное (adjective)</a>
 
 Описывают существительные. Имеют одинаковую форму для единственного и множественного числа. Ставятся перед существительным. А также могут использываться после глагола `to be` и глаголов таких как: `look`, `smell`, `sound`, `feel`, `taste` и подобных.
+
+Прилагательные, которые оканчиваются на `-ing` (`interesting`, `amazing`), используются для описания, чего-то, что кому-то или чему-то нравиться:
+> The film was boring. She is a very interesting person.
+
+Прилагательные, которые оканчиваются на `-ed` (`interested`, `amazed`), используются для описания, того, как кто-то чувствует что-то:
+> The children were terrified when they heard the thunder.
 
 ### <a id="Порядок-прилагательных" href="#Порядок-прилагательных">Порядок прилагательных</a>
 
@@ -383,7 +416,8 @@ Refer for  | Positive    | Interrogative | Negative
 - Для указания сравнения в большую степень двух людей, вещей, мест используется конструкция: `more <comparative_form> than`;
     > This tie is much longer than one.
 
-## <a id="Времена" href="#Времена">Времена</a>
+<a id="Времена" href="#Времена">Времена</a>
+=======
 
 **Субъект** - в грамматике, подлежащее, семантическая категория со значением производителя действия или носителя состояния.
 
@@ -392,6 +426,8 @@ Refer for  | Positive    | Interrogative | Negative
 **Объект** - философская категория, выражающая нечто, на что направлена практическая или познавательная деятельность субъекта (наблюдателя).
 
 Формула построения: `<субъект>` + `<предикат>` + `<остальное>`.
+
+## <a id="Настоящие-времена" href="#Настоящие-времена">Настоящие времена</a>
 
 ### <a id="Present-Simple-Indefinite" href="#Present-Simple-Indefinite">Present Simple (Indefinite)</a>
 
@@ -419,16 +455,16 @@ Refer for  | Positive    | Interrogative | Negative
 - `sometimes`;
 - `never`.
 
-Тип предложения | Вспом гл | Субект                | Вспом гл   | Предикат         | Пример
-----------------| -------- | --------------------- | ---------- | ---------------- | ------
-Утвердительное  |          | `I`/`You`/`We`/`They` |            | verb             | I take an apple.
-.               |          | `He`/`She`/`It`       |            | verb(`-s`/`-es`) | She takes an apple.
-Отрицательное   |          | `I`/`You`/`We`/`They` | `do not`   | verb             | I do not take an apple.
-.               |          | `He`/`She`/`It`       | `does not` | verb             | She does not take an apple.
-Вопросительное  | `Do`     | `I`/`You`/`We`/`They` |            | verb             | Do I take an apple?
-.               | `Does`   | `He`/`She`/`It`       |            | verb             | Does she take an apple?
+Тип предложения | Вспом гл | Субект                | Вспом гл   | Предикат             | Пример
+----------------| -------- | --------------------- | ---------- | -------------------- | ------
+Утвердительное  |          | `I`/`You`/`We`/`They` |            | `<verb>`             | I take an apple.
+.               |          | `He`/`She`/`It`       |            | `<verb>`(`-s`/`-es`) | She takes an apple.
+Отрицательное   |          | `I`/`You`/`We`/`They` | `do not`   | `<verb>`             | I do not take an apple.
+.               |          | `He`/`She`/`It`       | `does not` | `<verb>`             | She does not take an apple.
+Вопросительное  | `Do`     | `I`/`You`/`We`/`They` |            | `<verb>`             | Do I take an apple?
+.               | `Does`   | `He`/`She`/`It`       |            | `<verb>`             | Does she take an apple?
 
-Преобразование глагола: verb(`-s`/`-es`):
+Преобразование глагола: `<verb>`(`-s`/`-es`):
 - если оканчивается на: `-s`, `-ss`, `-ch`, `-sh`, `-x`, `-o`, то к ним добавляется `-es`;
 - если оканчивается на: `-y` после согласной, то преобразуется в `-ies`;
 - в остальных случаях добавляется `-s`.
@@ -436,41 +472,6 @@ Refer for  | Positive    | Interrogative | Negative
 Если прединат представлен глаголом `to be`, то в вопросительных и отрицательных предложениях он будет использоваться и как вспомогательный глагол.
 > Am I eat this apple?  
 > She is not horrid person.
-
-### <a id="Past-Simple-Indefinite" href="#Past-Simple-Indefinite">Past Simple (Indefinite)</a>
-
-Используется в ситуациях:
-- **past actions which happened one after the other**
-- **past habit or state**
-- **complete action or event which happened at a stared past time**
-
-Используются такие ключевые слова:
-- `yesterday`;
-- `last`;
-- `ago`;
-- `in 1987`.
-
-Тип предложения | Вспом гл | Субект  | Вспом гл   | Предикат            | Пример
-----------------| -------- | ------- | ---------- | ------------------ | ------
-Утвердительное  |          | subject |            | verb(`-ed`/I form) | She took an apple.
-Отрицательное   |          | subject | `did not`  | verb               | I did not take an apple.
-Вопросительное  | `Did`    | subject |            | verb               | Did I take an apple?
-
-Преобразование глагола: verb(`-ed`/I form):
-- **Стандартные глаголы** - образуются по стандарту: путем прибавления суффикса `-ed`:
-    - при этом `-y` переходит в `-i`;
-    - к "немому" `e` прибавляется только `d`;
-    - конечная согласная удваивается, если перед ней стоит краткий гласный звук.
-- **Нестандартные глаголы** - образуются не по обыкновенному правилу, а смотрятся в словаре.
-
-Произносится `-ed`:
-- `[ıd]` после звуков `[t]` и `[d]`;
-- `[t]` после глухих согласных (кроме `t`);
-- `[d]` после всех остальных звуков.
-
-Вопросительная форма вспомогательных и модальных глаголов `to be`, `to have`, `can`, `may` образуется путем перестановки: глагол ставится перед подлежащим в прошедшем времени `was`/`were`, `had`, `could`, `might`.
-> Could I eat this apple?  
-> Might she come with us?
 
 ### <a id="Present-Continuous" href="#Present-Continuous">Present Continuous</a>
 
@@ -487,19 +488,19 @@ Refer for  | Positive    | Interrogative | Negative
 - `now`;
 - `at the moment`.
 
-Тип предложения | Вспом гл | Субект            | Вспом гл  | Предикат     | Пример
-----------------| -------- | ----------------- | --------- | ------------ | ------
-Утвердительное  |          | `I`               | `am`      | verb(`-ing`) | I am playing the game.
-.               |          | `He`/`She`/`It`   | `is`      | verb(`-ing`) | He is playing the game.
-.               |          | `You`/`We`/`They` | `are`     | verb(`-ing`) | They are playing the game.
-Отрицательное   |          | `I`               | `am not`  | verb(`-ing`) | I am not playing the game.
-.               |          | `He`/`She`/`It`   | `is not`  | verb(`-ing`) | He is not playing the game.
-.               |          | `You`/`We`/`They` | `are not` | verb(`-ing`) | They are not playing the game.
-Вопросительное  | `Am`     | `I`               |           | verb(`-ing`) | Am I playing the game.
-.               | `Is`     | `He`/`She`/`It`   |           | verb(`-ing`) | Is he playing the game.
-.               | `Are`    | `You`/`We`/`They` |           | verb(`-ing`) | Are they playing the game.
+Тип предложения | Вспом гл | Субект            | Вспом гл  | Предикат         | Пример
+----------------| -------- | ----------------- | --------- | ---------------- | ------
+Утвердительное  |          | `I`               | `am`      | `<verb>`(`-ing`) | I am playing the game.
+.               |          | `He`/`She`/`It`   | `is`      | `<verb>`(`-ing`) | He is playing the game.
+.               |          | `You`/`We`/`They` | `are`     | `<verb>`(`-ing`) | They are playing the game.
+Отрицательное   |          | `I`               | `am not`  | `<verb>`(`-ing`) | I am not playing the game.
+.               |          | `He`/`She`/`It`   | `is not`  | `<verb>`(`-ing`) | He is not playing the game.
+.               |          | `You`/`We`/`They` | `are not` | `<verb>`(`-ing`) | They are not playing the game.
+Вопросительное  | `Am`     | `I`               |           | `<verb>`(`-ing`) | Am I playing the game.
+.               | `Is`     | `He`/`She`/`It`   |           | `<verb>`(`-ing`) | Is he playing the game.
+.               | `Are`    | `You`/`We`/`They` |           | `<verb>`(`-ing`) | Are they playing the game.
 
-Преобразование глагола: verb(`-ing`):
+Преобразование глагола: `<verb>`(`-ing`):
 - если оканчивается на: `-e`, то преобразуется в `-ing`;
 - если оканчивается на: `-ie`, то преобразуется в `-ying`;
 - если оканчивается на: `-y`, то преобразуется в `-ying`;
@@ -508,9 +509,114 @@ Refer for  | Positive    | Interrogative | Negative
     > get - getting
 - в остальных случаях добавляется `-ing`.
 
-## <a id="Вопросительные-предложения" href="#Вопросительные-предложения">Вопросительные предложения</a>
+## <a id="Прошедшие-времена" href="#Прошедшие-времена">Прошедшие времена</a>
 
-### <a id="Общие-вопросы" href="#Общие-вопросы">Общие вопросы</a>
+### <a id="Past-Simple-Indefinite" href="#Past-Simple-Indefinite">Past Simple (Indefinite)</a>
+
+Используется в ситуациях:
+- **actions which happened or finished at a definite time in the past** - действие, которое случилось или завершилось к определенному времени в прошлом:
+    > Lisa bought a house last year.
+- **actions which happened repeatedly in the past? but don't happen anymore. In this case we can use adverbs of frequency** - привычка или действие было в прошлом, но теперь не случается больше:
+    > He usually played football in his free time.
+
+Используются такие ключевые слова:
+- `yesterday`;
+- `last`;
+- `ago`;
+- `in 1987`.
+
+Тип предложения | Вспом гл | Субект      | Вспом гл   | Предикат               | Пример
+----------------| -------- | ----------- | ---------- | ---------------------- | ------
+Утвердительное  |          | `<subject>` |            | `<verb>`(`-ed`/I form) | She took an apple.
+Отрицательное   |          | `<subject>` | `did not`  | `<verb>`               | I did not take an apple.
+Вопросительное  | `Did`    | `<subject>` |            | `<verb>`               | Did I take an apple?
+
+Преобразование глагола: `<verb>`(`-ed`/I form):
+- **Стандартные глаголы** - образуются по стандарту: путем прибавления суффикса `-ed`:
+    - при этом `-y` переходит в `-i`;
+    - к "немому" `e` прибавляется только `d`;
+    - конечная согласная удваивается, если перед ней стоит краткий гласный звук.
+- **Нестандартные глаголы** - образуются не по обыкновенному правилу, а смотрятся в словаре.
+
+Произносится `-ed`:
+- `[ıd]` после звуков `[t]` и `[d]`;
+- `[t]` после глухих согласных (кроме `t`);
+- `[d]` после всех остальных звуков.
+
+Вопросительная форма вспомогательных и модальных глаголов `to be`, `to have`, `can`, `may` образуется путем перестановки: глагол ставится перед подлежащим в прошедшем времени `was`/`were`, `had`, `could`, `might`.
+> Could I eat this apple?  
+> Might she come with us?
+
+### <a id="Past-Continious" href="#Past-Continious">Past Continious</a>
+
+Используется в ситуациях:
+- **for an action which was in progress at a stated time in the past and we don't know when the action started or finished** - для действий, которые в процессе в указанное время в прошлом и про которое не извесно, когда оно начнется или окончится:
+    > At five o'clock yesterday I was cooking dinner.
+- **for a past action which was in progress when another action interrupted it** - для действий в прошлом, которые находятся в процессе (стоят в форме `past continious`), когда другое действие прерывает его (в форме `past simple`):
+    > She was having breakfast when the phone rang.
+- **for two or more actions which were happening at the same time in the past** - два или более действий, которые происходят в одно и тоже время в прошлом (одновременные действия):
+    > Tina was doing the wasing-up while the children were playing in the garden.
+- **to give background information in a story** - для описания справочной информации в истории повествования:
+    > The sun was shining brightly as Tom was driving his brand new car through the city center.
+
+Используются такие ключевые слова:
+- `while`;
+- `when`;
+- `as`.
+
+После слов `while` / `when` / `as` идет глагол в форме `past continious` для обозначения продолжительного действия, а после `when` идет глагол в форме `past simple` для обозначения короткого действия.
+
+Тип предложения | Вспом гл | Субект              | Вспом гл   | Предикат         | Пример
+----------------| -------- | ------------------- | ---------- | ---------------- | ------
+Утвердительное  |          | `I`/`He`/`She`/`It` | `was`      | `<verb>`(`-ing`) | He was playing the game.
+.               |          | `You`/`We`/`They`   | `were`     | `<verb>`(`-ing`) | They were playing the game.
+Отрицательное   |          | `I`/`He`/`She`/`It` | `was not`  | `<verb>`(`-ing`) | I was not playing the game.
+.               |          | `You`/`We`/`They`   | `were not` | `<verb>`(`-ing`) | They were not playing the game.
+Вопросительное  | `Was`    | `I`/`He`/`She`/`It` |            | `<verb>`(`-ing`) | Was he playing the game.
+.               | `Were`   | `You`/`We`/`They`   |            | `<verb>`(`-ing`) | Were they playing the game.
+
+Преобразование глагола: `<verb>`(`-ing`) аналогично преобразованию в форме `present continious`.
+
+## <a id="Будущие-времена" href="#Будущие-времена">Будущие времена</a>
+
+Формы будущего времени:
+- **Present Simple** (timetable) - 100% вероятность выполнения действия, так как оно идет по конкретному расписанию;
+- **Present Continious** (fixed arrangements) - 90-100% вероятность выполнения действия, так как оно будет по определенному плану или договоренности в ближайшем будущем;
+- **Intention** (конструкция `to be going to ...`) - 50-60% вероятность выполнения действия, так как оно будет намеряное (намерение);
+- **Fututre Simple** - 30-40% вероятность выполнения действия, так как оно будет спонтанным.
+
+### <a id="Fututre-Simple" href="#Fututre-Simple">Fututre Simple</a>
+
+Используется в ситуациях:
+- **для обозначения будущих действий, без указания точного времени**:
+    > We'll travel around the world one day.
+- **для предсказания будущих событий (predictions)**:
+    > You'll be a great computer operator one day.
+- **для выражения угроз или предупреждений (threats / warnings)**:
+    > Be quiet or I'll send you out.
+- **для выражения обещаний (promises) или решений принятых в момент речи (on-the-spot-decisions)**:
+    > I'll buy you this ring.
+- **с глаголами `hope`, `think`, `belive`, `expect` и т.п.; с выражениями `I'm sure`, `I'm afraid` и т.п., а также наречиями `probably`, `perhaps` и т.п.**:
+    > I hope he will pass his exams. Perhaps I'll see her tonight.
+
+Используются такие ключевые слова:
+- `tomorrow`;
+- `the day after tomorrow`;
+- `next week / month / year`;
+- `tonight`;
+- `soon`;
+- `in a week / month / year`.
+
+Тип предложения | Вспом гл | Субект      | Вспом гл   | Предикат | Пример
+----------------| -------- | ----------- | ---------- | -------- | ------
+Утвердительное  |          | `<subject>` | `will`     | `<verb>` | She will took an apple.
+Отрицательное   |          | `<subject>` | `will not` | `<verb>` | I will not take an apple.
+Вопросительное  | `Will`   | `<subject>` |            | `<verb>` | Will I take an apple?
+
+<a id="Вопросительные-предложения" href="#Вопросительные-предложения">Вопросительные предложения</a>
+==========================
+
+## <a id="Общие-вопросы" href="#Общие-вопросы">Общие вопросы</a>
 
 Это вопросы на которые можно ответить да или нет.
 
@@ -528,14 +634,14 @@ Refer for  | Positive    | Interrogative | Negative
 > Does he jump in the water?  
 > Do they go to the school?
 
-#### <a id="Краткие-ответы" href="#Краткие-ответы">Краткие ответы</a>
+### <a id="Краткие-ответы" href="#Краткие-ответы">Краткие ответы</a>
 
 `Yes`/`No`, `<местоимение_заменяющее_подлежащее>` + `<первый_(вспомогательный)_глагол>` (`not`)
 
 > Is Tom a good worker?  
 > Yes, he is./No, he is not.
 
-### <a id="Специальные-вопросы" href="#Специальные-вопросы">Специальные вопросы</a>
+## <a id="Специальные-вопросы" href="#Специальные-вопросы">Специальные вопросы</a>
 
 Имеют целью выяснение какого-либо факта или обстоятельства.
 
@@ -586,7 +692,7 @@ Refer for  | Positive    | Interrogative | Negative
 
 > What color is his hat?
 
-### <a id="Альтернативные-вопросы" href="#Альтернативные-вопросы">Альтернативные вопросы</a>
+## <a id="Альтернативные-вопросы" href="#Альтернативные-вопросы">Альтернативные вопросы</a>
 
 Предполагают выбор одного из двух лиц/предметов/действий/качеств/признаков. Могут быть заданы к любому члену предложения. Выбор, обозначаемый словом `оr` (или) может вводиться как в общие, так и в специальные вопросы, при этом схемы обоих типов вопросительных предложений остаются без изменений.
 
@@ -600,7 +706,7 @@ Refer for  | Positive    | Interrogative | Negative
 
 > Which books are more interesting: these ones or those ones?
 
-### <a id="Разделительные-вопросы" href="#Разделительные-вопросы">Разделительные вопросы</a>
+## <a id="Разделительные-вопросы" href="#Разделительные-вопросы">Разделительные вопросы</a>
 
 Соответствуют русским вопросительным предложениям, заканчивающимся словами `не так ли?`/`не правда ли?`, и имеют схожие формы построения, состоящие из двух частей: `<повествовательное_предложение>` + `не так ли?`.
 
@@ -632,6 +738,22 @@ Verb                                          | Preposition
 
 `<субъект>` + `to used to` + `<предикат>` + `<остальное>`
 
+> He **used to** live in a small house.
+
+## <a id="Must---Cant" href="#Must---Cant">`Must` - `Can't`</a>
+
+`Must` используется когда нужно сказать что-то, что логически верно, для этого используется конструкция:
+
+`<субъект>` + `must` + `<предикат>` + `<остальное>`
+
+> They look the same. They **must** be twins.
+
+`Can't` используется когда нужно сказать что-то, что логически не верно, для этого используется конструкция:
+
+`<субъект>` + `can't` + `<предикат>` + `<остальное>`
+
+> This book **can't** be his. He doesn't like detective stories.
+
 ## <a id="Время" href="#Время">Время</a>
 
 `am` - `ante meridiem` - `in the morning`  
@@ -655,17 +777,17 @@ Verb                                          | Preposition
 `So` + `<вспом._глагол_предложения>` + `<личное_местоимение_субъекта_или_существительное>`.
 
 > A: Jim lives in London.  
-> B: So do I.
+> B: **So do** I.
 
 > A: Mike is helping grandmother.  
-> B: So are we.
+> B: **So are** we.
 
 Для выражения согласия с отрицательным предложением используется конструкция:
 
-`Neither/Nor` + `<вспом._глагол_предложения>` + `<личное_местоимение_субъекта_или_существительное>`.
+`Neither` / `Nor` + `<вспом._глагол_предложения>` + `<личное_местоимение_субъекта_или_существительное>`.
 
 > A: Eve doesn't like going to the cinema.  
-> B: Neither/Nor does Ann.
+> B: **Neither** / **Nor** does Ann.
 
 Для не согласия с предложением используется конструкция:
 
@@ -673,3 +795,128 @@ Verb                                          | Preposition
 
 > A: I often go swimming at weekends.  
 > B: I don't.
+
+<a id="Синонимы" href="#Синонимы">Синонимы</a>
+========
+
+## <a id="say-tell-speak-talk" href="#say-tell-speak-talk">`say`, `tell`, `speak`, `talk`</a>
+
+- `to say` - *use your voice to express something in words*:
+    - используется когда делятся какой-либо информацией, либо передют на письме прямую речь. После глагола `say` чаще всего стоит союз `that` (что):
+        > He said that he wouldn’t be able to come to the party, since he has lots of work to do.
+    - используется для выражения своего мнения:
+        > I wouldn't say that he's a great guitarist.
+    - если нужно пересказать содержание написанного или передать словами то, что нарисовано или передано в цифрах:
+        > The letter says that I've been accepted to the college.
+- `to tell` - схож по значению с глаголом `say`, но никогда не используется в цитатах. После глагола `tell` практически всегда используется местоимение, которое обозначает того, кому предназначена информация. Используется для передачи инструкций и приказов в косвенной речи:
+    > Victor told me to come next week.
+- `to speak` - обозначает речевой процесс. Используется в более формальном контексте:
+    > Next week she will speak about the history of the art.
+- `to talk` - схож по значению с `speak`. Используется для менее формальных переговоров и, как правило, не на большую аудиторию:
+    > Talk to your friends.
+
+## <a id="see-watch-look" href="#see-watch-look">`see`, `watch`, `look`</a>
+
+- `to see` - *to see something* - значит видеть что-то, что попадает в поле зрения, даже если это не очень-то и хотелось видеть. По значению этот глагол схож с глаголом `to notice` (замечать):
+    > Let’s see if we can find it.
+    - также распространенное значение этого глагола - **понимать**, то есть синоним глагола `to understand`:
+        > They had no children. They married late, you see.
+    - `you see` при объяснении чего-то, сродни **понимаешь?**;
+    - может использоваться также в значении **навестить или повидать кого-то**, **посетить какое-то место**:
+        > We went to see my parents at the weekend.
+    - `see you later` - означает **увидимся (встретимся) позже**;
+    - `I can see` - **я вижу**, обязательно с глаголом `can`.
+    - употребление с предлогами:
+        - `see about` - устроить, организовать;
+        - `see into` - провожать внутрь помещения;
+        - `see out` - провожать из помещения;
+        - `see off` - провожать кого-то в отъезд или прогнать;
+        - `see through` - сделать что-то от и до, а также видеть кого-то насквозь (когда человек врет);
+        - `see to` - обеспечить что-то, позаботиться о чем-то.
+- `to watch` - используется для вполне добровольного и длительного действия и означает **смотреть**, **наблюдать**, выражает процесс, а не результат этого процесса:
+    > We watch TV every evening.
+- `to look` - действие, описываемое этим глаголом, длится непродолжительное время, обозначает **посмотреть** (с предлогом `at`), **взглянуть**:
+    - употребление с предлогами:
+        - `look around` - оглядеться;
+        - `look up` - поднять взгляд или посмотреть слово в словаре;
+        - `look away` - отвести взгляд;
+        - `look up to` - брать с кого-то пример;
+        - `look for` - искать;
+        - `look after` - присматривать, заботиться.
+
+## <a id="teach-study-learn" href="#teach-study-learn">`teach`, `study`, `learn`</a>
+
+- `to teach` - означает **учить**, но с позиции учителя (teacher), то есть передавать свои знания студенту:
+    > Rachel teaches art at the local art school.
+- `to study` - основное значение - **изучать**, **запоминать факты**, **посещать учебное заведение с целью изучить какой-то предмет**:
+    > He studied computer science in college.
+- `to learn` - обозначает **учить**, **выучить**, и отличаться от глагола `to study` он будет наличием практического элемента и результата. Обозначает не процесс, а результат:
+    > I'm trying to learn my lines for the play.
+    - может означать **узнавать информацию**. **Я узнал, что...** - `I learned that...`:
+        > He learned about computers by reading a book.
+
+<a id="Разное" href="#Разное">Разное</a>
+======
+
+## <a id="Еда" href="#Еда">Еда</a>
+
+Type of eat:
+1. `nibble` - eat tiny part of meal like a mouse;
+2. `graze` - eat part of food with interval between eating like a cow;
+3. `bite` - bite food big part;
+4. `munch` - eat some food and produce big noise;
+5. `rumbling` - produce some noise when you are hungry;
+6. `scarf` - eat cheap or fast food;
+7. `devour` - eat expensive or tastful food;
+8. `starving` - eat like very hungry.
+
+Stage of eating:
+1. `gulp` - when food in your mouth;
+2. `swallow` - when food inside your throat;
+3. `spit` - when you spit out your food from your mouth.
+
+Type of eating:
+1. `eat like a bird` - eat sometimes;
+2. `eat like a horse` - eat everytime;
+3. `pig out` / `make a pig yourself` - eat very big portion of food;
+4. `dog breakfast` - ugly food;
+5. `wolf down` - very hungry eating.
+
+## <a id="Synonyms-for-word-very" href="#Synonyms-for-word-very">Synonyms for word `very`</a>
+
+- `very rude` - `vulgar`;
+- `very short` - `brief`;
+- `very boring` - `dull` (`stupid`);
+- `very good` - `superb`;
+- `very hot` - `scalding` (for water) / `scorching` (for weather)
+- `very cold` - `freezing`;
+- `very hungry` - `ravenous`;
+- `very slow` - `sluggish`;
+- `very fast` - `rapid`; (ly)
+- `very tired` - `exhausted`;
+- `very poor` - `destitute`;
+- `very rich` - `wealthy`;
+- `very happy` - `jubilant`;
+- `very worried` - `anxious`;
+- `very thirsty` - `parched`;
+- `very dirty` - `squalid`;
+- `very clean` - `spotless`.
+
+## <a id="Similar-words" href="#Similar-words">Similar words</a>
+
+### <a id="small-and-little" href="#small-and-little">`small` and `little`</a>
+
+- `small` - use when you say about size / dimension / intensity - about physical conceptions
+- `little` - use with uncountable / quantity / stature / adjective of degree  
+    a small amount / number = a little (few)
+
+### <a id="big-and-large" href="#big-and-large">`big` and `large`</a>
+
+- `big` - about status  
+    a large number of ...  
+    a big / large amount of
+
+### <a id="tall-and-high" href="#tall-and-high">`tall` and `high`</a>
+
+- `tall` - about physical / standing
+- `high` - about above (higher) than other like it / ideas / position / reaching for a peak
