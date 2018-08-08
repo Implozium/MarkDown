@@ -831,11 +831,11 @@ Type of eating:
 - `very short` - `brief`;
 - `very boring` - `dull` (`stupid`);
 - `very good` - `superb`;
-- `very hot` - `scalding` (for water) / `scorching` (for weather)
+- `very hot` - `scalding` (for water) / `scorching` (for weather);
 - `very cold` - `freezing`;
 - `very hungry` - `ravenous`;
 - `very slow` - `sluggish`;
-- `very fast` - `rapid`; (ly)
+- `very fast` - `rapid` (ly);
 - `very tired` - `exhausted`;
 - `very poor` - `destitute`;
 - `very rich` - `wealthy`;
