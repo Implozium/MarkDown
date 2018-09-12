@@ -39,6 +39,7 @@
         - [Past Continious](#Past-Continious)
     - [Будущие времена](#Будущие-времена)
         - [Fututre Simple](#Fututre-Simple)
+        - [Конструкция `to be going to`](#Конструкция-to-be-going-to)
 - [Вопросительные предложения](#Вопросительные-предложения)
     - [Общие вопросы](#Общие-вопросы)
         - [Краткие ответы](#Краткие-ответы)
@@ -590,7 +591,7 @@ Refer for  | Positive    | Interrogative | Negative
 Используется в ситуациях:
 - **для обозначения будущих действий, без указания точного времени**:
     > We'll travel around the world one day.
-- **для предсказания будущих событий (predictions)**:
+- **для предсказаний (predictions) основаных на том во что мы верим или думаем**:
     > You'll be a great computer operator one day.
 - **для выражения угроз или предупреждений (threats / warnings)**:
     > Be quiet or I'll send you out.
@@ -598,6 +599,8 @@ Refer for  | Positive    | Interrogative | Negative
     > I'll buy you this ring.
 - **с глаголами `hope`, `think`, `belive`, `expect` и т.п.; с выражениями `I'm sure`, `I'm afraid` и т.п., а также наречиями `probably`, `perhaps` и т.п.**:
     > I hope he will pass his exams. Perhaps I'll see her tonight.
+- **конструкция `Will you ...?` используются как вопрос для кого-то чтобы сделал что-то для нас**:
+    > Will you post this letter for me, please.
 
 Используются такие ключевые слова:
 - `tomorrow`;
@@ -612,6 +615,22 @@ Refer for  | Positive    | Interrogative | Negative
 Утвердительное  |          | `<subject>` | `will`     | `<verb>` | She will took an apple.
 Отрицательное   |          | `<subject>` | `will not` | `<verb>` | I will not take an apple.
 Вопросительное  | `Will`   | `<subject>` |            | `<verb>` | Will I take an apple?
+
+### <a id="Конструкция-to-be-going-to" href="#Конструкция-to-be-going-to">Конструкция `to be going to`</a>
+
+Используется в ситуациях:
+- **для планов или намерений (intentions) в ближайшем будущем**:
+    > Susan is going to move house.
+- **для предсказаний (predictions) основаных на том что мы видели или знаем**:
+    > Look at him. He's going to jump out of the train.
+
+Тип предложения | Вспом гл | Субект      | Вспом гл             | Предикат | Пример
+----------------| -------- | ----------- | -------------------- | -------- | ------
+Утвердительное  |          | `<subject>` | `to be going to`     | `<verb>` | He is going to have a snack.
+Отрицательное   |          | `<subject>` | `to be not going to` | `<verb>` | He isn't going to have a snack.
+Вопросительное  | `To be`  | `<subject>` | `going to`           | `<verb>` | Is he going to have a snack?
+
+
 
 <a id="Вопросительные-предложения" href="#Вопросительные-предложения">Вопросительные предложения</a>
 ==========================
@@ -888,11 +907,11 @@ Type of eating:
 - `very short` - `brief`;
 - `very boring` - `dull` (`stupid`);
 - `very good` - `superb`;
-- `very hot` - `scalding` (for water) / `scorching` (for weather)
+- `very hot` - `scalding` (for water) / `scorching` (for weather);
 - `very cold` - `freezing`;
 - `very hungry` - `ravenous`;
 - `very slow` - `sluggish`;
-- `very fast` - `rapid`; (ly)
+- `very fast` - `rapid` (ly);
 - `very tired` - `exhausted`;
 - `very poor` - `destitute`;
 - `very rich` - `wealthy`;
