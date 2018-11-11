@@ -34,6 +34,7 @@
     - [Настоящие времена](#Настоящие-времена)
         - [Present Simple (Indefinite)](#Present-Simple-Indefinite)
         - [Present Continuous](#Present-Continuous)
+        - [Present Perfect](#Present-Perfect)
     - [Прошедшие времена](#Прошедшие-времена)
         - [Past Simple (Indefinite)](#Past-Simple-Indefinite)
         - [Past Continious](#Past-Continious)
@@ -49,6 +50,8 @@
 - [Условные предложения](#Условные-предложения)
 - [Предлоги](#Предлоги)
     - [Предлоги времени `at`, `in` и `on`](#Предлоги-времени-at-in-и-on)
+    - [Предлоги места](#Предлоги-места)
+    - [Предлоги движения](#Предлоги-движения)
 - [Употребляемые конструкции](#Употребляемые-конструкции)
     - [Глаголы с предлогами](#Глаголы-с-предлогами)
     - [`To used to`](#To-used-to)
@@ -57,6 +60,7 @@
     - [Согласие и не согласие](#Согласие-и-не-согласие)
     - [Совет `should`](#Совет-should)
     - [Временные слова](#Временные-слова)
+    - [`have been` (`to`) / `have gone` (`to`)](#have-been-to--have-gone-to)
 - [Синонимы](#Синонимы)
     - [`say`, `tell`, `speak`, `talk`](#say-tell-speak-talk)
     - [`see`, `watch`, `look`](#see-watch-look)
@@ -527,6 +531,52 @@ Refer for  | Positive    | Interrogative | Negative
     > get - getting
 - в остальных случаях добавляется `-ing`.
 
+### <a id="Present-Perfect" href="#Present-Perfect">Present Perfect</a>
+
+Используется в ситуациях:
+- **for actions which happened at an unstated time in the past, the exact time is not mentioned because the action is more important** - для действий, которые случились в неопределенное время в прошлом, точное время которых не важно, так как само действие важнее:
+    > Tom has broken his arm.
+- **for actions which started in the past and are still continuing in the present** - для действий, которые начались в прошлом и все еще продолжаются в настоящем:
+    > Kim has been chief since 1985.
+- **for actions which have recently finished and their results are visible in the present** - для действий, которые недовно закончились и их результат видимый в настоящем:
+    > I have painted the kitchen/ Doesn't it look nice?.
+- **to talk about experience** - во время разговора об приобретенном опыте:
+    > They have traveled trough Europe.
+
+Используются такие ключевые слова:
+- `just` - `только что` / `недавно` - ставится после `have`;
+- `ever` - `когда нибудь` - ставится после `have`;
+- `never` - `никогда` - ставится после `have`;
+- `already` - `уже` / `еще` - ставится после `have`, используется в утвердительных предложениях:
+    > She's already booked a table for two.
+- `yet` - `уже` / `еще` - используется в вопросительных и отрицательных предложениях, ставится в конце предложения:
+    > Has Jim fixed the car yet?
+- `how long` - `как долго` - вопросительная кострукция;
+- `so far` - `с тех пор` - вопросительная кострукция;
+- `recently` - `недавно`;
+- `since` - `с какого-то момента` - используется для указания точки начала:
+    > She hasn't been to New York since 1992.
+- `for` - `в течении` - используется для выражения продолжительности:
+    > I have known Sue for ten years.
+
+Тип предложения | Вспом гл | Субект      | Вспом гл   | Предикат                 | Пример
+----------------| -------- | ----------- | ---------- | ------------------------ | ------
+Утвердительное  |          | `<subject>` | `have`     | `<verb>`(`-ed`/III form) | I have bought an apple.
+Отрицательное   |          | `<subject>` | `have not` | `<verb>`                 | I have not bought an apple.
+Вопросительное  | `Have`   | `<subject>` |            | `<verb>`                 | Have I bought an apple?
+
+Преобразование глагола: `<verb>`(`-ed`/III form):
+- **Стандартные глаголы** - образуются по стандарту: путем прибавления суффикса `-ed`:
+    - при этом `-y` после согласной переходит в `-i`;
+    - к "немому" `e` прибавляется только `d`;
+    - конечная согласная удваивается, если перед ней стоит краткий гласный звук.
+- **Нестандартные глаголы** - образуются не по обыкновенному правилу, а смотрятся в словаре.
+
+Произносится `-ed`:
+- `[ıd]` после звуков `[t]` и `[d]`;
+- `[t]` после глухих согласных (кроме `t`);
+- `[d]` после всех остальных звуков.
+
 ## <a id="Прошедшие-времена" href="#Прошедшие-времена">Прошедшие времена</a>
 
 ### <a id="Past-Simple-Indefinite" href="#Past-Simple-Indefinite">Past Simple (Indefinite)</a>
@@ -543,15 +593,15 @@ Refer for  | Positive    | Interrogative | Negative
 - `ago`;
 - `in 1987`.
 
-Тип предложения | Вспом гл | Субект      | Вспом гл   | Предикат               | Пример
-----------------| -------- | ----------- | ---------- | ---------------------- | ------
-Утвердительное  |          | `<subject>` |            | `<verb>`(`-ed`/I form) | She took an apple.
-Отрицательное   |          | `<subject>` | `did not`  | `<verb>`               | I did not take an apple.
-Вопросительное  | `Did`    | `<subject>` |            | `<verb>`               | Did I take an apple?
+Тип предложения | Вспом гл | Субект      | Вспом гл  | Предикат                | Пример
+----------------| -------- | ----------- | --------- | ----------------------- | ------
+Утвердительное  |          | `<subject>` |           | `<verb>`(`-ed`/II form) | She took an apple.
+Отрицательное   |          | `<subject>` | `did not` | `<verb>`                | I did not take an apple.
+Вопросительное  | `Did`    | `<subject>` |           | `<verb>`                | Did I take an apple?
 
-Преобразование глагола: `<verb>`(`-ed`/I form):
+Преобразование глагола: `<verb>`(`-ed`/II form):
 - **Стандартные глаголы** - образуются по стандарту: путем прибавления суффикса `-ed`:
-    - при этом `-y` переходит в `-i`;
+    - при этом `-y` после согласной переходит в `-i`;
     - к "немому" `e` прибавляется только `d`;
     - конечная согласная удваивается, если перед ней стоит краткий гласный звук.
 - **Нестандартные глаголы** - образуются не по обыкновенному правилу, а смотрятся в словаре.
@@ -820,15 +870,8 @@ Refer for  | Positive    | Interrogative | Negative
 - когда указывают только **века**:
     > **in** the 20th century
 - **в выражениях**:
-    - `in the morning`;
-    - `in the afternoon`;
-    - `in the evening`;
-    - `in an hour` - в этом контексте обозначает через;
-    - `in a minute`;
-    - `in a week`;
-    - `in a few days`;
-    - `in a month`;
-    - `in a year`.
+    - `in the morning` / `in the afternoon` / `in the evening`;
+    - `in an hour` / `in a minute` / `in a week` / `in a few days` / `in a month` / `in a year` - в этом контексте обозначает через.
 
 Предлог `on` употребляется:
 - когда указывают **дни**:
@@ -846,6 +889,55 @@ Refer for  | Positive    | Interrogative | Negative
     > Come to my house tomorrow morning.
 - перед словами: `this`, `last`, `next`, `every`, `all`, `some`, `each`, `one` или `any`
     > Let's go to the cinema next Saturday.
+
+## <a id="Предлоги-места" href="#Предлоги-места">Предлоги места</a>
+
+Предлоги места употребляются для указания местонахождения:
+
+- `under` - `под` - указывает на нахождение под объектом;
+- `in front of` - `перед` - указывает на прямое нахождение перед объектом;
+- `behind` - `позади` / `за` - указывает на прямое нахождение за объектом;
+- `beside` / `next to` - `сбоку` - указывает на нахождение сбоку (рядом) объекта;
+- `near` - `рядом` - указывает на нахождение рядом с объектом;
+- `between` - `между` - указывает на место между двумя объектами;
+- `among` - `среди` - указывает на место среди трех и более объектов;
+- `at` - `среди` - указывает на нахождение рядом с объектом, а также:
+    - в выражениях:
+        - `at school` / `at university` / `at college`;
+        - `at work` / `at home`;
+        - `at the top of ...` / `at the bottom of ...`.
+    - с адресами, когда указан номер дома
+        > at 20, Oxford Street
+- `in` - `в` - указывает на нахождение в каком-то объекте, а также:
+    - в выражениях:
+        - `in the middle` / `in the air` / `in the sky`;
+        - `in bed` / `in hospital` / `in prison`;
+        - `in a newspaper` / `in a magazine` / `in a picture`.
+    - с названиями городов, стран и континентов
+        > in Athens
+    - с названиями улиц:
+        > in Oxford Street
+- `on` - `на` - указывает на нахождение на каком-то объекте, а также:
+    - в выражениях:
+        - `on the left` / `on the right`;
+        - `on the first` / `second` / ... `floor`.
+
+## <a id="Предлоги-движения" href="#Предлоги-движения">Предлоги движения</a>
+
+Предлоги движения употребляются для указания направления(ний) движения относительно каких-либо объектов:
+
+- `over` - `над` / `через` - указывает на направление над объектом не касаясь его;
+- `along` - `вдоль` - указывает на направление вдоль объекта;
+- `across` - `через` - указывает на направление через объект, пересекая его при этом;
+- `up` / `down` - `в` / `на` / `с` - указывает на направление поднятие на / спуска с объекта;
+- `into` - `в` / `внутрь` - указывает на направление внутрь объекта;
+- `out of` - `из` / `наружу` - указывает на направление наружу из объекта;
+- `round` - `вокруг` / `за` - указывает на направление за объект;
+- `onto` - `на` - указывает на направление на объект;
+- `through` - `сквозь` - указывает на направление сквозь объект;
+- `from` - `из` - указывает на направление из объекта;
+- `to` - `в` - указывает на направление в объект;
+- `past` - `мимо` - указывает на направление мимо объекта.
 
 <a id="Употребляемые-конструкции" href="#Употребляемые-конструкции">Употребляемые конструкции</a>
 =========================
@@ -945,6 +1037,14 @@ Verb                                          | Preposition
 > I'll wait for you until you finish.
 
 Если `when` используется в качестве вопросительного слова, то за ним может следовать `future simple`.
+
+## <a id="have-been-to--have-gone-to" href="#have-been-to--have-gone-to">`have been` (`to`) / `have gone` (`to`)</a>
+
+Используются для указания нахождения, для глагола `go` в `present perfect`:
+- `have been` (`to`) - для указания что кто-то / что-то было где-то:
+    > I have been to Losbon. (I have visited Lisbon and have come back. I am not there now.)
+- `have gone` (`to`) - для указания что кто-то / что-то уехал куда-то:
+    > Thomas and Anne have gone to Lisbon. (They went to Lisbon some time ago and they are still there.)
 
 <a id="Синонимы" href="#Синонимы">Синонимы</a>
 ========
