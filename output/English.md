@@ -35,6 +35,8 @@
         - [Present Simple (Indefinite)](#Present-Simple-Indefinite)
         - [Present Continuous](#Present-Continuous)
         - [Present Perfect](#Present-Perfect)
+            - [Past Simple vs Present Perfect Simple](#Past-Simple-vs-Present-Perfect-Simple)
+        - [Present Perfect Continuous](#Present-Perfect-Continuous)
     - [Прошедшие времена](#Прошедшие-времена)
         - [Past Simple (Indefinite)](#Past-Simple-Indefinite)
         - [Past Continious](#Past-Continious)
@@ -534,13 +536,13 @@ Refer for  | Positive    | Interrogative | Negative
 ### <a id="Present-Perfect" href="#Present-Perfect">Present Perfect</a>
 
 Используется в ситуациях:
-- **for actions which happened at an unstated time in the past, the exact time is not mentioned because the action is more important** - для действий, которые случились в неопределенное время в прошлом, точное время которых не важно, так как само действие важнее:
+- **для действия, которое случились в неопределенное время в прошлом, точное время которого не важно, так как само действие важнее**:
     > Tom has broken his arm.
-- **for actions which started in the past and are still continuing in the present** - для действий, которые начались в прошлом и все еще продолжаются в настоящем:
+- **для действия, которые началось в прошлом и все еще продолжается в настоящем**:
     > Kim has been chief since 1985.
-- **for actions which have recently finished and their results are visible in the present** - для действий, которые недовно закончились и их результат видимый в настоящем:
+- **для действия, которое недавно закончилось и его результат видимый в настоящем**:
     > I have painted the kitchen/ Doesn't it look nice?.
-- **to talk about experience** - во время разговора об приобретенном опыте:
+- **во время разговора об приобретенном опыте**:
     > They have traveled trough Europe.
 
 Используются такие ключевые слова:
@@ -562,8 +564,8 @@ Refer for  | Positive    | Interrogative | Negative
 Тип предложения | Вспом гл | Субект      | Вспом гл   | Предикат                 | Пример
 ----------------| -------- | ----------- | ---------- | ------------------------ | ------
 Утвердительное  |          | `<subject>` | `have`     | `<verb>`(`-ed`/III form) | I have bought an apple.
-Отрицательное   |          | `<subject>` | `have not` | `<verb>`                 | I have not bought an apple.
-Вопросительное  | `Have`   | `<subject>` |            | `<verb>`                 | Have I bought an apple?
+Отрицательное   |          | `<subject>` | `have not` | `<verb>`(`-ed`/III form) | I have not bought an apple.
+Вопросительное  | `Have`   | `<subject>` |            | `<verb>`(`-ed`/III form) | Have I bought an apple?
 
 Преобразование глагола: `<verb>`(`-ed`/III form):
 - **Стандартные глаголы** - образуются по стандарту: путем прибавления суффикса `-ed`:
@@ -577,15 +579,56 @@ Refer for  | Positive    | Interrogative | Negative
 - `[t]` после глухих согласных (кроме `t`);
 - `[d]` после всех остальных звуков.
 
+#### <a id="Past-Simple-vs-Present-Perfect-Simple" href="#Past-Simple-vs-Present-Perfect-Simple">Past Simple vs Present Perfect Simple</a>
+
+**Past Simple** используется для действий, которые случились в заданое время в прошлом или для действий, которые начались и закончились в прошлом.
+> Fred graduated from university in 1997.  
+> Pauline went to the dentist three days ago.
+
+**Present Perfect Simple** используется для действий, которые случились в неопределенное время в прошлом или для действий, которые начались в прошлом и все еще продолжаются в настоящем.
+> Carol has joined the tennis club.  
+> He has been a teacher for twenty years.
+
+### <a id="Present-Perfect-Continuous" href="#Present-Perfect-Continuous">Present Perfect Continuous</a>
+
+Используется в ситуациях:
+- **для действия, которое началось в прошлом и продолжалось до настоящего**:
+    > She has been typing letters for three hours.
+- **для действия, которое недавно закончились и его результат очевиден прямо сейчас**:
+    > Theys are tired. They have been working for nine hours.
+
+Используются такие ключевые слова:
+- `all morning` / `afternoon` / `day` / `week` - `целое утро` / `обед` / `день` / `неделю`;
+- `how long` - `как долго` - вопросительная кострукция;
+- `since` - `с какого-то момента` - используется для указания точки начала:
+    > She has been working to New York since 1992.
+- `for` - `в течении` - используется для выражения продолжительности:
+    > I have been helping Sue for ten years.
+
+Тип предложения | Вспом гл | Субект      | Вспом гл        | Предикат         | Пример
+----------------| -------- | ----------- | --------------- | ---------------- | ------
+Утвердительное  |          | `<subject>` | `have been`     | `<verb>`(`-ing`) | He has been doing.
+Отрицательное   |          | `<subject>` | `have not been` | `<verb>`(`-ing`) | He has not been doing.
+Вопросительное  | `Have`   | `<subject>` | `been`          | `<verb>`(`-ing`) | Has he been doing?
+
+Преобразование глагола: `<verb>`(`-ing`):
+- если оканчивается на: `-e`, то преобразуется в `-ing`;
+- если оканчивается на: `-ie`, то преобразуется в `-ying`;
+- если оканчивается на: `-y`, то преобразуется в `-ying`;
+- если слово оканчивается на согласную и перед ней стоит краткий гласный звук, то она удваивается:
+    > sit - sitting  
+    > get - getting
+- в остальных случаях добавляется `-ing`.
+
 ## <a id="Прошедшие-времена" href="#Прошедшие-времена">Прошедшие времена</a>
 
 ### <a id="Past-Simple-Indefinite" href="#Past-Simple-Indefinite">Past Simple (Indefinite)</a>
 
 Используется в ситуациях:
-- **actions which happened or finished at a definite time in the past** - действие, которое случилось или завершилось к определенному времени в прошлом:
-    > Lisa bought a house last year.
-- **actions which happened repeatedly in the past? but don't happen anymore. In this case we can use adverbs of frequency** - привычка или действие было в прошлом, но теперь не случается больше:
-    > He usually played football in his free time.
+- **для действия, которое случилось или завершилось в определенное временя в прошлом**:
+    > Lisa bought a house last year. (When? Last year.)
+- **для привычки или действия, которое повторялось в прошлом, но теперь не случается больше, используется с наречиями частоты**:
+    > He usually played football in his free time. (but he does't play football anymore)
 
 Используются такие ключевые слова:
 - `yesterday`;
@@ -618,13 +661,13 @@ Refer for  | Positive    | Interrogative | Negative
 ### <a id="Past-Continious" href="#Past-Continious">Past Continious</a>
 
 Используется в ситуациях:
-- **for an action which was in progress at a stated time in the past and we don't know when the action started or finished** - для действий, которые в процессе в указанное время в прошлом и про которое не извесно, когда оно начнется или окончится:
+- **для действий, которые были в ходе выполнения в указанное время в прошлом и про которое не извесно, когда оно началось или окончилось**:
     > At five o'clock yesterday I was cooking dinner.
-- **for a past action which was in progress when another action interrupted it** - для действий в прошлом, которые находятся в процессе (стоят в форме `past continious`), когда другое действие прерывает его (в форме `past simple`):
+- **для действий в прошлом, которые  были в ходе выполнения (стоят в форме `past continious`), когда другое действие прерывает его (в форме `past simple`)**:
     > She was having breakfast when the phone rang.
-- **for two or more actions which were happening at the same time in the past** - два или более действий, которые происходят в одно и тоже время в прошлом (одновременные действия):
+- **два или более действий, которые происходили в одно и тоже время в прошлом (одновременные действия)**:
     > Tina was doing the wasing-up while the children were playing in the garden.
-- **to give background information in a story** - для описания справочной информации в истории повествования:
+- **для описания справочной информации в истории повествования**:
     > The sun was shining brightly as Tom was driving his brand new car through the city center.
 
 Используются такие ключевые слова:
@@ -649,7 +692,8 @@ Refer for  | Positive    | Interrogative | Negative
 
 Формы будущего времени:
 - **Present Simple** (timetable) - 100% вероятность выполнения действия, так как оно идет по конкретному расписанию;
-- **Present Continious** (fixed arrangements) - 90-100% вероятность выполнения действия, так как оно будет по определенному плану или договоренности в ближайшем будущем;
+- **Present Continious** (fixed arrangements) - 90-100% вероятность выполнения действия, так как оно будет по определенному плану или договоренности в ближайшем будущем. В частности с глаголами движения `come`, `go`, `fly`, `travel`, `leave` и т.д.:
+    > I am meeting Helen at two o'clock.
 - **Intention** (конструкция `to be going to ...`) - 50-60% вероятность выполнения действия, так как оно будет намеряное (намерение);
 - **Fututre Simple** - 30-40% вероятность выполнения действия, так как оно будет спонтанным.
 
@@ -688,7 +732,7 @@ Refer for  | Positive    | Interrogative | Negative
 Используется в ситуациях:
 - **для планов или намерений (intentions) в ближайшем будущем**:
     > Susan is going to move house.
-- **для предсказаний (predictions) основаных на том что мы видели или знаем**:
+- **для предсказаний (predictions) основаных на том что мы видем или знаем**:
     > Look at him. He's going to jump out of the train.
 
 Тип предложения | Вспом гл | Субект      | Вспом гл             | Предикат | Пример

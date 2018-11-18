@@ -23,6 +23,8 @@
     - [Контекст](#Контекст)
     - [Порталы](#Порталы)
     - [Фрагменты `React.Fragment`](#Фрагменты-ReactFragment)
+    - [`React.Children`](#ReactChildren)
+    - [`React.cloneElement`](#ReactcloneElement)
     - [Компоненты высшего порядка](#Компоненты-высшего-порядка)
     - [Шаблон "render props"](#Шаблон-render-props)
 - [React Router](#React-Router)
@@ -253,9 +255,9 @@ class <Компонент> extends React.Component {
 
 `this.state` нельзя модифицировать вручную, для этого необходимо использовате функции готового компонента:
 
-`this.setState({<свойство>:<значение>[, ...]}[, () => {...}])` - изменяет (обновляет) состояние компонента, при этом объединяя новое состояние с предыдущим, и перерисовывает его, каждый раз должно передаваться новый экземпляр состояния с теми свойствами, которые поменялись (а не всеми) [и вызовит callback функцию после того, как новое состояние "установится"].
+`this.setState({<свойство>:<значение>[, ...]}[, () => {...}])` - изменяет (обновляет) состояние компонента, при этом объединяя новое состояние с предыдущим, и перерисовывает его, каждый раз должно передаваться новый экземпляр состояния с теми свойствами, которые поменялись (а не всеми)[ и вызовит callback функцию после того, как новое состояние "установится"].
 
-`this.setState((prevState, props) => {...})` - аналогично предыдущему варианту, где функция должна возвращать новое состояние, а `prevState` - предыдущее состояние, `props` - свойтва в момент отображения.
+`this.setState((prevState, props) => {...}[, () => {...}])` - аналогично предыдущему варианту, где функция должна возвращать новое состояние, а `prevState` - предыдущее состояние, `props` - свойтва в момент отображения[ и вызовит callback функцию после того, как новое состояние "установится"].
 
 `this.setState()` - не изменяет `this.state` немедленно, а создает очередь изменений состояния. Доступ к `this.state` после вызова метода, потенциально может вернуть имеющееся (бывшее) значение.
 
@@ -394,7 +396,7 @@ class <Компонент> extends React.Component {
 
 ```javascript
 render() {
-    return ReactDOM.createPortal(this.props.children,domNode);
+    return ReactDOM.createPortal(this.props.children, domNode);
 }
 ```
 
@@ -423,6 +425,20 @@ render() {
     ...
 </>
 ```
+
+## <a id="ReactChildren" href="#ReactChildren">`React.Children`</a>
+
+Предостовляет утилитарные функции для работы с `this.props.children`.
+
+`React.Children.map(this.props.children, (child) => {... return ...;})` - работает аналогично фунции `map` для массивов и возвращает новый массив, с исключениями, если `this.props.children` был единичный элемент, то вернется массив, если `null` или `undefined`, то `null`.
+
+`React.Children.forEach(this.props.children, (child) => {...})` - работает аналогично фунции `forEach` для массивов.
+
+`React.Children.toArray(this.props.children)` - возвращает массив преобразованный из `this.props.children`.
+
+## <a id="ReactcloneElement" href="#ReactcloneElement">`React.cloneElement`</a>
+
+`React.cloneElement(<react_element>[, props][, ...children])` - возвращает клон элемента с добавленными свойствами, работает аналогично: `<element.type {...element.props} {...props}>{children}</element.type>`
 
 ## <a id="Компоненты-высшего-порядка" href="#Компоненты-высшего-порядка">Компоненты высшего порядка</a>
 
