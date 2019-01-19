@@ -39,7 +39,9 @@
         - [Present Perfect Continuous](#Present-Perfect-Continuous)
     - [Прошедшие времена](#Прошедшие-времена)
         - [Past Simple (Indefinite)](#Past-Simple-Indefinite)
-        - [Past Continious](#Past-Continious)
+        - [Past Continuous](#Past-Continuous)
+        - [Past Perfect Simple](#Past-Perfect-Simple)
+            - [Past Continuous vs Past Perfect Simple](#Past-Continuous-vs-Past-Perfect-Simple)
     - [Будущие времена](#Будущие-времена)
         - [Future Simple](#Future-Simple)
         - [Конструкция `to be going to`](#Конструкция-to-be-going-to)
@@ -586,9 +588,15 @@ Refer for  | Positive    | Interrogative | Negative
 > Fred graduated from university in 1997.  
 > Pauline went to the dentist three days ago.
 
+А также для действий, которые не соединены с настоящим и случились в определенное время в прошлом, которое не упомянуто.
+> I met John Lennon. (I won't meet him again; he's dead. - period of time finished)
+
 **Present Perfect Simple** используется для действий, которые случились в неопределенное время в прошлом или для действий, которые начались в прошлом и все еще продолжаются в настоящем.
 > Carol has joined the tennis club.  
 > He has been a teacher for twenty years.
+
+А также для действий, которые соединены с настоящим и случились в определенное время в прошлом, которое не упомянуто.
+> I've spoken to Richard Gere. (I may speak to him again; he's alive. - period of time not finished ye)
 
 ### <a id="Present-Perfect-Continuous" href="#Present-Perfect-Continuous">Present Perfect Continuous</a>
 
@@ -661,12 +669,12 @@ Refer for  | Positive    | Interrogative | Negative
 > Could I eat this apple?  
 > Might she come with us?
 
-### <a id="Past-Continious" href="#Past-Continious">Past Continious</a>
+### <a id="Past-Continuous" href="#Past-Continuous">Past Continuous</a>
 
 Используется в ситуациях:
 - **для действий, которые были в ходе выполнения в указанное время в прошлом и про которое не известно, когда оно началось или окончилось**:
     > At five o'clock yesterday I was cooking dinner.
-- **для действий в прошлом, которые  были в ходе выполнения (стоят в форме `past continious`), когда другое действие прерывает его (в форме `past simple`)**:
+- **для действий в прошлом, которые  были в ходе выполнения (стоят в форме `past continuous`), когда другое действие прерывает его (в форме `past simple`)**:
     > She was having breakfast when the phone rang.
 - **два или более действий, которые происходили в одно и тоже время в прошлом (одновременные действия)**:
     > Tina was doing the wasing-up while the children were playing in the garden.
@@ -678,7 +686,7 @@ Refer for  | Positive    | Interrogative | Negative
 - `when`;
 - `as`.
 
-После слов `while` / `when` / `as` идет глагол в форме `past continious` для обозначения продолжительного действия, а после `when` идет глагол в форме `past simple` для обозначения короткого действия.
+После слов `while` / `when` / `as` идет глагол в форме `past continuous` для обозначения продолжительного действия, а после `when` идет глагол в форме `past simple` для обозначения короткого действия.
 
 Тип предложения | Вспом гл | Субект                    | Вспом гл   | Предикат         | Пример
 ----------------| -------- | ------------------------- | ---------- | ---------------- | ------
@@ -689,13 +697,58 @@ Refer for  | Positive    | Interrogative | Negative
 Вопросительное  | `Was`    | `I` / `He` / `She` / `It` |            | `<verb>`(`-ing`) | Was he playing the game.
 .               | `Were`   | `You` / `We` / `They`     |            | `<verb>`(`-ing`) | Were they playing the game.
 
-Преобразование глагола: `<verb>`(`-ing`) аналогично преобразованию в форме **Present Continious**.
+Преобразование глагола: `<verb>`(`-ing`) аналогично преобразованию в форме **Present Continuous**.
+
+### <a id="Past-Perfect-Simple" href="#Past-Perfect-Simple">Past Perfect Simple</a>
+
+Используется в ситуациях:
+- **для действия, которое случилось в прошлом перед другим прошлым действием**. Дейсвие, которое случилось раньше в прошлом стоит в форме `past perfect simple`, а действие которое случилось позже в `past simple`:
+    > They had bought tickets before they flew to London.
+- **в прошлом эквивалентно по значению `present perfect simple`, но это действие должно закончиться в прошлом**:
+    > Greg wasn't at home. He had gone out. (Greg was out then.)
+
+Используются такие ключевые слова:
+- `just` - `только что` / `недавно` - ставится после `have`;
+- `never` - `никогда` - ставится после `have`;
+- `already` - `уже` / `еще` - ставится после `have`, используется в утвердительных предложениях:
+    > She's already booked a table for two.
+- `by the time` - `к тому времени`;
+- `as soon as` - `как только`;
+- `when` - `когда`;
+- `after` - `после`;
+- `before` - `до` / `перед`.
+
+Тип предложения | Вспом гл | Субект      | Вспом гл  | Предикат                   | Пример
+----------------| -------- | ----------- | --------- | -------------------------- | ------
+Утвердительное  |          | `<subject>` | `had`     | `<verb>`(`-ed` / III form) | I had bought an apple.
+Отрицательное   |          | `<subject>` | `had not` | `<verb>`(`-ed` / III form) | I had not bought an apple.
+Вопросительное  | `Had`    | `<subject>` |           | `<verb>`(`-ed` / III form) | Had I bought an apple?
+
+Преобразование глагола: `<verb>`(`-ed` / III form):
+- **Стандартные глаголы** - образуются по стандарту: путем прибавления суффикса `-ed`:
+    - при этом `-y` после согласной переходит в `-i`;
+    - к "немому" `e` прибавляется только `d`;
+    - конечная согласная удваивается, если перед ней стоит краткий гласный звук.
+- **Нестандартные глаголы** - образуются не по обыкновенному правилу, а смотрятся в словаре.
+
+Произносится `-ed`:
+- `[ıd]` после звуков `[t]` и `[d]`;
+- `[t]` после глухих согласных (кроме `t`);
+- `[d]` после всех остальных звуков.
+
+#### <a id="Past-Continuous-vs-Past-Perfect-Simple" href="#Past-Continuous-vs-Past-Perfect-Simple">Past Continuous vs Past Perfect Simple</a>
+
+**Past Continuous** - используется для действия в прошлом, которое было в процессе, когда его прервало другое действие:
+> He was watching TV when the phone rang.
+
+**Past Perfect Simple** - используется для действия в прошлом, которое случилось до другого действия в прошлом:
+> They had booked a room before they went on holiday.
 
 ## <a id="Будущие-времена" href="#Будущие-времена">Будущие времена</a>
 
 Формы будущего времени:
 - **Present Simple** (timetable) - 100% вероятность выполнения действия, так как оно идет по конкретному расписанию;
-- **Present Continious** (fixed arrangements) - 90-100% вероятность выполнения действия, так как оно будет по определенному плану или договоренности в ближайшем будущем. В частности с глаголами движения `come`, `go`, `fly`, `travel`, `leave` и т.д.:
+- **Present Continuous** (fixed arrangements) - 90-100% вероятность выполнения действия, так как оно будет по определенному плану или договоренности в ближайшем будущем. В частности с глаголами движения `come`, `go`, `fly`, `travel`, `leave` и т.д.:
     > I am meeting Helen at two o'clock.
 - **Intention** (конструкция `to be going to ...`) - 50-60% вероятность выполнения действия, так как оно будет намеряное (намерение);
 - **Future Simple** - 30-40% вероятность выполнения действия, так как оно будет спонтанным.
@@ -753,21 +806,23 @@ Refer for  | Positive    | Interrogative | Negative
     - и это действие раньше повторялось, а теперь нет, то: **Past Simple** или конструкция `used to`:
         > He usually played football in his free time. / He used to play football in his free time. (but he does't play football anymore)
     - и известно что оно было в ходе выполнения:
-        - в указанное время, но не известно, когда оно началось или окончилось, то: **Past Continious**:
+        - в указанное время, но не известно, когда оно началось или окончилось, то: **Past Continuous**:
             > At five o'clock yesterday I was cooking dinner.
-        - когда другое действие его прервало, то: **Past Continious**:
+        - когда другое действие его прервало, то: **Past Continuous**:
             > She was having breakfast when the phone rang.
-        - и одновременно с ним были другие действия в ходе выполнения, то: **Past Continious**:
+        - и одновременно с ним были другие действия в ходе выполнения, то: **Past Continuous**:
             > Tina was doing the wasing-up while the children were playing in the garden.
-    - и описывает справочную информацию в истории повествования, то: **Past Continious**:
+    - и описывает справочную информацию в истории повествования, то: **Past Continuous**:
         > The sun was shining brightly as Tom was driving his brand new car through the city center.
     - и которое случилось в неопределенное время в прошлом (точное время которого не важно, так как само действие важнее), то: **Present Perfect**:
         > Tom has broken his arm.
     - и есть видимый результат этого действия в настоящем:
-        - и важна длительность его, то: **Present Perfect Continious**:
+        - и важна длительность его, то: **Present Perfect Continuous**:
             > Theys are tired. They have been working for nine hours.
         - не важна, то: **Present Perfect**:
             > I have painted the kitchen. Doesn't it look nice?
+    - и оно случилось ранее другого действия в прошлом, то **Past Perfect**:
+        > They had bought tickets before they flew to London.
 - если действие происходит в настоящем:
     - и выражает постоянную ситуацию или состояние, то: **Present Simple**:
         > Tim is tall.
@@ -778,21 +833,21 @@ Refer for  | Positive    | Interrogative | Negative
     - и выражает отношение к чему-то или кому-то (о том что нравится, любим или отрицаем `like` / `love` / `dislike`), то: **Present Simple**:
         > I like apples.
     - и длится определенное количество времени:
-        - и началось когда-то, то: **Present Continious**:
+        - и началось когда-то, то: **Present Continuous**:
             > They are playing football.
         - и началось в определенном времени в прошлом:
-            - и важна длительность его, то: **Present Perfect Continious**:
+            - и важна длительность его, то: **Present Perfect Continuous**:
                 > She has been typing letters for three hours.
             - не важна, то: **Present Perfect**:
                 > Kim has been chief since 1985.
-    - и происходит вокруг момента разговора (в текущий момент), то: **Present Continious**:
+    - и происходит вокруг момента разговора (в текущий момент), то: **Present Continuous**:
         > Bill is dropping a ball.
 - если действие происходит в будущем:
     - и не известно его точное время, то: **Future Simple**:
         > We'll travel around the world one day.
     - и оно будет по конкретному расписанию, то: **Present Simple**:
         > I go to the doctor at 5 am.
-    - и оно будет по определенному плану или договоренности в ближайшем будущем (в часности с глаголами движения `come`, `go`, `fly`, `travel`, `leave` и т.д.), то: **Present Continious**:
+    - и оно будет по определенному плану или договоренности в ближайшем будущем (в часности с глаголами движения `come`, `go`, `fly`, `travel`, `leave` и т.д.), то: **Present Continuous**:
         > I am going to supermarket at 5 o'clock.
     - и выражает план или намерение в ближайшем будущем, то: конструкция `to be going to ...`:
         > Susan is going to move house.
@@ -944,7 +999,7 @@ Refer for  | Positive    | Interrogative | Negative
     > Take my hand if you want to live.
 
     Виды времен условий:
-    - **Present Continious** - используется для связи настоящего действия, которое уже длиться с условным будушем.
+    - **Present Continuous** - используется для связи настоящего действия, которое уже длиться с условным будушем.
 
     > I'll see you when I come to Paris.  
     > If he wakes up late, he will miss the bus.
