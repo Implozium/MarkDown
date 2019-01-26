@@ -2,7 +2,7 @@
 ==========
 
 - [Буква. Звук](#Буква-Звук)
-- [Граматика](#Граматика)
+- [Грамматика](#Грамматика)
     - [Существительное (noun)](#Существительное-noun)
     - [Артикль (article)](#Артикль-article)
     - [Множественное число и глагол 3-го лица ед. ч. наст. времени (`simple`)](#Множественное-число-и-глагол-3-го-лица-ед-ч-наст-времени-simple)
@@ -91,8 +91,8 @@
 `F`, `f` | `[f]` (гл.)
 `K`, `k` | `[k]` (гл.)
 
-<a id="Граматика" href="#Граматика">Граматика</a>
-=========
+<a id="Грамматика" href="#Грамматика">Грамматика</a>
+==========
 
 ## <a id="Существительное-noun" href="#Существительное-noun">Существительное (noun)</a>
 
@@ -321,17 +321,17 @@ Refer for  | Positive    | Interrogative | Negative
 
 ## <a id="Количество-предметов-much--many--a-lot-of--lots-of--a-little--a-few--little--few" href="#Количество-предметов-much--many--a-lot-of--lots-of--a-little--a-few--little--few">Количество предметов `much` / `many` / `a lot of` / `lots of` / `a little` / `a few` / `little` / `few`</a>
 
-Тип         | Количество    | Значение                                        | Пример
------------ | ------------- | ----------------------------------------------- | ------
-`much`      | неисчисляемое | много, чаще в отриц. и вопрос. предложениях     | 
-`many`      | исчисляемое   | много, чаще в отриц. и вопрос. предложениях     | 
-`a lot of`  | оба           | много, не используется в отриц. предложениях    | 
-`lots of`   | оба           | много, не используется в отриц. предложениях    | 
-`plenty of` | оба           | много, не используется в отриц. предложениях    | 
-`a little`  | неисчисляемое | не множко / чуть-чуть / больше чем один предмет | a little milk
-`a few`     | исчисляемое   | не множко / чуть-чуть / больше чем один предмет | a few apples
-`little`    | неисчисляемое | меньше чем единица / часть чего-то целого       | 
-`few`       | исчисляемое   | меньше чем единица / часть чего-то целого       | 
+Тип         | Количество    | Значение                                       | Пример
+----------- | ------------- | ---------------------------------------------- | ------
+`much`      | неисчисляемое | много, чаще в отриц. и вопрос. предложениях    | 
+`many`      | исчисляемое   | много, чаще в отриц. и вопрос. предложениях    | 
+`a lot of`  | оба           | много, не используется в отриц. предложениях   | 
+`lots of`   | оба           | много, не используется в отриц. предложениях   | 
+`plenty of` | оба           | много, не используется в отриц. предложениях   | 
+`a little`  | неисчисляемое | немножко / чуть-чуть / больше чем один предмет | a little milk
+`a few`     | исчисляемое   | немножко / чуть-чуть / больше чем один предмет | a few apples
+`little`    | неисчисляемое | меньше чем единица / часть чего-то целого      | 
+`few`       | исчисляемое   | меньше чем единица / часть чего-то целого      | 
 
 ### <a id="Неисчисляемые-существительные" href="#Неисчисляемые-существительные">Неисчисляемые существительные</a>
 
@@ -339,7 +339,7 @@ Refer for  | Positive    | Interrogative | Negative
 
 Вид              | Существительные
 ---------------- | ---------------
-`food`           | `butter`, `bread`, `meat`, `cheese`, `water`, `tea`, `coffe`, `wine`, `beer`, `milk`, `lemonade`, `chocolate`, `salt`, `pepper`, `fish` etc.
+`food`           | `butter`, `bread`, `meat`, `cheese`, `water`, `tea`, `coffee`, `wine`, `beer`, `milk`, `lemonade`, `chocolate`, `salt`, `pepper`, `fish` etc.
 `material`       | `paper`, `wood`, `silver`, `gold`, `iron` etc.
 `abstract nouns` | `peace`, `anger`, `love` etc.
 `many others`    | `money`, `snow`, `soap`, `furniture`, `petrol`, `oil`, `information`, `news` etc.
@@ -348,7 +348,7 @@ Refer for  | Positive    | Interrogative | Negative
 
 Описывают глаголы, другие наречия или прилагательные. Ставятся после глаголов.
 
-Наречия, которые выражают частоту времени (`sometimes`, `often`, `usually` и др.) обычно распологаются:
+Наречия, которые выражают частоту времени (`sometimes`, `often`, `usually` и др.) обычно располагаются:
 1. Перед главным смысловым глаголом, между субъектом и предикатом:  
     `<субъект>` + `<наречие>` + `<предикат>` + `<остальное>`
 2. После модального глагола или первого вспомогательного глагола:  
@@ -386,7 +386,7 @@ Refer for  | Positive    | Interrogative | Negative
 
 ## <a id="Прилагательное-adjective" href="#Прилагательное-adjective">Прилагательное (adjective)</a>
 
-Описывают существительные. Имеют одинаковую форму для единственного и множественного числа. Ставятся перед существительным. А также могут использываться после глагола `to be` и глаголов таких как: `look`, `smell`, `sound`, `feel`, `taste` и подобных.
+Описывают существительные. Имеют одинаковую форму для единственного и множественного числа. Ставятся перед существительным. А также могут использоваться после глагола `to be` и глаголов таких как: `look`, `smell`, `sound`, `feel`, `taste` и подобных.
 
 Прилагательные, которые оканчиваются на `-ing` (`interesting`, `amazing`), используются для описания, чего-то, что кому-то или чему-то нравиться:
 > The film was boring. She is a very interesting person.
@@ -396,7 +396,7 @@ Refer for  | Positive    | Interrogative | Negative
 
 ### <a id="Порядок-прилагательных" href="#Порядок-прилагательных">Порядок прилагательных</a>
 
-Прилагательные распологаются в следующем порядке - прилагательные которые выражают собсвенное мнение (*opinion*) (`beautiful`, `lovely`, `great`, `expensive` и подобные) и которые выражают фактическую информацию (*fact*) о ком-то или о чем-то, в указаном порядке:
+Прилагательные располагаются в следующем порядке - прилагательные которые выражают собственное мнение (*opinion*) (`beautiful`, `lovely`, `great`, `expensive` и подобные) и которые выражают фактическую информацию (*fact*) о ком-то или о чем-то, в указаном порядке:
 1. Размер (*size*) - `small`, `big`, `short`, `long`, etc;
 2. Вес (*weight*) - `heavy`, `light`, etc;
 3. Форма (*shape*) - `triangular`, `round`, `rectangular`, `square`, etc;
@@ -428,7 +428,7 @@ Refer for  | Positive    | Interrogative | Negative
 - `y` + `est` -> `iest`
 > happy - happier - happiest
 
-Если прилагательное окончивается согласной и ей предшествует краткий гласный звук, то она удваивается.
+Если прилагательное оканчивается согласной и ей предшествует краткий гласный звук, то она удваивается.
 > big - bigger - biggest
 
 Использование:
@@ -463,7 +463,7 @@ Refer for  | Positive    | Interrogative | Negative
     > Sun shines very brighting.  
     > Tim is tall.
 - **repeated / habitual action** - когда говорим о повторяющихся или рутинных действиях:
-    > I go to scholl every day.  
+    > I go to school every day.  
     > The dog often meets me.
 - **permanent truths or laws of nature** - когда говорим о постоянных истинах или законах природы:
     > Mud is liquid.  
@@ -471,7 +471,7 @@ Refer for  | Positive    | Interrogative | Negative
 - **like / dislike** - когда говорим о том что нравится, любим или отрицаем это:
     > I like apples.  
     > Dog likes meat.
-- **sheduled actions** (timetables or programmes) - когда говорим о планируемом действии в будущем:
+- **scheduled actions** (timetables or programmes) - когда говорим о планируемом действии в будущем:
     > I go to the doctor at 5 am.
 
 Используются такие ключевые слова:
@@ -482,7 +482,7 @@ Refer for  | Positive    | Interrogative | Negative
 - `sometimes`;
 - `never`.
 
-Тип предложения | Вспом гл | Субект                      | Вспом гл   | Предикат               | Пример
+Тип предложения | Вспом гл | Субъект                     | Вспом гл   | Предикат               | Пример
 ----------------| -------- | --------------------------- | ---------- | ---------------------- | ------
 Утвердительное  |          | `I` / `You` / `We` / `They` |            | `<verb>`               | I take an apple.
 .               |          | `He` / `She` / `It`         |            | `<verb>`(`-s` / `-es`) | She takes an apple.
@@ -496,7 +496,7 @@ Refer for  | Positive    | Interrogative | Negative
 - если оканчивается на: `-y` после согласной, то преобразуется в `-ies`;
 - в остальных случаях добавляется `-s`.
 
-Если прединат представлен глаголом `to be`, то в вопросительных и отрицательных предложениях он будет использоваться и как вспомогательный глагол.
+Если предикат представлен глаголом `to be`, то в вопросительных и отрицательных предложениях он будет использоваться и как вспомогательный глагол.
 > Am I eat this apple?  
 > She is not horrid person.
 
@@ -507,7 +507,7 @@ Refer for  | Positive    | Interrogative | Negative
     > They are playing football.
 - **actions happening at or around the moment of speaking** - когда говорим о действиях, которые происходят вокруг момента разговора:
     > Bill is dropping a ball.
-- **fixed arrangements in the near future** - когда говорим о фиксированых договоренностях в ближайшем будущем:
+- **fixed arrangements in the near future** - когда говорим о фиксированных договоренностях в ближайшем будущем:
     > I am going to supermarket at 5 o'clock.
 - **repeated actions with "always" expressing annoyance or criticism**
 
@@ -515,7 +515,7 @@ Refer for  | Positive    | Interrogative | Negative
 - `now`;
 - `at the moment`.
 
-Тип предложения | Вспом гл | Субект                | Вспом гл  | Предикат         | Пример
+Тип предложения | Вспом гл | Субъект               | Вспом гл  | Предикат         | Пример
 ----------------| -------- | --------------------- | --------- | ---------------- | ------
 Утвердительное  |          | `I`                   | `am`      | `<verb>`(`-ing`) | I am playing the game.
 .               |          | `He` / `She` / `It`   | `is`      | `<verb>`(`-ing`) | He is playing the game.
@@ -556,15 +556,15 @@ Refer for  | Positive    | Interrogative | Negative
     > She's already booked a table for two.
 - `yet` - `уже` / `еще` - используется в вопросительных и отрицательных предложениях, ставится в конце предложения:
     > Has Jim fixed the car yet?
-- `how long` - `как долго` - вопросительная кострукция;
-- `so far` - `с тех пор` - вопросительная кострукция;
+- `how long` - `как долго` - вопросительная конструкция;
+- `so far` - `с тех пор` - вопросительная конструкция;
 - `recently` - `недавно`;
 - `since` - `с какого-то момента` - используется для указания точки начала:
     > She hasn't been to New York since 1992.
 - `for` - `в течении` - используется для выражения продолжительности:
     > I have known Sue for ten years.
 
-Тип предложения | Вспом гл | Субект      | Вспом гл   | Предикат                   | Пример
+Тип предложения | Вспом гл | Субъект     | Вспом гл   | Предикат                   | Пример
 ----------------| -------- | ----------- | ---------- | -------------------------- | ------
 Утвердительное  |          | `<subject>` | `have`     | `<verb>`(`-ed` / III form) | I have bought an apple.
 Отрицательное   |          | `<subject>` | `have not` | `<verb>`(`-ed` / III form) | I have not bought an apple.
@@ -604,19 +604,19 @@ Refer for  | Positive    | Interrogative | Negative
 - **для действия, которое началось в прошлом и продолжалось вплоть до текущего момента времени**:
     > She has been typing letters for three hours.
 - **для действия, которое недавно закончились и его результат очевиден прямо сейчас**:
-    > Theys are tired. They have been working for nine hours.
+    > They are tired. They have been working for nine hours.
 
-Главное отличие от **Present Perfect Simple** в том, что акцент делается на время затраченое на получение результата.
+Главное отличие от **Present Perfect Simple** в том, что акцент делается на время затраченное на получение результата.
 
 Используются такие ключевые слова:
 - `all morning` / `afternoon` / `day` / `week` - `целое утро` / `обед` / `день` / `неделю`;
-- `how long` - `как долго` - вопросительная кострукция;
+- `how long` - `как долго` - вопросительная конструкция;
 - `since` - `с какого-то момента` - используется для указания точки начала:
     > She has been working to New York since 1992.
 - `for` - `в течении` - используется для выражения продолжительности:
     > I have been helping Sue for ten years.
 
-Тип предложения | Вспом гл | Субект      | Вспом гл        | Предикат         | Пример
+Тип предложения | Вспом гл | Субъект     | Вспом гл        | Предикат         | Пример
 ----------------| -------- | ----------- | --------------- | ---------------- | ------
 Утвердительное  |          | `<subject>` | `have been`     | `<verb>`(`-ing`) | He has been doing.
 Отрицательное   |          | `<subject>` | `have not been` | `<verb>`(`-ing`) | He has not been doing.
@@ -636,10 +636,10 @@ Refer for  | Positive    | Interrogative | Negative
 ### <a id="Past-Simple-Indefinite" href="#Past-Simple-Indefinite">Past Simple (Indefinite)</a>
 
 Используется в ситуациях:
-- **для действия, которое случилось или завершилось в определенное временя в прошлом**:
+- **для действия, которое случилось или завершилось в определенное время в прошлом**:
     > Lisa bought a house last year. (When? Last year.)
 - **для привычки или действия, которое повторялось в прошлом, но теперь не случается больше, используется с наречиями частоты**:
-    > He usually played football in his free time. (but he does't play football anymore)
+    > He usually played football in his free time. (but he doesn't play football anymore)
 
 Используются такие ключевые слова:
 - `yesterday`;
@@ -647,7 +647,7 @@ Refer for  | Positive    | Interrogative | Negative
 - `ago`;
 - `in 1987`.
 
-Тип предложения | Вспом гл | Субект      | Вспом гл  | Предикат                  | Пример
+Тип предложения | Вспом гл | Субъект     | Вспом гл  | Предикат                  | Пример
 ----------------| -------- | ----------- | --------- | ------------------------- | ------
 Утвердительное  |          | `<subject>` |           | `<verb>`(`-ed` / II form) | She took an apple.
 Отрицательное   |          | `<subject>` | `did not` | `<verb>`                  | I did not take an apple.
@@ -688,7 +688,7 @@ Refer for  | Positive    | Interrogative | Negative
 
 После слов `while` / `when` / `as` идет глагол в форме `past continuous` для обозначения продолжительного действия, а после `when` идет глагол в форме `past simple` для обозначения короткого действия.
 
-Тип предложения | Вспом гл | Субект                    | Вспом гл   | Предикат         | Пример
+Тип предложения | Вспом гл | Субъект                   | Вспом гл   | Предикат         | Пример
 ----------------| -------- | ------------------------- | ---------- | ---------------- | ------
 Утвердительное  |          | `I` / `He` / `She` / `It` | `was`      | `<verb>`(`-ing`) | He was playing the game.
 .               |          | `You` / `We` / `They`     | `were`     | `<verb>`(`-ing`) | They were playing the game.
@@ -702,7 +702,7 @@ Refer for  | Positive    | Interrogative | Negative
 ### <a id="Past-Perfect-Simple" href="#Past-Perfect-Simple">Past Perfect Simple</a>
 
 Используется в ситуациях:
-- **для действия, которое случилось в прошлом перед другим прошлым действием**. Дейсвие, которое случилось раньше в прошлом стоит в форме `past perfect simple`, а действие которое случилось позже в `past simple`:
+- **для действия, которое случилось в прошлом перед другим прошлым действием**. Действие, которое случилось раньше в прошлом стоит в форме `past perfect simple`, а действие которое случилось позже в `past simple`:
     > They had bought tickets before they flew to London.
 - **в прошлом эквивалентно по значению `present perfect simple`, но это действие должно закончиться в прошлом**:
     > Greg wasn't at home. He had gone out. (Greg was out then.)
@@ -718,7 +718,7 @@ Refer for  | Positive    | Interrogative | Negative
 - `after` - `после`;
 - `before` - `до` / `перед`.
 
-Тип предложения | Вспом гл | Субект      | Вспом гл  | Предикат                   | Пример
+Тип предложения | Вспом гл | Субъект     | Вспом гл  | Предикат                   | Пример
 ----------------| -------- | ----------- | --------- | -------------------------- | ------
 Утвердительное  |          | `<subject>` | `had`     | `<verb>`(`-ed` / III form) | I had bought an apple.
 Отрицательное   |          | `<subject>` | `had not` | `<verb>`(`-ed` / III form) | I had not bought an apple.
@@ -750,7 +750,7 @@ Refer for  | Positive    | Interrogative | Negative
 - **Present Simple** (timetable) - 100% вероятность выполнения действия, так как оно идет по конкретному расписанию;
 - **Present Continuous** (fixed arrangements) - 90-100% вероятность выполнения действия, так как оно будет по определенному плану или договоренности в ближайшем будущем. В частности с глаголами движения `come`, `go`, `fly`, `travel`, `leave` и т.д.:
     > I am meeting Helen at two o'clock.
-- **Intention** (конструкция `to be going to ...`) - 50-60% вероятность выполнения действия, так как оно будет намеряное (намерение);
+- **Intention** (конструкция `to be going to ...`) - 50-60% вероятность выполнения действия, так как оно будет намеренное (намерение);
 - **Future Simple** - 30-40% вероятность выполнения действия, так как оно будет спонтанным.
 
 ### <a id="Future-Simple" href="#Future-Simple">Future Simple</a>
@@ -758,13 +758,13 @@ Refer for  | Positive    | Interrogative | Negative
 Используется в ситуациях:
 - **для обозначения будущих действий, без указания точного времени**:
     > We'll travel around the world one day.
-- **для предсказаний (predictions) основаных на том во что мы верим или думаем**:
+- **для предсказаний (predictions) основанных на том во что мы верим или думаем**:
     > You'll be a great computer operator one day.
 - **для выражения угроз или предупреждений (threats / warnings)**:
     > Be quiet or I'll send you out.
 - **для выражения обещаний (promises) или решений принятых в момент речи (on-the-spot-decisions)**:
     > I'll buy you this ring.
-- **с глаголами `hope`, `think`, `belive`, `expect` и т.п.; с выражениями `I'm sure`, `I'm afraid` и т.п., а также наречиями `probably`, `perhaps` и т.п.**:
+- **с глаголами `hope`, `think`, `believe`, `expect` и т.п.; с выражениями `I'm sure`, `I'm afraid` и т.п., а также наречиями `probably`, `perhaps` и т.п.**:
     > I hope he will pass his exams.  
     > Perhaps I'll see her tonight.
 - **конструкция `Will you ...?` используются как вопрос для кого-то чтобы сделал что-то для нас**:
@@ -778,7 +778,7 @@ Refer for  | Positive    | Interrogative | Negative
 - `soon`;
 - `in a week / month / year`.
 
-Тип предложения | Вспом гл | Субект      | Вспом гл   | Предикат | Пример
+Тип предложения | Вспом гл | Субъект     | Вспом гл   | Предикат | Пример
 ----------------| -------- | ----------- | ---------- | -------- | ------
 Утвердительное  |          | `<subject>` | `will`     | `<verb>` | She will took an apple.
 Отрицательное   |          | `<subject>` | `will not` | `<verb>` | I will not take an apple.
@@ -789,10 +789,10 @@ Refer for  | Positive    | Interrogative | Negative
 Используется в ситуациях:
 - **для планов или намерений (intentions) в ближайшем будущем**:
     > Susan is going to move house.
-- **для предсказаний (predictions) основаных на том что мы видем или знаем**:
+- **для предсказаний (predictions) основанных на том что мы видим или знаем**:
     > Look at him. He's going to jump out of the train.
 
-Тип предложения | Вспом гл | Субект      | Вспом гл             | Предикат | Пример
+Тип предложения | Вспом гл | Субъект     | Вспом гл             | Предикат | Пример
 ----------------| -------- | ----------- | -------------------- | -------- | ------
 Утвердительное  |          | `<subject>` | `to be going to`     | `<verb>` | He is going to have a snack.
 Отрицательное   |          | `<subject>` | `to be not going to` | `<verb>` | He isn't going to have a snack.
@@ -804,7 +804,7 @@ Refer for  | Positive    | Interrogative | Negative
     - и оно случилось или завершилось в определенное время, то: **Past Simple**:
         > Lisa bought a house last year. (When? Last year.)
     - и это действие раньше повторялось, а теперь нет, то: **Past Simple** или конструкция `used to`:
-        > He usually played football in his free time. / He used to play football in his free time. (but he does't play football anymore)
+        > He usually played football in his free time. / He used to play football in his free time. (but he doesn't play football anymore)
     - и известно что оно было в ходе выполнения:
         - в указанное время, но не известно, когда оно началось или окончилось, то: **Past Continuous**:
             > At five o'clock yesterday I was cooking dinner.
@@ -818,7 +818,7 @@ Refer for  | Positive    | Interrogative | Negative
         > Tom has broken his arm.
     - и есть видимый результат этого действия в настоящем:
         - и важна длительность его, то: **Present Perfect Continuous**:
-            > Theys are tired. They have been working for nine hours.
+            > They are tired. They have been working for nine hours.
         - не важна, то: **Present Perfect**:
             > I have painted the kitchen. Doesn't it look nice?
     - и оно случилось ранее другого действия в прошлом, то **Past Perfect**:
@@ -827,7 +827,7 @@ Refer for  | Positive    | Interrogative | Negative
     - и выражает постоянную ситуацию или состояние, то: **Present Simple**:
         > Tim is tall.
     - и выражает повторяющееся или рутинное действие, то: **Present Simple**:
-        > I go to scholl every day.
+        > I go to school every day.
     - и выражает постоянные истины или законы природы, то: **Present Simple**:
         > Mud is liquid.
     - и выражает отношение к чему-то или кому-то (о том что нравится, любим или отрицаем `like` / `love` / `dislike`), то: **Present Simple**:
@@ -847,11 +847,11 @@ Refer for  | Positive    | Interrogative | Negative
         > We'll travel around the world one day.
     - и оно будет по конкретному расписанию, то: **Present Simple**:
         > I go to the doctor at 5 am.
-    - и оно будет по определенному плану или договоренности в ближайшем будущем (в часности с глаголами движения `come`, `go`, `fly`, `travel`, `leave` и т.д.), то: **Present Continuous**:
+    - и оно будет по определенному плану или договоренности в ближайшем будущем (в частности с глаголами движения `come`, `go`, `fly`, `travel`, `leave` и т.д.), то: **Present Continuous**:
         > I am going to supermarket at 5 o'clock.
     - и выражает план или намерение в ближайшем будущем, то: конструкция `to be going to ...`:
         > Susan is going to move house.
-    - и выражает предсказание основаное:
+    - и выражает предсказание основанное:
         - на нашей вере или рассуждениях, то: **Future Simple**:
             > You'll be a great computer operator one day.
         - на том что видим или знаем, то: конструкция `to be going to ...`:
@@ -860,7 +860,7 @@ Refer for  | Positive    | Interrogative | Negative
         > Be quiet or I'll send you out.
     - и выражает обещание или решение принятое в момент речи, то: **Future Simple**:
         > I'll buy you this ring.
-    - и используется с глаголами `hope`, `think`, `belive`, `expect` и т.п.; с выражениями `I'm sure`, `I'm afraid` и т.п., а также наречиями `probably`, `perhaps` и т.п., то: **Future Simple**:
+    - и используется с глаголами `hope`, `think`, `believe`, `expect` и т.п.; с выражениями `I'm sure`, `I'm afraid` и т.п., а также наречиями `probably`, `perhaps` и т.п., то: **Future Simple**:
         > I hope he will pass his exams.
 - если действие выражает приобретенный опыт, то: **Present Perfect**:
     > They have traveled trough Europe.
@@ -911,7 +911,7 @@ Refer for  | Positive    | Interrogative | Negative
 
 Имеют целью выяснения какого либо факта или обстоятельства. Относятся к одному из членов предложения.
 
-Смысловой глагол - `<предикат>`, должен находиться в том  сремени, в котором задан вопрос (для Present Simple 3-го лица ед. числа иметь окончание `-(e)s`, `Who` / `What` - слова 3-го лица ед. числа).
+Смысловой глагол - `<предикат>`, должен находиться в том времени, в котором задан вопрос (для Present Simple 3-го лица ед. числа иметь окончание `-(e)s`, `Who` / `What` - слова 3-го лица ед. числа).
 
 **Вопрос к субъекту** - эти вопросы стараются выяснить кто или что произвело действие:
 
@@ -995,11 +995,11 @@ Refer for  | Positive    | Interrogative | Negative
     `<Future_Form>` - также может состоять из:
     - `<Present_Form>`, которая начинается с модального глагола.
     > If they don't take order, I can go to them.
-    - Повелительного кнаклонения.
+    - Повелительного наклонения.
     > Take my hand if you want to live.
 
     Виды времен условий:
-    - **Present Continuous** - используется для связи настоящего действия, которое уже длиться с условным будушем.
+    - **Present Continuous** - используется для связи настоящего действия, которое уже длиться с условным будущем.
 
     > I'll see you when I come to Paris.  
     > If he wakes up late, he will miss the bus.
@@ -1149,16 +1149,16 @@ Verb                                                    | Preposition
 `am` - `ante meridiem` - `in the morning`  
 `pm` - `post meridiem` - `in the evening`
 
-Конструкция  | Употребление        | Пример
------------- | ------------------- | ------
-`<h>`:00     | `<h> o'clock`       | 8:00 - eight o'clock
-`<h>`:01..14 | `<m> past <h>`      | 8:10 - ten past eigth
-`<h>`:15     | `a quater past <h>` | 8:15 - a quater past eigth
-`<h>`:16..29 | `<m> past <h>`      |
-`<h>`:30     | `half past <h>`     | 8:30 - half past eigth
-`<h>`:31..44 | `60-<m> to <h>+1`   | 8:35 - twenty five to nine
-`<h>`:45     | `a quater to <h>+1` | 8:45 - a quater to nine
-`<h>`:46..59 | `60-<m> to <h>+1`   | 
+Конструкция  | Употребление         | Пример
+------------ | -------------------- | ------
+`<h>`:00     | `<h> o'clock`        | 8:00 - eight o'clock
+`<h>`:01..14 | `<m> past <h>`       | 8:10 - ten past eight
+`<h>`:15     | `a quarter past <h>` | 8:15 - a quarter past eight
+`<h>`:16..29 | `<m> past <h>`       |
+`<h>`:30     | `half past <h>`      | 8:30 - half past eight
+`<h>`:31..44 | `60-<m> to <h>+1`    | 8:35 - twenty five to nine
+`<h>`:45     | `a quarter to <h>+1` | 8:45 - a quarter to nine
+`<h>`:46..59 | `60-<m> to <h>+1`    | 
 
 ## <a id="Согласие-и-не-согласие" href="#Согласие-и-не-согласие">Согласие и не согласие</a>
 
@@ -1220,7 +1220,7 @@ Verb                                                    | Preposition
 ## <a id="say-tell-speak-talk" href="#say-tell-speak-talk">`say`, `tell`, `speak`, `talk`</a>
 
 - `to say` - *use your voice to express something in words*:
-    - используется когда делятся какой-либо информацией, либо передют на письме прямую речь. После глагола `say` чаще всего стоит союз `that` (что):
+    - используется когда делятся какой-либо информацией, либо передают на письме прямую речь. После глагола `say` чаще всего стоит союз `that` (что):
         > He said that he wouldn’t be able to come to the party, since he has lots of work to do.
     - используется для выражения своего мнения:
         > I wouldn't say that he's a great guitarist.
@@ -1285,7 +1285,7 @@ Type of eat:
 4. `munch` - eat some food and produce big noise;
 5. `rumbling` - produce some noise when you are hungry;
 6. `scarf` - eat cheap or fast food;
-7. `devour` - eat expensive or tastful food;
+7. `devour` - eat expensive or tasteful food;
 8. `starving` - eat like very hungry.
 
 Stage of eating:

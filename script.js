@@ -26,7 +26,7 @@ function getHash(str) {
     return str.replace(/ /g, '-').replace(/[^a-z0-9а-яё\-]/gi, '');
 }
 
-function mekeHrefId(content) {
+function makeHrefId(content) {
     const hash = getHash(content);
     return `<a id="${hash}" href="#${hash}">${content}</a>`;
 }
@@ -46,13 +46,13 @@ function makeContent(arr) {
                 level: 1,
                 title: match[1]
             });
-            return mekeHrefId(match[1]) + '\r\n' + match[2];
+            return makeHrefId(match[1]) + '\r\n' + match[2];
         } else if (match = /^(#+) (.*)/.exec(row)) {
             headers.push({
                 level: match[1].length,
                 title: match[2]
             });
-            return match[1] + ' ' + mekeHrefId(match[2]);
+            return match[1] + ' ' + makeHrefId(match[2]);
         } else {
             return row;
         }
