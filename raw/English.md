@@ -718,6 +718,74 @@ Refer for  | Positive    | Interrogative | Negative
 Отрицательное   |          | `<subject>` | `to be not going to` | `<verb>` | He isn't going to have a snack.
 Вопросительное  | `To be`  | `<subject>` | `going to`           | `<verb>` | Is he going to have a snack?
 
+## Пассивные времена (Passive tense)
+
+Используется в ситуациях, когда хотят показать что действие описываемое глаголом более важно, чем **агент** этого действия (человек или вещь, которое производит или является причиной этого действия). Агент представлен после предлога `by` и упоминается только когда это важно или должен быть указан.
+> Oliver Twist was written by Charles Dickens.
+
+Агент не упоминается, когда:
+- **он не известен**:
+    > His car was stolen last night. (We don't know who stole his car.)
+- **он не важен**:
+    > Breakfast will be served at 7.30. (the agent is unimportant.)
+- **он очевиден из контекста**:
+    > He has been arrested. (it is obvious who arrested him - the police.)
+
+Построение производится с помощью глагола `to be` в нужном времени + глагол(`-ed` / III form).
+
+Время              | Active                                 | Passive
+------------------ | -------------------------------------- | -------
+simple             | `<verb>`                               | `to be` + `<verb>`(`-ed` / III form)
+continuous         | `to be` + `<verb>`(`-ing`)             | `to be being` + `<verb>`(`-ed` / III form)
+perfect            | `to have` + `<verb>`(`-ed` / III form) | `to have been` + `<verb>`(`-ed` / III form)
+perfect continuous | `to have been` + `<verb>`(`-ing`)      | `to have been being` + `<verb>`(`-ed` / III form)
+
+> The dog was fed yesterday.  
+> The dog will be fed.  
+> The dog should be fed.  
+
+Преобразование глагола: `<verb>`(`-ed` / III form):
+- **Стандартные глаголы** - образуются по стандарту: путем прибавления суффикса `-ed`:
+    - при этом `-y` после согласной переходит в `-i`;
+    - к "немому" `e` прибавляется только `d`;
+    - конечная согласная удваивается, если перед ней стоит краткий гласный звук.
+- **Нестандартные глаголы** - образуются не по обыкновенному правилу, а смотрятся в словаре.
+
+Произносится `-ed`:
+- `[ıd]` после звуков `[t]` и `[d]`;
+- `[t]` после глухих согласных (кроме `t`);
+- `[d]` после всех остальных звуков.
+
+В остальном пассивная вопросительная и отрицательная форма аналогична активной форме глаголов.
+> Is this car made in Japan?  
+> His bicycle was not stolen last night. 
+
+Модальные глаголы применяются также аналогично.
+
+### Преобразование из Активной формы в Пассивную
+
+Для преобразование из Активной формы в Пассивную:
+- объект из активного предложения становится субъектом в пассивном предложении;
+- глагол в активной форме преобразуется в пассивную;
+- субъект из активного предложения становится агентом.
+
+.       | Active | Passive
+------- | ------ | -------
+subject | Susan  | A cake
+verb    | made   | was made
+object  | a cake | by Susan
+
+Только глаголы с объектом могут быть преобразованы к пассивной форме.
+> Tom watered the plants. -> The plants were watered by Tom.  
+> It is raining today. (This sentence cannot be turned into the passive because the verb does not take an object.)
+
+Когда субъект из активного предложения один из следующих слов: `people`, `one`, `someone`, `somebody`, `they`, `he` и другие, то агент часто опускается в пассивном предложении.
+> Someone will feed the dog. -> The dog will be fed.
+
+Местоимения преобразуются из личного в косвенный и наоборот.
+
+Предлоги у пассивных глаголов сохраняют свое место там же где и у активных. 
+
 ## Употребление времен
 
 - если действие происходит в прошлом:
@@ -1063,6 +1131,21 @@ Verb                                                    | Preposition
 `<субъект>` + `can't` + `<предикат>` + `<остальное>`
 
 > This book **can't** be his. He doesn't like detective stories.
+
+## `Too` - `Enough`
+
+`Too` следует перед прилагательными и наречиями и имеет негативное значение, которое показывает что что-то больше (черезчур) чем достаточно, больше чем необходимо или больше чем хочется, для этого используется конструкция:
+
+`too` + `<прилагательное>` / `<наречие>` + `to` + `<глагол>`
+
+> Bob is **too short to become** a basketball player. She talks **too softly** for me **to hear** her.
+
+`Enough` следует перед существительными, но после прилагательных и наречий и имеет позитивное значение, которое показывает что того что хочется или необходимо имеется в достатке (достаточно), для этого используется конструкция:
+
+`<прилагательное>` / `<наречие>` + `enough` + `to` + `<глагол>`  
+`enough` + `<существительное>` + `to` + `<глагол>`
+
+> The dog is **gentle enough to play** for me. We've got **enough eggs to make** an omelette.
 
 ## Время
 
