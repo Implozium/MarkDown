@@ -219,36 +219,83 @@ const items = <массив>.map((<элемент>) => {
 
 ```JSX
 class <Компонент> extends React.Component {
-    constructor(props) {// props - свойства переданные при создании
+    /**
+     * @param {Object} props свойства переданные при создании
+     */
+    constructor(props) {
         super(props);
         this.state = {};// инициализация начального состояния, можно делать только в конструкторе
     }
-    // срабатывает после того, как компонент был отрисован в DOM
-    // тут есть возможность использовать refs (к примеру для установки фокуса или задействования других компонентов), таймауты, ajax-запросы и взаимодействие с другими библиотеками
+    /**
+     * срабатывает после того, как компонент был отрисован в DOM
+     * тут есть возможность использовать refs (к примеру для установки фокуса или задействования других компонентов), таймауты, ajax-запросы и взаимодействие с другими библиотеками
+     */
     componentDidMount() {}
-    // вызывается сразу перед тем, как компонент будет удален из DOM
+    /**
+     * вызывается сразу перед тем, как компонент будет удален из DOM
+     */
     componentWillUnmount() {}
-    // компонент будет примонтирован. В данный момент нет возможности посмотреть DOM элементы
-    // [DEPRECATED]
+    /**
+     * компонент будет примонтирован. В данный момент нет возможности посмотреть DOM элементы
+     * @deprecated
+     */
     componentWillMount() {}
-    // компонент получает новые props
-    // этот метод не вызывается в момент первого render'a. В этот момент, старые props доступны как this.props, а новые props доступны в виде nextProps. Если вызывать setState внутри этого метода - не будет вызван дополнительный render
-    // [DEPRECATED]
+    /**
+     * компонент получает новые props
+     * этот метод не вызывается в момент первого render'a. В этот момент, старые props доступны как this.props, а новые props доступны в виде nextProps. Если вызывать setState внутри этого метода - не будет вызван дополнительный render
+     * @deprecated
+     * @param {Object} nextProps новые свойства
+     */
     componentWillReceiveProps(nextProps) {}
-    // вызывается прямо перед render, когда новые props и state получены
-    // в этом методе нельзя вызывать setState
-    // [DEPRECATED]
+    /**
+     * вызывается прямо перед render, когда новые props и state получены
+     в этом методе нельзя вызывать setState
+     * @deprecated
+     */
     componentWillUpdate() {}
-    // вызывается перед вызовом render
-    // должен возвращать объект для обновления state или null для, чтобы показать что обновлять нечего
+    /**
+     * вызывается перед каждым вызовом render
+     * должен возвращать объект для обновления state или null для, чтобы показать что обновлять нечего
+     * @param {Object} props текущие свойства компонента
+     * @param {Object} state текущий state компонента
+     * @return {?Object} объект для обновления state
+     */
     static getDerivedStateFromProps(props, state) {}
-    // вызывается сразу после render, когда изменение еще не принято в DOM, позволяет захватить некоторую информацию из DOM
-    // то что будет возвращено передается в componentDidUpdate
+    /**
+     * вызывается сразу после render, когда изменение еще не принято в DOM, позволяет захватить некоторую информацию из DOM
+     * то что будет возвращено передается в componentDidUpdate
+     * @param {Object} prevProps предыдущие свойства компонента
+     * @param {Object} prevState предыдущие state компонента
+     * @return {*} значение для передачи в componentDidUpdate
+     */
     getSnapshotBeforeUpdate(prevProps, prevState) {}
-    // вызывается сразу после render. Не вызывается в момент первого render'а компонента
-    // где prevProps - предыдущее props, текущие - this.props, prevState - предыдущий state, snapshot - результат функции getSnapshotBeforeUpdate
+    /**
+     * вызывается сразу после render. Не вызывается в момент первого render'а компонента
+     * @param {Object} prevProps предыдущие свойства компонента
+     * @param {Object} prevState предыдущие state компонента
+     * @param {Object} snapshot результат функции getSnapshotBeforeUpdate
+     */
     componentDidUpdate(prevProps, prevState, snapshot) {}
-    // вызывается до начала процесса повторной отрисовки, где nextProps - новые props, nextState - новые state, если вернет true, то React выполнит обновление (перерисовку) компонента, при false не будет
+    /**
+     * вызывается после того как была схвачена ошибка в компоненте
+     * @param {Object} error выброшенная ошибка
+     * @param {{componentStack: *}} info объект со свойством componentStack в котором содержится информация о том компоненте, который выбросил ошибку
+     */
+    componentDidCatch(error, info) {}
+    /**
+     * вызывается перед вызовом render при возникновении ошибки
+     * должен возвращать объект для обновления state или null для, чтобы показать что обновлять нечего
+     * @param {Object} error выброшенная ошибка
+     * @return {?Object} объект для обновления state
+     */
+    static getDerivedStateFromError(error) {}
+    /**
+     * вызывается до начала процесса повторной отрисовки
+     * если вернет true, то React выполнит обновление (перерисовку) компонента, при false не будет
+     * @param {Object} nextProps новые свойства компонента
+     * @param {Object} nextState новые state компонента
+     * @return {boolean}
+     */
     shouldComponentUpdate(nextProps, nextState) {}
     render() {
         return (<html_код_компонента>);
