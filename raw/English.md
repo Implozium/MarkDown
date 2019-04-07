@@ -58,7 +58,7 @@
 Для образования множественного числа к слову в единственном числе оканчивающегося:
 - на `-o`, `-s`, `-ch`, `-sh`, `-x` добавляется `-es`;
 - на `-y` после согласной, то `-y` переходит в `-i`  и получается `-ies`;
-- на `-f`, то `-f` переходит в `-v`  и получается `-ves` (только для множественного числа);
+- на `-f`, то `-f` переходит в `-v` и получается `-ves` (только для множественного числа);
 - иначе `-s`.
 
 После глухих согласных звуков `-s` произносится `[s]`, в другом случае `[z]`; `-es` - `[ız]`.
@@ -256,9 +256,13 @@ She | reads |    | her notes   | to Peter | every day
 Это форма глагола, оканчивающегося на `-ing`: `<verb>`(`-ing`). Употребляется:
 - как существительное выражающее общее (собирательное) понятие - неисчисляемое существительное:
     > **Exercising** is good for your health.
-- после глаголов `like`, `dislike`, `love`, `hate`, `enjoy`, `prefer`, `stop`, `finish`, `start` и `begin` и похожих по смыслу, но кроме глаголов `hope`, `believe`, `think`, а также после конструкции: `would` + `<verb>` + `to-<инфинитив>` (хотел бы):
+- после глаголов `like`, `dislike`, `love`, `hate`, `enjoy`, `prefer`, `stop`, `finish`, `start` и `begin` и похожих по смыслу, но кроме глаголов `hope`, `believe`, `think`, и других глаголов восприятия и конструкции: `would` + `<verb>` + `to-<инфинитив>` (хотел бы):
     > She stop **talking**.  
     > I **would like to travel** to China one day.
+- после фраз `have trouble`, `have difficulty`, `have fun`, `have a <прилагательное> time`:
+    > We **had a good time racing** down the path.
+- после предлогов следуемых перед герундием `for`, `in`, `about`, `from`, `to`:
+    > I apologize **for saying** that.
 - после предлогов:
     > I'm thinking **of going** to Italy.
 - после глагола `go`, когда говорим о какой-либо общей деятельности:
@@ -613,9 +617,9 @@ She | reads |    | her notes   | to Peter | every day
 - `how long` - `как долго` - вопросительная конструкция;
 - `so far` - `с тех пор` - вопросительная конструкция;
 - `recently` - `недавно`;
-- `since` - `с какого-то момента` - используется для указания точки начала:
+- `since` - `с какого-то момента` - используется для указания точки начала (стартового момента действия) - чтобы подчеркнуть, насколько велик был период времени, прошедшего с момента старта действия до текущего момента:
     > She hasn't been to New York since 1992.
-- `for` - `в течении` - используется для выражения продолжительности:
+- `for` - `в течении` - используется для выражения продолжительности - чтобы подчеркнуть, насколько велик был период времени, прошедшего с момента старта действия до текущего момента:
     > I have known Sue for ten years.
 
 Тип предложения | Вспом гл | Субъект     | Вспом гл   | Предикат                   | Пример
@@ -660,7 +664,7 @@ She | reads |    | her notes   | to Peter | every day
 - **для действия, которое недавно закончились и его результат очевиден прямо сейчас**:
     > They are tired. They have been working for nine hours.
 
-Главное отличие от **Present Perfect Simple** в том, что акцент делается на время затраченное на получение результата.
+Главное отличие от **Present Perfect Simple** в том, что акцент делается на **времени затраченным** на получение результата или на **то что действие еще не закончилось**.
 
 Используются такие ключевые слова:
 - `all morning` / `afternoon` / `day` / `week` - `целое утро` / `обед` / `день` / `неделю`;
@@ -684,6 +688,46 @@ She | reads |    | her notes   | to Peter | every day
     > sit - sitting  
     > get - getting
 - в остальных случаях добавляется `-ing`.
+
+### Глаголы состояния
+
+Обычно глаголы состояния не имеют продолжительных времен, так как они описывают состояние скорее чем действие. Состоят из:
+- глаголы которые выражают симпатии и антипатии: `like`, `love`, `hate`, `dislike`, `enjoy`, `prefer` и другие:
+    > Cathy **likes** romantic films.
+- глаголы восприятия: `believe`, `know`, `notice`, `remember`, `forget`, `recognize`, `understand`, `realise`, `seem`, `think` и другие:
+    > I **don't believe** a word he's saying.
+- глаголы чувств: `see`, `hear`, `feel`, `taste`, `look`, `smell`, `sound`. Также часто употребляются модальные глаголы, такие как `can` или `could` когда ссылаются на то что видят, слышат и д.р. в момент разговора:
+    > The soup **tastes** delicious.  
+    > John must be in the attic. I **can hear** his foot.
+- некоторые другие глаголы: `be`, `contain`, `fit`, `include`, `matter`, `need`, `belong`, `cost`, `owe`, `mean`, `own`, `appear`, `want`, `have` (в значении владеть) и другие:
+    > This book **is** mine. It **belong** to me.
+
+Некоторые глаголы состояния имеют продолжительное время, но они тогда имеют отличия в значении. Примеры:
+> 1. I **think** she's Italian. (=believe)  
+> I **am thinking about** my holiday. (=am considering)
+
+> 2. The soup **tastes** awful. (=has an awful flavour)  
+> She **is tasting** the soup. (=is tasting the flavour of)
+
+> 3. I can **see** an aeroplane in the sky. (=perceive with my eyes)  
+> I **am seeing** Jill tonight. (=am meeting)
+
+> 4. Susan **looks** tired. (=appears)  
+> Susan **is looking** at some photos. (=is studying)
+
+> 5. The room **smells** of perfume. (=has the smell)  
+> The cat **is smelling** its food. (=is sniffing)
+
+> 6. This towel **feels** soft. (=has a soft texture)  
+> Jill **is feeling** her son's forehead. (=is touching)
+
+> 7. He **is** selfish. (character - permanent state)  
+> He **is being** selfish. (behaviour - temporary situation)
+
+> 8. He **has** a sport car. (=possesses)  
+> He **is having lunch** now. (=is eating - idiom)
+
+Если глагол состояния используется в совершенной форме, то он обозначает то что состояние было вплоть до текущего момента, а теперь его нет.
 
 ## Прошедшие времена
 
@@ -1138,6 +1182,15 @@ object  | a cake | by Susan
     > I'll see you when I come to Paris.  
     > If he wakes up late, he will miss the bus.
 
+2. Употребляется, когда выражают воображение или невероятную ситуацию которая к несчастью не случится в настоящем или будущем. Строится из условной части и части результата выполнения условия:
+    - `If` + `<Past_Simple>` + `,` + `would` / `could` / `might` + `<Bare_Infinitive>`;
+    > If I **had** more free time, I **would take up** basketball. (I don't have much free time now, so it unlikely that I will take up basketball. - improbable situation)
+
+    Для всех используется `were` вместо `was`.
+
+    Конструкция `if I were you` вместо `If` + `<Past_Simple>`, используется когда хотят дать совет.
+    > **If I were you**, I would stop eating junk food.
+
 Предлоги
 ========
 
@@ -1403,6 +1456,14 @@ Verb                                                    | Preposition
     > I have been to Losbon. (I have visited Lisbon and have come back. I am not there now.)
 - `have gone` (`to`) - для указания что кто-то / что-то уехал куда-то:
     > Thomas and Anne have gone to Lisbon. (They went to Lisbon some time ago and they are still there.)
+
+## Устойчивые идиомы с глаголом `have`
+
+- `have` + `breakfast` / `lunch` / `dinner` и д.р.
+- `have` + `a bath` / `a shower` / `a swim` / `a party` и д.р.
+- `have` + `an accident` / `an experience` / `a dream` и д.р.
+- `have` + `a baby` и д.р.
+- `have` + `difficulty` / `fun` / `trouble` и д.р.
 
 Синонимы
 ========
