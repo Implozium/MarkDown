@@ -1050,13 +1050,13 @@ grid-template-areas:
 - `speech` - речевые браузеры, которыми пользуются люди с ограниченными возможностями.
 
 Наиболее часто используемые медиа-функции:
-- `width (min-width, max-width)` - ширина окна браузера;
+- **width** (`min-width`, `max-width`)` - ширина окна браузера;
     - `min-width` означает, что стили будут применены при ширине, равной или большей указанной;
     - `max-width` означает, что стили будут применены при ширине не больше указанной.
-- `height (min-height, max-height)` - высота окна браузера;
-- `device-width (min-device-width, max-device-width)` - ширина экрана устройства (может быть больше ширины браузера);
-- `device-height (min-device-height, max-device-height)` - высота экрана устройства;
-- `orientation` - принимает значения `landscape` или `portrait` для определения альбомной и портретной ориентации соответственно.
+- **height** (`min-height`, `max-height`) - высота окна браузера;
+- **device-width** (`min-device-width`, `max-device-width`) - ширина экрана устройства (может быть больше ширины браузера);
+- **device-height** (`min-device-height`, `max-device-height`) - высота экрана устройства;
+- **orientation** - принимает значения `landscape` или `portrait` для определения альбомной и портретной ориентации соответственно.
 
 <a id="БЭМ" href="#БЭМ">БЭМ</a>
 ===

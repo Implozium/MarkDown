@@ -273,7 +273,7 @@ class <Компонент> extends React.Component {
      * вызывается сразу после render. Не вызывается в момент первого render'а компонента
      * @param {Object} prevProps предыдущие свойства компонента
      * @param {Object} prevState предыдущие state компонента
-     * @param {Object} snapshot результат функции getSnapshotBeforeUpdate
+     * @param {*} snapshot результат функции getSnapshotBeforeUpdate
      */
     componentDidUpdate(prevProps, prevState, snapshot) {}
     /**
