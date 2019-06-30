@@ -274,7 +274,7 @@ class <Компонент> extends React.Component {
 
 `this.state` нельзя модифицировать вручную, для этого необходимо использовать функции готового компонента:
 
-`this.setState({<свойство>:<значение>[, ...]}[, () => {...}])` - изменяет (обновляет) состояние компонента, при этом объединяя новое состояние с предыдущим, и перерисовывает его, каждый раз должно передаваться новый экземпляр состояния с теми свойствами, которые поменялись (а не всеми) [и вызовет callback функцию после того, как новое состояние "установится"].
+`this.setState({<свойство>: <значение>[, ...]}[, () => {...}])` - изменяет (обновляет) состояние компонента, при этом объединяя новое состояние с предыдущим, и перерисовывает его, каждый раз должно передаваться новый экземпляр состояния с теми свойствами, которые поменялись (а не всеми) [и вызовет callback функцию после того, как новое состояние "установится"].
 
 `this.setState((prevState, props) => {...}[, () => {...}])` - аналогично предыдущему варианту, где функция должна возвращать новое состояние (его обновляемую часть), а `prevState` - предыдущее состояние, `props` - свойства в момент отображения [и вызовет callback функцию после того, как новое состояние "установится"].
 
@@ -613,6 +613,7 @@ function <reducer>(state, action) {
 `const store = createStore(<главный_reducer>, <начальное_состояние>);` - создает хранилище из `'redux'`, с начальным `reducer` и начальным состоянием (по ум. `{}`). `Store` хранит состояние приложения. Единственный путь изменить `store` - это отправить действие (dispatch action). `Store` - это не класс. После создания хранилища Redux немедленно вызывает редукторы и использует возвращенные ими значения в качестве исходного состояния. Главный компонент тогда должен оборачивать компонент и выглядеть как:
 
 ```javascript
+import { Provider } from "react-redux";
 <Provider store={store}>
     ...
 </Provider>
@@ -1060,7 +1061,27 @@ function <функция_проверки1>(value, allValues, props, name) {
  * @return {string} новое нормализированое значение
  */
 function <функция_нормализации>(value, previousValue, allValues, previousAllValues, name) {
-    return <нормализированое_значение>;
+    return '<нормализированое_значение>';
+}
+
+/**
+ * Функция по парсингу значения для хранилища
+ * @param {string} value значение поля
+ * @param {string} name имя поля
+ * @return {string} новое значение
+ */
+function <функция_парсинга>(value, name) {
+    return '<значение>';
+}
+
+/**
+ * Функция по форматированию изначального значения из хранилища
+ * @param {string} value значение поля
+ * @param {string} name имя поля
+ * @return {string} новое значение
+ */
+function <функция_форматирования>(value, name) {
+    return '<значение>';
 }
 
 <Field
@@ -1068,6 +1089,8 @@ function <функция_нормализации>(value, previousValue, allValu
     component={<Компонент> | "input"}
     validate={[<функция_проверки1>]}
     normalize={<функция_нормализации>}
+    parse={<функция_парсинга>}
+    format={<функция_форматирования>}
     <свойство1>={<значение>}
 />
 ```
@@ -1084,12 +1107,15 @@ function <функция_нормализации>(value, previousValue, allValu
  * @param {string} props.meta.error текст ошибки
  * @param {string} props.meta.warning текст предупреждения
  * @param {boolean} props.meta.active true, если это поле имеет фокус
- * @param {boolean} props.meta.form имя формы элемента
+ * @param {string} props.meta.form имя формы элемента
+ * @param {function} props.meta.dispatch dispatch
+ * @param {string} props.meta.initial начальное значение элемента
+ * @param {boolean} props.meta.invalid true, если это поле не прошло валидацию
  *
  * @param {Object} props.input объект со свойствами для деструктуризации для input
  * @param {boolean} props.input.checked true, если значение есть
  * @param {string} props.input.name имя поля
- * @param {function (*|Event): void} props.input.onChange функция вызываемая при изменении поля
+ * @param {function (Event, string=, string=, string=): void} props.input.onChange функция вызываемая при изменении поля
  * @param {*} props.input.value значение поля
  */
 export const <Компонент> = ({
@@ -1099,6 +1125,9 @@ export const <Компонент> = ({
         warning,
         active,
         form,
+        dispatch,
+        initial,
+        invalid,
     },
     input: {
         checked,
@@ -1126,7 +1155,7 @@ class <СложныйКомпонент> extends React.Component {
                     component={<Компонент> | "input"}
                     <свойство1>={<значение>}
                 />
-                {*...*}
+                {/*...*/}
         </div>
     }
 }
@@ -1164,6 +1193,65 @@ class <КлассФормы> extends React.Component {
     },
 }
 ```
+
+### Множественные компоненты
+
+Реализуются с помощью `FieldArray`. Он используется для объединения блоков в массив.
+
+Структура сложного компонента:
+```jsx
+class <СложныйКомпонент> extends React.Component {
+    render() {
+        const {
+            fields, // список для управления элементами массива
+        } = this.props;
+        return <div>
+            {fields.map((elemName, i, fields) => ( // elemName - сформированое вложеное имя элемента, i - номер по порядку, fields - ссылка на fields из props
+                <div key={i}>
+                    <Field
+                        name={`${elemName}.<имя_элемента1>`}
+                        component={<Компонент> | "input"}
+                        <свойство1>={<значение>}
+                    />
+                    <Field
+                        name={`${elemName}.<имя_элемента1>`}
+                        component={<Компонент> | "input"}
+                        <свойство1>={<значение>}
+                    />
+                    {/*производит удаление элемента из массив*/}
+                    <button type="button" onClick={() => fields.remove(i)}>
+                    Remove
+                    </button>
+                    
+                    <hr/>
+                </div>
+            ))}
+            <div>
+                {/*производит добавление элемента в массив*/}
+                <button type="button" onClick={() => fields.push({})}>
+                Add
+                </button>
+            </div>
+        </div>
+    }
+}
+```
+
+Использование:
+```jsx
+import { FieldArray } from 'redux-form';
+class <КлассФормы> extends React.Component {
+    render() {
+        return <form onSubmit={...}>
+            <FieldArray
+                name={'<имя_массива>'}
+                component={<СложныйКомпонент>}
+            />
+        </form>
+    }
+}
+```
+
 
 ## Создатели действий
 
