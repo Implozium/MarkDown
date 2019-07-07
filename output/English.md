@@ -73,6 +73,7 @@
 - [Употребляемые конструкции](#Употребляемые-конструкции)
     - [Глаголы с предлогами](#Глаголы-с-предлогами)
     - [`To used to`](#To-used-to)
+    - [Глаголы с разными значениями в зависимости от консрукций](#Глаголы-с-разными-значениями-в-зависимости-от-консрукций)
     - [`Too` - `Enough`](#Too---Enough)
     - [Время](#Время)
     - [Согласие и не согласие](#Согласие-и-не-согласие)
@@ -85,6 +86,8 @@
     - [`have been` (`to`) / `have gone` (`to`)](#have-been-to--have-gone-to)
     - [Устойчивые идиомы с глаголом `have`](#Устойчивые-идиомы-с-глаголом-have)
     - [Описание локаций](#Описание-локаций)
+    - [Косвенная речь](#Косвенная-речь)
+        - [Вопросы](#Вопросы)
 - [Синонимы](#Синонимы)
     - [`say`, `tell`, `speak`, `talk`](#say-tell-speak-talk)
     - [`see`, `watch`, `look`](#see-watch-look)
@@ -96,6 +99,7 @@
         - [`small` and `little`](#small-and-little)
         - [`big` and `large`](#big-and-large)
         - [`tall` and `high`](#tall-and-high)
+    - [Отношение](#Отношение)
 
 <a id="Буква-Звук" href="#Буква-Звук">Буква. Звук</a>
 ===========
@@ -362,17 +366,19 @@ She | reads |    | her notes   | to Peter | every day
 Это форма глагола, оканчивающегося на `-ing`: `<verb>`(`-ing`). Употребляется:
 - как существительное выражающее общее (собирательное) понятие - неисчисляемое существительное:
     > **Exercising** is good for your health.
-- после глаголов `like`, `dislike`, `love`, `hate`, `enjoy`, `prefer`, `stop`, `finish`, `start` и `begin` и похожих по смыслу, но кроме глаголов `hope`, `believe`, `think`, и других глаголов восприятия и конструкции: `would` + `<verb>` + `to-<инфинитив>` (хотел бы):
+- после глаголов: `like`, `dislike`, `love`, `hate`, `enjoy`, `prefer`, `stop`, `finish`, `start` и `begin` и похожих по смыслу, но кроме глаголов: `hope`, `believe`, `think`, и других глаголов восприятия и конструкции: `would` + `<verb>` + `to-<инфинитив>` (хотел бы):
     > She stop **talking**.  
     > I **would like to travel** to China one day.
 - после фраз `have trouble`, `have difficulty`, `have fun`, `have a <прилагательное> time`:
     > We **had a good time racing** down the path.
-- после предлогов следуемых перед герундием `for`, `in`, `about`, `from`, `to`:
+- после предлогов следуемых перед герундием: `for`, `in`, `about`, `from`, `to`:
     > I apologize **for saying** that.
 - после предлогов:
     > I'm thinking **of going** to Italy.
 - после глагола `go`, когда говорим о какой-либо общей деятельности:
     > They **went shopping** yesterday. - Они вчера ходили скупиться.
+- после выражений: `don't mind`, `couldn't help`, `can't stand`, `look forward to`:
+    > I **don't mind going** shopping.
 
 ### <a id="Глагол-связка-to-be" href="#Глагол-связка-to-be">Глагол связка `to be`</a>
 
@@ -1428,18 +1434,36 @@ Verb                                                    | Preposition
 
 > He **used to** live in a small house.
 
+## <a id="Глаголы-с-разными-значениями-в-зависимости-от-консрукций" href="#Глаголы-с-разными-значениями-в-зависимости-от-консрукций">Глаголы с разными значениями в зависимости от консрукций</a>
+
+- `stop`:
+    - `stop` + `to-<инфинитив>` - stop briefly to do something:
+        > I **stopped to have** a cup of coffee.
+    - `stop` + `<глагол>-ing` - finish, give up:
+        > We **stopped reading** when the bell rang.
+- `remember`:
+    - `remember` + `to-<инфинитив>` - not forget:
+        > Please **remember to buy** some milk.
+    - `remember` + `<глагол>-ing` - bring to your mind:
+        > I **remember giving** you the key before I left.
+- `forget`:
+    - `forget` + `to-<инфинитив>` - not remember:
+        > She **forgot to play** the phone bill.
+    - `forget` + `<глагол>-ing` - always remember:
+        > I'll never **forget learning** how to ride a bicycle.
+
 ## <a id="Too---Enough" href="#Too---Enough">`Too` - `Enough`</a>
 
 `Too` следует перед прилагательными и наречиями и имеет негативное значение, которое показывает что что-то больше (черезчур) чем достаточно, больше чем необходимо или больше чем хочется, для этого используется конструкция:
 
-`too` + `<прилагательное>` / `<наречие>` + `to` + `<глагол>`
+`too` + `<прилагательное>` / `<наречие>` + `to-<инфинитив>`
 
 > Bob is **too short to become** a basketball player. She talks **too softly** for me **to hear** her.
 
 `Enough` следует перед существительными, но после прилагательных и наречий и имеет позитивное значение, которое показывает что того что хочется или необходимо имеется в достатке (достаточно), для этого используется конструкция:
 
-`<прилагательное>` / `<наречие>` + `enough` + `to` + `<глагол>`  
-`enough` + `<существительное>` + `to` + `<глагол>`
+`<прилагательное>` / `<наречие>` + `enough` + `to-<инфинитив>`  
+`enough` + `<существительное>` + `to-<инфинитив>`
 
 > The dog is **gentle enough to play** for me. We've got **enough eggs to make** an omelette.
 
@@ -1580,6 +1604,58 @@ Verb                                                    | Preposition
 - `in the` + `heart` / `center` + `of` + ....
 > Vancouver **is situated on** the west coast **of** Canada.
 
+## <a id="Косвенная-речь" href="#Косвенная-речь">Косвенная речь</a>
+
+Передает содержание чьего-лбо высказывания, но не точные слова. Образуется с помощью глаголов `say` - сказал, `tell` - рассказал (чаще используется, когда адресат - это само лицо, которое выражает косвенную речь), при этом `that` может опускаться:
+- `<someone>` + `said` + `(that)` + `...`:
+    > She **said** she was angry.
+- `<someone>` + `said` + `to` + `<адресат>` + `(that)` + `...`:
+    > She **said to me that** she was angry.
+- `<someone>` + `told` + `to` + `<адресат>` + `(that)` + `...`:
+    > She **told me** that she was angry.
+
+> "He sent me flowers", she said. - She said that he had sent her flowers.
+
+В косвенной речи личные/указательные местоимения изменяются соответственно значению предложения.
+
+При этом прямая речь переходит в косвенную с изменением времен:
+- `Present Simple` - `Past Simple`;
+- `Present Continuous` - `Past Continuous`;
+- `Present Perfect` - `Past Perfect`;
+- `Past Simple` - `Past Perfect`;
+- `Past Continuous` - `Past Perfect Continuous`;
+- `Future Simple` - `Future in the past Simple` (`Conditional (would)`);
+
+Слова и выражения, обозначающие время, изменяются следующим образом.
+
+| Прямая речь                | Косвенная речь                      |
+| -------------------------- | ----------------------------------- |
+| `now`                      | `then`, `at the time`               |
+| `tonight`                  | `that night`                        |
+| `today`                    | `that day`                          |
+| `this week / month / year` | `that week / month / year`          |
+| `yesterday`                | `the day before`                    |
+| `last week / month / year` | `the previous week / month / year`  |
+| `tomorrow`                 | `the folowing / next day`           |
+| `next week / month / year` | `the following week / month / year` |
+| `two days / months ago`    | `two days / months before`          |
+| `this`                     | `that`                              |
+| `these`                    | `those`                             |
+
+### <a id="Вопросы" href="#Вопросы">Вопросы</a>
+
+Вопросы в косвенной речи образуются при помощи глаголов `ask`, `want` без вопросительного знака , с глаголом в утвердительной форме (в прямом порядке слов в вопросе).
+> "What time does the film start?" Mary asked me. - Mary **asked** me **what time the film started**.
+
+Если вопрос в прямой речи начинается со вспомогательного глагола: `be`, `do`, `have` или модального глагола: `can`, `may`, `will`, то вопрос в косвенной речи образуется при помощи `if` или `whether`.
+> "**Have** you got a pet" he asked me. - He asked me if I had got a pet.
+
+Конструкция `order` / `tell` + `<somebody>` + `(not)` + `to-<инфинитив>` используется для выражения команды в косвенной речи.
+> "Be quiet!" she said. - She **ordered me to be quiet**.
+
+`Ask` / `beg` + `<somebody>` + `(not)` + `to-<инфинитив>` используется для выражения просьбы в косвенной речи.
+> "Please, please don't go" he said. - He begged me not to go.
+
 <a id="Синонимы" href="#Синонимы">Синонимы</a>
 ========
 
@@ -1704,3 +1780,14 @@ Type of eating:
 
 - `tall` - about physical / standing;
 - `high` - about above (higher) than other like it / ideas / position / reaching for a peak
+
+## <a id="Отношение" href="#Отношение">Отношение</a>
+
+Выражают отношение говорящего к действию, от лучшего к худшему:
+- `love` - любовь;
+- `enjoy`;
+- `like`;
+- `don't mind` - нейтрально;
+- `don't like`;
+- `can't stand`;
+- `hate` - ненависть.
