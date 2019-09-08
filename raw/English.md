@@ -51,13 +51,15 @@
     **исключение** - при использовании названия семей (*The Browns*, *The Smiths*);  
     **исключение** - при использовании национальностей;
 - при названии стран  
-    **исключение** - если в названии два или более слова.
+    **исключение** - если в названии два или более слова;
+- приемов пищи (*lunch*);
+- при использовании названий спорта или игр (*tennis*).
 
 ### Множественное число и глагол 3-го лица ед. ч. наст. времени (`simple`)
 
 Для образования множественного числа к слову в единственном числе оканчивающегося:
 - на `-o`, `-s`, `-ch`, `-sh`, `-x` добавляется `-es`;
-- на `-y` после согласной, то `-y` переходит в `-i`  и получается `-ies`;
+- на `-y` после согласной, то `-y` переходит в `-i` и получается `-ies`;
 - на `-f`, то `-f` переходит в `-v` и получается `-ves` (только для множественного числа);
 - иначе `-s`.
 
@@ -216,14 +218,21 @@ She | reads |    | her notes   | to Peter | every day
 Используются перед существительными **во множественном числе**, когда количество не указано и перед не исчисляемыми существительными (те, которые нельзя взять по одному).
 
 `some` - `[sʌm]` - обозначает **некоторый**, **несколько** (`a little` или `a few`), употребляется в утвердительных предложениях и в вежливых просьбах, предложениях, запросах или когда ожидают положительный ответ.
-> Can I have some milk please?
+> Can I have **some** milk please?  
+> I want **some** milk and **some** biscuits.
 
 `any` - `[enı]` - **любой**, встречается преимущественно в вопросительных и отрицательных предложениях и имеет значение, что и `some` в утвердительных, и не используется для выражения просьб и предложений.
-> There isn't any salt left.
+> There isn't **any** salt left.
+
+Может также использоваться в положительных предложениях, в значениях: "Это не важно как / что / когда / где / который / кто".
+> You can ask me **anything** you want.
+
+Может использоваться после `if` в положительных предложениях.
+> If **anyone** calls, tell them I'm not home.
 
 ### Относительные местоимения `who` / `which` / `where`
 
-Относительные местоимения вводят относительные предложений. Используются относительные предложения для определения существительных в главном предложении. `who` - используется для людей (глагол после идет в том роде для которого заменяется слово), `which` - для объектов или животных, `where` - для мест.
+Относительные местоимения вводят относительные предложения. Используются относительные предложения для определения существительных в главном предложении. `who` - используется для людей (глагол после идет в том роде для которого заменяется слово), `which` - для объектов или животных, `where` - для мест.
 > A porter is someone **who** carries luggage.  
 > A clock is something **which** shows the time.  
 > This is the hotel **where** we spent our holidays.
@@ -251,19 +260,20 @@ She | reads |    | her notes   | to Peter | every day
 Это корневая (основная) форма глагола. Употребляется:
 - после модальных глаголов (`can`, `could`, `must`, `needn't`, `shall`, `will`, `may` и т.д.):
     > He can't read.
-- после глаголов `let` и `make` (в значении "заставлять"):  
+- после глаголов `let` (`let's` = `let us`) и `make` (в значении "заставлять"):  
     `let` / `make` + `<кого>` + `<что_делать>` + ...
     > My parents don't **let** me **stay** out late.  
     > Mother **made** me **clean** my room yesterday.
-
-    `let's` = `let us`
+- после `would rather (not)` и `had better (not)`:
+    > I **would rather stay** out tonight.  
+    > You **had better not park** here.
 
 ### `-ing`-форма
 
 Это форма глагола, оканчивающегося на `-ing`: `<verb>`(`-ing`). Употребляется:
 - как существительное выражающее общее (собирательное) понятие - неисчисляемое существительное:
     > **Exercising** is good for your health.
-- после глаголов: `like`, `dislike`, `love`, `hate`, `enjoy`, `prefer`, `stop`, `finish`, `start` и `begin` и похожих по смыслу, но кроме глаголов: `hope`, `believe`, `think`, и других глаголов восприятия и конструкции: `would` + `<verb>` + `to-<инфинитив>` (хотел бы):
+- после глаголов: `like`, `dislike`, `love`, `hate`, `enjoy`, `prefer`, `admit`, `appreciate`, `avoid`, `consider`, `deny`, `fancy`, `imagine`, `mind`, `miss`, `prevent`, `spend`, `suggest`, `waste`, `stop`, `finish`, `start` и `begin` и похожих по смыслу, но кроме глаголов: `hope`, `believe`, `think`, и других глаголов восприятия и конструкции: `would` + `<verb>` + `to-<инфинитив>` (хотел бы):
     > She stop **talking**.  
     > I **would like to travel** to China one day.
 - после фраз `have trouble`, `have difficulty`, `have fun`, `have a <прилагательное> time`:
@@ -274,7 +284,7 @@ She | reads |    | her notes   | to Peter | every day
     > I'm thinking **of going** to Italy.
 - после глагола `go`, когда говорим о какой-либо общей деятельности:
     > They **went shopping** yesterday. - Они вчера ходили скупиться.
-- после выражений: `don't mind`, `couldn't help`, `can't stand`, `look forward to`:
+- после выражений: `be busy`, `it's no use`, `it's (not) worth`, `there's no point (in)`, `what's the use of`, `have difficulty (in)`, `don't mind`, `couldn't help`, `can't stand`, `look forward to`:
     > I **don't mind going** shopping.
 
 ### Глагол связка `to be`
@@ -313,22 +323,22 @@ She | reads |    | her notes   | to Peter | every day
 
 Перед формой **Infinitive** частица `not` ставится впереди этой формы.
 
-### Императивная форма глагола
+### Императивная форма глагола (Imperative)
 
-Императивная форма глагола формируется глаголом без субъекта и глагол соответствует для 2-ой формы единственной или множественной:  
-`[Don't / Do not] <глагол> ...`
+Императивная форма глагола формируется глаголом без субъекта и глагол соответствует для 2-ой формы единственного или множественного числа:  
+(`Don't` / `Do not`) + `<глагол>` + `...`
 > Open the door.  
 > Don't touch that!
 
 Используется, когда:
-- дают приказы:
-    > Write your name here.
-- дают инструкции:
-    > Take a deep breath.
-- предлагают что-то:
-    > Have some tea.
-- делают просьбу:
-    > Be quite, please.
+- **дают приказы**:
+    > **Write** your name here.
+- **дают инструкции**:
+    > **Take** a deep breath.
+- **предлагают что-то**:
+    > **Have** some tea.
+- **делают просьбу**:
+    > **Be** quite, please.
 
 В некоторых случаях используют просьбу выраженную словом `please`, которое ставится в начале или в конце предложения.
 
@@ -358,11 +368,11 @@ She | reads |    | her notes   | to Peter | every day
 ### Разрешение `can` - `be allowed to`
 
 `Can` используется когда спрашивают или дают разрешение и `can't` для отказа в разрешении.
-> "Can I watch TV?" "Of course, you can."
+> "**Can** I watch TV?" "Of course, you can."
 
 `Be allowed to` используется когда спрашивают, дают или отказывают в разрешения. При этом разрешение, однако, не зависит от говорящего.
-> Am I allowed to park my motorcycle here? (What is the law?)  
-> You aren't allowed to take photographs in the museum.
+> **Am** I **allowed to** park my motorcycle here? (What is the law?)  
+> You **aren't allowed to** take photographs in the museum.
 
 ### Совет `should`
 
@@ -388,14 +398,14 @@ She | reads |    | her notes   | to Peter | every day
 Используются для выражения обязанностей и необходимостей.
 
 `Must` / `Mustn't` используются только в настоящем времени для выражения обязанностей и необходимостей или когда:
-- дают строгий совет:
-    > You must see a doctor right away.
-- выражают строгий запрет `mustn't`:
-    > You mustn't park here.
+- **дают строгий совет**:
+    > You **must** see a doctor right away.
+- **выражают строгий запрет `mustn't`**:
+    > You **mustn't** park here.
 
 `Have` / `Don't have` / `Doesn't have` используются во всех временах для выражения обязанностей и необходимостей или когда:
-- выражают нехватку чего-то `don't have` / `doesn't have`:
-    > You don't have to buy any oranges. We've got plenty.
+- **выражают нехватку чего-то `don't have` / `doesn't have`**:
+    > You **don't have to** buy any oranges. We've got plenty.
 
 ### `Must` - `Can't`
 
@@ -423,8 +433,8 @@ She | reads |    | her notes   | to Peter | every day
 3. После `to be` как смыслового глагола:  
     `<субъект>` + `to be` + `<наречие>` + `<остальное>`
 4. На первом месте в предложении, когда это наименьшее общее предположение и звучит более формально или на последнем месте в предложении.
-    > Often Jane would go for a swim.  
-    > Do you go on business trip often?
+    > **Often** Jane would go for a swim.  
+    > Do you go on business trip **often**?
 
 % частоты | Наречие                                | Пример
 :--------:| -------------------------------------- | ------
@@ -456,19 +466,19 @@ She | reads |    | her notes   | to Peter | every day
 Описывают существительные. Имеют одинаковую форму для единственного и множественного числа. Ставятся перед существительным. А также могут использоваться после глагола `to be` и глаголов таких как: `look`, `smell`, `sound`, `feel`, `taste` и подобных.
 
 Прилагательные, которые оканчиваются на `-ing` (`interesting`, `amazing`), используются для описания, чего-то, что кому-то или чему-то нравиться:
-> The film was boring. She is a very interesting person.
+> The film was **boring**. She is a very interesting person.
 
 Прилагательные, которые оканчиваются на `-ed` (`interested`, `amazed`), используются для описания, того, как кто-то чувствует что-то:
-> The children were terrified when they heard the thunder.
+> The children were **terrified** when they heard the thunder.
 
 ### Порядок прилагательных
 
-Прилагательные располагаются в следующем порядке - прилагательные которые выражают собственное мнение (*opinion*) (`beautiful`, `lovely`, `great`, `expensive` и подобные) и которые выражают фактическую информацию (*fact*) о ком-то или о чем-то, в указаном порядке:
-1. Размер (*size*) - `small`, `big`, `short`, `long`, etc;
-2. Вес (*weight*) - `heavy`, `light`, etc;
-3. Форма (*shape*) - `triangular`, `round`, `rectangular`, `square`, etc;
-4. Цвет (*colour*) - `dark / light blue`, `yellow`, `pink`, `cream`, etc;
-5. Материал (*material*) - `cotton`, `wooden`, `woollen`, `gold`, etc.
+Прилагательные располагаются в следующем порядке - прилагательные которые выражают собственное мнение (**opinion**) (`beautiful`, `lovely`, `great`, `expensive` и подобные) и которые выражают фактическую информацию (**fact***) о ком-то или о чем-то, в указаном порядке:
+1. Размер (**size**) - `small`, `big`, `short`, `long`, etc;
+2. Вес (**weight**) - `heavy`, `light`, etc;
+3. Форма (**shape**) - `triangular`, `round`, `rectangular`, `square`, etc;
+4. Цвет (**colour**) - `dark / light blue`, `yellow`, `pink`, `cream`, etc;
+5. Материал (**material**) - `cotton`, `wooden`, `woollen`, `gold`, etc.
 
 Прилагательные обычно разделяются запятыми.
 
@@ -490,25 +500,28 @@ She | reads |    | her notes   | to Peter | every day
 .                  | far               | farther / further         | the farthest / furthest
 .                  | old               | elder                     | the eldest
 
+Если двусложное прилагательное заканчивается на `ly`, `y`, `w`, то к ним также добавляется `er` и `est`:
+> heavy - heavier - the heaviest
+
 Если прилагательное заканчивается на `y`, то `y` преобразуется в `i`, и тогда будет:
 - `y` + `er` -> `ier`;
 - `y` + `est` -> `iest`.
-> happy - happier - happiest
+> happy - happier - the happiest
 
 Если прилагательное оканчивается согласной и ей предшествует краткий гласный звук, то она удваивается.
-> big - bigger - biggest
+> big - bigger - the biggest
 
 Использование:
 - **Comparative form** (сравнительная степень) используется для сравнения двух людей, вещей, мест и т.п. Обычно используется `than` после сравнительного прилагательного;
-    > Sue's skirt is longer than Mary's.
+    > Sue's skirt is **longer than** Mary's.
 - **Superlative form** (превосходная степень) используется для сравнения человека, вещи, местности с целой группой, к которой они принадлежат. Обычно используется `in` (в качестве *где*) / `of` (в качестве *среди всего рода*) после превосходного прилагательного;
-    > Pluto is the coldest planet in our solar system.
-- Для указания не похожести двух людей, вещей, мест используется конструкция: `(not) as <adj> as`;
-    > Tom is as tall as Peter.
+    > Pluto is **the coldest planet in** our solar system.
+- Для указания (не) похожести двух людей, вещей, мест используется конструкция: `(not) as <adj> as`;
+    > Tom is **as tall as** Peter.
 - Для указания сравнения в меньшую степень двух людей, вещей, мест используется конструкция: `less <adj> than`;
-    > The green jacket is less expensive than the yellow jacket.
+    > The green jacket is **less expensive** than the yellow jacket.
 - Для указания сравнения в большую степень двух людей, вещей, мест используется конструкция: `much <comparative_form> than`;
-    > This tie is much longer than one.
+    > This tie is **much longer** than one.
 
 Времена
 =======
@@ -527,25 +540,29 @@ She | reads |    | her notes   | to Peter | every day
 
 Используется в ситуациях:
 - **permanent situations or state** - когда говорим о постоянных ситуациях и состояниях:
-    > Sun shines very brighting.  
-    > Tim is tall.
+    > Sun **shines** very brighting.  
+    > Tim **is** tall.
 - **repeated / habitual action** - когда говорим о повторяющихся или рутинных действиях:
-    > I go to school every day.  
-    > The dog often meets me.
+    > I **go** to school every day.  
+    > The dog often **meets** me.
 - **permanent truths or laws of nature** - когда говорим о постоянных истинах или законах природы:
-    > Mud is liquid.  
-    > Moon is round.
+    > Mud **is** liquid.  
+    > Moon **is** round.
 - **like / dislike** - когда говорим о том что нравится, любим или отрицаем это:
-    > I like apples.  
-    > Dog likes meat.
+    > I **like** apples.  
+    > Dog **likes** meat.
 - **scheduled actions** (timetables or programmes) - когда говорим о планируемом действии в будущем:
-    > I go to the doctor at 5 am.
+    > I **go** to the doctor at 5 am.
 
-Используются такие ключевые слова:
+Используются такие ключевые слова или конструкции:
 - `every`;
+- `every` + `hour` / `day` / `week` / `month` / `year` / etc;
+- `every` + `morning` / `afternoon` / `evening` / `night`;
 - `usually`;
 - `often`;
 - `always`;
+- `in the` + `morning` / `afternoon` / `evening` / `night`;
+- `at night`;
 - `sometimes`;
 - `never`.
 
@@ -571,16 +588,17 @@ She | reads |    | her notes   | to Peter | every day
 
 Используется в ситуациях:
 - **temporary situations** - когда говорим о временных ситуациях, которые длятся определенное количество времени:
-    > They are playing football.
+    > They **are playing** football.
 - **actions happening at or around the moment of speaking** - когда говорим о действиях, которые происходят вокруг момента разговора:
-    > Bill is dropping a ball.
+    > Bill **is dropping** a ball.
 - **fixed arrangements in the near future** - когда говорим о фиксированных договоренностях в ближайшем будущем:
-    > I am going to supermarket at 5 o'clock.
+    > I **am going** to supermarket at 5 o'clock.
 - **repeated actions with "always" expressing annoyance or criticism**
 
 Используются такие ключевые слова:
 - `now`;
-- `at the moment`.
+- `at the moment`;
+- `at present`.
 
 Тип предложения | Вспом гл | Субъект               | Вспом гл  | Предикат         | Пример
 ----------------| -------- | --------------------- | --------- | ---------------- | ------
@@ -606,30 +624,30 @@ She | reads |    | her notes   | to Peter | every day
 ### Present Perfect
 
 Используется в ситуациях:
-- **для действия, которое случилось в неопределенное время в прошлом (точное время которого не важно, так как само действие важнее)**:
-    > Tom has broken his arm.
-- **для действия, которые началось в прошлом и все еще продолжается в настоящем**:
-    > Kim has been chief since 1985.
-- **для действия, которое недавно закончилось и его результат видимый в настоящем**:
-    > I have painted the kitchen. Doesn't it look nice?
-- **во время разговора об приобретенном опыте**:
-    > They have traveled trough Europe.
+- **actions which happened at an unstated time in the past and actions are more important that the time** - для действий, которые случились в неопределенное время в прошлом, точное время которых не важно, так как сами действия важнее:
+    > Tom **has broken** his arm.
+- **actions which started in the past and continue to the present** - для действий, которые начались в прошлом и все еще продолжается в настоящем:
+    > Kim **has been** chief since 1985.
+- **past actions with a visible result in the present** - для действий, которые недавно закончились и их результат видимый в настоящем:
+    > I **have painted** the kitchen. Doesn't it look nice?
+- **experience** - во время разговора об приобретенном опыте:
+    > They **have traveled** trough Europe.
 
 Используются такие ключевые слова:
-- `just` - `только что` / `недавно` - ставится после `have`;
-- `ever` - `когда нибудь` - ставится после `have`;
-- `never` - `никогда` - ставится после `have`;
+- `just` - `только что` / `недавно` - ставится после `have`, используется для того чтобы показать что действие закончилось буквально несколько минут назад;
+- `ever` - `когда нибудь` - ставится после `have`, используется в вопросительных и утвердительных предложениях;
+- `never` - `никогда` - ставится после `have`, используется в утвердительных предложениях;
 - `already` - `уже` / `еще` - ставится после `have`, используется в утвердительных предложениях:
-    > She's already booked a table for two.
+    > She **has already booked** a table for two.
 - `yet` - `уже` / `еще` - используется в вопросительных и отрицательных предложениях, ставится в конце предложения:
-    > Has Jim fixed the car yet?
+    > **Has** Jim **fixed** the car **yet**?
 - `how long` - `как долго` - вопросительная конструкция;
 - `so far` - `с тех пор` - вопросительная конструкция;
 - `recently` - `недавно`;
 - `since` - `с какого-то момента` - используется для указания точки начала (стартового момента действия) - чтобы подчеркнуть, насколько велик был период времени, прошедшего с момента старта действия до текущего момента:
-    > She hasn't been to New York since 1992.
+    > She **hasn't been** to New York **since 1992**.
 - `for` - `в течении` - используется для выражения продолжительности - чтобы подчеркнуть, насколько велик был период времени, прошедшего с момента старта действия до текущего момента:
-    > I have known Sue for ten years.
+    > I **have known** Sue **for ten years**.
 
 Тип предложения | Вспом гл | Субъект     | Вспом гл   | Предикат                   | Пример
 ----------------| -------- | ----------- | ---------- | -------------------------- | ------
@@ -668,10 +686,10 @@ She | reads |    | her notes   | to Peter | every day
 ### Present Perfect Continuous
 
 Используется в ситуациях:
-- **для действия, которое началось в прошлом и продолжалось вплоть до текущего момента времени**:
-    > She has been typing letters for three hours.
-- **для действия, которое недавно закончились и его результат очевиден прямо сейчас**:
-    > They are tired. They have been working for nine hours.
+- **actions which started in the past and continue to the present giving emphasis to duration** - для действий, которые начались в прошлом и продолжались вплоть до текущего момента времени с акцентом на продолжительность дейсвия:
+    > She **has been typing** letters for three hours.
+- **past actions which have lasted and whose result is visible in the present** - для действий, которые недавно закончились и их результат очевиден прямо сейчас:
+    > They are tired. They **have been working** for nine hours.
 
 Главное отличие от **Present Perfect Simple** в том, что акцент делается на **времени затраченным** на получение результата или на **то что действие еще не закончилось**.
 
@@ -679,9 +697,9 @@ She | reads |    | her notes   | to Peter | every day
 - `all morning` / `afternoon` / `day` / `week` - `целое утро` / `обед` / `день` / `неделю`;
 - `how long` - `как долго` - вопросительная конструкция;
 - `since` - `с какого-то момента` - используется для указания точки начала:
-    > She has been working to New York since 1992.
+    > She **has been working** to New York **since 1992**.
 - `for` - `в течении` - используется для выражения продолжительности:
-    > I have been helping Sue for ten years.
+    > I **have been helping** Sue **for ten years**.
 
 Тип предложения | Вспом гл | Субъект     | Вспом гл        | Предикат         | Пример
 ----------------| -------- | ----------- | --------------- | ---------------- | ------
@@ -743,15 +761,15 @@ She | reads |    | her notes   | to Peter | every day
 ### Past Simple (Indefinite)
 
 Используется в ситуациях:
-- **для действия, которое случилось или завершилось в определенное время в прошлом**:
-    > Lisa bought a house last year. (When? Last year.)
-- **для привычки или действия, которое повторялось в прошлом, но теперь не случается больше, используется с наречиями частоты**:
-    > He usually played football in his free time. (but he doesn't play football anymore)
+- **actions happened at a specific time in the past** - для действий, которые случились или завершились в определенное время в прошлом:
+    > Lisa **bought** a house last year. (When? Last year.)
+- **actions happened in the past and won't happen again** - для привычек или действий, которые повторялись в прошлом, но теперь не случатся больше, используется с наречиями частоты:
+    > He **usually played** football in his free time. (but he doesn't play football anymore)
 
-Используются такие ключевые слова:
+Используются такие ключевые слова и выражения:
 - `yesterday`;
-- `last`;
-- `ago`;
+- `last` + `night` / `morning` / `evening` / etc;
+- `two weeks` / `a month` / etc + `ago`;
 - `in 1987`.
 
 Тип предложения | Вспом гл | Субъект     | Вспом гл  | Предикат                  | Пример
@@ -779,14 +797,14 @@ She | reads |    | her notes   | to Peter | every day
 ### Past Continuous
 
 Используется в ситуациях:
-- **для действий, которые были в ходе выполнения в указанное время в прошлом и про которое не известно, когда оно началось или окончилось**:
-    > At five o'clock yesterday I was cooking dinner.
-- **для действий в прошлом, которые  были в ходе выполнения (стоят в форме `past continuous`), когда другое действие прерывает его (в форме `past simple`)**:
-    > She was having breakfast when the phone rang.
-- **два или более действий, которые происходили в одно и тоже время в прошлом (одновременные действия)**:
-    > Tina was doing the wasing-up while the children were playing in the garden.
-- **для описания справочной информации в истории повествования**:
-    > The sun was shining brightly as Tom was driving his brand new car through the city center.
+- **actions in progress at a stated time in the past** - для действий, которые были в ходе выполнения в указанное время в прошлом и про которое не известно, когда оно началось или окончилось:
+    > At five o'clock yesterday I **was cooking** dinner.
+- **actions which was in progress when another action interrupted it** - для действий в прошлом, которые были в ходе выполнения (стоят в форме `past continuous`), когда другое действие прерывает его (в форме `past simple`):
+    > She **was having** breakfast when the phone rang.
+- **two or more actions happening at the same time in the past** - два или более действий, которые происходили в одно и тоже время в прошлом (одновременные действия):
+    > Tina **was doing** the wasing-up while the children **were playing** in the garden.
+- **background information in a story** - для описания справочной информации в истории повествования:
+    > The sun **was shining** brightly as Tom was driving his brand new car through the city center.
 
 Используются такие ключевые слова:
 - `while`;
@@ -809,10 +827,10 @@ She | reads |    | her notes   | to Peter | every day
 ### Past Perfect Simple
 
 Используется в ситуациях:
-- **для действия, которое случилось в прошлом перед другим прошлым действием**. Действие, которое случилось раньше в прошлом стоит в форме `past perfect simple`, а действие которое случилось позже в `past simple`:
-    > They had bought tickets before they flew to London.
+- **past actions which happened in the past before another past action** - для действий, которые случились в прошлом перед другим прошлым действием. Действие, которое случилось раньше в прошлом стоит в форме `past perfect simple`, а действие которое случилось позже в `past simple`:
+    > They **had bought** tickets before they flew to London.
 - **в прошлом эквивалентно по значению `present perfect simple`, но это действие должно закончиться в прошлом**:
-    > Greg wasn't at home. He had gone out. (Greg was out then.)
+    > Greg wasn't at home. He **had gone out**. (Greg was out then.)
 
 Используются такие ключевые слова:
 - `just` - `только что` / `недавно` - ставится после `have`;
@@ -843,13 +861,16 @@ She | reads |    | her notes   | to Peter | every day
 - `[t]` после глухих согласных (кроме `t`);
 - `[d]` после всех остальных звуков.
 
-#### Past Continuous vs Past Perfect Simple
+#### Past Continuous vs Past Perfect Simple vs Past Simple
 
-**Past Continuous** - используется для действия в прошлом, которое было в процессе, когда его прервало другое действие:
-> He was watching TV when the phone rang.
+**Past Continuous** - используется для действий в прошлом, которые былио в процессе или когда их прервало другое действие:
+> He **was watching** TV when the phone rang.
 
-**Past Perfect Simple** - используется для действия в прошлом, которое случилось до другого действия в прошлом:
-> They had booked a room before they went on holiday.
+**Past Perfect Simple** - используется для действий в прошлом, которые случились до другого действия в прошлом:
+> They **had booked** a room before they went on holiday.
+
+**Past Simple** - используется для действий в прошлом, которые случились в определенное время в прошлом:
+> He **woke up** early yesterday.
 
 ## Будущие времена
 
@@ -864,26 +885,26 @@ She | reads |    | her notes   | to Peter | every day
 
 Используется в ситуациях:
 - **для обозначения будущих действий, без указания точного времени**:
-    > We'll travel around the world one day.
+    > We **will travel** around the world one day.
 - **для предсказаний (predictions) основанных на том во что мы верим или думаем**:
-    > You'll be a great computer operator one day.
+    > You **will be** a great computer operator one day.
 - **для выражения угроз или предупреждений (threats / warnings)**:
-    > Be quiet or I'll send you out.
+    > Be quiet or I **will send** you out.
 - **для выражения обещаний (promises) или решений принятых в момент речи (on-the-spot-decisions)**:
-    > I'll buy you this ring.
+    > I **will buy** you this ring.
 - **с глаголами `hope`, `think`, `believe`, `expect` и т.п.; с выражениями `I'm sure`, `I'm afraid` и т.п., а также наречиями `probably`, `perhaps` и т.п.**:
-    > I hope he will pass his exams.  
-    > Perhaps I'll see her tonight.
+    > I hope he **will pass** his exams.  
+    > Perhaps I **will see** her tonight.
 - **конструкция `Will you ...?` используются как вопрос для кого-то чтобы сделал что-то для нас**:
-    > Will you post this letter for me, please.
+    > **Will you** post this letter for me, please.
 
 Используются такие ключевые слова:
 - `tomorrow`;
 - `the day after tomorrow`;
-- `next week / month / year`;
+- `next` + `week` / `month` / `year`;
 - `tonight`;
 - `soon`;
-- `in a week / month / year`.
+- `in a` + `week` / `month` / `year`.
 
 Тип предложения | Вспом гл | Субъект     | Вспом гл   | Предикат | Пример
 ----------------| -------- | ----------- | ---------- | -------- | ------
@@ -894,10 +915,10 @@ She | reads |    | her notes   | to Peter | every day
 ### Конструкция `to be going to`
 
 Используется в ситуациях:
-- **для планов или намерений (intentions) в ближайшем будущем**:
-    > Susan is going to move house.
-- **для предсказаний (predictions) основанных на том что мы видим или знаем**:
-    > Look at him. He's going to jump out of the train.
+- **for plan and intentions** - для планов или намерений в ближайшем будущем:
+    > Susan **is going to** move house.
+- **for predictions based on what we see or we know** - для предсказаний основанных на том что мы видим или знаем:
+    > Look at him. He **is going to** jump out of the train.
 
 Тип предложения | Вспом гл | Субъект     | Вспом гл             | Предикат | Пример
 ----------------| -------- | ----------- | -------------------- | -------- | ------
@@ -908,15 +929,15 @@ She | reads |    | her notes   | to Peter | every day
 ## Пассивные времена (Passive tense)
 
 Используется в ситуациях, когда хотят показать что действие описываемое глаголом более важно, чем **агент** этого действия (человек или вещь, которое производит или является причиной этого действия). Агент представлен после предлога `by` и упоминается только когда это важно или должен быть указан.
-> Oliver Twist was written by Charles Dickens.
+> Oliver Twist **was written** by Charles Dickens.
 
 Агент не упоминается, когда:
 - **он не известен**:
-    > His car was stolen last night. (We don't know who stole his car.)
+    > His car **was stolen** last night. (We don't know who stole his car.)
 - **он не важен**:
-    > Breakfast will be served at 7.30. (the agent is unimportant.)
+    > Breakfast **will be served** at 7.30. (the agent is unimportant.)
 - **он очевиден из контекста**:
-    > He has been arrested. (it is obvious who arrested him - the police.)
+    > He **has been arrested**. (it is obvious who arrested him - the police.)
 
 Построение производится с помощью глагола `to be` в нужном времени + глагол(`-ed` / III form).
 
@@ -1150,11 +1171,106 @@ object  | a cake | by Susan
 Соответствуют русским вопросительным предложениям, заканчивающимся словами `не так ли?` / `не правда ли?`, и имеют схожие формы построения, состоящие из двух частей: `<повествовательное_предложение>` + `не так ли?`.
 
 Условно разделяются на 2 группы по построению:
-- `<утверд._предложение>` + `<вспом. / модал._глагол>` + `not` `<местоимение_заменяющее_подлежащее>`?;
-- `<отриц._предложение>` + `<вспом. / модал._глагол>` + `<местоимение_заменяющее_подлежащее>`?.
+- `<утверд._предложение>` + `<первый_вспом._или_модал._глагол>` + `not` `<местоимение_заменяющее_подлежащее>`?;
+- `<отриц._предложение>` + `<первый_вспом._или_модал._глагол>` + `<местоимение_заменяющее_подлежащее>`?.
 
-> You are a student, aren't you?  
-> My friends didn't have to do it, did they?
+Если не первого вспомогательного глагола или модального глагола, то используется вместо него `do` в нужном времени и форме для 3-го лица ед.ч.
+
+При этом переходят:
+- императивная форма глагола - `will` / `won't` + `you`;
+- `I am` - `aren't I`;
+- `Don't` - `will you`;
+- `Let's` - `shall we`;
+- `There` + `is` / `are` - `isn't` / `aren't` + `there`;
+- `This` / `That` + `is` - `isn't it`.
+
+> You are a student, **aren't you**?  
+> My friends didn't have to do it, **did they**?  
+> Let's go out for dinner, **shall we**?
+
+Сложные предложения
+===================
+
+Это те предложения, которые состоят из двух и более простых предложений.
+
+## Согласование времен
+
+При наличии прошедшего времени в главном предложении, в дополнительном придаточном предложении настоящее и будущее время заменяются одним из прошедших времен в зависимости от смысла действия, выраженного придаточным предложением, по отношению к действию, выраженному главным придаточным. Может быть:
+- **одновременным** - то глагол в придаточном предложении ставится в `Past Indefinite` или `Past Continuous` и переводится глаголом в настоящем времени;
+- **предшествующим** - то глагол стоит в `Past Perfect` и переводится прошедшим временем;
+- **будущим** - то глагол стоит в `Future-in-the-Past` и переводится будущим временем.
+
+## Слова-связки
+
+Используются для того, чтобы объеденить предложения или идеи. Ставятся в основном между предложениями.
+- `because` - используется для выражния причины чего-либо^
+    > I spent the weekend in bed **because** I was sick.
+- `so` - используется для выражения результата:
+    > He wanted to become an actor **so** he went to college.
+- `too`, `and`, `also` - используются для дополнения:
+    > She exhibited her work in Paris **too**.
+- `but` - используется для выражения противопоставления:
+    > The perfomance was good,**but** few people came.
+
+## Временные слова
+
+Используются для соединения предложений. После временных слов `before`, `after`, `while`, `until`, `till`, `as`, `unless`, `when`, `whenever`, `if`, `suppose`, `supposing`, `until`, `once`, `as soon as`, `as long as`, `by the time`, `in case` и `on condition that` не используется время **Future Simple**, а используется **Present Simple**.
+> I'll wait for you until you finish.
+
+Если `when` используется в качестве вопросительного слова, то за ним может следовать **Future Simple**.
+
+## Придаточные предложения (`Clauses`)
+
+### Результата
+
+Используются для выражения результата чего-то. Вводятся конструкциями:
+- `so` - `так что`:
+    > I was tured, **so** I went to bed early.
+- `such` + `a` / `an` + `<прилагательное>` + `<единственное_исчисляемое_существительное>` (`that`):
+    > She is **such a nice girl** (that) everybody likes her.
+- `such` + `<прилагательное>` + `<множественное_или_неисчисляемое_существительное>` (`that`):
+    > It was **such hot weather** (that) we went swimming.
+- `such a lot of` + `<множественное_или_неисчисляемое_существительное>` (`that`):
+    > They gave me **such a lot of presents** (that) I couldn't carry them home.
+- `so` + `<прилагательное>` / `<наречие>` (`that`):
+    > She is **so clever** (that) everyone admires her.
+- `so` + `much` / `little` + `<неисчисляемое_существительное>` (`that`);
+- `so` + `many` / `few` + `<множественное_существительное>` (`that`);
+- `as a result` / `therefore` / `consequently` - `в результате` / `следовательно` / `как следствие`, может начинать новое вводное предложение:
+    > Certain species of animals are being killed for their fur and **as a result** / **therefore** / **consequently** they are becoming extinct.
+
+### Причины
+
+Используются для выражения причины чего-то. Вводятся конструкциями:
+- `as` / `since` - `так как`:
+    > She took a taxi home **as** / **since** it was late.
+- `because` - `потому что` / `из-за`:
+    > I went to bed early **because** I was tired.
+- `the reason for` + `<существительное>` / `<глагол>-ing` - `причина ...`:
+    > **The reason for her delay** was (the fact) that she had missed the train.
+- `the reason why` + `<придаточное_предложение>` - `причина почему ...`:
+    > **The reason why she was** delayed (the fact) that she had missed the train.
+- `because of` / `due to` + `<существительное>` - `по причине ...`:
+    > They came home late **because of the traffic**.
+- `because of` / `due to` + `the fact that` + `<придаточное_предложение>` - `по причине ...`:
+    > She was promoted **due to the fact that** she works hard.
+
+### Цели
+
+Используются для выражения цели действий, объясняют почему кто-то делает что-то. Вводятся конструкциями:
+- `to-инфинитив` - `чтобы` / `для того чтобы` (только для положительный введений):
+    > I'm going out **to get** some fresh air.
+- `in order (not) to` / `so as (not) to` (formal) - `для того чтобы`:
+    > He went to Harvard **in order to** / **so as to** obtain a degree in economics.
+- `so that` + `<существительное>` + `can` / `will` / `could` / `would` - `так что ... может` / `для того чтобы ... может`:
+    > He works hard **so that he can** make a lot of money.
+- `in order that` / `as so that` + `<существительное>` + `can` / `will` / `could` / `would` (formal) - `так что ... может` / `для того чтобы ... может`;
+- `in case` + `<придаточное_предложение>` (present or past) - `в случае ...`:
+    > Take a map **in case** you get lost.
+- `for` + `<существительное>` - `для ...`, когда выражают цель действия:
+    > They went to an Indian restaurant **for dinner**.
+- `for` + `<глагол>-ing` - `для ...`, когда выражают цель или функцию чего-то:
+    > We use an axe **for chopping** wood.
 
 Условные предложения
 ====================
@@ -1181,21 +1297,21 @@ object  | a cake | by Susan
 
     `<Future_Form>` - также может состоять из:
     - `<Present_Form>`, которая начинается с модального глагола.
-        > If they don't take order, I can go to them.
+        > **If** they don't take order, I can go to them.
     - повелительного наклонения:
-        > Take my hand if you want to live.
+        > Take my hand **if** you want to live.
 
     Виды времен условий:
     - **Present Continuous** - используется для связи настоящего действия, которое уже длиться с условным будущем.
 
-    > I'll see you when I come to Paris.  
-    > If he wakes up late, he will miss the bus.
+    > I'll see you **when** I come to Paris.  
+    > **If** he wakes up late, he will miss the bus.
 
 2. Употребляется, когда выражают воображение или невероятную ситуацию которая к несчастью не случится в настоящем или будущем. Строится из условной части и части результата выполнения условия:
     - `If` + `<Past_Simple>` + `,` + `would` / `could` / `might` + `<Bare_Infinitive>`;
-    > If I **had** more free time, I **would take up** basketball. (I don't have much free time now, so it unlikely that I will take up basketball. - improbable situation)
+    > **If** I **had** more free time, I **would take up** basketball. (I don't have much free time now, so it unlikely that I will take up basketball. - improbable situation)
 
-    Для всех используется `were` вместо `was`.
+    Для всех может использоваться `were` вместо `was`.
 
     Конструкция `if I were you` вместо `If` + `<Past_Simple>`, используется когда хотят дать совет.
     > **If I were you**, I would stop eating junk food.
@@ -1469,13 +1585,6 @@ Verb                                                    | Preposition
 Вопросительное | Is there any milk in the fridge?    | Are there any people in the room?
 Краткий ответ  | Yes, there is.                      | Yes, there are.
 
-## Временные слова
-
-Используются для соединения предложений. После временных слов `before`, `after`, `while`, `until`, `as soon as` и `when` не используется время **Future Simple**, а используется **Present Simple**.
-> I'll wait for you until you finish.
-
-Если `when` используется в качестве вопросительного слова, то за ним может следовать **Future Simple**.
-
 ## `have been` (`to`) / `have gone` (`to`)
 
 Используются для указания нахождения, для глагола `go` в **Present Perfect**:
@@ -1501,13 +1610,6 @@ Verb                                                    | Preposition
 - `in the` + `heart` / `center` + `of` + ....
 > Vancouver **is situated on** the west coast **of** Canada.
 
-## Согласование времен
-
-При наличии прошедшего времени в главном предложении, в дополнительном придаточном предложении настоящее и будущее время заменяются одним из прошедших времен в зависимости от смысла действия, выраженного придаточным предложением, по отношению к действию, выраженному главным придаточным. Может быть:
-- **одновременным** - то глагол в придаточном предложении ставится в `Past Indefinite` или `Past Continuous` и переводится глаголом в настоящем времени;
-- **предшествующим** - то глагол стоит в `Past Perfect` и переводится прошедшим временем;
-- **будущим** - то глагол стоит в `Future-in-the-Past` и переводится будущим временем.
-
 ## Косвенная речь
 
 Передает содержание чьего-лбо высказывания, но не точные слова. Образуется с помощью глаголов `say` - сказал, `tell` - рассказал (чаще используется, когда адресат - это само лицо, которое выражает косвенную речь), при этом `that` может опускаться:
@@ -1520,7 +1622,7 @@ Verb                                                    | Preposition
 
 > "He sent me flowers", she said. - She said that he had sent her flowers.
 
-В косвенной речи личные/указательные местоимения изменяются соответственно значению предложения.
+В косвенной речи личные / указательные местоимения изменяются соответственно значению предложения.
 
 При этом прямая речь переходит в косвенную с изменением времен, если главный глагол в прошлом времени, то время в косвенном предложении обычно изменяется (при переходе из косвенной в прямую изменения происходят обратные):
 - `Present Simple` - `Past Simple`;
@@ -1551,7 +1653,8 @@ Verb                                                    | Preposition
 | `these`                    | `those`                             |
 
 Конструкция `order` / `tell` + `<somebody>` + `(not)` + `to-<инфинитив>` используется для выражения команды в косвенной речи.
-> "Be quiet!" she said. - She **ordered me to be quiet**.
+> "Be quiet!" she said. - She **ordered me to be quiet**.  
+> "Be polite with the customers," he said. - He **told me to be** polite with the customers.
 
 `Ask` / `beg` + `<somebody>` + `(not)` + `to-<инфинитив>` используется для выражения просьбы в косвенной речи.
 > "Please, please don't go" he said. - He begged me not to go.
@@ -1573,6 +1676,29 @@ Verb                                                    | Preposition
 
 Используется конструкция `know how to`, вместо ~~`know to`~~.
 > Scientists don't **know how to** stop climate change.
+
+### Непрямые вопросы
+
+Используются когда мы хотим узнать информацию, в то время как мы используем косвенный вопрос чтобы сообщить кому-то вопрос. Строятся:
+- `Could you tell me` + `<косвенный_вопрос>` + `?`;
+- `Do you know` + `<косвенный_вопрос>` + `?`;
+- `I wonder` + `<косвенный_вопрос>`;
+- `I want to know` + `<косвенный_вопрос>`.
+
+При этом косвенный вопрос не меняет свое время.
+
+> Do you know how old he is?  
+> I wonder where he has gone.
+
+## Восклицание
+
+Это слова или предложения использующиеся для выражения удивления, восхищения и т.п. Формируются:
+- `What` + `a` / `an` (`<прилагательное>`) + `<единственное_исчисляемое_существительное>`:
+    > **What a beautiful day**!
+- `What` (`<прилагательное>`) + `<множественное_или_неисчисляемое_существительное>`:
+    > **What interesting news**!
+- `How` + `<прилагательное>` / `<наречие>`:
+    > **How fast** he runs!
 
 Синонимы
 ========

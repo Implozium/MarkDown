@@ -747,7 +747,7 @@ Redux-приложение это:
 
 ```javascript
 function <reducer>(state, action) {
-	...
+    // ...
     return <новое_состояние>;
 }
 ```
