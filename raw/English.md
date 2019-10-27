@@ -373,6 +373,14 @@ She | reads |    | her notes   | to Peter | every day
 **Отрицательное**   |      | I | haven't got | a cat. |    | I | don't have | a cat.
 **Вопросительное**  | Have | I | got         | a cat? | Do | I | have       | a cat?
 
+### Фразовые глаголы (Phrasal verbs)
+
+Формируются: `<verb>` + `<один_или_два_предлога>` / `<наречие>`.
+
+Один фразеологический глагол может иметь более чем одно значение и эти значения часто не соотносятся с изначальным глаголом.
+
+Эти глаголы часто используются в неформальной или в разговорной лексике. Часто имеются более формальные слова для выражения того же самого.
+
 ## Модальные глаголы
 
 ### Глаголы `can`, `may`, `must`
@@ -610,7 +618,7 @@ She | reads |    | her notes   | to Peter | every day
 Используется в ситуациях:
 - **temporary situations** - когда говорим о временных ситуациях, которые длятся определенное количество времени:
     > They **are playing** football.
-- **actions happening at or around the moment of speaking** - когда говорим о действиях, которые происходят вокруг момента разговора:
+- **actions happening at or around the moment of speaking** - когда говорим о действиях, которые происходят вокруг момента разговора (но не обязательно в данный момент):
     > Bill **is dropping** a ball.
 - **fixed arrangements in the near future** - когда говорим о фиксированных договоренностях в ближайшем будущем:
     > I **am going** to supermarket at 5 o'clock.
@@ -653,6 +661,9 @@ She | reads |    | her notes   | to Peter | every day
     > I **have painted** the kitchen. Doesn't it look nice?
 - **experience** - во время разговора об приобретенном опыте:
     > They **have traveled** trough Europe.
+- **completed actions which happened in an unfinished period of time that is connected to now** - для завершенных действий, которые случились в незаконченный период времени, который соединен с текущим:
+    > I **have eaten** out twice this week. (this week is not yet finished)  
+    > I **have been** to Disneyland. (some time in my life up to now)
 
 Используются такие ключевые слова:
 - `just` - `только что` / `недавно` - ставится после `have`, используется для того чтобы показать что действие закончилось буквально несколько минут назад;
@@ -791,7 +802,11 @@ She | reads |    | her notes   | to Peter | every day
 - `yesterday`;
 - `last` + `night` / `morning` / `evening` / etc;
 - `two weeks` / `a month` / etc + `ago`;
-- `in 1987`.
+- `in 1987`;
+- `ago` - `тогда` - ставится в конце после указания времени:
+    > ten years **ago**
+- `for` - `в течении` - используется для выражения продолжительности - чтобы подчеркнуть, насколько велик был период времени, ставится в конце перед указания времени:
+    > **for** ten years.
 
 Тип предложения | Вспом гл | Субъект     | Вспом гл  | Предикат                  | Пример
 ----------------| -------- | ----------- | --------- | ------------------------- | ------
@@ -1611,6 +1626,8 @@ Verb                                                    | Preposition
 Используются для указания нахождения, для глагола `go` в **Present Perfect**:
 - `have been` (`to`) - для указания что кто-то / что-то было где-то:
     > I have been to Losbon. (I have visited Lisbon and have come back. I am not there now.)
+- `have been in` - для указания что кто-то / что-то находится все еще где-то:
+    > I have been in Losbon.
 - `have gone` (`to`) - для указания что кто-то / что-то уехал куда-то:
     > Thomas and Anne have gone to Lisbon. (They went to Lisbon some time ago and they are still there.)
 
