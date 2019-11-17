@@ -291,7 +291,18 @@ She | reads |    | her notes   | to Peter | every day
 
 ### `-ing`-форма
 
-Это форма глагола, оканчивающегося на `-ing`: `<verb>`(`-ing`). Употребляется:
+Это форма глагола, оканчивающегося на `-ing`: `<verb>`(`-ing`).
+
+Преобразование глагола: `<verb>`(`-ing`):
+- если оканчивается на: `-e`, то преобразуется в `-ing`;
+- если оканчивается на: `-ie`, то преобразуется в `-ying`;
+- если оканчивается на: `-y`, то преобразуется в `-ying`;
+- если слово оканчивается на согласную и перед ней стоит краткий гласный звук, то она удваивается:
+    > sit - sitting  
+    > get - getting
+- в остальных случаях добавляется `-ing`.
+
+Употребляется:
 - как существительное выражающее общее (собирательное) понятие - неисчисляемое существительное:
     > **Exercising** is good for your health.
 - после глаголов: `like`, `dislike`, `love`, `hate`, `enjoy`, `prefer`, `admit`, `appreciate`, `avoid`, `consider`, `deny`, `fancy`, `imagine`, `mind`, `miss`, `prevent`, `spend`, `suggest`, `waste`, `stop`, `finish`, `start` и `begin` и похожих по смыслу, но кроме глаголов: `hope`, `believe`, `think`, и других глаголов восприятия и конструкции: `would` + `<verb>` + `to-<инфинитив>` (хотел бы):
@@ -307,6 +318,20 @@ She | reads |    | her notes   | to Peter | every day
     > They **went shopping** yesterday. - Они вчера ходили скупиться.
 - после выражений: `be busy`, `it's no use`, `it's (not) worth`, `there's no point (in)`, `what's the use of`, `have difficulty (in)`, `don't mind`, `couldn't help`, `can't stand`, `look forward to`:
     > I **don't mind going** shopping.
+
+### `-ed`-форма / III form
+
+Преобразование глагола: `<verb>`(`-ed` / III form):
+- **Стандартные глаголы** - образуются по стандарту: путем прибавления суффикса `-ed`:
+    - при этом `-y` после согласной переходит в `-i`;
+    - к "немому" `e` прибавляется только `d`;
+    - конечная согласная удваивается, если перед ней стоит краткий гласный звук.
+- **Нестандартные глаголы** - образуются не по обыкновенному правилу, а смотрятся в словаре.
+
+Произносится `-ed`:
+- `[ıd]` после звуков `[t]` и `[d]`;
+- `[t]` после глухих согласных (кроме `t`);
+- `[d]` после всех остальных звуков.
 
 ### Глагол связка `to be`
 
@@ -641,15 +666,6 @@ She | reads |    | her notes   | to Peter | every day
 .               | `Is`     | `He` / `She` / `It`   |           | `<verb>`(`-ing`) | Is he playing the game.
 .               | `Are`    | `You` / `We` / `They` |           | `<verb>`(`-ing`) | Are they playing the game.
 
-Преобразование глагола: `<verb>`(`-ing`):
-- если оканчивается на: `-e`, то преобразуется в `-ing`;
-- если оканчивается на: `-ie`, то преобразуется в `-ying`;
-- если оканчивается на: `-y`, то преобразуется в `-ying`;
-- если слово оканчивается на согласную и перед ней стоит краткий гласный звук, то она удваивается:
-    > sit - sitting  
-    > get - getting
-- в остальных случаях добавляется `-ing`.
-
 ### Present Perfect
 
 Используется в ситуациях:
@@ -686,18 +702,6 @@ She | reads |    | her notes   | to Peter | every day
 Утвердительное  |          | `<subject>` | `have`     | `<verb>`(`-ed` / III form) | I have bought an apple.
 Отрицательное   |          | `<subject>` | `have not` | `<verb>`(`-ed` / III form) | I have not bought an apple.
 Вопросительное  | `Have`   | `<subject>` |            | `<verb>`(`-ed` / III form) | Have I bought an apple?
-
-Преобразование глагола: `<verb>`(`-ed` / III form):
-- **Стандартные глаголы** - образуются по стандарту: путем прибавления суффикса `-ed`:
-    - при этом `-y` после согласной переходит в `-i`;
-    - к "немому" `e` прибавляется только `d`;
-    - конечная согласная удваивается, если перед ней стоит краткий гласный звук.
-- **Нестандартные глаголы** - образуются не по обыкновенному правилу, а смотрятся в словаре.
-
-Произносится `-ed`:
-- `[ıd]` после звуков `[t]` и `[d]`;
-- `[t]` после глухих согласных (кроме `t`);
-- `[d]` после всех остальных звуков.
 
 #### Past Simple vs Present Perfect Simple
 
@@ -738,15 +742,6 @@ She | reads |    | her notes   | to Peter | every day
 Утвердительное  |          | `<subject>` | `have been`     | `<verb>`(`-ing`) | He has been doing.
 Отрицательное   |          | `<subject>` | `have not been` | `<verb>`(`-ing`) | He has not been doing.
 Вопросительное  | `Have`   | `<subject>` | `been`          | `<verb>`(`-ing`) | Has he been doing?
-
-Преобразование глагола: `<verb>`(`-ing`):
-- если оканчивается на: `-e`, то преобразуется в `-ing`;
-- если оканчивается на: `-ie`, то преобразуется в `-ying`;
-- если оканчивается на: `-y`, то преобразуется в `-ying`;
-- если слово оканчивается на согласную и перед ней стоит краткий гласный звук, то она удваивается:
-    > sit - sitting  
-    > get - getting
-- в остальных случаях добавляется `-ing`.
 
 ### Глаголы состояния
 
@@ -814,18 +809,6 @@ She | reads |    | her notes   | to Peter | every day
 Отрицательное   |          | `<subject>` | `did not` | `<verb>`                  | I did not take an apple.
 Вопросительное  | `Did`    | `<subject>` |           | `<verb>`                  | Did I take an apple?
 
-Преобразование глагола: `<verb>`(`-ed` / II form):
-- **Стандартные глаголы** - образуются по стандарту: путем прибавления суффикса `-ed`:
-    - при этом `-y` после согласной переходит в `-i`;
-    - к "немому" `e` прибавляется только `d`;
-    - конечная согласная удваивается, если перед ней стоит краткий гласный звук.
-- **Нестандартные глаголы** - образуются не по обыкновенному правилу, а смотрятся в словаре.
-
-Произносится `-ed`:
-- `[ıd]` после звуков `[t]` и `[d]`;
-- `[t]` после глухих согласных (кроме `t`);
-- `[d]` после всех остальных звуков.
-
 Вопросительная форма вспомогательных и модальных глаголов `to be`, `to have`, `can`, `may` образуется путем перестановки: глагол ставится перед подлежащим в прошедшем времени `was` / `were`, `had`, `could`, `might`.
 > Could I eat this apple?  
 > Might she come with us?
@@ -858,8 +841,6 @@ She | reads |    | her notes   | to Peter | every day
 Вопросительное  | `Was`    | `I` / `He` / `She` / `It` |            | `<verb>`(`-ing`) | Was he playing the game.
 .               | `Were`   | `You` / `We` / `They`     |            | `<verb>`(`-ing`) | Were they playing the game.
 
-Преобразование глагола: `<verb>`(`-ing`) аналогично преобразованию в форме **Present Continuous**.
-
 ### Past Perfect Simple
 
 Используется в ситуациях:
@@ -884,18 +865,6 @@ She | reads |    | her notes   | to Peter | every day
 Утвердительное  |          | `<subject>` | `had`     | `<verb>`(`-ed` / III form) | I had bought an apple.
 Отрицательное   |          | `<subject>` | `had not` | `<verb>`(`-ed` / III form) | I had not bought an apple.
 Вопросительное  | `Had`    | `<subject>` |           | `<verb>`(`-ed` / III form) | Had I bought an apple?
-
-Преобразование глагола: `<verb>`(`-ed` / III form):
-- **Стандартные глаголы** - образуются по стандарту: путем прибавления суффикса `-ed`:
-    - при этом `-y` после согласной переходит в `-i`;
-    - к "немому" `e` прибавляется только `d`;
-    - конечная согласная удваивается, если перед ней стоит краткий гласный звук.
-- **Нестандартные глаголы** - образуются не по обыкновенному правилу, а смотрятся в словаре.
-
-Произносится `-ed`:
-- `[ıd]` после звуков `[t]` и `[d]`;
-- `[t]` после глухих согласных (кроме `t`);
-- `[d]` после всех остальных звуков.
 
 #### Past Continuous vs Past Perfect Simple vs Past Simple
 
@@ -962,6 +931,58 @@ She | reads |    | her notes   | to Peter | every day
 Отрицательное   |          | `<subject>` | `to be not going to` | `<verb>` | He isn't going to have a snack.
 Вопросительное  | `To be`  | `<subject>` | `going to`           | `<verb>` | Is he going to have a snack?
 
+### Future Continuous
+
+Используется в ситуациях:
+- **for actions which will be in progress at a stated future time** - для действий, которые будут в ходе выполнения в указанное время в будущем:
+    > this time next week, I **will be skiing** in Austria.
+- **for actions which will definitely happen in the future as the result of a routine or arrangemrnt** - для действий, которые определенно произойдут в будущем, как результат рутинных действий или расписания:
+    > Shall I inform the rest of the team? No, I'll do it. I **will be seeing** then at the meeting anyway. (They have a meeting every week. He will definitely see the rest of the team because it's already planned.))
+- **when we ask politely about someone's plans for the near future (What we want to know is if our wishes fit in with their plans)** - когда мы хотим узнать вежливо про чьи-то планы на ближайшее будущее (Мы хотим узнать совпадают ли наши желания с их планами.):
+    > **Will** you **be going** out later? Yes. Why? Could you get me a sandwich, please?
+
+Тип предложения | Вспом гл | Субъект     | Вспом гл      | Предикат         | Пример
+----------------| -------- | ----------- | ------------- | ---------------- | ------
+Утвердительное  |          | `<subject>` | `will be`     | `<verb>`(`-ing`) | She will be working.
+Отрицательное   |          | `<subject>` | `will not be` | `<verb>`(`-ing`) | I will not be working.
+Вопросительное  | `Will`   | `<subject>` | `be`          | `<verb>`(`-ing`) | Will she be working?
+
+### Future Perfect
+
+Используется в ситуациях:
+- **for actions which will be finished before a stated future time** - для действий, которые закончатся ранее определенного будущего времени:
+    > They **will have finished** their meeting **by four o'clock** this afternoon.
+
+Используются такие ключевые слова:
+- `by` - `к`;
+- `by the time` - `ко времени`;
+- `before` - `перед`;
+- `until` - `до`;
+- `by then` - `к тому времени`.
+
+После выражений `by the time` / `until` / `before` используется время **Present Simple** так как они представляют временными словами, поэтому для употребяления этого времени оно должно идти до или после временных слов.
+
+Тип предложения | Вспом гл | Субъект     | Вспом гл        | Предикат                   | Пример
+----------------| -------- | ----------- | --------------- | -------------------------- | ------
+Утвердительное  |          | `<subject>` | `will have`     | `<verb>`(`-ed` / III form) | I will have left.
+Отрицательное   |          | `<subject>` | `will not have` | `<verb>`(`-ed` / III form) | I will not have left.
+Вопросительное  | `Will`   | `<subject>` | `have`          | `<verb>`(`-ed` / III form) | Will they have left?
+
+### Future Perfect Continuous
+
+Используется в ситуациях:
+- **to emphasise the duration of actions up to a certain time in the future** - для выражения (подчеркивания) продолжительности действий вплоть до определенного времени в будущем:
+    > **By the time** Rick retires, he **will have been working** for the same company **for thirty years**.
+
+Используются такие ключевые слова:
+- `by ... for` - `к ... в течении`.
+
+Тип предложения | Вспом гл | Субъект     | Вспом гл             | Предикат         | Пример
+----------------| -------- | ----------- | -------------------- | ---------------- | ------
+Утвердительное  |          | `<subject>` | `will have been`     | `<verb>`(`-ing`) | I will have been working.
+Отрицательное   |          | `<subject>` | `will not have been` | `<verb>`(`-ing`) | I will not have working.
+Вопросительное  | `Will`   | `<subject>` | `have been`          | `<verb>`(`-ing`) | Will I have been working?
+
 ## Пассивные времена (Passive tense)
 
 Используется в ситуациях, когда хотят показать что действие описываемое глаголом более важно, чем **агент** этого действия (человек или вещь, которое производит или является причиной этого действия). Агент представлен после предлога `by` и упоминается только когда это важно или должен быть указан.
@@ -986,19 +1007,7 @@ perfect continuous | `to have been` + `<verb>`(`-ing`)      | `to have been bein
 
 > The dog was fed yesterday.  
 > The dog will be fed.  
-> The dog should be fed.  
-
-Преобразование глагола: `<verb>`(`-ed` / III form):
-- **Стандартные глаголы** - образуются по стандарту: путем прибавления суффикса `-ed`:
-    - при этом `-y` после согласной переходит в `-i`;
-    - к "немому" `e` прибавляется только `d`;
-    - конечная согласная удваивается, если перед ней стоит краткий гласный звук.
-- **Нестандартные глаголы** - образуются не по обыкновенному правилу, а смотрятся в словаре.
-
-Произносится `-ed`:
-- `[ıd]` после звуков `[t]` и `[d]`;
-- `[t]` после глухих согласных (кроме `t`);
-- `[d]` после всех остальных звуков.
+> The dog should be fed.
 
 В остальном пассивная вопросительная и отрицательная форма аналогична активной форме глаголов.
 > Is this car made in Japan?  
@@ -1282,7 +1291,7 @@ object  | a cake | by Susan
     > She took a taxi home **as** / **since** it was late.
 - `because` - `потому что` / `из-за`:
     > I went to bed early **because** I was tired.
-- `the reason for` + `<существительное>` / `<глагол>-ing` - `причина ...`:
+- `the reason for` + `<существительное>` / `<verb>`(`-ing`) - `причина ...`:
     > **The reason for her delay** was (the fact) that she had missed the train.
 - `the reason why` + `<придаточное_предложение>` - `причина почему ...`:
     > **The reason why she was** delayed (the fact) that she had missed the train.
@@ -1305,7 +1314,7 @@ object  | a cake | by Susan
     > Take a map **in case** you get lost.
 - `for` + `<существительное>` - `для ...`, когда выражают цель действия:
     > They went to an Indian restaurant **for dinner**.
-- `for` + `<глагол>-ing` - `для ...`, когда выражают цель или функцию чего-то:
+- `for` + `<verb>`(`-ing`) - `для ...`, когда выражают цель или функцию чего-то:
     > We use an axe **for chopping** wood.
 
 Условные предложения
@@ -1488,17 +1497,17 @@ Verb                                                    | Preposition
 - `stop`:
     - `stop` + `to-<инфинитив>` - stop briefly to do something:
         > I **stopped to have** a cup of coffee.
-    - `stop` + `<глагол>-ing` - finish, give up:
+    - `stop` + `<verb>`(`-ing`) - finish, give up:
         > We **stopped reading** when the bell rang.
 - `remember`:
     - `remember` + `to-<инфинитив>` - not forget:
         > Please **remember to buy** some milk.
-    - `remember` + `<глагол>-ing` - bring to your mind:
+    - `remember` + `<verb>`(`-ing`) - bring to your mind:
         > I **remember giving** you the key before I left.
 - `forget`:
     - `forget` + `to-<инфинитив>` - not remember:
         > She **forgot to play** the phone bill.
-    - `forget` + `<глагол>-ing` - always remember:
+    - `forget` + `<verb>`(`-ing`) - always remember:
         > I'll never **forget learning** how to ride a bicycle.
 
 ## `Too` - `Enough`
