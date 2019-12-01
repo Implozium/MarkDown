@@ -55,7 +55,7 @@ const vm = new Vue({
                 // `this` указывает на экземпляр vm
                 return '<newValue>' || {};
             },
-            set: function (newValue) {
+            set: function (newValue) { // где newValue - новое значение
                 // `this` указывает на экземпляр vm
             }
         }
@@ -63,18 +63,18 @@ const vm = new Vue({
     /**
      * Объект для слежения за свойствами.
      * Будут вызваны указаные функции при изменении указаного свойства или подсвойства свойства и т.д.
-     * @type {Object.<string, {handler: function (), deep: Boolean, immediate: Boolean} | string | function () | *[]>=}
+     * @type {Object.<string, {handler: function (*, *), deep: boolean, immediate: boolean} | string | function () | *[]>=}
      */
     watch: {
-        "property": function () {
+        "property": function (value, oldValue) { // где value - текущее значение, уже измененное, oldValue - старое значение
             // `this` указывает на экземпляр vm
         },
-        "property.subproperty": function () {
+        "property.subproperty": function (value, oldValue) { // где value - текущее значение, уже измененное, oldValue - старое значение
             // `this` указывает на экземпляр vm
         }
         "property2": "<имя_метода>", // при изменении свойства будет вызван метод
         "property": {
-            handler: function () { // обработчик
+            handler: function (value, oldValue) { // обработчик, где value - текущее значение, уже измененное, oldValue - старое значение
                 // `this` указывает на экземпляр vm
             },
             deep: true, // будет наблюдать за всеми свойствами объекта, независимо от глубины их вложенности
@@ -94,7 +94,7 @@ const vm = new Vue({
      * Объект для объявления локальных компонентов,
      * которые будут видны только внутри этого компонента, при этом
      * локально зарегистрированные компоненты не будут доступны в дочерних компонентах
-     * @type {Object.<string, object>=} 
+     * @type {Object.<string, object>=}
      */
     components: {
         'component-1': {
@@ -778,8 +778,8 @@ const store = new Vuex.Store({
     // Мутации для изменения хранилища
     mutations: {
         /**
-         * 
-         * @param {{}} state 
+         *
+         * @param {{}} state
          * @param {*} arg1 аргумент вызова, при объектном вызове будет содержать весь объект мутации
          */
         ['<мутация1>'](state, arg1/*, ...*/) {
@@ -789,7 +789,7 @@ const store = new Vuex.Store({
     // Действия для инициаций мутаций
     actions: {
         /**
-         * 
+         *
          * @param {Object} context объект контекста, содержащий те же методы и свойства что и сам экземпляр хранилища
          * @param {function (string, ...*): *} context.dispatch
          * @param {function (string, ...*): *} context.commit
@@ -894,7 +894,7 @@ const moduleA = {
 }
 ```
 
-Первым аргументом, который получают мутации и геттеры, будет **локальное состояние модуля**. Аналогично, `context.state` в действиях также указывает на локальное состояние модуля, а корневое — доступно в `context.rootState`.
+Первым аргументом, который получают мутации и геттеры, будет **локальное состояние модуля**. Аналогично, `context.state` в действиях также указывает на локальное состояние модуля, а корневое - доступно в `context.rootState`.
 
 При установленном **пространстве имен**, когда модуль будет зарегистрирован, все его геттеры, действия и мутации будут автоматически связаны с этим пространством имен, основываясь на пути по которому зарегистрирован модуль: `getters['<модуль>/<геттер>']`.
 

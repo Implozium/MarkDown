@@ -1019,6 +1019,8 @@ She | reads |    | her notes   | to Peter | every day
     > Perhaps I **will see** her tonight.
 - **конструкция `Will you ...?` используются как вопрос для кого-то чтобы сделал что-то для нас**:
     > **Will you** post this letter for me, please.
+- **для действий / событий / ситуаций которые определенно случатся в будущем и которые мы не можем контролировать**:
+    > Winter **will set in** early this year.
 
 Используются такие ключевые слова:
 - `tomorrow`;
@@ -1037,7 +1039,7 @@ She | reads |    | her notes   | to Peter | every day
 ### <a id="Конструкция-to-be-going-to" href="#Конструкция-to-be-going-to">Конструкция `to be going to`</a>
 
 Используется в ситуациях:
-- **for plan and intentions** - для планов или намерений в ближайшем будущем:
+- **for plans, intentions or ambitions** - для планов, намерений или амбиций в ближайшем будущем:
     > Susan **is going to** move house.
 - **for predictions based on what we see or we know** - для предсказаний основанных на том что мы видим или знаем:
     > Look at him. He **is going to** jump out of the train.
@@ -1184,8 +1186,11 @@ object  | a cake | by Susan
             > Tina was doing the wasing-up while the children were playing in the garden.
     - и описывает справочную информацию в истории повествования, то: **Past Continuous**:
         > The sun was shining brightly as Tom was driving his brand new car through the city center.
-    - и которое случилось в неопределенное время в прошлом (точное время которого не важно, так как само действие важнее), то: **Present Perfect**:
-        > Tom has broken his arm.
+    - и которое случилось в неопределенное время в прошлом:
+        - и точное время которого не важно, так как само действие важнее, то: **Present Perfect**:
+            > Tom has broken his arm.
+        - и этот период времени все еще соединен с текущим:
+            > I **have eaten** out twice this week. (this week is not yet finished)
     - и есть видимый результат этого действия в настоящем:
         - и важна длительность его, то: **Present Perfect Continuous**:
             > They are tired. They have been working for nine hours.
@@ -1219,7 +1224,7 @@ object  | a cake | by Susan
         > I go to the doctor at 5 am.
     - и оно будет по определенному плану или договоренности в ближайшем будущем (в частности с глаголами движения `come`, `go`, `fly`, `travel`, `leave` и т.д.), то: **Present Continuous**:
         > I am going to supermarket at 5 o'clock.
-    - и выражает план или намерение в ближайшем будущем, то: конструкция `to be going to ...`:
+    - и выражает план, намерение или амбицию в ближайшем будущем, то: конструкция `to be going to ...`:
         > Susan is going to move house.
     - и выражает предсказание основанное:
         - на нашей вере или рассуждениях, то: **Future Simple**:
@@ -1232,6 +1237,14 @@ object  | a cake | by Susan
         > I'll buy you this ring.
     - и используется с глаголами `hope`, `think`, `believe`, `expect` и т.п.; с выражениями `I'm sure`, `I'm afraid` и т.п., а также наречиями `probably`, `perhaps` и т.п., то: **Future Simple**:
         > I hope he will pass his exams.
+    - и которое определенно случится и мы его не можем контролировать, то: **Future Simple**:
+        > Winter **will set in** early this year.
+    - и которое будет выполняться в определенный момент в будущем, то: **Future Continuous**:
+        > this time next week, I **will be skiing** in Austria.
+    - и которое закончится ранее определенного будущего времени, то: **Future Perfect**:
+        > They **will have finished** their meeting **by four o'clock** this afternoon.
+    - и необходимо выразить продолжительность его действия к определенному моменту в будущем, то: **Future Perfect Continuous**:
+        > **By the time** Rick retires, he **will have been working** for the same company **for thirty years**.
 - если действие выражает приобретенный опыт, то: **Present Perfect**:
     > They have traveled trough Europe.
 
@@ -1365,7 +1378,7 @@ object  | a cake | by Susan
 ## <a id="Слова-связки" href="#Слова-связки">Слова-связки</a>
 
 Используются для того, чтобы объеденить предложения или идеи. Ставятся в основном между предложениями.
-- `because` - используется для выражния причины чего-либо^
+- `because` - используется для выражния причины чего-либо:
     > I spent the weekend in bed **because** I was sick.
 - `so` - используется для выражения результата:
     > He wanted to become an actor **so** he went to college.
