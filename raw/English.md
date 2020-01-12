@@ -260,6 +260,19 @@ She | reads |    | her notes   | to Peter | every day
 
 ## Глагол (verb)
 
+### Отрицательная форма глагола
+
+Образуется с помощью отрицания `not` (`[nɔt]`) **не**, которая ставится после глагола, в разговорной речи принимает форму ```n`t``` и сливается с глаголом:
+- `to be` - `am not`; `is not` / ```isn`t```; `are not` / ```aren`t```;
+- `to have` - `have not` / ```haven`t```; `has not` / ```hasn`t```;
+- `can` - `cannot` / ```can`t```;
+- `may` - `may not`;
+- `must` - `must not` / ```mustn`t```.
+
+Отрицательная форма смысловых глаголов образуется с помощью `do not` / ```don`t``` (`[dount]`) перед смысловым глаголом; для 3-го лица ед. числа ставится `does not` / ```doesn`t``` (`[dʌznt]`), и поглощает окончание –(e)s смыслового глагола.
+
+Перед формой Infinitive частица `not` ставится впереди этой формы.
+
 ### Инфинитив **Infinitive**
 
 Неопределенное наклонение глагола, отвечающее на вопрос **что делать?**, **что сделать?**.
@@ -1272,10 +1285,37 @@ object  | a cake | by Susan
 
 ## Временные слова
 
-Используются для соединения предложений. После временных слов `before`, `after`, `while`, `until`, `till`, `as`, `unless`, `when`, `whenever`, `if`, `suppose`, `supposing`, `until`, `once`, `as soon as`, `as long as`, `by the time`, `in case` и `on condition that` не используется время **Future Simple**, а используется **Present Simple**.
-> I'll wait for you until you finish.
+Используются для соединения предложений. После временных слов `before`, `after`, `while`, `until`, `till`, `as`, `unless`, `when`, `whenever`, `if`, `suppose`, `supposing`, `once`, `as soon as`, `as long as`, `by the time`, `in case` и `on condition that` не используется время **Future Simple**, а используется **Present Simple**.
+> I'll wait for you **until** you finish.
 
 Если `when` используется в качестве вопросительного слова, то за ним может следовать **Future Simple**.
+> **When** I **see** Tom, I'll let him know. (time conjunction)  
+> I don't know **when** he **will be** back. (question world)
+
+### Союзы времени
+
+Используются для выражение времени чего-то. Конструкции:
+- `before` - `до` (определенного прошлого времени):
+    > Melissa started work last year. She had graduated two years **before**. (two years before last year)
+- `ago` - `уже` (до сейчас):
+    > Peter graduated four years **ago**. (four years before now)
+- `by the time` + `<предложение>` - `до ...` / `перед ...` (до, не позже чем произойдет `<предложение>`), при этом главное предложение используется во времени **Perfect**:
+    > I will have arranged everything **by the time** you come back. (before, not later than the moment you come back)
+- `until` / `till` + `<предложение>` / `<временное_наречие>` - `к ...` / `пока ...` (пока не произойдет `<предложение>` или не наступит `<временное_наречие>`):
+    > He will wait for you **until** / **till** you are ready. (up to the time when you are ready)  
+    > I'll be away **until** / **till** Thuesday. (up to Tuesday)
+
+    `not ... until` / `not ... till` = `not ... before`
+- `by` + `<временное_наречие>` - `к ...` (не позже чем наступит `<временное_наречие>`):
+    > I have to be back **by** Tuesday evening. (no later than Tuesday evening)
+- `while` / `as` + `<предложение>` - `пока ...` (пока `<предложение>` происходило):
+    > The earthquake occured **while** / **as** the were sleeping.
+- `during` + `<временное_наречие>` - `пока ...` (пока `<временное_наречие>` происходило):
+    > The earthquake occured **during** the night.
+- `no sooner ... than` / `hardly ... when` - `едва ... как` (используется для указания что одно действие случилось сразу же за другим действием), при этом главное предложение используется во времени **Perfect**:
+    > Sheila had **no sooner** finished reading the letter **than** she burst into tears.
+- `as soon as` / `the moment (that)` - `как только` / `в тот момент` (сразу когда произойдет событие):
+    > Call me **as soon as** / **the moment (that)** you arrive.
 
 ## Придаточные предложения (`Clauses`)
 

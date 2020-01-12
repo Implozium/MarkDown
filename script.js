@@ -39,6 +39,8 @@ function makeHeader(content, level) {
 function makeContent(arr) {
     const headers = [];
 
+    const content = 'Содержание';
+
     const madeArr = arr.map(row => {
         let match = null;
         if (match = /(.*?)\r?\n(===+)$/m.exec(row)) {
@@ -46,13 +48,13 @@ function makeContent(arr) {
                 level: 1,
                 title: match[1]
             });
-            return makeHrefId(match[1]) + '\r\n' + match[2];
+            return makeHrefId(match[1]) + ' [' + makeHrefId(content) + ']' + '\r\n' + match[2];
         } else if (match = /^(#+) (.*)/.exec(row)) {
             headers.push({
                 level: match[1].length,
                 title: match[2]
             });
-            return match[1] + ' ' + makeHrefId(match[2]);
+            return match[1] + ' ' + makeHrefId(match[2]) + ' [' + makeHrefId(content) + ']';
         } else {
             return row;
         }
