@@ -1836,7 +1836,7 @@ Verb                                                    | Preposition
     > She **said** she was angry.
 - `<someone>` + `said` + `to` + `<адресат>` + `(that)` + `...`:
     > She **said to me that** she was angry.
-- `<someone>` + `told` + `to` + `<адресат>` + `(that)` + `...`:
+- `<someone>` + `told`  + `<адресат>` + `(that)` + `...`:
     > She **told me** that she was angry.
 
 > "He sent me flowers", she said. - She said that he had sent her flowers.
@@ -1884,7 +1884,7 @@ Verb                                                    | Preposition
 > "What time does the film start?" Mary asked me. - Mary **asked** me **what time the film started**.
 
 Если вопрос в прямой речи начинается со вспомогательного глагола: `be`, `do`, `have` или модального глагола: `can`, `may`, `will`, то вопрос в косвенной речи образуется при помощи `if` или `whether`.
-> "**Have** you got a pet" he asked me. - He asked me if I had got a pet.
+> "**Have** you got a pet?" he asked me. - He asked me if I had got a pet.
 
 `whether` - используется после предлогов и перед глаголов вида `to-<инфинитив>` и в конструкции `whether or not`.
 > Claire wondered **whether to phone** him.  
