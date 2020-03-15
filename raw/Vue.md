@@ -119,6 +119,12 @@ const vm = new Vue({
     created: function () {
         // `this` указывает на экземпляр vm
     },
+    render: function (createElement) {
+        return createElement(
+            '<имя_тега>',
+            <массив_дочерних_элементов>
+        );
+    },
 });
 ```
 
