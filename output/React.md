@@ -39,7 +39,9 @@
             - [Хук ссылок `React.useRef`](#Хук-ссылок-ReactuseRef)
         - [Пользовательские хуки](#Пользовательские-хуки)
     - [`React.Children`](#ReactChildren)
+    - [`React.createElement`](#ReactcreateElement)
     - [`React.cloneElement`](#ReactcloneElement)
+    - [`React.isValidElement`](#ReactisValidElement)
     - [Компоненты высшего порядка (higher order component, HOC)](#Компоненты-высшего-порядка-higher-order-component-HOC)
     - [Шаблон "render props"](#Шаблон-render-props)
 - [React Router](#React-Router)
@@ -168,7 +170,8 @@ React DOM использует соглашение об именовании с
 ```JSX
 ReactDOM.render(
     <<Компонент>> <контент> </<Компонент>>,
-    document.getElementById('<id>')
+    document.getElementById('<id>'),
+    [<callback>]
 );
 ```
 Это вставляет компонент внутрь указанного элемента в html.
@@ -711,9 +714,21 @@ React будет повторно вычислять мемоизированн�
 
 `React.Children.toArray(this.props.children)` - возвращает массив преобразованный из `this.props.children`.
 
+`React.Children.count(this.props.children)` - возвращает количество элементов в `this.props.children`.
+
+`React.Children.only(this.props.children)` - возвращает один элемент из `this.props.children` если он только один, иначе выдает ошибку.
+
+## <a id="ReactcreateElement" href="#ReactcreateElement">`React.createElement`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+`React.createElement(<имя_тега>[, props][, ...children])` - возвращает созданый элемент с тегом `<имя_тега>` с добавленными свойствами и дочерними компонентами.
+
 ## <a id="ReactcloneElement" href="#ReactcloneElement">`React.cloneElement`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
-`React.cloneElement(<react_element>[, props][, ...children])` - возвращает клон элемента с добавленными свойствами, работает аналогично: `<element.type {...element.props} {...props}>{children}</element.type>`
+`React.cloneElement(<react_element>[, props][, ...children])` - возвращает клон элемента с добавленными свойствами, работает аналогично: `<element.type {...element.props} {...props}>{children}</element.type>`.
+
+## <a id="ReactisValidElement" href="#ReactisValidElement">`React.isValidElement`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+`React.isValidElement(<объект>)` - возвращает `true`, если `<объект>` является валидным React-элементом.
 
 ## <a id="Компоненты-высшего-порядка-higher-order-component-HOC" href="#Компоненты-высшего-порядка-higher-order-component-HOC">Компоненты высшего порядка (higher order component, HOC)</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 

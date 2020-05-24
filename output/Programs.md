@@ -12,6 +12,8 @@
         - [Команды для работы с томами](#Команды-для-работы-с-томами)
     - [Другие команды](#Другие-команды)
     - [`docker-compose`](#docker-compose)
+    - [Примеры](#Примеры)
+        - [Файлы для сервера ноды](#Файлы-для-сервера-ноды)
 - [Redis](#Redis)
 - [`curl`](#curl)
 - [`nginx`](#nginx)
@@ -185,7 +187,11 @@ services:
     
         depends_on:
             - <имя_сервиса>
+        # имя контенера
+        container_name: <имя_контенера>
 ```
+
+Порты контейнеров, назначенные в файлах Dockerfile, будут открыты в сети, организуемой Docker Compose.
 
 `docker-compose build` - выполняет команды `build` для всех сервисов.
 
@@ -199,6 +205,92 @@ services:
 `docker-compose ps` - выводит список контейнеров.
 
 `docker-compose exec <контейнер> <команда>` - выполняет команду в выполняющемся контейнере.
+
+## <a id="Примеры" href="#Примеры">Примеры</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+### <a id="Файлы-для-сервера-ноды" href="#Файлы-для-сервера-ноды">Файлы для сервера ноды</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+Dockerfile для создания статики и запуска nginx сервера:
+```Dockerfile
+# использование образа с алиасом build для создания статики
+FROM node:12-alpine as build
+# создание директории и установка ее активной для следующих команд
+WORKDIR /app
+# копирование package.json внутрь контейнера
+COPY package.json /app/package.json
+# установка зависимостей
+RUN npm install --only=prod
+# копирование исходного кода
+COPY . /app
+# запуск сборки
+RUN npm run build
+# использования образа nginx для запуска и отдачи статики
+FROM nginx:1.16.0-alpine
+# копирование из образа build из каталога /app/build в каталог /usr/share/nginx/html текущего образа 
+COPY --from=build /app/build /usr/share/nginx/html
+# открытие порта 80 наружу
+EXPOSE 80
+# запуск команды на выполнение
+CMD ["nginx", "-g", "daemon off;"]
+```
+
+Dockerfile для компиляции и запуска сервера ноды:
+```Dockerfile
+# использование образа с алиасом builder для комплиляции кода
+FROM node:12-alpine as builder
+# создание директории и установка ее активной для следующих команд
+WORKDIR /app
+# копирование package.json внутрь контейнера
+COPY package.json /app/package.json
+# установка зависимостей
+RUN npm install
+# копирование исходного кода
+COPY . /app
+# запуск компиляции
+RUN npm run build
+# использования образа ноды
+FROM node:12-alpine
+# создание директории и установка ее активной для следующих команд
+WORKDIR /app
+# копирование из образа builder из каталога /app/dist в каталог /app текущего образа 
+COPY --from=builder /app/dist /app
+# копирование package.json внутрь контейнера
+COPY package.json /app/package.json
+# установка зависимостей
+RUN npm install --only=prod
+# открытие порта 8080 наружу
+EXPOSE 8080
+# установка пользователя
+USER node
+# запуск команды на выполнение
+CMD ["node", "index.js"]
+```
+
+Файл `docker-compose.yml` для запуска образов:
+```yml
+version: "3"
+services:
+  api:
+    build: ./services/api
+    ports:
+      - "8080:8080"
+    depends_on:
+      - db
+    container_name: blog-api
+  client:
+    build: ./services/client
+    ports:
+      - "80:80"
+    container_name: blog-client
+  db:
+    image: mongo
+    ports:
+      - "27017:27017"
+    container_name: blog-db
+```
+
+Для общения между контейнерами используется имя контейнера вместо ip адреса localhost.
+> `mongodb://localhost:27017/blog` -> `mongodb://blog-db:27017/blog`
 
 <a id="Redis" href="#Redis">Redis</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 =====
