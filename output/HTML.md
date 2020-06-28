@@ -4,6 +4,7 @@
 - [Теги](#Теги)
     - [Заглавные в `head`](#Заглавные-в-head)
     - [`link`](#link)
+    - [Автодополнение](#Автодополнение)
 
 <a id="Теги" href="#Теги">Теги</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 ====
@@ -28,3 +29,18 @@
     - `font` - для шрифтов;
     - `fetch` - для ресурсов, загруженных с помощью `fetch()` или `XMLHttpRequest`;
     - и д.р.
+
+## <a id="Автодополнение" href="#Автодополнение">Автодополнение</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+Реализуется посредством тега `datalist` с содержимым в виде тегов `option`, который связывается с `input` посредством атрибута `list` со значением идентификатора тега `datalist`.
+
+```html
+<input id="color" list="suggestions">
+<datalist id="suggestions">
+    <option value="Black">
+    <option value="Red">
+    <option value="Green">
+    <option value="Blue">
+    <option value="White">
+</datalist>
+```
