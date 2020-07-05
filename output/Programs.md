@@ -324,7 +324,8 @@ services:
 
 Примеры:
 - `curl -F '<имя_поля>=@<путь_к_файлу>'[ ...] <url>` - загружает файл на указанный адрес `<url>`;
-- `curl -X POST -H "Content-Type: text/xml;charset=UTF-8" -H "SOAPAction: <soap_метод_вызова>" --data-binary @<путь_к_файлу_xml> <url>` - отправляет soap запрос с указанным действием `<soap_метод_вызова>` на адрес `<url>` с телом запроса из файла.
+- `curl -X POST -H "Content-Type: text/xml;charset=UTF-8" -H "SOAPAction: <soap_метод_вызова>" --data-binary @<путь_к_файлу_xml> <url>` - отправляет soap запрос с указанным действием `<soap_метод_вызова>` на адрес `<url>` с телом запроса из файла;
+- `curl -OL <url>` - загружает файл с адреса `<url>` в файл с именем после последнего `/` в адресе `<url>`.
 
 <a id="nginx" href="#nginx">`nginx`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 =======
