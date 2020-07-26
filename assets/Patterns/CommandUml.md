@@ -17,7 +17,7 @@
 
 [Receiver||
     +action()]
-    
+
 [Invoker]
 [Invoker] +- [Command]
 ```

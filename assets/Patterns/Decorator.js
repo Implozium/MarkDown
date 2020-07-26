@@ -3,7 +3,7 @@ class InputStream {
     constructor() {}
     read() {}
 }
-//Входной поток как строка 
+//Входной поток как строка
 class StringInputStream extends InputStream {
     constructor(str) {
         super();

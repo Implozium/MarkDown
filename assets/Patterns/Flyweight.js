@@ -89,7 +89,7 @@ class ConnectionManager {
                 this._connections[i].load(query.data.id)
                     .then(query.promise.res, query.promise.rej)
                     .then(this._exec.bind(this));
-            } 
+            }
             if (query.type === 'save') {
                 this._connections[i].save(query.data.id, query.data.data)
                     .then(query.promise.res, query.promise.rej)

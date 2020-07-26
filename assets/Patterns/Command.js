@@ -104,7 +104,7 @@ class ValueReport extends Report {
         `and for every day it is about ${this._user.value * 12 / 365}$`
         ].join('\n');
     }
-}    
+}
 
 class FiredReport extends Report {
     constructor(user) {

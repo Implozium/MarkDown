@@ -39,7 +39,7 @@ class ObjectIterator extends Iterator {
 
 class KeyValue {
     constructor(key, value) {
-        this.key = key; 
+        this.key = key;
         this.value = value;
     }
 }
@@ -74,7 +74,7 @@ class UserDataMap extends Aggregate {
         return keyValue ? keyValue.value : undefined;
     }
 }
-//Реализует печатанье данных пользователя, использует только Aggregate, а в нем проход только с использованием Iterator 
+//Реализует печатанье данных пользователя, использует только Aggregate, а в нем проход только с использованием Iterator
 class PrintUserData {
     constructor() {}
     print(aggregate) {

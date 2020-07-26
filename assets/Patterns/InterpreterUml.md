@@ -17,6 +17,6 @@
 [TerminalExpression||
     +interpret(): Context]
 [TerminalExpression] -:> [AbstractExpression]
-    
+
 [Context]
 ```

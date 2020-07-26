@@ -7,14 +7,14 @@
     +attach(in o: Object);
     +deetach(in o: Object);
     +notify()]
-    
+
 [ConcreateSubject|
     -subjectState|]
 [ConcreateSubject] -:> [Subject]
 
 [<interface> Observer||
     +update()]
-    
+
 [ConcreateObserver|
     -observerState|
     +update()]

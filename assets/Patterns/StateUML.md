@@ -1,16 +1,16 @@
 ```http://www.nomnoml.com/
 #fill: #fff
 #title: State
-#.interface: italic    
+#.interface: italic
 [<interface> State||
     +handle()]
-    
+
 [ConcreateState1||
-    +handle()]    
+    +handle()]
 [ConcreateState1] -:> [State]
-    
+
 [ConcreateState2||
-    +handle()]    
+    +handle()]
 [ConcreateState2] -:> [State]
 
 [Context||

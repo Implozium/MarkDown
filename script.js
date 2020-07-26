@@ -3,7 +3,7 @@ const fs = require('fs');
 function mdParse(content) {
     const arr = content.split(/\r?\n/);
     const resArr = [];
-    
+
     let buffer = [];
     let isBlock = false;
 

@@ -144,7 +144,7 @@
 - **притяжательное местоимение**;
 - **неопределенные местоимения** `some` / `any`;
 - **количество** - выражено числом;
-- **количество** - `much` / `many` / `a lot of` / `lots of` / `a little` / `a few` / `little` / `few`;
+- **количество** - `much` / `many` / `a lot of` / `lots of` / `a little` / `a few` / `little` / `few`.
 
 ### <a id="Сложные-слова" href="#Сложные-слова">Сложные слова</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
@@ -373,7 +373,7 @@ She | reads |    | her notes   | to Peter | every day
     - `help yourself` - тебе позволено брать что угодно, если ты хочешь это.
 - для выделения существительного или местоимения в предложении: `<существительное>` / `<местоимение>` + `<возвратное_местоимение>`:
     > I myself made this cake. (I made the cake, not somebody else.)
-    
+
     Замечание: обычно не используется с такими глаголами как: `dress`, `wash`, `shave`. Но используются, когда нужно показать что что-то было сделано с многими усилиями.
 
 ### <a id="Указательные-местоимения" href="#Указательные-местоимения">Указательные местоимения</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
@@ -591,7 +591,7 @@ Verb                                                    | Preposition
 - `left` - влево;
 - `right` - вправо;
 - `forward` - вперед;
-- `back` - назад;
+- `back` - назад.
 
 #### <a id="С-частицами" href="#С-частицами">С частицами</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
@@ -915,7 +915,7 @@ Verb                                                    | Preposition
     > Bill **is dropping** a ball.
 - **fixed arrangements in the near future** - когда говорим о фиксированных договоренностях в ближайшем будущем:
     > I **am going** to supermarket at 5 o'clock.
-- **repeated actions with "always" expressing annoyance or criticism**
+- **repeated actions with "always" expressing annoyance or criticism**.
 
 Используются такие ключевые слова:
 - `now`;
@@ -1266,7 +1266,7 @@ Verb                                                    | Preposition
 
 Используется для обозначения страдательной формы субъекта.
 
-Страдательная форма может быть только у глаголов, которые имеют направленность своего действия. 
+Страдательная форма может быть только у глаголов, которые имеют направленность своего действия.
 
 Используется в ситуациях, когда хотят показать что действие описываемое глаголом более важно, чем **агент** этого действия (человек или вещь, которое производит или является причиной этого действия). Агент представлен после предлога `by` и упоминается только когда это важно или должен быть указан.
 > Oliver Twist **was written** by Charles Dickens.
@@ -1657,7 +1657,7 @@ object  | a cake | by Susan
 
 1. Употребляется, когда действие относиться к настоящему или будущему и действие реальное. Строится из условной части и части результата выполнения условия:
     - `If` / `When` / `Unless` + `<Present_Form>` + `,` + `<Future_Form>`;
-    - `<Future_Form>` + `if` / `when` / `unless` + `<Present_Form>`;
+    - `<Future_Form>` + `if` / `when` / `unless` + `<Present_Form>`.
 
     Ключевые слова:
     - `If` - когда условие показывает что мы не уверены в том что условие сбудется;
@@ -2207,7 +2207,7 @@ Type of eating:
 ### <a id="tall-and-high" href="#tall-and-high">`tall` and `high`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
 - `tall` - about physical / standing;
-- `high` - about above (higher) than other like it / ideas / position / reaching for a peak
+- `high` - about above (higher) than other like it / ideas / position / reaching for a peak.
 
 ## <a id="Отношение" href="#Отношение">Отношение</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 

@@ -27,7 +27,7 @@ class ObjectIterator {
 
 class KeyValue {
     constructor(key, value) {
-        this.key = key; 
+        this.key = key;
         this.value = value;
     }
 }
@@ -76,7 +76,7 @@ let block;
 while (block = iterator.next(), !block.done) {
     console.log(block.value);
 }
-iterator = new ObjectIterator({a: 2, b: 4, g: 3, d: 1});    
+iterator = new ObjectIterator({a: 2, b: 4, g: 3, d: 1});
 while (block = iterator.next(), !block.done) {
     console.log(block.value);
 }

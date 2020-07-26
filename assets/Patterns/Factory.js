@@ -23,7 +23,7 @@ class QuoteConsoleElement extends ConsoleElement {
         console.log('"' + str + '"');
     }
 }
-//Реализует фабрику, которая по имени возвращает один из подтипов ConsoleElement или его 
+//Реализует фабрику, которая по имени возвращает один из подтипов ConsoleElement или его
 class ConsoleOutputter {
     constructor() {}
     create(type) {

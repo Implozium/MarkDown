@@ -7,7 +7,7 @@
     +add(in c: Composite);
     +remove(in c: Composite);
     +getChild(in i: int)]
-    
+
 [Leaf||
     +operation()]
 [Leaf] -:> [Component]

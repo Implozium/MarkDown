@@ -4,7 +4,7 @@
 #.interface: italic
 [<interface> Iterator||
     +next()]
-    
+
 [ConcerteIterator||
     +next(): Context]
 [ConcerteIterator] -:> [Iterator]
@@ -15,7 +15,7 @@
 
 [<interface> Aggregate||
     +createIterator()]
-    
+
 [ConcerteAggregate||
     +createIterator(): Context]
 [ConcerteAggregate] -:> [Aggregate]

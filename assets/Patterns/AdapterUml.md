@@ -4,7 +4,7 @@
 #.interface: italic
 [<interface> Adapter||
     +operation()]
-    
+
 [Client]
 [Client] -> [Adapter]
 

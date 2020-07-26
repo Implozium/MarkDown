@@ -59,7 +59,7 @@ class TableExtractor extends Extractor {
     }
 }
 
-const csvStr = 
+const csvStr =
 'number,id,name,sum\n' +
 '1,123,Verk,3.00\n' +
 '2,23,Mark,13.00\n' +
@@ -67,7 +67,7 @@ const csvStr =
 let parser = new Parser(new CSVExtractor(','));
 console.log(parser.parse(csvStr));
 
-const tableStr = 
+const tableStr =
 'number | id  | name  | sum  \n' +
 '----------------------------\n' +
 '1      | 123 | Verk  |  3.00\n' +

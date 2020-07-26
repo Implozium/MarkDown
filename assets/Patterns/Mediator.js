@@ -58,7 +58,7 @@ class AjaxEmmiter extends Colleague {
                     this.send(new Message('refresh-users', [
                         new User('User1', 203), new User('User2', 1203), new User('User3', 123)
                     ]));
-                break;                    
+                break;
                 case 9:
                     console.log('end');
                     return;

@@ -7,7 +7,7 @@
 
 [Memento|
     -state|]
-    
+
 [Organizator|
     -state|
     +setMemento(in m:Memento);

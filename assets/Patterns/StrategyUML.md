@@ -1,16 +1,16 @@
 ```http://www.nomnoml.com/
 #fill: #fff
 #title: Strategy
-#.interface: italic    
+#.interface: italic
 [<interface> Strategy||
     +execute()]
-    
+
 [ConcreateStrategyA||
-    +execute()]    
+    +execute()]
 [ConcreateStrategyA] -:> [Strategy]
-    
+
 [ConcreateStrategyB||
-    +execute()]    
+    +execute()]
 [ConcreateStrategyB] -:> [Strategy]
 
 [Context]

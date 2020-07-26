@@ -4,7 +4,7 @@
 #.interface: italic
 [<interface> Implementor||
     +operationImpl()]
-    
+
 [Abstraction||
     +operation()]
 [Abstraction] +- [Implementor]
