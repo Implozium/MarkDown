@@ -394,6 +394,8 @@ util.inherits(<Stream>, stream.Transform);
 `npm view <имя_модуля> version` - возвращает самый последний номер версии пакета.  
 `npm view <имя_модуля> versions` - возвращает все номера версии пакета.
 
+`npm version { major | minor | patch }` - увеличивает текущую версию пакета (модуля): `<major>.<minor>.<patch>`.
+
 Строение `package.json`:
 ```json
 {
