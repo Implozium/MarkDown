@@ -30,18 +30,14 @@ class ConsoleOutputter {
         switch (type) {
             case 'short':
                 return new ShortConsoleElement();
-            break;
             case 'quote':
                 return new QuoteConsoleElement();
-            break;
             case 'upper':
                 return new UpperConsoleElement();
-            break;
             case 'long':
             case 'simple':
             default:
                 return new ConsoleElement();
-            break;
         }
     }
 }

@@ -82,6 +82,7 @@
         - [Результата](#Результата)
         - [Причины](#Причины)
         - [Цели](#Цели)
+    - [Принуждение](#Принуждение)
 - [Условные предложения](#Условные-предложения)
 - [Предлоги](#Предлоги)
     - [Предлог `of` - `[ɔv]`](#Предлог-of---v)
@@ -103,10 +104,13 @@
     - [`have been` (`to`) / `have gone` (`to`)](#have-been-to--have-gone-to)
     - [Устойчивые идиомы с глаголом `have`](#Устойчивые-идиомы-с-глаголом-have)
     - [Описание локаций](#Описание-локаций)
-    - [Косвенная речь](#Косвенная-речь)
-        - [Вопросы](#Вопросы)
-        - [Непрямые вопросы](#Непрямые-вопросы)
+    - [Слова подобия `as`, `like`](#Слова-подобия-as-like)
+- [Выражение эмоций](#Выражение-эмоций)
     - [Восклицания (Exclaminations)](#Восклицания-Exclaminations)
+    - [Разочарование (Disappointment)](#Разочарование-Disappointment)
+- [Косвенная речь](#Косвенная-речь)
+    - [Вопросы](#Вопросы)
+    - [Непрямые вопросы](#Непрямые-вопросы)
 - [Запятая](#Запятая)
 - [Синонимы](#Синонимы)
     - [`say`, `tell`, `speak`, `talk`](#say-tell-speak-talk)
@@ -306,6 +310,8 @@ Refer for  | Positive    | Interrogative | Negative
 `little`    | неисчисляемое | меньше чем единица / часть чего-то целого      | 
 `few`       | исчисляемое   | меньше чем единица / часть чего-то целого      | 
 
+В негативном контексте `few` обозначает что `почти никто / ничто`
+
 ### <a id="Неисчисляемые-существительные" href="#Неисчисляемые-существительные">Неисчисляемые существительные</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
 Они не имеют множественных значений - это то что не осязаемое, сыпучие, льющиеся и которое нельзя схватить по одному. `a` / `an` не используется с неисчисляемыми существительными, с ними используется `some`, `any`, `no`, `much` и др. Употребляются в единственном числе. Примеры слов:
@@ -399,6 +405,9 @@ She | reads |    | her notes   | to Peter | every day
 
 Может использоваться после `if` в положительных предложениях.
 > If **anyone** calls, tell them I'm not home.
+
+Используется при наличие слов с негативным смыслом: `hardly`, `newer`, `without` и др.
+> It's too dark in the room, I can **hardly** see anything here.
 
 ### <a id="Относительные-местоимения-who--which--where" href="#Относительные-местоимения-who--which--where">Относительные местоимения `who` / `which` / `where`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
@@ -796,6 +805,7 @@ Verb                                                    | Preposition
 3. Форма (**shape**) - `triangular`, `round`, `rectangular`, `square`, etc;
 4. Цвет (**colour**) - `dark / light blue`, `yellow`, `pink`, `cream`, etc;
 5. Материал (**material**) - `cotton`, `wooden`, `woollen`, `gold`, etc.
+6. Назначение (**purpose**) - `riding`
 
 Прилагательные обычно разделяются запятыми.
 
@@ -1214,7 +1224,8 @@ Verb                                                    | Preposition
 
 Используется в ситуациях:
 - **for actions which will be in progress at a stated future time** - для действий, которые будут в ходе выполнения в указанное время в будущем:
-    > this time next week, I **will be skiing** in Austria.
+    > This time next week, I **will be skiing** in Austria.  
+    > I **will be reading** newspaper when mom arrives tonight.
 - **for actions which will definitely happen in the future as the result of a routine or arrangemrnt** - для действий, которые определенно произойдут в будущем, как результат рутинных действий или расписания:
     > Shall I inform the rest of the team? No, I'll do it. I **will be seeing** then at the meeting anyway. (They have a meeting every week. He will definitely see the rest of the team because it's already planned.))
 - **when we ask politely about someone's plans for the near future (What we want to know is if our wishes fit in with their plans)** - когда мы хотим узнать вежливо про чьи-то планы на ближайшее будущее (Мы хотим узнать совпадают ли наши желания с их планами.):
@@ -1544,7 +1555,7 @@ object  | a cake | by Susan
 
 ## <a id="Слова-связки" href="#Слова-связки">Слова-связки</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
-Используются для того, чтобы объеденить предложения или идеи. Ставятся в основном между предложениями.
+Используются для того, чтобы объеденить предложения или идеи. Ставятся в основном между предложениями или вначале первого предложения.
 - `because` - используется для выражния причины чего-либо:
     > I spent the weekend in bed **because** I was sick.
 - `so` - используется для выражения результата:
@@ -1553,6 +1564,12 @@ object  | a cake | by Susan
     > She exhibited her work in Paris **too**.
 - `but` - используется для выражения противопоставления:
     > The perfomance was good,**but** few people came.
+- `although` / `though` / `even though` - `хотя` / `несмотря на` / `даже не смотря на` - используется для выражения удивительного контраста между предложениями:
+    > **Even thiugh** rescue teams had been searching the lost climbers all night, they couldn't find any trace of them.
+- `despite` / `in spite of` + `<наречие>` / `<существительное>` / `<verb>`(`-ing`) - `несмотря на` - используется для выражения удивительного контраста между предложениями:
+    > The weather held out, **despite** some dark clouds.
+- `although` / `while` / `whilst` / `whereas` - `несмотря на то, что` - используется для выражения конфликта между главным предложением и подчиненным:
+    > **Whilst** investigators didn't find any evidence of Mr. Clark's involvement in hijacking, he was inprisoned.
 
 ## <a id="Временные-слова" href="#Временные-слова">Временные слова</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
@@ -1619,10 +1636,14 @@ object  | a cake | by Susan
     > **The reason for her delay** was (the fact) that she had missed the train.
 - `the reason why` + `<придаточное_предложение>` - `причина почему ...`:
     > **The reason why she was** delayed (the fact) that she had missed the train.
-- `because of` / `due to` + `<существительное>` - `по причине ...`:
-    > They came home late **because of the traffic**.
+- `because of` / `due to` / `owing to` + `<существительное>` - `по причине ...`:
+    > They came home late **because of the traffic**.  
+    > **Owing to the accident** the flight was delayed.
 - `because of` / `due to` + `the fact that` + `<придаточное_предложение>` - `по причине ...`:
     > She was promoted **due to the fact that** she works hard.
+- `seeing that` - `видя что` / `из-за`:
+    > We could phone Jill later, **seeing that** we have to hurry up.
+- `seeing as` - `видя как` / `из-за`.
 
 ### <a id="Цели" href="#Цели">Цели</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
@@ -1641,6 +1662,11 @@ object  | a cake | by Susan
 - `for` + `<verb>`(`-ing`) - `для ...`, когда выражают цель или функцию чего-то:
     > We use an axe **for chopping** wood.
 
+## <a id="Принуждение" href="#Принуждение">Принуждение</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+Конструкция `<Somebody> would rather <somebody> <Past_Simple>` - `<Кто-то> (бы) предпочел, чтобы <кто-то> ...`, используется когда необходимо выразить мысль, которая хочет чтобы кто-то сделал что-то в настоящем или будущем. С английского переводится настоящим или будущем временем.
+> **I would rather you** didn't go there alone. - Я бы предпочел, чтобы ты не ходил туда в одиночку.
+
 <a id="Условные-предложения" href="#Условные-предложения">Условные предложения</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 ====================
 
@@ -1655,7 +1681,7 @@ object  | a cake | by Susan
     - `<Present_Simple>` + `if` / `when` + `<Present_Simple>`;
     > When water become colder, tourists go away from us.
 
-1. Употребляется, когда действие относиться к настоящему или будущему и действие реальное. Строится из условной части и части результата выполнения условия:
+1. **Реальное условие**. Употребляется, когда действие относиться к настоящему или будущему и действие реальное. Строится из условной части и части результата выполнения условия:
     - `If` / `When` / `Unless` + `<Present_Form>` + `,` + `<Future_Form>`;
     - `<Future_Form>` + `if` / `when` / `unless` + `<Present_Form>`.
 
@@ -1676,7 +1702,7 @@ object  | a cake | by Susan
     > I'll see you **when** I come to Paris.  
     > **If** he wakes up late, he will miss the bus.
 
-2. Употребляется, когда выражают воображение или невероятную ситуацию которая к несчастью не случится в настоящем или будущем. Строится из условной части и части результата выполнения условия:
+2. **Нереальное настоящее или будущее**. Употребляется, когда выражают воображение или невероятную ситуацию которая к несчастью не случится в настоящем или будущем. Строится из условной части и части результата выполнения условия:
     - `If` + `<Past_Simple>` + `,` + `would` / `could` / `might` + `<Bare_Infinitive>`;
     > **If** I **had** more free time, I **would take up** basketball. (I don't have much free time now, so it unlikely that I will take up basketball. - improbable situation)
 
@@ -1684,6 +1710,10 @@ object  | a cake | by Susan
 
     Конструкция `if I were you` вместо `If` + `<Past_Simple>`, используется когда хотят дать совет.
     > **If I were you**, I would stop eating junk food.
+
+3. **Нереальное прошлое**. Употребляется, когда выражают ситуацию, которая произошла в прошлом, о которой сожалеют, но изменить эту ситуацию уже нельзя. Строится из условной части и части результата выполнения условия:
+    - `If` + `<Past_Perfect>` + `,` + `would have` + `<verb>`(`-ed` / III form);
+    > **If Charlie had left** the house earlier, he **wouldn't have been late** for work. - Если бы Чарли вышел раньше из дому, то он не опоздал бы на работу.
 
 <a id="Предлоги" href="#Предлоги">Предлоги</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 ========
@@ -1818,9 +1848,9 @@ object  | a cake | by Susan
 ## <a id="Глаголы-с-разными-значениями-в-зависимости-от-консрукций" href="#Глаголы-с-разными-значениями-в-зависимости-от-консрукций">Глаголы с разными значениями в зависимости от консрукций</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
 - `stop`:
-    - `stop` + `to-<инфинитив>` - stop briefly to do something:
+    - `stop` + `to-<инфинитив>` - stop briefly to do something - приостановить или прервать действие на какое-то время, а потом возобновить:
         > I **stopped to have** a cup of coffee.
-    - `stop` + `<verb>`(`-ing`) - finish, give up:
+    - `stop` + `<verb>`(`-ing`) - finish, give up - завершить действие:
         > We **stopped reading** when the bell rang.
 - `remember`:
     - `remember` + `to-<инфинитив>` - not forget:
@@ -1828,9 +1858,9 @@ object  | a cake | by Susan
     - `remember` + `<verb>`(`-ing`) - bring to your mind:
         > I **remember giving** you the key before I left.
 - `forget`:
-    - `forget` + `to-<инфинитив>` - not remember:
+    - `forget` + `to-<инфинитив>` - not remember to do action:
         > She **forgot to play** the phone bill.
-    - `forget` + `<verb>`(`-ing`) - always remember:
+    - `forget` + `<verb>`(`-ing`) - not remember that action as fact was happened:
         > I'll never **forget learning** how to ride a bicycle.
 
 ## <a id="Too---Enough" href="#Too---Enough">`Too` - `Enough`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
@@ -1980,7 +2010,34 @@ object  | a cake | by Susan
 - `in the` + `heart` / `center` + `of` + ....
 > Vancouver **is situated on** the west coast **of** Canada.
 
-## <a id="Косвенная-речь" href="#Косвенная-речь">Косвенная речь</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+## <a id="Слова-подобия-as-like" href="#Слова-подобия-as-like">Слова подобия `as`, `like`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+- `As <существительное>` - обозначает `Будь я <существительное>`;
+- `Like <существительное>` - обозначает `Так как я <существительное>`.
+
+<a id="Выражение-эмоций" href="#Выражение-эмоций">Выражение эмоций</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+================
+
+## <a id="Восклицания-Exclaminations" href="#Восклицания-Exclaminations">Восклицания (Exclaminations)</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+Это слова или предложения использующиеся для выражения удивления, восхищения и т.п. Формируются:
+- `What` + `a` / `an` (`<прилагательное>`) + `<единственное_исчисляемое_существительное>`:
+    > **What a beautiful day**!
+- `What` (`<прилагательное>`) + `<множественное_или_неисчисляемое_существительное>`:
+    > **What interesting news**!
+- `How` + `<прилагательное>` / `<наречие>`:
+    > **How fast** he runs!
+
+## <a id="Разочарование-Disappointment" href="#Разочарование-Disappointment">Разочарование (Disappointment)</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+Выражает сожаление:
+- **о настоящем или будущем в виде мечты**. Формируется: `I wish <Past_Simple>` - `Жаль что ...` и переводится с английского настоящим или будущем временем.
+    > **I wish** I didn't have to do that task. - Жаль что я должен делать эту задачу.
+- **о прошлом**. Формируется: `I wish <Past_Perfect>` - `Жаль что ...`
+    > **I wish** I had known her before. - Жаль что я не знал ее раньше.
+
+<a id="Косвенная-речь" href="#Косвенная-речь">Косвенная речь</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+==============
 
 Передает содержание чьего-лбо высказывания, но не точные слова. Образуется с помощью глаголов `say` - сказал, `tell` - рассказал (чаще используется, когда адресат - это само лицо, которое выражает косвенную речь), при этом `that` может опускаться:
 - `<someone>` + `said` + `(that)` + `...`:
@@ -2029,7 +2086,7 @@ object  | a cake | by Susan
 `Ask` / `beg` + `<somebody>` + `(not)` + `to-<инфинитив>` используется для выражения просьбы в косвенной речи.
 > "Please, please don't go" he said. - He begged me not to go.
 
-### <a id="Вопросы" href="#Вопросы">Вопросы</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+## <a id="Вопросы" href="#Вопросы">Вопросы</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
 Вопросы в косвенной речи образуются при помощи глаголов `ask`, `want` без вопросительного знака , с глаголом в утвердительной форме (в прямом порядке слов в вопросе).
 > "What time does the film start?" Mary asked me. - Mary **asked** me **what time the film started**.
@@ -2047,7 +2104,7 @@ object  | a cake | by Susan
 Используется конструкция `know how to`, вместо ~~`know to`~~.
 > Scientists don't **know how to** stop climate change.
 
-### <a id="Непрямые-вопросы" href="#Непрямые-вопросы">Непрямые вопросы</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+## <a id="Непрямые-вопросы" href="#Непрямые-вопросы">Непрямые вопросы</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
 Используются когда мы хотим узнать информацию, в то время как мы используем косвенный вопрос чтобы сообщить кому-то вопрос. Строятся:
 - `Could you tell me` + `<косвенный_вопрос>` + `?`;
@@ -2059,16 +2116,6 @@ object  | a cake | by Susan
 
 > Do you know how old he is?  
 > I wonder where he has gone.
-
-## <a id="Восклицания-Exclaminations" href="#Восклицания-Exclaminations">Восклицания (Exclaminations)</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
-
-Это слова или предложения использующиеся для выражения удивления, восхищения и т.п. Формируются:
-- `What` + `a` / `an` (`<прилагательное>`) + `<единственное_исчисляемое_существительное>`:
-    > **What a beautiful day**!
-- `What` (`<прилагательное>`) + `<множественное_или_неисчисляемое_существительное>`:
-    > **What interesting news**!
-- `How` + `<прилагательное>` / `<наречие>`:
-    > **How fast** he runs!
 
 <a id="Запятая" href="#Запятая">Запятая</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 =======

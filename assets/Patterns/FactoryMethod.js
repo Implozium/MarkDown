@@ -29,7 +29,7 @@ class UpperWarnConsoleElement extends ConsoleElement {
         console.warn(str.toUpperCase());
     }
 }
-//Представляет собой класс с фабричным меьтодом, для форматированного вывода в консоль
+//Представляет собой класс с фабричным методом, для форматированного вывода в консоль
 class ConsoleWritter {
     constructor(type) {
         this._consoleElement = this._creacteConsoleElement(type);
@@ -53,11 +53,9 @@ class LogConsoleWritter extends ConsoleWritter {
         switch (type) {
             case 'upper':
                 return new UpperLogConsoleElement();
-            break;
             case 'simple':
             default:
                 return new LogConsoleElement();
-            break;
         }
     }
 }
@@ -70,11 +68,9 @@ class WarnConsoleWritter extends ConsoleWritter {
         switch (type) {
             case 'upper':
                 return new UpperWarnConsoleElement();
-            break;
             case 'simple':
             default:
                 return new WarnConsoleElement();
-            break;
         }
     }
 }
