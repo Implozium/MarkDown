@@ -751,7 +751,10 @@ interface State {
     pageContents: string;
 }
 type TopNavState = {
-    [k in 'userId' | 'recentFiles']: State[k]
+    [K in 'userId' | 'recentFiles']: State[K]
+};
+type RecordedState = {
+    [K in keyof State]: Record<string, State[K]>
 };
 ```
 
