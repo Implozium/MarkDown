@@ -542,6 +542,16 @@ function double(x: any) {
 }
 ```
 
+## Вывод типа
+
+`infer R ? R : <тип>` - `infer` смотрит на структуру данных и выводит ее тип, иначе тип будет `<тип>`.
+
+```typescript
+export type ArrayElement<A> = A extends (infer T)[] ? T : never;
+
+type Item = ArrayElement<(number | string)[]>; // Item === (number | string)
+```
+
 ## Ключевое слово `new`
 
 `<T>(type: { new (): T; }): T`

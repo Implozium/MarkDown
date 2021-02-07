@@ -12,6 +12,7 @@
         - [Количество предметов `much` / `many` / `a lot of` / `lots of` / `a little` / `a few` / `little` / `few`](#Количество-предметов-much--many--a-lot-of--lots-of--a-little--a-few--little--few)
         - [Неисчисляемые существительные](#Неисчисляемые-существительные)
     - [Порядок слов в предложении](#Порядок-слов-в-предложении)
+        - [Инвертированный порядок](#Инвертированный-порядок)
     - [Местоимения (pronoun)](#Местоимения-pronoun)
         - [Возвратные местоимения](#Возвратные-местоимения)
         - [Указательные местоимения](#Указательные-местоимения)
@@ -117,6 +118,7 @@
     - [`see`, `watch`, `look`](#see-watch-look)
     - [`teach`, `study`, `learn`](#teach-study-learn)
 - [Разное](#Разное)
+    - [Часто употребляемые конструкции](#Часто-употребляемые-конструкции)
     - [Еда](#Еда)
     - [Synonyms for word `very`](#Synonyms-for-word-very)
     - [Similar words](#Similar-words)
@@ -298,19 +300,19 @@ Refer for  | Positive    | Interrogative | Negative
 
 ### <a id="Количество-предметов-much--many--a-lot-of--lots-of--a-little--a-few--little--few" href="#Количество-предметов-much--many--a-lot-of--lots-of--a-little--a-few--little--few">Количество предметов `much` / `many` / `a lot of` / `lots of` / `a little` / `a few` / `little` / `few`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
-Тип         | Количество    | Значение                                       | Пример
------------ | ------------- | ---------------------------------------------- | ------
-`much`      | неисчисляемое | много, чаще в отриц. и вопрос. предложениях    | 
-`many`      | исчисляемое   | много, чаще в отриц. и вопрос. предложениях    | 
-`a lot of`  | оба           | много, не используется в отриц. предложениях   | 
-`lots of`   | оба           | много, не используется в отриц. предложениях   | 
-`plenty of` | оба           | много, не используется в отриц. предложениях   | 
-`a little`  | неисчисляемое | немножко / чуть-чуть / больше чем один предмет | a little milk
-`a few`     | исчисляемое   | немножко / чуть-чуть / больше чем один предмет | a few apples
-`little`    | неисчисляемое | меньше чем единица / часть чего-то целого      | 
-`few`       | исчисляемое   | меньше чем единица / часть чего-то целого      | 
+Тип         | Количество    | Значение                                                       | Пример
+----------- | ------------- | -------------------------------------------------------------- | ------
+`much`      | неисчисляемое | много, чаще в отриц. и вопрос. предложениях                    | 
+`many`      | исчисляемое   | много, чаще в отриц. и вопрос. предложениях для сущ. во мн. ч. | many towers
+`a lot of`  | оба           | много, не используется в отриц. предложениях                   | 
+`lots of`   | оба           | много, не используется в отриц. предложениях                   | 
+`plenty of` | оба           | много, не используется в отриц. предложениях                   | 
+`a little`  | неисчисляемое | немножко / чуть-чуть / больше чем один предмет                 | a little milk
+`a few`     | исчисляемое   | немножко / чуть-чуть / больше чем один предмет для сущ. во мн. ч. | a few apples
+`little`    | неисчисляемое | меньше чем единица / часть чего-то целого                      | 
+`few`       | исчисляемое   | меньше чем единица / часть чего-то целого                      | 
 
-В негативном контексте `few` обозначает что `почти никто / ничто`
+В негативном контексте `few` обозначает что `почти никто / ничто`.
 
 ### <a id="Неисчисляемые-существительные" href="#Неисчисляемые-существительные">Неисчисляемые существительные</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
@@ -336,6 +338,11 @@ I.Подлежащее | II.Сказуемое | III.Дополнение кос
 We  | study |    | mathematics |          |
 He  | gives | us | lessons     |          | in the room
 She | reads |    | her notes   | to Peter | every day
+
+### <a id="Инвертированный-порядок" href="#Инвертированный-порядок">Инвертированный порядок</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+Если предложение начинается с слова `hardly` то происходит инвертирование субъекта и предиката.
+> **Hardly had Tom reached** the house, it started to snow heavily.
 
 ## <a id="Местоимения-pronoun" href="#Местоимения-pronoun">Местоимения (pronoun)</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
@@ -806,15 +813,19 @@ Verb                                                    | Preposition
 
 Прилагательные располагаются в следующем порядке - прилагательные которые выражают собственное мнение (**opinion**) (`beautiful`, `lovely`, `great`, `expensive` и подобные) и которые выражают фактическую информацию (**fact***) о ком-то или о чем-то, в указаном порядке:
 1. Размер (**size**) - `small`, `big`, `short`, `long`, etc;
-2. Вес (**weight**) - `heavy`, `light`, etc;
+2. Возраст (**age**) - `old`, `young`, etc;
 3. Форма (**shape**) - `triangular`, `round`, `rectangular`, `square`, etc;
 4. Цвет (**colour**) - `dark / light blue`, `yellow`, `pink`, `cream`, etc;
-5. Материал (**material**) - `cotton`, `wooden`, `woollen`, `gold`, etc.
-6. Назначение (**purpose**) - `riding`
+5. Происхождение (**origin**) - `oriental`, etc.
+6. Материал (**material**) - `cotton`, `wooden`, `woollen`, `gold`, etc.
+7. Назначение (**purpose**) - `riding`
 
 Прилагательные обычно разделяются запятыми.
 
 > an expensive, red, leather suitcase
+
+Мнемоническое правило для запоминания:  
+**op**inion + **s**ize + **a**ge + **sh**ape + **c**olour + **o**rigin + **m**aterial = **opsashcom** (*опсашком*)
 
 ### <a id="Сравнение" href="#Сравнение">Сравнение</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
@@ -1082,6 +1093,8 @@ Verb                                                    | Preposition
     > Lisa **bought** a house last year. (When? Last year.)
 - **actions happened in the past and won't happen again** - для привычек или действий, которые повторялись в прошлом, но теперь не случатся больше, используется с наречиями частоты:
     > He **usually played** football in his free time. (but he doesn't play football anymore)
+- **actions which happened one after the other in the past** - для действий, которые случаются друг за другом в прошлом:
+    > In the cafe we **tried** some delicious food, **drank** some wine and then we **walked** a lot in the city center.
 
 Используются такие ключевые слова и выражения:
 - `yesterday`;
@@ -1233,6 +1246,8 @@ Verb                                                    | Preposition
     > I **will be reading** newspaper when mom arrives tonight.
 - **for actions which will definitely happen in the future as the result of a routine or arrangemrnt** - для действий, которые определенно произойдут в будущем, как результат рутинных действий или расписания:
     > Shall I inform the rest of the team? No, I'll do it. I **will be seeing** then at the meeting anyway. (They have a meeting every week. He will definitely see the rest of the team because it's already planned.))
+- **for actions are developing in the present and that we expect them to continue in the future** - для действий, которые развиваются в настоящем и как мы ожидаем, будут продолжать развиваться в будущем:
+    > Unfortunately, the disease **will still be spreading** during next few monthes.
 - **when we ask politely about someone's plans for the near future (What we want to know is if our wishes fit in with their plans)** - когда мы хотим узнать вежливо про чьи-то планы на ближайшее будущее (Мы хотим узнать совпадают ли наши желания с их планами.):
     > **Will** you **be going** out later? Yes. Why? Could you get me a sandwich, please?
 
@@ -1247,6 +1262,8 @@ Verb                                                    | Preposition
 Используется в ситуациях:
 - **for actions which will be finished before a stated future time** - для действий, которые закончатся ранее определенного будущего времени:
     > They **will have finished** their meeting **by four o'clock** this afternoon.
+- **actions will continue up until another one or certain time point in the Future** - для действий, которые будут до другого действия или определенного момента в будущем:
+    > Darrel has reaslised too late that he **will have been waiting** for Jill for more than 3 hours when her aircraft lands.
 
 Используются такие ключевые слова:
 - `by` - `к`;
@@ -1561,13 +1578,13 @@ object  | a cake | by Susan
 ## <a id="Слова-связки" href="#Слова-связки">Слова-связки</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
 Используются для того, чтобы объеденить предложения или идеи. Ставятся в основном между предложениями или вначале первого предложения.
-- `because` - используется для выражния причины чего-либо:
+- `because` - `из-за` используется для выражния причины чего-либо:
     > I spent the weekend in bed **because** I was sick.
-- `so` - используется для выражения результата:
+- `so` - `так что` / `таким образом` используется для выражения результата:
     > He wanted to become an actor **so** he went to college.
-- `too`, `and`, `also` - используются для дополнения:
+- `too`, `and`, `also` - `тоже` / `также` используются для дополнения:
     > She exhibited her work in Paris **too**.
-- `but` - используется для выражения противопоставления:
+- `but` - `но` используется для выражения противопоставления:
     > The perfomance was good,**but** few people came.
 - `although` / `though` / `even though` - `хотя` / `несмотря на` / `даже не смотря на` - используется для выражения удивительного контраста между предложениями:
     > **Even thiugh** rescue teams had been searching the lost climbers all night, they couldn't find any trace of them.
@@ -1575,6 +1592,12 @@ object  | a cake | by Susan
     > The weather held out, **despite** some dark clouds.
 - `although` / `while` / `whilst` / `whereas` - `несмотря на то, что` - используется для выражения конфликта между главным предложением и подчиненным:
     > **Whilst** investigators didn't find any evidence of Mr. Clark's involvement in hijacking, he was inprisoned.
+- `in a nutshell` / `to conclude` / `in conclusion` / `in brief` / `in summary` - `в двух словах` / `в заключение` / `в заключение` / `вкратце` / `в итоге` - используется для выражения итога о том что говорилось или было написано ранее:
+    > **In a nutshell**, we all were happy to get home finally.
+- `furthermore` / `moreover` / `as well as` / `too` / `also` / `besides` - `более того` / `кроме того` / `а также` / `тоже` / `также` / `кроме` - используется для выражения дополнительной информации по существу:
+    > **Furthemore** they tell us about the competition and huge risk.
+- `as long as` / `provided` / `providing` (`that`) - `при условии` - используется для выражения условия:
+    > Sure, you may take my phablet **provided** you don't damage it.
 
 ## <a id="Временные-слова" href="#Временные-слова">Временные слова</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
@@ -1867,6 +1890,16 @@ object  | a cake | by Susan
         > She **forgot to play** the phone bill.
     - `forget` + `<verb>`(`-ing`) - not remember that action as fact was happened:
         > I'll never **forget learning** how to ride a bicycle.
+- `need`:
+    - `need` + `to-<инфинитив>` - somebody has the necessity in action - кто-то имеет необходимость в действии:
+        > **Needs to clean**.
+    - `need` + `<verb>`(`-ing`) - something needs to be acted by somebody - что-то должно быть сделано кем-то:
+        > This car **needs cleaning**.
+- `try`:
+    - `try` + `to-<инфинитив>` - somebody start doing something, but do not have success - кто-то начал делать что-то, но без успеха:
+        > Brittany **tried to learn** English, but she didn't succeed in it.
+    - `try` + `<verb>`(`-ing`) - somebody start doing something, but somebody doesn't enjoy to do it - кто-то начал делать что-то, что ему не нравиться:
+        > She **tried eating** carrot jam.
 
 ## <a id="Too---Enough" href="#Too---Enough">`Too` - `Enough`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
@@ -2036,7 +2069,7 @@ object  | a cake | by Susan
 ## <a id="Разочарование-Disappointment" href="#Разочарование-Disappointment">Разочарование (Disappointment)</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
 Выражает сожаление:
-- **о настоящем или будущем в виде мечты**. Формируется: `I wish <Past_Simple>` - `Жаль что ...` и переводится с английского настоящим или будущем временем.
+- **о настоящем или будущем в виде мечты**. Формируется: `<somebody> wish <Past_Simple>` - `Жаль что ...` и переводится с английского настоящим или будущем временем.
     > **I wish** I didn't have to do that task. - Жаль что я должен делать эту задачу.
 - **о прошлом**. Формируется: `I wish <Past_Perfect>` - `Жаль что ...`
     > **I wish** I had known her before. - Жаль что я не знал ее раньше.
@@ -2197,6 +2230,13 @@ object  | a cake | by Susan
 
 <a id="Разное" href="#Разное">Разное</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 ======
+
+## <a id="Часто-употребляемые-конструкции" href="#Часто-употребляемые-конструкции">Часто употребляемые конструкции</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+`to do a favor` - `сделать одолжение`.  
+`to fall heir to` - `стать наследником`.  
+`obedient to` - `послушный`.  
+`to make money` - `делать деньги`.
 
 ## <a id="Еда" href="#Еда">Еда</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
