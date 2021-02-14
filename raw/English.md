@@ -86,7 +86,7 @@
         > **Russians**
 - перед прилагательными, которые используются в качестве существительных во множественном числе:
     > the rich
-- в сочетании с существительными, перед которыми идут следующие прилагательные: `following` - следующий, `former` - бывший, `last` - прошлый, `latter` - последний (из упомянутых), `main` - главный, `next` - следующий, `only` - единственный, `previous` - предыдущий, `right` - правильный, `same` - тот же, wrong неверный:
+- в сочетании с существительными, перед которыми идут следующие прилагательные: `following` - следующий, `former` - бывший, `last` - прошлый, `latter` - последний (из упомянутых), `main` - главный, `next` - следующий, `only` - единственный, `previous` - предыдущий, `right` - правильный, `same` - тот же, `wrong` неверный:
     > I know a lot of people who've had **the same** problem.
     - **исключение** - не используется перед существительными, выражающими временное значение, стоят прилагательные `next` - будущий, `last` - прошлый:
         > I dressed up as a clown **last Halloween**.
@@ -212,8 +212,17 @@ She | reads |    | her notes   | to Peter | every day
 
 ### Инвертированный порядок
 
-Если предложение начинается с слова `hardly` то происходит инвертирование субъекта и предиката.
-> **Hardly had Tom reached** the house, it started to snow heavily.
+Инвертирование субъекта и предиката происходит если предложение начинается с слов:
+- `hardly`:
+    > **Hardly had Tom reached** the house, it started to snow heavily.
+- `never before`:
+    > **Nver before had Jake visited** such a beautiful place.
+
+### Упрощающие структуры
+
+Для того чтобы избежать длинного сложного субъектного предложения используется структура:  
+`It` + `be` + `<существительное>` / `<прилагательное>` + `to-<инфинитив>`:
+> It's unfair to give him monythly bonus again.
 
 ## Местоимения (pronoun)
 
@@ -303,12 +312,12 @@ She | reads |    | her notes   | to Peter | every day
 
 ### Отрицательная форма глагола
 
-Образуется с помощью отрицания `not` (`[nɔt]`) **не**, которая ставится после глагола, в разговорной речи принимает форму ```n`t``` и сливается с глаголом:
-- `to be` - `am not`; `is not` / ```isn`t```; `are not` / ```aren`t```;
-- `to have` - `have not` / ```haven`t```; `has not` / ```hasn`t```;
-- `can` - `cannot` / ```can`t```;
+Образуется с помощью отрицания `not` (`[nɔt]`) **не**, которая ставится после глагола, в разговорной речи принимает форму `n't` и сливается с глаголом:
+- `to be` - `am not`; `is not` / `isn't`; `are not` / `aren't`;
+- `to have` - `have not` / `haven't`; `has not` / `hasn't`;
+- `can` - `cannot` / `can't`;
 - `may` - `may not`;
-- `must` - `must not` / ```mustn`t```.
+- `must` - `must not` / `mustn't`.
 
 Отрицательная форма смысловых глаголов образуется с помощью `do not` / `don't` (`[dount]`) перед смысловым глаголом; для 3-го лица ед. числа ставится `does not` / `doesn't` (`[dʌznt]`), и поглощает окончание `-(e)s` смыслового глагола.
 
@@ -812,7 +821,9 @@ Verb                                                    | Preposition
     > Bill **is dropping** a ball.
 - **fixed arrangements in the near future** - когда говорим о фиксированных договоренностях в ближайшем будущем:
     > I **am going** to supermarket at 5 o'clock.
-- **repeated actions with "always" expressing annoyance or criticism**.
+- **repeated actions with "always" expressing annoyance or criticism**;
+- **when we are talking about developing situation** - когда мы говорим о развивающейся ситуации:
+    > This music group **is becoming** more and more popular. It's interesting to visit their show.
 
 Используются такие ключевые слова:
 - `now`;
@@ -992,6 +1003,9 @@ Verb                                                    | Preposition
 Используется в ситуациях:
 - **actions in progress at a stated time in the past** - для действий, которые были в ходе выполнения в указанное время в прошлом и про которое не известно, когда оно началось или окончилось:
     > At five o'clock yesterday I **was cooking** dinner.
+- **actions were in progress at a certain time in the past** - для действий, которые были в ходе выполнения в определенное время в прошлом:
+    > I **was waiting** for your call for hours!  
+    > Sorry, I **was watching** TV from 7 till 10 o'clock last night.
 - **actions which was in progress when another action interrupted it** - для действий в прошлом, которые были в ходе выполнения (стоят в форме `past continuous`), когда другое действие прерывает его (в форме `past simple`):
     > She **was having** breakfast when the phone rang.
 - **two or more actions happening at the same time in the past** - два или более действий, которые происходили в одно и тоже время в прошлом (одновременные действия):
@@ -1100,6 +1114,8 @@ Verb                                                    | Preposition
 Используется в ситуациях:
 - **for plans, intentions or ambitions** - для планов, намерений или амбиций в ближайшем будущем:
     > Susan **is going to** move house.
+- **if we have decided to do something or arranged to do in the near future** - если мы решили что-то сделать или запланировали что-то сделать в ближайшем будущем:
+    > Teresa is going to see her son's teacher tomorrow morning.
 - **for predictions based on what we see or we know** - для предсказаний основанных на том что мы видим или знаем:
     > Look at him. He **is going to** jump out of the train.
 
@@ -1469,6 +1485,8 @@ object  | a cake | by Susan
     > **Furthemore** they tell us about the competition and huge risk.
 - `as long as` / `provided` / `providing` (`that`) - `при условии` - используется для выражения условия:
     > Sure, you may take my phablet **provided** you don't damage it.
+- `anyway` - `так или иначе` - используется для того чтобы показать что беседа закончилась и возврате к главной идеи и подитоживания сказаного:
+    > **Anyway**, we have lost the game and it's only our fault. I've got nothing to add.
 
 ## Временные слова
 
@@ -1757,9 +1775,9 @@ object  | a cake | by Susan
     - `remember` + `<verb>`(`-ing`) - bring to your mind:
         > I **remember giving** you the key before I left.
 - `forget`:
-    - `forget` + `to-<инфинитив>` - not remember to do action:
+    - `forget` + `to-<инфинитив>` - not remember to do action - не помнить что нужно было сделать:
         > She **forgot to play** the phone bill.
-    - `forget` + `<verb>`(`-ing`) - not remember that action as fact was happened:
+    - `forget` + `<verb>`(`-ing`) - not remember that action as fact was happened - не помнить что действие, как факт, совершено:
         > I'll never **forget learning** how to ride a bicycle.
 - `need`:
     - `need` + `to-<инфинитив>` - somebody has the necessity in action - кто-то имеет необходимость в действии:
@@ -1921,7 +1939,7 @@ object  | a cake | by Susan
 
 ## Слова подобия `as`, `like`
 
-- `As <существительное>` - обозначает `Будь я <существительное>`;
+- `As <существительное>` - обозначает `Будучи <существительное>`;
 - `Like <существительное>` - обозначает `Так как я <существительное>`.
 
 Выражение эмоций
