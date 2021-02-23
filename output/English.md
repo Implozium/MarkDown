@@ -67,6 +67,7 @@
         - [Future Perfect](#Future-Perfect)
         - [Future Perfect Continuous](#Future-Perfect-Continuous)
     - [Пассивные времена (Passive tense)](#Пассивные-времена-Passive-tense)
+        - [Пассивная причинная связь (Passive Causative)](#Пассивная-причинная-связь-Passive-Causative)
         - [Преобразование из Активной формы в Пассивную](#Преобразование-из-Активной-формы-в-Пассивную)
     - [Употребление времен](#Употребление-времен)
 - [Вопросительные предложения](#Вопросительные-предложения)
@@ -118,6 +119,7 @@
     - [`say`, `tell`, `speak`, `talk`](#say-tell-speak-talk)
     - [`see`, `watch`, `look`](#see-watch-look)
     - [`teach`, `study`, `learn`](#teach-study-learn)
+    - [`voyage`, `journey`, `trip`, `travel`](#voyage-journey-trip-travel)
 - [Разное](#Разное)
     - [Часто употребляемые конструкции](#Часто-употребляемые-конструкции)
     - [Еда](#Еда)
@@ -346,7 +348,10 @@ She | reads |    | her notes   | to Peter | every day
 - `hardly`:
     > **Hardly had Tom reached** the house, it started to snow heavily.
 - `never before`:
-    > **Nver before had Jake visited** such a beautiful place.
+    > **Never before had Jake visited** such a beautiful place.
+
+В случае акцента над определенным моментом или идеей объект ставится в начало предложения. Эта конструкция используется, когда важно говоряжему выразить его реакцию на что-то конкретное:
+    > **Her new haircut** I didn't like.
 
 ### <a id="Упрощающие-структуры" href="#Упрощающие-структуры">Упрощающие структуры</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
@@ -474,7 +479,7 @@ She | reads |    | her notes   | to Peter | every day
 Это корневая (основная) форма глагола. Употребляется:
 - после модальных глаголов (`can`, `could`, `must`, `needn't`, `shall`, `will`, `may` и т.д.):
     > He can't read.
-- после глаголов `let` (`let's` = `let us`) и `make` (в значении "заставлять"):  
+- после глаголов `let` (`let's` = `let us`) (в значении "позволять") и `make` (в значении "заставлять"):  
     `let` / `make` + `<кого>` + `<что_делать>` + ...
     > My parents don't **let** me **stay** out late.  
     > Mother **made** me **clean** my room yesterday.
@@ -500,19 +505,26 @@ She | reads |    | her notes   | to Peter | every day
 Употребляется:
 - как существительное выражающее общее (собирательное) понятие - неисчисляемое существительное:
     > **Exercising** is good for your health.
-- после глаголов: `like`, `dislike`, `love`, `hate`, `enjoy`, `prefer`, `admit`, `appreciate`, `avoid`, `consider`, `deny`, `fancy`, `imagine`, `mind`, `miss`, `prevent`, `spend`, `suggest`, `waste`, `stop`, `finish`, `start` и `begin` и похожих по смыслу, но кроме глаголов: `hope`, `believe`, `think`, и других глаголов восприятия и конструкции: `would` + `<verb>` + `to-<инфинитив>` (хотел бы):
+- после глаголов: 
+    - чувств и желаний: `like`, `dislike`, `love`, `hate`, `enjoy`, `prefer` и похожих по смыслу;
+    - выражающих мнение: `admit`, `appreciate`, `avoid`, `consider`, `deny`, `fancy`, `imagine`, `mind`, `miss`, `prevent`, `spend`, `suggest`, `waste`, `resist` и похожих по смыслу;
+    - движения: `stop`, `finish`, `start`, `begin`, `keep`, `go` и похожих по смыслу.
+
+    но кроме глаголов: `hope`, `believe`, `think`, `afford`, `deserve`, `choose`, `seem` и других глаголов восприятия и конструкции: `would` + `<verb>` + `to-<инфинитив>` (хотел бы):
     > She stop **talking**.  
     > I **would like to travel** to China one day.
 - после фраз `have trouble`, `have difficulty`, `have fun`, `have a <прилагательное> time`:
     > We **had a good time racing** down the path.
 - после предлогов следуемых перед герундием: `for`, `in`, `about`, `from`, `to`:
     > I apologize **for saying** that.
-- после предлогов:
+- после предлогов `on`, `in`, `at`:
     > I'm thinking **of going** to Italy.
 - после глагола `go`, когда говорим о какой-либо общей деятельности:
     > They **went shopping** yesterday. - Они вчера ходили скупиться.
 - после выражений: `be busy`, `it's no use`, `it's (not) worth`, `there's no point (in)`, `what's the use of`, `have difficulty (in)`, `don't mind`, `couldn't help`, `can't stand`, `look forward to`:
     > I **don't mind going** shopping.
+- в виде герундия, когда обозначает **процесс**:
+    > **Starting** new business is not easy.
 
 ### <a id="-ed-форма--III-form" href="#-ed-форма--III-form">`-ed`-форма / III form</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
@@ -906,6 +918,8 @@ Verb                                                    | Preposition
     > Dog **likes** meat.
 - **scheduled actions** (timetables or programmes) - когда говорим о планируемом действии в будущем:
     > I **go** to the doctor at 5 am.
+- когда производится обзор или подвидение итога книги, фильма, театральной пьесы и д.р.:
+    > In his essay, professor Nickson **admits** the existance of UFO, but **points** out the fact that we still **have** no proved evidence of their existence.
 
 Используются такие ключевые слова или конструкции:
 - `every`;
@@ -984,7 +998,7 @@ Verb                                                    | Preposition
 Используется в ситуациях:
 - **actions which happened at an unstated time in the past and actions are more important that the time** - для действий, которые случились в неопределенное время в прошлом, точное время которых не важно, так как сами действия важнее:
     > Tom **has broken** his arm.
-- **actions which started in the past and continue to the present** - для действий, которые начались в прошлом и все еще продолжается в настоящем:
+- **actions which started in the past and continue to the present** - для действий, которые начались в прошлом и все еще продолжается (связаны) в настоящем:
     > Kim **has been** chief since 1985.
 - **past actions with a visible result in the present** - для действий, которые недавно закончились и их результат видимый в настоящем:
     > I **have painted** the kitchen. Doesn't it look nice?
@@ -1069,7 +1083,7 @@ Verb                                                    | Preposition
 - некоторые другие глаголы: `be`, `contain`, `fit`, `include`, `matter`, `need`, `belong`, `cost`, `owe`, `mean`, `own`, `appear`, `want`, `have` (в значении владеть) и другие:
     > This book **is** mine. It **belong** to me.
 
-Некоторые глаголы состояния имеют продолжительное время, но они тогда имеют отличия в значении. Примеры:
+Некоторые глаголы состояния имеют продолжительное время, но они тогда имеют отличия в значении, они обозначают состояние в текущий момент. Примеры:
 > 1. I **think** she's Italian. (=believe)  
 > I **am thinking about** my holiday. (=am considering)
 
@@ -1107,6 +1121,8 @@ Verb                                                    | Preposition
     > He **usually played** football in his free time. (but he doesn't play football anymore)
 - **actions which happened one after the other in the past** - для действий, которые случаются друг за другом в прошлом:
     > In the cafe we **tried** some delicious food, **drank** some wine and then we **walked** a lot in the city center.
+- **for short complete actions in the past** - для коротких законченных действий в прошлом:
+    > He **got** home.
 
 Используются такие ключевые слова и выражения:
 - `yesterday`;
@@ -1354,6 +1370,15 @@ perfect continuous | `to have been` + `<verb>`(`-ing`)      | `to have been bein
 > Who was America discovered by?
 
 Модальные глаголы применяются также аналогично.
+
+### <a id="Пассивная-причинная-связь-Passive-Causative" href="#Пассивная-причинная-связь-Passive-Causative">Пассивная причинная связь (Passive Causative)</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+Используется во время разговора о услугах которые будут сделаны или были сделаны для нас кем-то другим еще.
+
+Построение производится с помощью:
+- `have` + `<something>` + `<verb>`(`-ed` / III form);
+- `get` + `<something>` + `<verb>`(`-ed` / III form).
+> I **get** my car **cleaned** once a week. - They clean my car once a week.
 
 ### <a id="Преобразование-из-Активной-формы-в-Пассивную" href="#Преобразование-из-Активной-формы-в-Пассивную">Преобразование из Активной формы в Пассивную</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
@@ -1900,9 +1925,9 @@ object  | a cake | by Susan
     - `stop` + `<verb>`(`-ing`) - finish, give up - завершить действие:
         > We **stopped reading** when the bell rang.
 - `remember`:
-    - `remember` + `to-<инфинитив>` - not forget:
+    - `remember` + `to-<инфинитив>` - not forget - помнить о том, что нужно сделать:
         > Please **remember to buy** some milk.
-    - `remember` + `<verb>`(`-ing`) - bring to your mind:
+    - `remember` + `<verb>`(`-ing`) - bring to your mind - вспоминать о прошлом:
         > I **remember giving** you the key before I left.
 - `forget`:
     - `forget` + `to-<инфинитив>` - not remember to do action - не помнить что нужно было сделать:
@@ -1915,10 +1940,20 @@ object  | a cake | by Susan
     - `need` + `<verb>`(`-ing`) - something needs to be acted by somebody - что-то должно быть сделано кем-то:
         > This car **needs cleaning**.
 - `try`:
-    - `try` + `to-<инфинитив>` - somebody start doing something, but do not have success - кто-то начал делать что-то, но без успеха:
+    - `try` + `to-<инфинитив>` - somebody start doing something, but do not have success - пытаться, делать усилия:
         > Brittany **tried to learn** English, but she didn't succeed in it.
-    - `try` + `<verb>`(`-ing`) - somebody start doing something, but somebody doesn't enjoy to do it - кто-то начал делать что-то, что ему не нравиться:
+    - `try` + `<verb>`(`-ing`) - somebody start doing something, but somebody doesn't enjoy to do it - пробовать новое:
         > She **tried eating** carrot jam.
+- `regret`:
+    - `regret` + `to-<инфинитив>` - извиняться за то, что сейчас предстоит сделать:
+        > We **regret to inform** you that ...
+    - `regret` + `<verb>`(`-ing`) - сожалеть:
+        > I **regret moving** to New York.
+- `go on`:
+    - `go on` + `to-<инфинитив>` - переключиться, сделать что-то новое:
+        > You should **go on to look** at further examples.
+    - `go on` + `<verb>`(`-ing`) - продолжать делать:
+        > You should **go on styding**.
 
 ## <a id="Too---Enough" href="#Too---Enough">`Too` - `Enough`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
@@ -2246,6 +2281,13 @@ object  | a cake | by Susan
     > I'm trying to learn my lines for the play.
     - может означать **узнавать информацию**. **Я узнал, что...** - `I learned that...`:
         > He learned about computers by reading a book.
+
+## <a id="voyage-journey-trip-travel" href="#voyage-journey-trip-travel">`voyage`, `journey`, `trip`, `travel`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+- `voyage` - длинное путешествие, очень часто морем;
+- `journey` - обозначает движение из одной точки к другой на транспорте (автобус, поезд и д.р);
+- `trip` - покрывает целый процесс (поездка куда-то и обратно, отдых, удовольствия и цели);
+- `travel` - используется когда про в общем поездку из одной точки в другую.
 
 <a id="Разное" href="#Разное">Разное</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 ======
