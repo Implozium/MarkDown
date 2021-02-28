@@ -834,6 +834,8 @@ Verb                                                    | Preposition
 - **fixed arrangements in the near future** - когда говорим о фиксированных договоренностях в ближайшем будущем:
     > I **am going** to supermarket at 5 o'clock.
 - **repeated actions with "always" expressing annoyance or criticism**;
+- **to express our negative attitude to a sitiation** - для выражения негативного отношения к ситуации:
+    > She **is always ignoring** me!
 - **when we are talking about developing situation** - когда мы говорим о развивающейся ситуации:
     > This music group **is becoming** more and more popular. It's interesting to visit their show.
 
