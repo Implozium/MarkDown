@@ -376,7 +376,8 @@ She | reads |    | her notes   | to Peter | every day
 - после глаголов: 
     - чувств и желаний: `like`, `dislike`, `love`, `hate`, `enjoy`, `prefer` и похожих по смыслу;
     - выражающих мнение: `admit`, `appreciate`, `avoid`, `consider`, `deny`, `fancy`, `imagine`, `mind`, `miss`, `prevent`, `spend`, `suggest`, `waste`, `resist` и похожих по смыслу;
-    - движения: `stop`, `finish`, `start`, `begin`, `keep`, `go` и похожих по смыслу.
+    - движения: `stop`, `finish`, `start`, `begin`, `keep`, `go` и похожих по смыслу;
+    - глаголов: `practice`.
 
     но кроме глаголов: `hope`, `believe`, `think`, `afford`, `deserve`, `choose`, `seem` и других глаголов восприятия и конструкции: `would` + `<verb>` + `to-<инфинитив>` (хотел бы):
     > She stop **talking**.  
@@ -1564,7 +1565,7 @@ object  | a cake | by Susan
     > She is **so clever** (that) everyone admires her.
 - `so` + `much` / `little` + `<неисчисляемое_существительное>` (`that`);
 - `so` + `many` / `few` + `<множественное_существительное>` (`that`);
-- `as a result` / `therefore` / `consequently` - `в результате` / `следовательно` / `как следствие`, может начинать новое вводное предложение:
+- `as a result` / `therefore` / `consequently` - `в результате` / `следовательно` (`поэтому`) / `как следствие`, может начинать новое вводное предложение:
     > Certain species of animals are being killed for their fur and **as a result** / **therefore** / **consequently** they are becoming extinct.
 
 ### Причины
