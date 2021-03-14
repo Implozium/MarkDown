@@ -71,6 +71,8 @@
         > **Lloyds Bank**
 - перед именами рек, морей, групп островов или штатов, горных образований, пустыньи и океанов:
     - **исключение** - не используется перед именами стран, городов, улиц, островов, озер и континентов.
+- перед именами стран в составе которых используются слова `republic`, `kingdom`, `states`:
+    > The Republic of Ireland
 - перед конструкцией `... of ...`:
     > The Tower of London.
 - перед музыкальными инструментами;
@@ -1250,6 +1252,9 @@ perfect continuous | `to have been` + `<verb>`(`-ing`)      | `to have been bein
 - `have` + `<something>` + `<verb>`(`-ed` / III form);
 - `get` + `<something>` + `<verb>`(`-ed` / III form).
 > I **get** my car **cleaned** once a week. - They clean my car once a week.
+
+Для прошедшего времени, когда услуга была уже оказана, используется конструкция:  
+`<subject>` + `have` + `<object>` + `<verb>`(`-ed` / III form);
 
 ### Преобразование из Активной формы в Пассивную
 
