@@ -179,7 +179,7 @@ Refer for  | Positive    | Interrogative | Negative
 `many`      | исчисляемое   | много, чаще в отриц. и вопрос. предложениях для сущ. во мн. ч. | many towers
 `a lot of`  | оба           | много, не используется в отриц. предложениях                   | 
 `lots of`   | оба           | много, не используется в отриц. предложениях                   | 
-`plenty of` | оба           | много, не используется в отриц. предложениях                   | 
+`plenty of` | оба           | много, в форм. предл., не используется в отриц. предложениях   | 
 `a little`  | неисчисляемое | немножко / чуть-чуть / больше чем один предмет                 | a little milk
 `a few`     | исчисляемое   | немножко / чуть-чуть / больше чем один предмет для сущ. во мн. ч. | a few apples
 `little`    | неисчисляемое | меньше чем единица / часть чего-то целого                      | 
@@ -1510,6 +1510,8 @@ object  | a cake | by Susan
     > The weather held out, **despite** some dark clouds.
 - `although` / `while` / `whilst` / `whereas` - `несмотря на то, что` - используется для выражения конфликта между главным предложением и подчиненным:
     > **Whilst** investigators didn't find any evidence of Mr. Clark's involvement in hijacking, he was inprisoned.
+- `although, in spite of fact` / `notwithstanding` - `хотя, несмотря на то, что` / `несмотря на то, что` - используется для выражения контраста между частями предложения:
+    > **Notwithstanding** that the opposition was strong, the ruling party managed to win the elections again.
 - `in a nutshell` / `to conclude` / `in conclusion` / `in brief` / `in summary` - `в двух словах` / `в заключение` / `в заключение` / `вкратце` / `в итоге` - используется для выражения итога о том что говорилось или было написано ранее:
     > **In a nutshell**, we all were happy to get home finally.
 - `furthermore` / `moreover` / `as well as` / `too` / `also` / `besides` - `более того` / `кроме того` / `а также` / `тоже` / `также` / `кроме` - используется для выражения дополнительной информации по существу:
@@ -1518,6 +1520,8 @@ object  | a cake | by Susan
     > Sure, you may take my phablet **provided** you don't damage it.
 - `anyway` - `так или иначе` - используется для того чтобы показать что беседа закончилась и возврате к главной идеи и подитоживания сказаного:
     > **Anyway**, we have lost the game and it's only our fault. I've got nothing to add.
+- `inasmuch as` - `поскольку` - используется для добавления коментария с деталями, объясняя что-то более ясно:
+    > These two vases look rather similar, **inasmuch as** they are the same shape and color.
 
 ## Временные слова
 
@@ -1659,8 +1663,8 @@ object  | a cake | by Susan
     Конструкция `if I were you` вместо `If` + `<Past_Simple>`, используется когда хотят дать совет.
     > **If I were you**, I would stop eating junk food.
 
-3. **Нереальное прошлое**. Употребляется, когда выражают ситуацию, которая произошла в прошлом, о которой сожалеют, но изменить эту ситуацию уже нельзя. Строится из условной части и части результата выполнения условия:
-    - `If` + `<Past_Perfect>` + `,` + `would have` + `<verb>`(`-ed` / III form);
+3. **Нереальное прошлое**. Употребляется, когда выражают нереальное условие и результат который мог случиться в прошлом. Строится из условной части и части результата выполнения условия:
+    - `If` + `<Past_Perfect>` + `,` + `would` / `could` + `have` + `<verb>`(`-ed` / III form);
     > **If Charlie had left** the house earlier, he **wouldn't have been late** for work. - Если бы Чарли вышел раньше из дому, то он не опоздал бы на работу.
 
 Предлоги
