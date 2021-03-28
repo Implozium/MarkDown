@@ -328,8 +328,8 @@ DOM нужен для того, чтобы манипулировать стра
 - свойства:
     - `matches` со значением `true`, если документ соответствует мультимедийному запросу;
 - методы:
-    - `addListener((<mediaQueryList>) => {/* ... */})` - добавляет обработчик для события `change` - который вызывается при изменении статуса медиа-запроса;
-    - `removeListener((<mediaQueryList>) => {/* ... */})` - удаляет обработчик для события `change`;
+    - `addEventListener('change', (mediaQueryList) => {/* ... */})` - добавляет обработчик для события `change` - который вызывается при изменении статуса медиа-запроса;
+    - `removeEventListener('change', (mediaQueryList) => {/* ... */})` - удаляет обработчик для события `change`;
 
 ## Размеры и прокрутка элементов
 
@@ -1651,6 +1651,31 @@ Push API и Notifications API
     - `auth`.
 
 Браузер передает `applicationServerKey` (открытый ключ) push-сервису в ходе оформления подписки, что означает, что push-сервис сможет связать открытый ключ приложения с подпиской, `PushSubscription`.
+
+API разрешений
+==============
+
+`let <promise> = window.navigator.permissions.query({ name: '<тип_разрешения>' });` - возвращает промис с запросом на разрешение указаного типа, который разрешиться с объектом со свойствами:
+- `state` - при разрешении будет равно `'granted'` или `'prompt'`.
+
+Clipboard API
+=============
+
+`let <promise> = window.navigator.clipboard.writeText('<текст>');` - копирует текст в буфер обмена и возвращает промис, которые может отклониться если нет разрешения копировать текст в буфер обмена.
+
+`const <clipboardItem> = new ClipboardItem({ [<blob>.type]: <blob> });` - создает объект для буфера обмена из Blob объекта `<blob>`.
+
+`let <promise> = window.navigator.clipboard.write([<clipboardItem>]);` - копирует Blob объект  в буфер обмена и возвращает промис, которые может отклониться если нет разрешения копировать текст в буфер обмена.
+
+`let <promise> = window.navigator.clipboard.readText();` - возвращает промис, который разрешится с текстовым содержимым, которое есть в буфере обмена.
+
+`document.addEventListener('copy', function (e) {...}, false);` - добавляет обработчик, который сработает при копировании в буфер обмена, где `e` - это событие, со свойствами:
+- `clipboardData` - это объект с буфером данных, с методами:
+    - `setData('text', '<текст>')` - установка текста в буфер обмена;
+    - `files` - массив файлов.
+
+`let <promise> = window.navigator.permissions.query({ name: 'clipboard-read' });` - возвращает промис с запросом на разрешение чтения буфера обмена.  
+`let <promise> = window.navigator.permissions.query({ name: 'clipboard-write' });` - возвращает промис с запросом на разрешение чтения буфера обмена.
 
 jQuery
 ======
