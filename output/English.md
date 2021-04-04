@@ -1219,7 +1219,7 @@ Verb                                                    | Preposition
 ## <a id="Будущие-времена" href="#Будущие-времена">Будущие времена</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
 Формы будущего времени:
-- **Present Simple** (timetable) - 100% вероятность выполнения действия, так как оно идет по конкретному расписанию;
+- **Present Simple** (timetable) - 100% вероятность выполнения действия, так как оно идет по конкретному расписанию, к примеру прибытие поезда в определенное время по расписанию;
 - **Present Continuous** (fixed arrangements) - 90-100% вероятность выполнения действия, так как оно будет по определенному плану или договоренности в ближайшем будущем. В частности с глаголами движения `come`, `go`, `fly`, `travel`, `leave` и т.д.:
     > I am meeting Helen at two o'clock.
 - **Intention** (конструкция `to be going to ...`) - 50-60% вероятность выполнения действия, так как оно будет намеренное (намерение);
@@ -1638,6 +1638,8 @@ object  | a cake | by Susan
     > The perfomance was good,**but** few people came.
 - `although` / `though` / `even though` - `хотя` / `несмотря на` / `даже не смотря на` - используется для выражения удивительного контраста между предложениями:
     > **Even thiugh** rescue teams had been searching the lost climbers all night, they couldn't find any trace of them.
+- `though` - `однако` - используется для выражения контраста между предложениями, ставится либо в начале, либо в конце предложения:
+    > Vets tried hard to save my poppy. He died, **though**.
 - `despite` / `in spite of` + `<наречие>` / `<существительное>` / `<verb>`(`-ing`) - `несмотря на` - используется для выражения удивительного контраста между предложениями:
     > The weather held out, **despite** some dark clouds.
 - `although` / `while` / `whilst` / `whereas` - `несмотря на то, что` - используется для выражения конфликта между главным предложением и подчиненным:
@@ -1654,6 +1656,8 @@ object  | a cake | by Susan
     > **Anyway**, we have lost the game and it's only our fault. I've got nothing to add.
 - `inasmuch as` - `поскольку` - используется для добавления коментария с деталями, объясняя что-то более ясно:
     > These two vases look rather similar, **inasmuch as** they are the same shape and color.
+- `on account of` + `<существительное>` - `из-за` - используется для показа аргументов и описания самой причины:
+    > Miners went on strike **in account of** bad working conditions.
 
 ## <a id="Временные-слова" href="#Временные-слова">Временные слова</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
