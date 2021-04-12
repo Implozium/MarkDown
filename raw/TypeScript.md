@@ -159,9 +159,31 @@ TypeScript позволяет определять псевдонимы типо
 
 ### Тип строкового литерала
 
-Тип строкового литерала позволяет указывать точное значение строки, которое она должна иметь.
+Тип строкового литерала позволяет указывать точное значение строки, которое она должна иметь: `type <Type> = '<строка1>' | '<строка1>'[ | ...]`
 
 > `type Page = 'home' | 'about' | 'contact';`
+
+#### Шаблонные строковые литералы
+
+Используются для того чтобы модифицировать строковые литералы: ```type <MappedType> = `<perfix>${keyof }<suffix>`;```
+
+```typescript
+type Page = 'home' | 'about' | 'contact';
+type PageWithId = `${Page}_id`;
+// type PageWithId = 'home_id' | 'about_id' | 'contact_id';
+```
+
+Их можно использовать напрямую в виде типа переменных.
+
+##### Встроенные шаблонные типы
+
+`Uppercase<<строковый_литерал>>` - конвертирует каждый символ в символ верхнего регистра.
+
+`Lowercase<<строковый_литерал>>` - конвертирует каждый символ в символ нижнего регистра.
+
+`Capitalize<<строковый_литерал>>` - конвертирует первый символ в символ верхнего регистра.
+
+`Uncapitalize<<строковый_литерал>>` - конвертирует первый символ в символ нижнего регистра.
 
 ### Объединения
 
@@ -378,7 +400,6 @@ class NullCollection implements Collection {
     }
 }
 ```
-
 
 ## Интерфейсы функций
 
@@ -720,10 +741,49 @@ type RecordedState = {
 };
 ```
 
-Полностью отображенный тип на новые значения свойств получается:  
-`type NewType = { [k in keyof <Интерфейс>]: <значения_свойств> };`
+Полностью отображенный тип на новые значения свойств получается:
+```typescript
+type NewType = {
+    [k in keyof <Интерфейс>]: <значения_свойств>;
+};
+```
+
+Для того чтобы свойство именовалось по другому, можно использовать шаблонные строковые литералы в конструкции: `[k in keyof <Интерфейс> as <шаблонный_строковый_литерал>]`.
+
+```typescript
+type Getters<Type> = {
+    [Property in keyof Type as `get${Capitalize<string & Property>}`]: () => Type[Property]
+};
+
+interface Person {
+    name: string;
+    age: number;
+    location: string;
+}
+
+type LazyPerson = Getters<Person>;
+//   ^ = type LazyPerson = {
+//       getName: () => string;
+//       getAge: () => number;
+//       getLocation: () => string;
+//   }
+```
+
+Для фильтрования ключей может использоваться конструкция `as Exclude<Property, <тип>>`:
+> `[Property in keyof Type as Exclude<Property, "kind">]: Type[Property]`
 
 Для того чтобы узнать тип значений массива используется: `<array>[number]`.
+
+Для добавления или удаления модификаторов используются префиксы `-` / `+` перед их названиями для отображенных типов:
+```typescript
+type CreateMutable<Type> = {
+    -readonly [Property in keyof Type]: Type[Property];
+};
+
+type Concrete<Type> = {
+  [Property in keyof Type]-?: Type[Property];
+};
+```
 
 ## Утилитарные типы
 

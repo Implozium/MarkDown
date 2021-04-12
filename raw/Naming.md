@@ -142,3 +142,46 @@
 Для указания того, что аргумент может быть любым представителем указаного класса, можно использовать префиксы `a` / `an`, а дальше имя класса в нотации *CamelCase*.
 > `aSelector`  
 > `anObject`
+
+Комментарии в коде
+==================
+
+Главные проблемы комментариев - это:
+- **устаревание** - при рефакторинге кода и создании новых функций разработчики часто забывают их актуализировать;
+- **избыточность** - часто содержимое комментариев очень избыточно и делают код больше, не неся в себе смысл.
+
+**Универсальная стратегия избавления от комментариев** - использовать временные переменные с правильно подобранными именами или названия методов, передающие их назначение.
+
+Правильное присваивание имен - это мощный инструмент, позволяющий заменить комментарии и помочь писать самодокументируемый код. Благодаря этому код можно безжалостно рефакторить, не боясь, что комментарии не будут соответствовать коду.
+
+Комментарии должны использоваться, когда они отвечают на вопрос **"зачем?"**, а на **"что?"**, и когда **"зачем?"** нельзя объяснить именами.
+
+## Пример рефакторинга кода
+
+Исходный код:
+```python
+# Seller is eligible to be paid under the following conditions:
+# 1. It's past 2020/5/1 when we got legal approval to make payouts
+# 2. It’s Nov/Dec since those are the only months eligible
+# 3. User is not from list of countries that are banned
+today = date.today()
+if today > date(2020, 1, 1) and (today.month == 11 or today.month == 12) and user.country not in ['Narnia', 'Odan', 'Maldonia']:
+    # This function does the actual payout by calling Stripe
+    # It saves the response asynchronously.
+    payoutHandler()
+```
+
+Отрефакторенный без использования комментариев:
+```python
+PAYOUT_APPROVAL_DATE = date(2020, 5, 1)
+BANNED_COUNTRIES = ['Narnia', 'Odan', 'Maldonia']
+NOVEMBER, DECEMBER = 11, 12
+ELIGIBLE_MONTHS = [NOVEMBER, DECEMBER]
+today = date.today()
+is_past_approval_date = today > PAYOUT_APPROVAL_DATE
+is_eligible_month = today.month in ELIGIBLE_MONTHS
+is_user_from_banned_country = user.country in BANNED_COUNTRIES
+if is_past_approval_date and is_eligible_month and not is_user_from_banned_country:
+    stripe_payout_resp = callStripeToPayout(user)
+    saveResponseAsync(stripe_payout_resp)
+```

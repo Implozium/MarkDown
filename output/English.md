@@ -19,6 +19,8 @@
         - [Указательные местоимения](#Указательные-местоимения)
         - [Неопределенные местоимения `some` / `any`](#Неопределенные-местоимения-some--any)
         - [Относительные местоимения `who` / `which` / `where`](#Относительные-местоимения-who--which--where)
+            - [Относительное слово `that`](#Относительное-слово-that)
+                - [Garden-path sentences](#Garden-path-sentences)
     - [Глагол (verb)](#Глагол-verb)
         - [Отрицательная форма глагола](#Отрицательная-форма-глагола)
         - [Инфинитив **Infinitive**](#Инфинитив-Infinitive)
@@ -78,6 +80,7 @@
     - [Разделительные вопросы](#Разделительные-вопросы)
 - [Сложные предложения](#Сложные-предложения)
     - [Согласование времен](#Согласование-времен)
+        - [Будущее время](#Будущее-время)
     - [Слова-связки](#Слова-связки)
     - [Временные слова](#Временные-слова)
         - [Союзы времени](#Союзы-времени)
@@ -87,6 +90,7 @@
         - [Цели](#Цели)
     - [Принуждение](#Принуждение)
 - [Условные предложения](#Условные-предложения)
+    - [Инвертированое условное предложение](#Инвертированое-условное-предложение)
 - [Предлоги](#Предлоги)
     - [Предлог `of` - `[ɔv]`](#Предлог-of---v)
     - [Предлоги времени `at`, `in` и `on`](#Предлоги-времени-at-in-и-on)
@@ -261,6 +265,13 @@
     `<сущ.> of <кого? / чего?>`
     > the roof **of the house**
 
+Иерархия одушевленности при использовании притяжательного падежа (чем выше тем более вероятно использовать притяжательный падеж, чем ниже тем выше использовать предлог `of`):
+- Первое, второе и третье лицо;
+- Имя;
+- Человек;
+- Одушевленное;
+- Неодушевленное.
+
 Произносится `` `s ``:
 - после гл. согл. `[s]`;
 - после гласных и зв. согл. `[z]`;
@@ -351,6 +362,13 @@ She | reads |    | her notes   | to Peter | every day
     > **Hardly had Tom reached** the house, it started to snow heavily.
 - `never before`:
     > **Never before had Jake visited** such a beautiful place.
+- `such`:
+    > **Such was Jake's surprise** that he didn't know what to answer.
+- `so` - требует после себя прилагательное.
+
+Для акцента на некоторой идеи в предложении используется инверсия построенная с использованием наречия:  
+`<adverb>` + `<вспомогательный_глагол>` + `<subject>` + `<verb>` + `<object>`. при отсутствии вспомогательного глагола, как для настоящего времени, вспомогательный глагол будет `do`.
+> Rarely does Kate visit the gym.
 
 В случае акцента над определенным моментом или идеей объект ставится в начало предложения. Эта конструкция используется, когда важно говоряжему выразить его реакцию на что-то конкретное:
     > **Her new haircut** I didn't like.
@@ -445,6 +463,20 @@ She | reads |    | her notes   | to Peter | every day
 > A clock is something **which** shows the time.  
 > This is the hotel **where** we spent our holidays.
 
+#### <a id="Относительное-слово-that" href="#Относительное-слово-that">Относительное слово `that`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+Используется для описания предыдущего слова в значении `который`:
+> I love this TV **that** I watched recently.
+
+При этом может опускаться:
+> I love this TV I watched recently.
+
+##### <a id="Garden-path-sentences" href="#Garden-path-sentences">Garden-path sentences</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+Это ситуация при которой в конструкции `<subject>` + `that` + `<дополнение_начинающееся_глаголом>` + `<verb>` опускают слово `that`.
+> The horse (that) raced past the barn fell.  
+> The florist (that) sent the flowers was pleased.
+
 ## <a id="Глагол-verb" href="#Глагол-verb">Глагол (verb)</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
 ### <a id="Отрицательная-форма-глагола" href="#Отрицательная-форма-глагола">Отрицательная форма глагола</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
@@ -511,7 +543,7 @@ She | reads |    | her notes   | to Peter | every day
     - чувств и желаний: `like`, `dislike`, `love`, `hate`, `enjoy`, `prefer` и похожих по смыслу;
     - выражающих мнение: `admit`, `appreciate`, `avoid`, `consider`, `deny`, `fancy`, `imagine`, `mind`, `miss`, `prevent`, `spend`, `suggest`, `waste`, `resist` и похожих по смыслу;
     - движения: `stop`, `finish`, `start`, `begin`, `keep`, `go` и похожих по смыслу;
-    - глаголов: `practice`.
+    - глаголов: `practice`, `postpone`.
 
     но кроме глаголов: `hope`, `believe`, `think`, `afford`, `deserve`, `choose`, `seem` и других глаголов восприятия и конструкции: `would` + `<verb>` + `to-<инфинитив>` (хотел бы):
     > She stop **talking**.  
@@ -923,6 +955,8 @@ Verb                                                    | Preposition
     > I **go** to the doctor at 5 am.
 - когда производится обзор или подвидение итога книги, фильма, театральной пьесы и д.р.:
     > In his essay, professor Nickson **admits** the existance of UFO, but **points** out the fact that we still **have** no proved evidence of their existence.
+- когда используем глагол в значении "возможности действовать благодаря чему-то": see - ability to see with our eyes:
+> I **see** an e-mail from the support service.
 
 Используются такие ключевые слова или конструкции:
 - `every`;
@@ -1420,6 +1454,9 @@ object  | a cake | by Susan
 
 В основном используется первый вариант, так как часто более интересна личность, чем вещь.
 
+Когда в активном предложении предпологают или делают прогноз, то в пассивной форме используется модальный глагол `must`.
+> I **suppose** that Jeremy has written this letter. -> This letter **must** have been written by Jeremy.
+
 ## <a id="Употребление-времен" href="#Употребление-времен">Употребление времен</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
 - если действие происходит в прошлом:
@@ -1625,6 +1662,11 @@ object  | a cake | by Susan
 - **предшествующим** - то глагол стоит в `Past Perfect` и переводится прошедшим временем;
 - **будущим** - то глагол стоит в `Future-in-the-Past` и переводится будущим временем.
 
+### <a id="Будущее-время" href="#Будущее-время">Будущее время</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+При наличии будущего времени в главном предложении, в дополнительном придаточном предложении, которое соединено через слово-связку `when` не используется будущее время:
+> Will you have finished working **when** I come to pisk you up?
+
 ## <a id="Слова-связки" href="#Слова-связки">Слова-связки</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
 Используются для того, чтобы объеденить предложения или идеи. Ставятся в основном между предложениями или вначале первого предложения.
@@ -1791,7 +1833,7 @@ object  | a cake | by Susan
     > **If** he wakes up late, he will miss the bus.
 
 2. **Нереальное настоящее или будущее**. Употребляется, когда выражают воображение или невероятную ситуацию которая к несчастью не случится в настоящем или будущем. Строится из условной части и части результата выполнения условия:
-    - `If` + `<Past_Simple>` + `,` + `would` / `could` / `might` + `<Bare_Infinitive>`;
+    - `If` + `<Past_Simple>` + `,` + `<subject>` + `would` / `could` / `might` + `<Bare_Infinitive>`;
     > **If** I **had** more free time, I **would take up** basketball. (I don't have much free time now, so it unlikely that I will take up basketball. - improbable situation)
 
     Для всех может использоваться `were` вместо `was`.
@@ -1800,8 +1842,14 @@ object  | a cake | by Susan
     > **If I were you**, I would stop eating junk food.
 
 3. **Нереальное прошлое**. Употребляется, когда выражают нереальное условие и результат который мог случиться в прошлом. Строится из условной части и части результата выполнения условия:
-    - `If` + `<Past_Perfect>` + `,` + `would` / `could` + `have` + `<verb>`(`-ed` / III form);
+    - `If` + `<Past_Perfect>` + `,` + `<subject>` + `would` / `could` + `have` + `<verb>`(`-ed` / III form);
     > **If Charlie had left** the house earlier, he **wouldn't have been late** for work. - Если бы Чарли вышел раньше из дому, то он не опоздал бы на работу.
+
+## <a id="Инвертированое-условное-предложение" href="#Инвертированое-условное-предложение">Инвертированое условное предложение</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+Если в условии используются слова `should` / `were` / `had` - то можно исключить `if` и поставить их на первое место:  
+`should` / `were` / `had` + `<subject>` + `<object>` + `<результат>`
+> **Were** I in your shoes, I would tell him everything.
 
 <a id="Предлоги" href="#Предлоги">Предлоги</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 ========
@@ -1929,7 +1977,7 @@ object  | a cake | by Susan
 
 Структура, которая используется для передачи привычки или состояния предмета / человека в прошлом, которого больше не существует или не происходит.
 
-`<субъект>` + `to used to` + `<предикат>` + `<остальное>`
+`<субъект>` + `used to` + `<предикат>` + `<остальное>`
 
 > He **used to** live in a small house.
 
@@ -2139,10 +2187,14 @@ object  | a cake | by Susan
 ## <a id="Разочарование-Disappointment" href="#Разочарование-Disappointment">Разочарование (Disappointment)</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
 Выражает сожаление:
-- **о настоящем или будущем в виде мечты**. Формируется: `<somebody> wish <Past_Simple>` - `Жаль что ...` и переводится с английского настоящим или будущем временем.
+- **о настоящем или будущем в виде мечты**. Формируется: `<somebody> wish <subject> <Past_Simple>` - `Жаль что <subject> ...` и переводится с английского настоящим или будущем временем.
     > **I wish** I didn't have to do that task. - Жаль что я должен делать эту задачу.
-- **о прошлом**. Формируется: `I wish <Past_Perfect>` - `Жаль что ...`
+- **о прошлом**. Формируется: `I wish <subject> <Past_Perfect>` - `Жаль что <subject> ...`
     > **I wish** I had known her before. - Жаль что я не знал ее раньше.
+
+Разочарование:
+- **о прошлом**. Формируется: `I would rather <subject> <Past_Perfect>` - `Лучше бы <subject> ...`
+    > **I would rather** Sandra hadn't moved to Paris a year ago. - Лучше бы Сандра не ехала в Париж год назад.
 
 <a id="Косвенная-речь" href="#Косвенная-речь">Косвенная речь</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 ==============
@@ -2229,15 +2281,16 @@ object  | a cake | by Susan
 =======
 
 Ставится:
-- между однородными членами предложения:
-    > `Go to the shop and buy some bananas, apples, and oranges.`
+- между однородными членами предложения (если ее не поставить, то последняя конструкция с `and` будет выглядеть как уточнение предыдущих членов, а не как однородные члены предложения):
+    > Go to the shop and buy some bananas, apples, and oranges.  
+    > I love my parents, Snoop Dogg and Rihanna. - Я люблю своих родителей, Снуп Догга и Риану.
 - между независимыми предложениями, которые объединили в одно или перед союзами: **and**, **but**, **for**, **or**, **nor**, **so**, **yet**:
-    > `I love commas, and you will love them too!`
+    > I love commas, and you will love them too!
 - после вводных слов и фраз:
-    > `However, you may not be satisfied with these commas.`  
-    > `That man I told you about, who used too many commas, was arrested by grammar-nazi.`
+    > However, you may not be satisfied with these commas.  
+    > That man I told you about, who used too many commas, was arrested by grammar-nazi.
 - при использовании прямой речи:
-    > `"Hey, get out of my house", said Jim to the stranger.`
+    > "Hey, get out of my house", said Jim to the stranger.
 
 <a id="Синонимы" href="#Синонимы">Синонимы</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 ========
