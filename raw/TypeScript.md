@@ -540,6 +540,8 @@ tom = new User<string>("vsf"); // ошибка
 
 > `type Constructor<T> = new (...args: any[]) => T;`
 
+Если не указывать тип обобщения, то будет выведен минимальный возможный тип.
+
 ## Ограничения обобщений
 
 `<T extends {<Интерфейс> | <тип>}>` - устанавливает что только можно передавать объекты, которые расширяют `{<Интерфейс> | <тип>}`, то есть ограничивается всеми "наследниками" этого типа.
@@ -571,6 +573,12 @@ function double(x: any) {
 export type ArrayElement<A> = A extends (infer T)[] ? T : never;
 
 type Item = ArrayElement<(number | string)[]>; // Item === (number | string)
+```
+
+```typescript
+export type Swap<T extends [any, any]> = T extends [infer X, infer Y] ? [Y, X] : never;
+
+type Swapped = Swap<[string, number]> // Swapped === [number, string]
 ```
 
 ## Ключевое слово `new`
@@ -746,6 +754,26 @@ type RecordedState = {
 type NewType = {
     [k in keyof <Интерфейс>]: <значения_свойств>;
 };
+```
+
+Для того чтобы исключить какие-то ключи по определенному типу используется структура:
+```typescript
+type Keys<Obj, T> = {
+  [K in keyof Obj]: Obj[K] extends T ? K : never;
+}[keyof Obj];
+
+type Mapped<Obj, T> = {
+  [P in Keys<Obj, T>]: Obj[P];
+};
+```
+
+```typescript
+interface A {
+  a: number;
+  b: string;
+  c: boolean;
+}
+type V = Mapped<A, boolean | number>; // { a: number; c: boolean }
 ```
 
 Для того чтобы свойство именовалось по другому, можно использовать шаблонные строковые литералы в конструкции: `[k in keyof <Интерфейс> as <шаблонный_строковый_литерал>]`.
