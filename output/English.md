@@ -44,7 +44,7 @@
         - [Разрешение `can` - `be allowed to`](#Разрешение-can---be-allowed-to)
         - [Совет `should`](#Совет-should)
         - [Вероятность `might` / `could`](#Вероятность-might--could)
-        - [Должествование `must` - `have to`](#Должествование-must---have-to)
+        - [Должествование `must`, `have to`, `be to`](#Должествование-must-have-to-be-to)
         - [`Must` - `Can't`](#Must---Cant)
     - [Наречие (adverb)](#Наречие-adverb)
         - [Суффикс `-ly`](#Суффикс--ly)
@@ -212,7 +212,7 @@
     - **исключение** - не используется если название дано в честь определенного человека и оканчивается на `-s` или `-'s`:
         > **Lloyds Bank**
 - перед именами рек, морей, групп островов или штатов, горных образований, пустыньи и океанов:
-    - **исключение** - не используется перед именами стран, городов, улиц, островов, озер и континентов.
+    - **исключение** - не используется перед именами стран, городов, улиц, площадей, островов, озер и континентов.
 - перед именами стран в составе которых используются слова `republic`, `kingdom`, `states`:
     > The Republic of Ireland
 - перед конструкцией `... of ...`:
@@ -370,7 +370,8 @@ She | reads |    | her notes   | to Peter | every day
     > **Never before had Jake visited** such a beautiful place.
 - `such`:
     > **Such was Jake's surprise** that he didn't know what to answer.
-- `so` - требует после себя прилагательное.
+- `so` + `<adjective>` + `<вспомогательный_глагол>` + `<subject>` + `...` + `that`:
+    > **So beautiful was** the weather **that** we decided to have a rest in the park.
 
 Если инвертированое предложение начинается с `not until` / `not since` / `only after` / `only when` / `only by` - `до тех пор, пока не` / `не с` / `только после` / `только тогда, когда` / `только`, то тогда используется структура, где у первого предложения нормальный порядок, а у второго инвертированный: `<not/only>` + `<subject>` + `<verb>` + `<object>` + `<вспомогательный_глагол>` + `<subject>` + `<verb>` + `<object>`:
 > **Not until** Bob heard from Jill did he believe she was alright.
@@ -552,7 +553,7 @@ She | reads |    | her notes   | to Peter | every day
     - чувств и желаний: `like`, `dislike`, `love`, `hate`, `enjoy`, `prefer` и похожих по смыслу;
     - выражающих мнение: `admit`, `appreciate`, `avoid`, `consider`, `deny`, `fancy`, `imagine`, `mind`, `miss`, `prevent`, `spend`, `suggest`, `waste`, `resist` и похожих по смыслу;
     - движения: `stop`, `finish`, `start`, `begin`, `keep`, `go` и похожих по смыслу;
-    - глаголов: `practice`, `postpone`.
+    - глаголов: `practice`, `postpone`, `waste`.
 
     но кроме глаголов: `hope`, `believe`, `think`, `afford`, `deserve`, `choose`, `seem` и других глаголов восприятия и конструкции: `would` + `<verb>` + `to-<инфинитив>` (хотел бы):
     > She stop **talking**.  
@@ -797,7 +798,7 @@ Verb                                                    | Preposition
 
 > "Where's Sarah?" "She **might** / **could** be at the beach." (Perhaps she's at the beach.)
 
-### <a id="Должествование-must---have-to" href="#Должествование-must---have-to">Должествование `must` - `have to`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+### <a id="Должествование-must-have-to-be-to" href="#Должествование-must-have-to-be-to">Должествование `must`, `have to`, `be to`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
 Используются для выражения обязанностей и необходимостей.
 
@@ -810,6 +811,9 @@ Verb                                                    | Preposition
 `Have` / `Don't have` / `Doesn't have` используются во всех временах для выражения обязанностей и необходимостей или когда:
 - **выражают нехватку чего-то `don't have` / `doesn't have`**:
     > You **don't have to** buy any oranges. We've got plenty.
+
+`Be to` / `Don't be to` используется для выражения сильного обязательства в будущем и заменяет `must` в будущем:
+> I don't care what it means to you but you **are to throw** this old table away now.
 
 ### <a id="Must---Cant" href="#Must---Cant">`Must` - `Can't`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
@@ -1453,6 +1457,9 @@ object  | a cake | by Susan
 Когда субъект из активного предложения один из следующих слов: `people`, `one`, `someone`, `somebody`, `they`, `he` и другие, то агент часто опускается в пассивном предложении.
 > Someone will feed the dog. -> The dog will be fed.
 
+Когда субъект из активного предложения один из следующих слов: `people`, `one`, `someone`, `somebody`, `they`, `he` и другие, и информирует что-то о субъекте, то агент часто опускается в пассивном предложении и используется инфинитив, после "пассивного" информирования о объекте.
+> The reported that Mr. Jacobson was playing football at that time. -> Mr. Jacobson was reported to be playing football at that time.
+
 Местоимения преобразуются из личного в косвенный и наоборот.
 
 Предлоги у пассивных глаголов сохраняют свое место там же где и у активных.
@@ -1713,6 +1720,8 @@ object  | a cake | by Susan
     > Miners went on strike **in account of** bad working conditions.
 - `however` / `thought` - `однако` / `хотя` - используются для выражения контраста между частями предложений:
     > A lot of Europeans would like to visit Japan. **However**, such travel is very expensive.
+- `instead` - `вместо` - используется для выражения замены или альтернативы между предложениями:
+    > **Instead** of going to the park, we went to the museum.
 
 ## <a id="Временные-слова" href="#Временные-слова">Временные слова</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
