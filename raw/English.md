@@ -2335,4 +2335,3 @@ Type of eating:
 `do` + `<verb>` - перед глаголом усиливает его:
 > Jane, I **do** like your new dress. Where did you get it? - Джейн, мне **действительно** нравится твое новое платье. Где ты его достала?  
 > Your music is too loud. **Do** turn it off! - Твоя музыка слишком громкая. **Давай** выключай ее!
-
