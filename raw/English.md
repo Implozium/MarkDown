@@ -1130,10 +1130,10 @@ Verb                                                    | Preposition
 ## Будущие времена
 
 Формы будущего времени:
-- **Present Simple** (timetable) - 100% вероятность выполнения действия, так как оно идет по конкретному расписанию, к примеру прибытие поезда в определенное время по расписанию;
-- **Present Continuous** (fixed arrangements) - 90-100% вероятность выполнения действия, так как оно будет по определенному плану или договоренности в ближайшем будущем. В частности с глаголами движения `come`, `go`, `fly`, `travel`, `leave` и т.д.:
+- **Present Simple** (timetable) - 100% вероятность выполнения действия, так как оно идет по конкретному расписанию - это к примеру официальные планы, программы, расписания и графики, как к примеру прибытие поезда в определенное время по расписанию;
+- **Present Continuous** (fixed arrangements) - для хорошо спланированых будущих действий с определенным временем, местом или другими деталями. В частности с глаголами движения `come`, `go`, `fly`, `travel`, `leave` и т.д.:
     > I am meeting Helen at two o'clock.
-- **Intention** (конструкция `to be going to ...`) - 50-60% вероятность выполнения действия, так как оно будет намеренное (намерение);
+- **Intention** (конструкция `to be going to ...`) - для будущих планов которые уже продуманы или уже осуществлены;
 - **Future Simple** - 30-40% вероятность выполнения действия, так как оно будет спонтанным.
 
 ### Future Simple
@@ -1178,7 +1178,7 @@ Verb                                                    | Preposition
     > Susan **is going to** move house.
 - **if we have decided to do something or arranged to do in the near future** - если мы решили что-то сделать или запланировали что-то сделать в ближайшем будущем:
     > Teresa is going to see her son's teacher tomorrow morning.
-- **for predictions based on what we see or we know** - для предсказаний основанных на том что мы видим или знаем:
+- **for predictions based on what we see or we know** - для предсказаний основанных на том что мы видим, слышим, чувствуем или знаем:
     > Look at him. He **is going to** jump out of the train.
 
 Тип предложения | Вспом гл | Субъект     | Вспом гл             | Предикат | Пример
@@ -1414,6 +1414,27 @@ object  | a cake | by Susan
         > **By the time** Rick retires, he **will have been working** for the same company **for thirty years**.
 - если действие выражает приобретенный опыт, то: **Present Perfect**:
     > They have traveled trough Europe.
+
+## Таблица времен
+
+.  | Modal | Perfect | Progressive | Passive | Lexical Verb | Type
+-- | ----- | ------- | ----------- | ------- | ------------ | ----
+1  |       |         |             |         | takes        | `Simple`
+2  |       |         |             | is      | taken        | `Passive Simple`
+3  |       |         | is          |         | taking       | `Continuous`
+4  |       |         | is          | being   | taken        | `Passive Continuous`
+5  |       | has     |             |         | taken        | `Perfect`
+6  |       | has     |             | been    | taken        | `Passive Perfect`
+7  |       | has     | been        |         | taking       | `Perfect Continuous`
+8  |       | has     | been        | being   | taken        | `Passive Perfect Continuous`
+9  | will  |         |             |         | takes        | `Future Simple`
+10 | will  |         |             | is      | taken        | `Future Passive Simple`
+11 | will  |         | is          |         | taking       | `Future Continuous`
+12 | will  |         | is          | being   | taken        | `Future Passive Continuous`
+13 | will  | has     |             |         | taken        | `Future Perfect`
+14 | will  | has     |             | been    | taken        | `Future Passive Perfect`
+15 | will  | has     | been        |         | taking       | `Future Perfect Continuous`
+16 | will  | has     | been        | being   | taken        | `Future Passive Perfect Continuous`
 
 Вопросительные предложения
 ==========================
