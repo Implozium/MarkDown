@@ -504,13 +504,21 @@ She | reads |    | her notes   | to Peter | every day
 
 ### `Have` / `Have got`
 
-Обозначают значение иметь (владеть чем либо).
+Обозначают значение иметь (для владения, отношений, болезни и д.р.).
 
 Тип предложения     | `Have got`                   |||| `Have` (смысловой)      ||||
 ------------------- | ---- | - | ----------- | ------ | -- | - | ---------- | ------
 **Утвердительное**  |      | I | have got    | a cat. |    | I | have       | a cat.
 **Отрицательное**   |      | I | haven't got | a cat. |    | I | don't have | a cat.
 **Вопросительное**  | Have | I | got         | a cat? | Do | I | have       | a cat?
+
+`Have got` употребляется только в настоящем времени.
+
+`Have` может иметь форму **Continuous**:
+> Mike **is having** a shower at the moment.
+
+В форме **Simple** для глагола `have` можно опускать выражения, которые подразумеваются из контекста:
+> Sometimes I **have** (= eat) a sandwich for my lunch.
 
 ### Фразовые глаголы (Phrasal verbs)
 
@@ -621,16 +629,79 @@ Verb                                                    | Preposition
 
 ## Модальные глаголы
 
-### Глаголы `can`, `may`, `must`
+### Модальные глаголы вероятности
 
 Выражают не реальное действие или состояние, а отношение к ним действующего лица.
-- `can` - `[cæn]` - значит **мочь** в смысле **уменья** или **физической возможности**;
-- `could` - прошедшая форма `can`;
-- `may` - `[maı]` - значит **мочь** в смысле **иметь разрешение**;
-- `might` - прошедшая форма `may`;
-- `must` - `[mʌst]` - означает **должествование**.
+- `can` + `<verb>`:
+    - значит **мочь** в смысле что, что-то возможно или разрешено, или что кто-то имеет возможность сделать что-то:
+        > We **can see** the lake from our bedroom window.
+    - `cannot` = `can't` для указания того, что кто-то не верит во что-то возможное:
+        > You've just had lunch. You **can't be** hungry already.
+    - `can't have` + `<verb>`(`-ed` / III form):
+        - аналогично `can't`, только для прошлого:
+            > Sue hasn't contacted me. She can't have got my message.
+- `could` + `<verb>`:
+    - прошедшая форма `can`:
+        > I **could hear** something.
+    - аналогично `can` для возможных действий в настоящем или будущем, только это предположение менее уверенное чем `can`:
+        > What shall we do this evening? - We **could go** to the cinema.
+    - для действий которые не могут быть реальными:
+        > I'm so tired, I **could sleep** for a week.
+    - `couldn't` для указания того, что что-то не возможно сейчас:
+        > I **couldn't live** in a big city. I'd hate it.
+    - `could have` + `<verb>`(`-ed` / III form):
+        - аналогично `could` только для прошлого:
+            > The situation was bad, but it **could have been** worse.
+        - для обозначение чего-то, что могло случиться в прошлом, но не случилось:
+            > I didn't know that you wanted to go to the concert. I **could have got** you a ticket. (I didn't get you a ticket.)
+        - `couldn't have` аналогично `couldn't` только для прошлого:
+            > The trip was cancelled last week. Paul **couldn't have gone** anywawy because he was ill. (= it would not have been possible for him to go)
+- `may` / `might` + `<verb>`:
+    - значит что, что-то возможное (`perhaps`), аналогично `could`:
+        > It **may** be true. (= perhaps it is true)  
+        > She **might** know.
+    - когда говорим, о возможных действия или о том что случиться что-то в будущем, аналогично `will` только с меньшей увереностью в свершении действия:
+        > I haven't decided yet where to go for my hollidays. I **may go** to Ireland. (= perhaps I will go there)  
+        > Take an umbrella with you. It **might rain** later. (= perhaps it will rain)
+    - `may be` / `might be` + `<verb>`(`-ing`) - аналогично `will be` + `<verb>`(`-ing`), только с меньшей увереностью в свершении действия или для высказывания о возможных планах:
+        > Don't phone at 8.30. I **may be watching** the film on television. (= perhaps I will be watching it)  
+        > I **might be going** to Ireland on July.
+    - `may not` / `might not` (`mightn't`) для указания того, что что-то не возможно:
+        > I **may not** be true.  
+        > She **might not** work here any more.
+    - `may have` / `might have` + `<verb>`(`-ed` / III form):
+        - аналогично `may` / `might` только для прошлого:
+            > I wonder whay Kate didn't answer the phone. - She **may have been** asleep. (= perhaps she was asleep)  
+            > I can't find my bag anywhere. - You **might have left** it in the shop.
+        - `may not have` / `might not have` аналогично `may not` / `might not` только для прошлого:
+            > He **may not have been feeling** well.  
+            > She **might not have known** about it.
+- `may` + `<verb>`:
+    - значит **мочь** в смысле **иметь разрешение**;
+- `might` + `<verb>`:
+    - прошедшая форма `may`;
+- `must` + `<verb>`:
+    - для указания того, что кто-то верит во что-то очень сильно:
+        > You're been travelling all day. You **must be** tired.
+    - означает **должествование**.
+    - `must have` + `<verb>`(`-ed` / III form):
+        - аналогично `must`, только для прошлого:
+            > I didn't hear the phone. I **must have been** asleep.
 
 Ставятся перед сказуемым.
+
+#### `to be able to`
+
+Используется в значении `can` для всех времен:
+> I **haven't been able to** sleep recently.
+
+Прошедшая форма `to be able to` или `managed to` используется для того, чтобы сказать что, кто-то сделал что-то в прошлом в определенной ситуации:
+> We didn't know where David was, but we **were able to find** him in the end.
+
+#### `might as well` / `may as well`
+
+Используется, когда хотят сказать что нет лучшей альтернативы и нет причин не делать этого:
+> What shall we do? Shall we walk? - We **might as well**. It's a nice day and I don't want to wait here for an hour.
 
 ### Разрешение `can` - `be allowed to`
 
@@ -641,16 +712,32 @@ Verb                                                    | Preposition
 > **Am** I **allowed to** park my motorcycle here? (What is the law?)  
 > You **aren't allowed to** take photographs in the museum.
 
-### Совет `should`
+### `Should`
 
-`should` - обозначает "следует" - **модальный глагол**, имеет только одну форму в настоящем времени. Следует всем правилам модальных глаголов.
-
-Используется когда мы хотим дать совет.
-
-Отрицание `should not` (`shouldn't`)
-
-> You should wear this jumper because weather is so cold.  
-> You shouldn't eat junk food.
+`should` / `should not` (`shouldn't`) + `<verb>` - используется:
+- для выражения своего мнения или дачи совета:
+    > The government **should do** more to reduce crime.  
+    > You **shouldn't eat** junk food.
+- часто используется с конструкциями: `I think` / `I don't think` / `Do you think ...?`:
+    > **I think** the government **should do** more to reduce crime.
+- когда что-то не верно или что-то идет не так как ожидалось:
+    > I wonder where Tina is. She **should be** here by now.
+- когда ожидаем что, что-то случиться:
+    > She's been studying hard for the exam, so she **should pass**.
+- `should have` + `<verb>`(`-ed` / III form):
+    - для выражения о том что, что-то не было сделано, но должно было сделано в прошлом:
+        > You missed a great party last night. You **should have come**. Why didn't you?
+- `shouldn't have` + `<verb>`(`-ed` / III form):
+    - для выражения о том что, что-то было сделано, но это не должно было сделано в прошлом:
+        > I'm feeling sick. I **shouldn't have eaten** so much. (= I ate too much)
+- после глаголов, в частности: `demand` / `insist` / `propose` / `recommend` / `suggest`. При этом `should` может опускаться:
+    > I **demand** that he (**should**) **apologise**.
+- после прилагательных, в частности: `strange` / `odd` / `funny` / `typical` / `natural` / `interesting` / `surprised` / `surprising`:
+    > It's **strange** that he **should be** late. He's usually on time.
+- в конструкции: `It's` + `important` / `vital` / `necessary` / `essential` + `that` + ... + `should` + ...:
+    > **It's essential** that everyone **should be** here on time.
+- для дачи совета о том как кто-то поступил бы на его месте:
+    > I'm going out now. Is it cold? - yes, **I should wear** a coat.
 
 Имеет устаревший эквивалент `ought to`.
 
@@ -660,19 +747,47 @@ Verb                                                    | Preposition
 
 > "Where's Sarah?" "She **might** / **could** be at the beach." (Perhaps she's at the beach.)
 
-### Должествование `must`, `have to`, `be to`
+### Модальные глаголы должествования `must`, `have to`, `be to`
 
 Используются для выражения обязанностей и необходимостей.
 
-`Must` / `Mustn't` используются только в настоящем времени для выражения обязанностей и необходимостей или когда:
-- **дают строгий совет**:
-    > You **must** see a doctor right away.
-- **выражают строгий запрет `mustn't`**:
+`Have to` / `Don't have to` / `Doesn't have to` + `<verb>` используются во всех временах:
+- для выражения обязанностей и необходимостей:
+    > I **have to wear** glasses for reading.
+- для выражения нехватки чего-то с помощью `don't have` / `doesn't have`:
+    > You **don't have to** buy any oranges. We've got plenty.
+- для выражения того, что кто-то должен делать что-то:
+    > I **have to work** from 8.30 to 5.30 every day.
+- в будущем времени с использованием `will` или `might` / `may`:
+    > If the pain gets worse, I **will have to go** to the doctor.
+- для выражения нестрогого запрета с помощью `don't have` / `doesn't have` + `<verb>`:
+    > You **don't have to tell** him, but you can if you want to.
+
+`Have got to` + `<verb>` может применяться вместо `have to`.
+
+`Must` / `Mustn't` + `<verb>` используются только в настоящем времени:
+- для выражения обязанностей и необходимостей, аналогично `have to`:
+    > It's later than I thought. I **must go**.
+- для выражения собственного совета о том что что-то необходимо сделать или рекомендации сделать что-то:
+    > I haven't spoken to Sue for ages. I **must phone** her.
+- для написаных правил или инструкций:
+    > You **must write** your answers in ink.
+- для выражения строгого запрета с помощью `mustn't`:
     > You **mustn't** park here.
 
-`Have` / `Don't have` / `Doesn't have` используются во всех временах для выражения обязанностей и необходимостей или когда:
-- **выражают нехватку чего-то `don't have` / `doesn't have`**:
-    > You **don't have to** buy any oranges. We've got plenty.
+### `Need to`
+
+`Need to` + `<verb>` используется:
+- для выражения необходимости для кого-то сделать что-то:
+    > I **need to do** more exercise.
+- `needn't` (`don't need to`) используется когда нет необходимости делать что-то, но возможность сделать это остается:
+    > You can come with me if you like, but you **needn't come** if you don't want to. (= it is not necessary for you to come)
+    - `needn't have` + `<verb>`(`-ed` / III form):
+        - аналогично `needn't`, только для прошлого о совершенном действии, но сейчас ясно что это было не нужно:
+            > I goy up very early because I had to get ready to go away. But in fact it didn't take me long to get ready. So, I **needn't have got** up so early. I could have stayed in bed longer.
+    - `didn't need to` + `<verb>`:
+        - аналогично `needn't`, только для прошлого и по значению аналогично `didn't have to`:
+            > I **didn't need to** get up early, but it was a lovely morning , so I did.
 
 `Be to` / `Don't be to` используется для выражения сильного обязательства в будущем и заменяет `must` в будущем:
 > I don't care what it means to you but you **are to throw** this old table away now.
@@ -833,7 +948,9 @@ Verb                                                    | Preposition
 - когда производится обзор или подвидение итога книги, фильма, театральной пьесы и д.р.:
     > In his essay, professor Nickson **admits** the existance of UFO, but **points** out the fact that we still **have** no proved evidence of their existence.
 - когда используем глагол в значении "возможности действовать благодаря чему-то": see - ability to see with our eyes:
-> I **see** an e-mail from the support service.
+    > I **see** an e-mail from the support service.
+- **when we do things by saying something** - когда мы словами (говоря) делаем что-то, употребляется чаще со словами: `promise`, `suggest`, `apologise`, `advise`, `insist`, `agree`, `refuse`:
+    > I **promise** I won't be late.
 
 Используются такие ключевые слова или конструкции:
 - `every`;
@@ -869,8 +986,12 @@ Verb                                                    | Preposition
 
 Описывает действия в состоянии процесса.
 
-Буквально означает по конструкции: `субъект есть (находится) в состоянии какого-то действия`:
-> He is reading book now. - Он читает книгу сейчас. "Он есть (находится) в состоянии читания книги сейчас."
+Буквально означает по конструкции: `субъект есть (находится) в состоянии какого-то действия` или `субъект начал действие, но еще не закончил его`:
+> He is reading book now. - Он читает книгу сейчас. - Он есть (находится) в состоянии читания книги сейчас.  
+> I'm reading a really good book at the moment. - Я сейчас читаю понастоящему хорошую книгу. - Он в текущий момент не читает книгу, но он начал читать ее, но еще не закончил читать ее.
+
+Отрицательное действие обозначает буквально: `субъект перестал делать действие, но еще не возобновил его`:
+> I want to lose weight, so this week I am not eating lunch. - Я хочу сбросить вес, так что на этой неделе я не ем обед. - Он обычно ест обед, но в на этой неделе перестал делать это и возобновит на следующей.
 
 Используется в ситуациях:
 - **temporary situations** - когда говорим о временных ситуациях, которые длятся определенное количество времени:
@@ -879,16 +1000,18 @@ Verb                                                    | Preposition
     > Bill **is dropping** a ball.
 - **fixed arrangements in the near future** - когда говорим о фиксированных договоренностях в ближайшем будущем:
     > I **am going** to supermarket at 5 o'clock.
-- **repeated actions with "always" expressing annoyance or criticism**;
+- **repeated actions with "always" expressing annoyance or criticism** - постоянные действия с которыми употребляется `always`, которые выражают раздражение или критику - при этом действия почти постоянные:
+    > I **am always losing** things. = I lose thingts very often, perhaps too often, or more often than normal.
 - **to express our negative attitude to a sitiation** - для выражения негативного отношения к ситуации:
     > She **is always ignoring** me!
-- **when we are talking about developing situation** - когда мы говорим о развивающейся ситуации:
+- **when we are talking about changes happening around now** - когда мы говорим о изменениях происходящих сейчас, употребляется чаще со словами: `get`, `change`, `become`, `increase`, `rise`, `fall`, `grow`, `imorove`, `begin`, `start`:
     > This music group **is becoming** more and more popular. It's interesting to visit their show.
 
-Используются такие ключевые слова:
+Используются такие ключевые слова связанные с текущим моментом:
 - `now`;
 - `at the moment`;
 - `at present`;
+- `today`;
 - `this <время>`:
     > **this** month
 
@@ -908,14 +1031,19 @@ Verb                                                    | Preposition
 
 Описывает действие именно как результат.
 
-Буквально означает по конструкции: `субъект имеет результат действия к какому-то времени`:
-> I have seen you. - Я увидел тебя. "Я имею увиденным тебя к текущему моменту времени."
+Буквально означает по конструкции: `субъект совершил действие когда-то в прошлом и имеет результат действия к текущему моменту времени`:
+> I have seen you. - Я увидел тебя. "Я имею увиденным тебя к текущему моменту времени."  
+> He told me his name, but I **have forgotten** it. - I can't remember it now.
+
+Отрицательное предложение буквально обозначает: `субъект не совершал действия [с определенного момента в пролом] до текущего момента`:
+> I **haven't played** chess from 10 years.
 
 Используется в ситуациях:
 - **actions which happened at an unstated time in the past and actions are more important that the time** - для действий, которые случились в неопределенное время в прошлом, точное время которых не важно, так как сами действия важнее:
     > Tom **has broken** his arm.
 - **actions which started in the past and continue to the present** - для действий, которые начались в прошлом и все еще продолжается (связаны) в настоящем:
-    > Kim **has been** chief since 1985.
+    > Kim **has been** chief **since 1985**.  
+    > I am hungry. I **have't eaten** anything **since breakfast**. (from breakfast until now)
 - **past actions with a visible result in the present** - для действий, которые недавно закончились и их результат видимый в настоящем:
     > I **have painted** the kitchen. Doesn't it look nice?
 - **experience** - во время разговора об приобретенном опыте:
@@ -923,6 +1051,8 @@ Verb                                                    | Preposition
 - **completed actions which happened in an unfinished period of time that is connected to now** - для завершенных действий, которые случились в незаконченный период времени, который соединен с текущим:
     > I **have eaten** out twice this week. (this week is not yet finished)  
     > I **have been** to Disneyland. (some time in my life up to now)
+- **when periods are not finished at the time of speaking** - для действий, которые используются с периодами времени, которые еще не закончились к моменту разговора, `today`, `this evening`, `this year`:
+    > I **have drunk** four cups of coffee **today**.
 
 Используются такие ключевые слова:
 - `just` - `только что` / `недавно` - ставится после `have`, используется для того чтобы показать что действие закончилось буквально несколько минут назад;
@@ -933,12 +1063,23 @@ Verb                                                    | Preposition
 - `yet` - `уже` / `еще` - используется в вопросительных и отрицательных предложениях, ставится в конце предложения:
     > **Has** Jim **fixed** the car **yet**?
 - `how long` - `как долго` - вопросительная конструкция;
+- `how much / many` - `как много` - вопросительная конструкция;
+- `how many times` - `сколько` - вопросительная конструкция;
 - `so far` - `с тех пор` - вопросительная конструкция;
 - `recently` - `недавно`;
+- `always` - `всегда`;
 - `since` - `с какого-то момента` - используется для указания точки начала (стартового момента действия) - чтобы подчеркнуть, насколько велик был период времени, прошедшего с момента старта действия до текущего момента:
     > She **hasn't been** to New York **since 1992**.
 - `for` - `в течении` - используется для выражения продолжительности - чтобы подчеркнуть, насколько велик был период времени, прошедшего с момента старта действия до текущего момента:
     > I **have known** Sue **for ten years**.
+
+Отрицательные предложения с `for`: `<subject>` + `have not` + `<verb>`(`-ed` / III form) + `...` + `for` + `<продолжительность>`, можно пределать в конструкцию:
+- с **Present Simple** и `since`:  
+    `It is` + `<продолжительность>` + `since` + `<subject>` + `<verb>`(`-ed` / II form) + `...`
+    > I **have not seen** Joe **for** two years. = **It's** two years **since** I last **saw** Joe.
+- с **Present Perfect** и `since`:  
+    `It has been` + `<продолжительность>` + `since` + `<subject>` + `<verb>`(`-ed` / II form) + `...`
+    > I **have not seen** Joe **for** two years. = **It has been** two years **since** I last **saw** Joe.
 
 Тип предложения | Вспом гл | Субъект     | Вспом гл   | Предикат                   | Пример
 ----------------| -------- | ----------- | ---------- | -------------------------- | ------
@@ -948,37 +1089,49 @@ Verb                                                    | Preposition
 
 #### Past Simple vs Present Perfect Simple
 
-**Past Simple** используется для действий, которые случились в заданое время в прошлом или для действий, которые начались и закончились в прошлом.
-> Fred graduated from university in 1997.  
-> Pauline went to the dentist three days ago.
+**Present Perfect Simple** используется в ситуациях:
+- **когда идет сообщение о текущей ситуации в настоящем**:
+    > They **have gone** away. They will be back on Friday. (they are away now)
+- **когда идет сообщение о том, что случилось что-то сейчас или недавно**:
+    > I **have repapred** the TV. It's working now.
+- **когда используется период времени, который еще не завершен**, `today`, `this week`, `since 1985`:
+    > It **has not rained** **this week**.
 
-А также для действий, которые не соединены с настоящим и случились в определенное время в прошлом, которое не упомянуто.
-> I met John Lennon. (I won't meet him again; he's dead. - period of time finished)
+**Past Simple** используется в ситуациях:
+- **когда идет сообщение о ситуации в прошлом и это не сообщает информацию о том, есть ли эта ситуация сейчас**:
+    > They **went** away, but I think they're back at home now.
+- **когда идет сообщение о том, что не является недавним или новым**:
+    > Mozart **was** a composer. He **wrote** more than 600 pieces of music.
+- **когда используется законченное время**, `yeterday`, `last week`, `from 1995 to 2001`:
+    > It **did not rained** **last week**.
 
-**Present Perfect Simple** используется для действий, которые случились в неопределенное время в прошлом или для действий, которые начались в прошлом и все еще продолжаются в настоящем.
-> Carol has joined the tennis club.  
-> He has been a teacher for twenty years.
-
-А также для действий, которые соединены с настоящим и случились в определенное время в прошлом, которое не упомянуто.
-> I've spoken to Richard Gere. (I may speak to him again; he's alive. - period of time not finished ye)
+Если идет сообщение о новой информации, то используется **Present Perfect Simple**, но при дальнейшем сообщении о ней обычно используют **Past Simple**:
+> "Ow! I **have burnt** myself."  
+> "How **did** you **do** that?"  
+> "I **picked** up a hot dish."
 
 ### Present Perfect Continuous
 
 Используется в ситуациях:
-- **actions which started in the past and continue to the present giving emphasis to duration** - для действий, которые начались в прошлом и продолжались вплоть до текущего момента времени с акцентом на продолжительность дейсвия:
+- **actions which started in the past and continue to the present giving emphasis to duration** - для действий, которые начались в прошлом и продолжались вплоть до текущего момента времени с акцентом на продолжительность действия:
     > She **has been typing** letters for three hours.
-- **past actions which have lasted and whose result is visible in the present** - для действий, которые недавно закончились и их результат очевиден прямо сейчас:
+- **for activities that have recently stopped or just stoppen and have a connection wuth now** - для действий, которые недавно закончились или только что и соеденены с текущим моментом:
     > They are tired. They **have been working** for nine hours.
 
-Главное отличие от **Present Perfect Simple** в том, что акцент делается на **времени затраченным** на получение результата или на **то что действие еще не закончилось**.
+Главное отличие от **Present Perfect Simple** в том, что акцент делается на **активности** действии (как долго) и нам не важно то, что действие еще не закончилось.
 
 Используются такие ключевые слова:
 - `all morning` / `afternoon` / `day` / `week` - `целое утро` / `обед` / `день` / `неделю`;
 - `how long` - `как долго` - вопросительная конструкция;
-- `since` - `с какого-то момента` - используется для указания точки начала:
+- `since` - `с какого-то момента` - используется для указания точки начала периода:
     > She **has been working** to New York **since 1992**.
 - `for` - `в течении` - используется для выражения продолжительности:
     > I **have been helping** Sue **for ten years**.
+
+    Может опускаться в утвердительных предложениях, а с продолжительностью, которая начинается со слов `all` не употребляется:
+    > I **have been living** here **all my life**.
+
+Не используется в отрицательных предложениях с `since` / `for`, для этого используется **Present Perfect Simple**.
 
 Тип предложения | Вспом гл | Субъект     | Вспом гл        | Предикат         | Пример
 ----------------| -------- | ----------- | --------------- | ---------------- | ------
@@ -988,7 +1141,7 @@ Verb                                                    | Preposition
 
 ### Глаголы состояния
 
-Обычно глаголы состояния не имеют продолжительных времен, так как они описывают состояние скорее чем действие. Состоят из:
+Обычно глаголы состояния не имеют продолжительных времен `Continuous`, так как они описывают состояние скорее чем действие. Состоят из:
 - глаголы которые выражают симпатии и антипатии: `like`, `love`, `hate`, `dislike`, `enjoy`, `prefer` и другие:
     > Cathy **likes** romantic films.
 - глаголы восприятия: `believe`, `know`, `notice`, `remember`, `forget`, `recognize`, `understand`, `realise`, `seem`, `think` и другие:
@@ -1063,7 +1216,7 @@ Verb                                                    | Preposition
 ### Past Continuous
 
 Используется в ситуациях:
-- **actions in progress at a stated time in the past** - для действий, которые были в ходе выполнения в указанное время в прошлом и про которое не известно, когда оно началось или окончилось:
+- **actions in progress at a stated time in the past** - для действий, которые были в ходе выполнения в указанное время в прошлом и про которое не известно, когда оно началось или окончилось. Буквально означает по конструкции: `субъект был (находился) в состоянии какого-то действия в указанное время` или `субъект когда-то в прошлом начал действие, и в указанное время в прошлом все еще в нем`:
     > At five o'clock yesterday I **was cooking** dinner.
 - **actions were in progress at a certain time in the past** - для действий, которые были в ходе выполнения в определенное время в прошлом:
     > I **was waiting** for your call for hours!  
@@ -1116,9 +1269,21 @@ Verb                                                    | Preposition
 Отрицательное   |          | `<subject>` | `had not` | `<verb>`(`-ed` / III form) | I had not bought an apple.
 Вопросительное  | `Had`    | `<subject>` |           | `<verb>`(`-ed` / III form) | Had I bought an apple?
 
+### Past Perfect Simple Continuous
+
+Используется в ситуациях:
+- **past actions which happened in the past before another past action** - аналогично **Past Perfect Simple**, но само действие важнее результата:
+    > We **had been playing** tennis for about half and hour when it started to rain heavily.
+
+Тип предложения | Вспом гл | Субъект     | Вспом гл       | Предикат         | Пример
+----------------| -------- | ----------- | -------------- | ---------------- | ------
+Утвердительное  |          | `<subject>` | `had been`     | `<verb>`(`-ing`) | I had been waiting for 20 minutes.
+Отрицательное   |          | `<subject>` | `had been not` | `<verb>`(`-ing`) | I had not been waiting for 20 minutes.
+Вопросительное  | `Had`    | `<subject>` | `been`         | `<verb>`(`-ing`) | Had I been waiting for 20 minutes?
+
 #### Past Continuous vs Past Perfect Simple vs Past Simple
 
-**Past Continuous** - используется для действий в прошлом, которые былио в процессе или когда их прервало другое действие:
+**Past Continuous** - используется для действий в прошлом, которые были в процессе или когда их прервало другое действие:
 > He **was watching** TV when the phone rang.
 
 **Past Perfect Simple** - используется для действий в прошлом, которые случились до другого действия в прошлом:
@@ -1130,11 +1295,17 @@ Verb                                                    | Preposition
 ## Будущие времена
 
 Формы будущего времени:
-- **Present Simple** (timetable) - 100% вероятность выполнения действия, так как оно идет по конкретному расписанию - это к примеру официальные планы, программы, расписания и графики, как к примеру прибытие поезда в определенное время по расписанию;
-- **Present Continuous** (fixed arrangements) - для хорошо спланированых будущих действий с определенным временем, местом или другими деталями. В частности с глаголами движения `come`, `go`, `fly`, `travel`, `leave` и т.д.:
-    > I am meeting Helen at two o'clock.
-- **Intention** (конструкция `to be going to ...`) - для будущих планов которые уже продуманы или уже осуществлены;
-- **Future Simple** - 30-40% вероятность выполнения действия, так как оно будет спонтанным.
+- **Present Simple** (timetable) - 100% вероятность выполнения действия, так как оно идет по конкретному расписанию - это к примеру официальные планы, программы, расписания и графики, как к примеру прибытие поезда в определенное время по расписанию:
+    > My train **leaves** at 11.30, so I need to be at the station by 11.15.
+- **Present Continuous** (fixed arrangements) - `I am doing something (tomorrow)` = `I have already decided and arranged to do it`:
+    - для действий, которые решили делать и спланировали как их делать с определенным временем, местом или другими деталями:
+        > I **am not working** tomorrow, so we can go out somewhere.
+    - для действий, перед началом их совершения, в частности с глаголами движения `come`, `go`, `fly`, `travel`, `leave` и т.д.:
+        > I am tired. I **am going** to bed now. Goodnight.
+- **Intention** (конструкция `to be going to ...`) - для действий, которые решили делать, но еще не спланировали как, но есть намерение их совершить:
+    > I **am going to make** a quick phone call. Can you wait for me?
+- **Future Simple** - когда мы решили сделать что-то в момент разговора:
+    > I **will go** and shut the door.
 
 ### Future Simple
 
@@ -1147,13 +1318,20 @@ Verb                                                    | Preposition
     > Be quiet or I **will send** you out.
 - **для выражения обещаний (promises) или решений принятых в момент речи (on-the-spot-decisions)**:
     > I **will buy** you this ring.
-- **с глаголами `hope`, `think`, `believe`, `expect` и т.п.; с выражениями `I'm sure`, `I'm afraid` и т.п., а также наречиями `probably`, `perhaps` и т.п.**:
+- **после глаголов `hope`, `think`, `believe`, `expect` и т.п.; с выражениями `I'm sure`, `I'm afraid` и т.п., а также наречиями `probably`, `perhaps` и т.п.**:
     > I hope he **will pass** his exams.  
     > Perhaps I **will see** her tonight.
 - **конструкция `Will you ...?` используются как вопрос для кого-то чтобы сделал что-то для нас**:
     > **Will you** post this letter for me, please.
 - **для действий / событий / ситуаций которые определенно случатся в будущем и которые мы не можем контролировать**:
     > Winter **will set in** early this year.
+- **при соглашении сделать что-то**:
+    > Can you give Tim this book?  
+    > Sure, I **will give** it to him when I see him this afternoon.
+- **при разговоре о том, что кто-то отказывается делать что-то** при помощи `won't`:
+    > This car **won't** start.
+- **иногда используется в разговоре о том что происходит сейчас**:
+    > Don't phone Ann now. She **will be** busy. = she will be busy now.
 
 Используются такие ключевые слова:
 - `tomorrow`;
@@ -1176,16 +1354,21 @@ Verb                                                    | Preposition
 Используется в ситуациях:
 - **for plans, intentions or ambitions** - для планов, намерений или амбиций в ближайшем будущем:
     > Susan **is going to** move house.
-- **if we have decided to do something or arranged to do in the near future** - если мы решили что-то сделать или запланировали что-то сделать в ближайшем будущем:
-    > Teresa is going to see her son's teacher tomorrow morning.
+- **if we have decided to do something but perhaps not arranged to do it in the near future** - если мы решили что-то сделать, но, возможно, еще не запланировали сделать это в ближайшем будущем (часто различие между **Present Continuous** очень мало и может заменяться этой формой):
+    > Teresa **is going to see** her son's teacher tomorrow morning.
 - **for predictions based on what we see or we know** - для предсказаний основанных на том что мы видим, слышим, чувствуем или знаем:
     > Look at him. He **is going to** jump out of the train.
+- **for actions which were indented to do it, but did not do it** - для действий, которые намеривались совершить, но не совершили:
+    > We **were going to travek** by train, but then we decided to go by car instead.
 
 Тип предложения | Вспом гл | Субъект     | Вспом гл             | Предикат | Пример
 ----------------| -------- | ----------- | -------------------- | -------- | ------
 Утвердительное  |          | `<subject>` | `to be going to`     | `<verb>` | He is going to have a snack.
 Отрицательное   |          | `<subject>` | `to be not going to` | `<verb>` | He isn't going to have a snack.
 Вопросительное  | `To be`  | `<subject>` | `going to`           | `<verb>` | Is he going to have a snack?
+
+Главное отличии от `will` - используется когда говорим о том, что что-то случится из-за ситуации, которая происходит сейчас:
+> Look at those black clouds. I **is going to rain**.
 
 ### Future Continuous
 
@@ -1551,6 +1734,12 @@ object  | a cake | by Susan
 > My friends didn't have to do it, **did they**?  
 > Let's go out for dinner, **shall we**?
 
+## Вопросы вида `Shall I / we ...`
+
+Используются для того, чтобы узнать чье-то мнение (часто в предложениях или предположениях). Строятся по аналогии с вопросами `will`, где вместо `will` используется `shall`:
+`Shall I / we` + `...`
+> Shall I shut the door? = Do you want me to shut the door?
+
 Сложные предложения
 ===================
 
@@ -1614,6 +1803,9 @@ object  | a cake | by Susan
 Если `when` используется в качестве вопросительного слова, то за ним может следовать **Future Simple**.
 > **When** I **see** Tom, I'll let him know. (time conjunction)  
 > I don't know **when** he **will be** back. (question world)
+
+После слов `when`, `after`, `until`, `as long as` может следовать время **Present Perfect Simple**, для того чтобы указать, что из главного преложение действие произойдет после совершения в придаточном:
+> **When I have phoned** Kate, we can have dinned. = First I'll phone Kate and after that we can have dinned.
 
 ### Союзы времени
 
@@ -1721,8 +1913,8 @@ object  | a cake | by Susan
     - `<Future_Form>` + `if` / `when` / `unless` + `<Present_Form>`.
 
     Ключевые слова:
-    - `If` - когда условие показывает что мы не уверены в том что условие сбудется;
-    - `When` - когда условие показывает что мы уверены в том что условие сбудется;
+    - `If` - когда условие показывает что мы **не уверены** в том что условие сбудется;
+    - `When` - когда условие показывает что мы **уверены** в том что условие сбудется;
     - `Unless` - `If` + `not`.
 
     `<Future_Form>` - также может состоять из:
@@ -1730,6 +1922,12 @@ object  | a cake | by Susan
         > **If** they don't take order, I can go to them.
     - повелительного наклонения:
         > Take my hand **if** you want to live.
+
+    `should` перед глаголом уменьшает вероятность действия:
+    > **If** Tom **should phone** while I'm out, tell him I'll call him back later.
+
+    `should` может также заменять `if`:
+    > **Should** Tom **phone**, tell him I'll call him back later.
 
     Виды времен условий:
     - **Present Continuous** - используется для связи настоящего действия, которое уже длиться с условным будущем.
@@ -1880,11 +2078,16 @@ object  | a cake | by Susan
 
 ## `To used to`
 
-Структура, которая используется для передачи привычки или состояния предмета / человека в прошлом, которого больше не существует или не происходит.
-
 `<субъект>` + `used to` + `<предикат>` + `<остальное>`
 
-> He **used to** live in a small house.
+Используется:
+- **для передачи сведений о том, что случалось обычно в прошлом, но больше не случается**:
+    > I **used to play** tennis a lot, but I don't play very often now.
+- **для вещей, который были истины, но теперь не являются такими**:
+    > I've started drinking tea recently. I never **used to like** it before.
+
+Отрицательная форма может быть: `used not to`:
+> I **used not to like** him.
 
 ## Глаголы с разными значениями в зависимости от консрукций
 
@@ -2047,7 +2250,7 @@ object  | a cake | by Susan
 ## `have been` (`to`) / `have gone` (`to`)
 
 Используются для указания нахождения, для глагола `go` в **Present Perfect**:
-- `have been` (`to`) - для указания что кто-то / что-то было где-то:
+- `have been` (`to`) - для указания что кто-то / что-то было где-то, буквально означает `visited`:
     > I have been to Losbon. (I have visited Lisbon and have come back. I am not there now.)
 - `have been in` - для указания что кто-то / что-то находится все еще где-то:
     > I have been in Losbon.
@@ -2056,11 +2259,13 @@ object  | a cake | by Susan
 
 ## Устойчивые идиомы с глаголом `have`
 
-- `have` + `breakfast` / `lunch` / `dinner` и д.р.
+- `have` + `breakfast` / `lunch` / `dinner` / `something to eat` и д.р.
 - `have` + `a bath` / `a shower` / `a swim` / `a party` и д.р.
 - `have` + `an accident` / `an experience` / `a dream` и д.р.
+- `have` + `a look` (at something)
+- `have` + `a chat` / `a conversation` / `a discussion` (with somebody) и д.р.
+- `have` + `difficulty` / `fun` / `trouble` / `a good time` и д.р.
 - `have` + `a baby` и д.р.
-- `have` + `difficulty` / `fun` / `trouble` и д.р.
 
 ## Описание локаций
 
