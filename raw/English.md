@@ -43,7 +43,7 @@
     > She has **a** mother and **a** father.
     - **исключение** - если существительное выражает предмет, явление, лицо единственное или конкретное в данной обстановке, месте или временном отрезке, то мы ставим определенный артикль, даже если говортся об этом существительном впервые:
         > Do you know **the** man who is talking to Katie?
-    - **исключение** - не используется перед существительными в ряде устойчивых сочетаний с предлогами: `at` / `by` / `without` / `for` / `in` / `on`
+    - **исключение** - не используется перед существительными в ряде устойчивых сочетаний с предлогами: `at` / `by` / `without` / `for` / `in` / `on`;
     > Apple is providing data to users **by** request.
 - перед существительным в единственном числе о котором говорят в общем, а также для обозначения принадлежности к классу предметов, лиц или явлений:
     > **An** aeroplane is faster than **a** train.
@@ -129,9 +129,9 @@
         > Gina and Tom's car.
     - когда две или более вещей принадлежат двум и более людям и мы хотим показать что у каждого есть своя собстенная вещь, то добавляем `` `s `` добавляется к каждому существительному:
         > Claire's and Kate's uniforms.
-- **для вещей или частей вещей используется предлог `of`**:  
-    `<сущ.> of <кого? / чего?>`
-    > the roof **of the house**
+- **для вещей или частей вещей используется предлог `of`**:
+    - `<сущ.> of <кого? / чего?>`:
+        > the roof **of the house**
 
 Иерархия одушевленности при использовании притяжательного падежа (чем выше тем более вероятно использовать притяжательный падеж, чем ниже тем выше использовать предлог `of`):
 - Первое, второе и третье лицо;
@@ -248,7 +248,7 @@ She | reads |    | her notes   | to Peter | every day
 ### Упрощающие структуры
 
 Для того чтобы избежать длинного сложного субъектного предложения используется структура:  
-`It` + `be` + `<существительное>` / `<прилагательное>` + `to-<инфинитив>`:
+`It` + `be` + `<существительное>` / `<прилагательное>` + `to-<verb>`:
 > It's unfair to give him monythly bonus again.
 
 ## Местоимения (pronoun)
@@ -370,25 +370,56 @@ She | reads |    | her notes   | to Peter | every day
 
 #### `to`-инфинитив
 
-Это корневая (основная) форма глагола с частицей `to` стоящая перед глаголом и произносится слитно с ним. Употребляется:
+Это корневая (основная) форма глагола с частицей `to` стоящая перед глаголом и произносится слитно с ним.
+
+Отрицательная форма образуется путем добавления конструкции `not` перед `to`.
+
+В пассивной форме глаголы `to-<verb>` переходят в форму `to be` + `<verb>`(`-ed` / III form):
+> `to do` - `to be done`
+
+В продолжительной форме глаголы `to-<verb>` переходят в форму `to be` + `<verb>`(`-ing`):
+> `to do` - `to be doing`
+
+В завершенной форме глаголы `to-<verb>` переходят в форму `to have` + `<verb>`(`-ed` / III form):
+> `to do` - `to have done`
+
+Употребляется:
 - после глаголов:
     > I want to see a film tonight.
-- после таких глаголов, как `know`, `decide` и т.д., если за ними следует **вопросительное слово** (`who`, `what`, `where`, `how` и т.п.):
+
+- после таких глаголов, как `ask`, `decide`, `know`, `remember`, `forget`, `explain`, `learn`, `understand`, `wonder` и т.д., если за ними следует **вопросительное слово** (`who`, `what`, `where`, `how` и т.п.):
     > I don't know **what to do**.
+
 - после слов `too` и `enough`:
     > He is **too** young **to drive** a car. He isn't old **enough to drive** a car.
+- может быть после глагола `dare`:
+    > I wouldn't **dare to tell** him.
+
+- в конструкции: `show` / `tell` / `ask` / `advise` / `teach` + `<somebody>` + `what` / `how` / `where` + `to-<verb>`:
+    > Can somebody **show me how to change** the film in this camera?
+
 - чтобы выразить цель, то есть объяснить, зачем кто-то что-то делает:
     > He is going to the ark **to get** some money.
+
+- в конструкциях: `<verb>` + `<somebody>` + `to-<verb>` для указания того совершает `<verb>` для кого-то `<somebody>` из-за чего кого-то `<somebody>` делает `to-<verb>`, для глаголов и конструкций :`want`, `expect`, `ask`, `beg`, `help`, `mean` (`intend`), `would like`, `would prefer`, `tell`, `order`, `remind`, `warn`, `force`, `invite`, `encourage`, `persuade`, `teach`, `enable`, `get` (`persuade` / `arrange for`), `advise`, `recommend`, `allow`:
+    > He doesn't want **anybody to know**.
+
+- после глаголов в форме `<verb>`(`-ing`):
+    > It's **starting to rain**.
 
 #### Инфинитив без `to` - голый (**bare**)
 
 Это корневая (основная) форма глагола. Употребляется:
 - после модальных глаголов (`can`, `could`, `must`, `needn't`, `shall`, `will`, `may` и т.д.):
     > He can't read.
-- после глаголов `let` (`let's` = `let us`) (в значении "позволять") и `make` (в значении "заставлять"):  
-    `let` / `make` + `<кого>` + `<что_делать>` + ...
+
+- после глаголов `let` (`let's` = `let us`) (в значении "позволять") и `make` (в значении "заставлять"): `let` / `make` + `<кого>` + `<что_делать>` + ...:
     > My parents don't **let** me **stay** out late.  
     > Mother **made** me **clean** my room yesterday.
+
+    При этом для пассивной формы `to be made` не используется инфинитив:
+    > We **were made to wait** for two hours.
+ 
 - после `would rather (not)` и `had better (not)`:
     > I **would rather stay** out tonight.  
     > You **had better not park** here.
@@ -408,30 +439,71 @@ She | reads |    | her notes   | to Peter | every day
     > get - getting
 - в остальных случаях добавляется `-ing`.
 
+Отрицательная форма образуется путем добавления конструкции `not` перед `<verb>`(`-ing`).
+
+В пассивной форме глаголы `<verb>`(`-ing`) переходят в форму `being` + `<verb>`(`-ed` / III form):
+> `doing` - `being done`
+
+В завершенной форме глаголы `<verb>`(`-ing`) переходят в форму `having` + `<verb>`(`-ed` / III form):
+> `doing` - `having done`
+
 Употребляется:
 - как существительное выражающее общее (собирательное) понятие - неисчисляемое существительное:
     > **Exercising** is good for your health.
-- после глаголов: 
+
+- после глаголов:
     - чувств и желаний: `like`, `dislike`, `love`, `hate`, `enjoy`, `prefer` и похожих по смыслу;
     - выражающих мнение: `admit`, `appreciate`, `avoid`, `consider`, `deny`, `fancy`, `imagine`, `mind`, `miss`, `prevent`, `spend`, `suggest`, `waste`, `resist` и похожих по смыслу;
     - движения: `stop`, `finish`, `start`, `begin`, `keep`, `go` и похожих по смыслу;
     - глаголов: `practice`, `postpone`, `waste`.
 
-    но кроме глаголов: `hope`, `believe`, `think`, `afford`, `deserve`, `choose`, `seem` и других глаголов восприятия и конструкции: `would` + `<verb>` + `to-<инфинитив>` (хотел бы):
+    но кроме глаголов: `hope`, `believe`, `think`, `afford`, `deserve`, `choose`, `seem` и других глаголов восприятия и конструкции: `would` + `<verb>` + `to-<verb>` (хотел бы):
     > She stop **talking**.  
     > I **would like to travel** to China one day.
+
+    - в конструкции `would mind` + `<verb>`(`-ing`) (не возражал бы):
+        > **Would** you **mind closing** the door, please?
+
 - после фраз `have trouble`, `have difficulty`, `have fun`, `have a <прилагательное> time`:
     > We **had a good time racing** down the path.
-- после предлогов следуемых перед герундием: `for`, `in`, `about`, `from`, `to`:
+
+- после предлогов следуемых перед герундием: `for`, `in`, `about`, `from`, `to`, `with`:
     > I apologize **for saying** that.
-- после предлогов `on`, `in`, `at`:
+
+- после предлогов: `on`, `in`, `at`, `of`:
     > I'm thinking **of going** to Italy.
-- после глагола `go`, когда говорим о какой-либо общей деятельности:
+
+- после предлогов: `before`, `after`:
+    > **Before going** out, I phoned Sarah.
+
+    Но возможно также употребление прошедшего времени:
+    > **Before I went** out, I phoned Sarah.
+
+- после предлога `by` для того чтобы сказать как что-то происходит, а после `without` для того чтобы сказать что не использовали что-то:
+    > The burglars got into the house **by breaking** a window and **climbing** in.  
+    > We ran ten kilometres **without stopping**.
+
+- в конструкции `<verb>` + `<object>` + `<preposition>` + `<verb>`(`-ing`), где `<preposition>` относится к первому глаголу:
+    > What **prevented** you **from comming** to see us?
+
+- после глагола `go`, когда говорим о какой-либо общей деятельности, часто о спорте:
     > They **went shopping** yesterday. - Они вчера ходили скупиться.
-- после выражений: `be busy`, `it's no use`, `it's (not) worth`, `there's no point (in)`, `what's the use of`, `have difficulty (in)`, `don't mind`, `couldn't help`, `can't stand`, `look forward to`:
-    > I **don't mind going** shopping.
+
+- в конструкции `<verb>` + `<object>` + `<verb>`(`-ing`), где главный глагол может быть: `advise`, `recommend`, `allow`, `stop`, `finish`, `postpone`, `consider`, `admit`, `deny`, `avoid`, `risk`, `imagine`, `fancy`:
+    > You can't **stop me doing** what I want.
+
+- после фразовых глаголов `give up` (`stop`), `put off` (`postpone`), `go on` / `carry on` (`continue`), `keep` / `keep on` (`do something continuously or repeatedly`):
+    > I've **given up reading** newspapers. I think it's a waste of time.
+
+- после выражений: `be busy`, `it's no use`, `it's no good`, `it's (not) worth`, `there's no point (in)`, `what's the use of`, `have difficulty (in)`, `have trouble`, `don't mind`, `couldn't help`, `can't stand`, `look forward to`, `a waste of money`, `a waste of time`:
+    > I **don't mind going** shopping.  
+    > It was **a waste of time reading** that book. It was rubbish.
+
 - в виде герундия, когда обозначает **процесс**:
     > **Starting** new business is not easy.
+
+Конструкции: `<somebody>` + `deny` / `admit` / `suggest` + `<verb>`(`-ing`) могут раскрываться в конструкции: `<somebody>` + `deny` / `admit` / `suggest` + `that` + `<somebody>` + `<verb>` и наоборот схлопываться:
+> They **denied stealing** the money. = They **denied that** they **had stolen** the money.
 
 ### `-ed`-форма / III form
 
@@ -656,6 +728,8 @@ Verb                                                    | Preposition
             > I didn't know that you wanted to go to the concert. I **could have got** you a ticket. (I didn't get you a ticket.)
         - `couldn't have` аналогично `couldn't` только для прошлого:
             > The trip was cancelled last week. Paul **couldn't have gone** anywawy because he was ill. (= it would not have been possible for him to go)
+    - в некоторых ситуациях обозначает: `would be able to` / `was/were able to`:
+        > You **could** get a better job if you **could** use a computer.
 - `may` / `might` + `<verb>`:
     - значит что, что-то возможное (`perhaps`), аналогично `could`:
         > It **may** be true. (= perhaps it is true)  
@@ -687,6 +761,16 @@ Verb                                                    | Preposition
     - `must have` + `<verb>`(`-ed` / III form):
         - аналогично `must`, только для прошлого:
             > I didn't hear the phone. I **must have been** asleep.
+- `would` (`'d`) (`wouldn't`) + `<verb>`:
+    - для воображаемых ситуаций или действий или когда мы думаем о чем-то что не может быть реальным:
+        > I **would phone** Sue, but I haven't got her number.
+    - для ситуаций которые обычно случались в прошлом (аналогично `used to`):
+        > Whenever Richard was angry, he **would** walk out of the room.
+    - `wouldn't` для указания того, что кто-то отказывается делать это:
+        > I tried to warn him, but he **wouldn't listen** to me. (= he refused to listen)
+    - `would` / `wouldn't` + `have` + `<verb>`(`-ed` / III form):
+        - аналогично `would` только для прошлого:
+            > I didn't invite them to the party. They **wouldn't have come** anyway.
 
 Ставятся перед сказуемым.
 
@@ -697,6 +781,32 @@ Verb                                                    | Preposition
 
 Прошедшая форма `to be able to` или `managed to` используется для того, чтобы сказать что, кто-то сделал что-то в прошлом в определенной ситуации:
 > We didn't know where David was, but we **were able to find** him in the end.
+
+#### Вопросы
+
+Для запросов кому-то сделать что-то используются: `can`, `could`, реже `will`, `would`:
+> **Can** you wait a moment, please?
+
+И конструкция: `Do` + `<somebody>` + `think` + `<somebody>` + `could` + `<verb>` + ...?
+> **Do** you **think** you **could** lend me some money until next week?
+
+Для просьб о чем-то используются конструкции: `Can I have` + `<something>` + ...?, `Could I have` + `<something>` + ...?, `May I have` + `<something>` + ...?:
+> **Could I have** the salt, please?
+
+Для просьб сделать что-то используются конструкции: `Can I` + `<verb>` + ...?, `Could I` + `<verb>` + ...?, `May I` + `<verb>` + ...?:
+> **May I** come in? - Yes, please do.
+
+И конструкции: `Do` + `<somebody>` + `mind if I` + `<verb>` + ...?, `Is it all right` / `Is it OK` + `if I` + `<verb>` + ...?:
+> **Do** you **mind if I** use your phone?
+
+Для предложений сделать что-то используется конструкция: `Can I` + `<verb>` + ...?:
+> **Can I** get ypu a cup of coffee. - That would be nice.
+
+Для предложений и приглашений используется конструкция: `Would` + `<somebody>` + `like` + (`to` + `<verb>`) + ...?:
+> **Would** you **like to come** to dinner tomorrow evening? - I'd love to.
+
+Конструкция: `I'd like` + (`to` + `<verb>`) + ... используется когда хотят попросить что-то вежливо:
+> **I'd like to try** on this jacket, please.
 
 #### `might as well` / `may as well`
 
@@ -714,7 +824,7 @@ Verb                                                    | Preposition
 
 ### `Should`
 
-`should` / `should not` (`shouldn't`) + `<verb>` - используется:
+`Should` / `should not` (`shouldn't`) + `<verb>` - используется:
 - для выражения своего мнения или дачи совета:
     > The government **should do** more to reduce crime.  
     > You **shouldn't eat** junk food.
@@ -740,6 +850,11 @@ Verb                                                    | Preposition
     > I'm going out now. Is it cold? - yes, **I should wear** a coat.
 
 Имеет устаревший эквивалент `ought to`.
+
+#### `Had better`
+
+`Had better` / `'d better` + (`not`) + `<verb>` - используется, когда дают совет сделать что-то, а если не последовать этому совету, то будет какая-либо проблема или опасность. Используется в настоящем времени:
+> **We'd better stop** for petrol soon. The tank is almost empty.
 
 ### Вероятность `might` / `could`
 
@@ -1074,11 +1189,11 @@ Verb                                                    | Preposition
     > I **have known** Sue **for ten years**.
 
 Отрицательные предложения с `for`: `<subject>` + `have not` + `<verb>`(`-ed` / III form) + `...` + `for` + `<продолжительность>`, можно пределать в конструкцию:
-- с **Present Simple** и `since`:  
-    `It is` + `<продолжительность>` + `since` + `<subject>` + `<verb>`(`-ed` / II form) + `...`
+- с **Present Simple** и `since`:
+    - `It is` + `<продолжительность>` + `since` + `<subject>` + `<verb>`(`-ed` / II form) + `...`:
     > I **have not seen** Joe **for** two years. = **It's** two years **since** I last **saw** Joe.
-- с **Present Perfect** и `since`:  
-    `It has been` + `<продолжительность>` + `since` + `<subject>` + `<verb>`(`-ed` / II form) + `...`
+- с **Present Perfect** и `since`:
+    - `It has been` + `<продолжительность>` + `since` + `<subject>` + `<verb>`(`-ed` / II form) + `...`:
     > I **have not seen** Joe **for** two years. = **It has been** two years **since** I last **saw** Joe.
 
 Тип предложения | Вспом гл | Субъект     | Вспом гл   | Предикат                   | Пример
@@ -1429,7 +1544,7 @@ Verb                                                    | Preposition
 
 ## Пассивные времена (Passive tense)
 
-Используется для обозначения страдательной формы субъекта.
+Используется для обозначения страдательной формы субъекта. Обозначают то, что происходит с субъектом.
 
 Страдательная форма может быть только у глаголов, которые имеют направленность своего действия.
 
@@ -1470,17 +1585,24 @@ perfect continuous | `to have been` + `<verb>`(`-ing`)      | `to have been bein
 
 Модальные глаголы применяются также аналогично.
 
+Может использоваться `get` вместо `be` в пассивных предложениях, в случае когда какие-то вещи происходят:
+> I don't often **get invited** to parties. (= I'n not often invited)
+
 ### Пассивная причинная связь (Passive Causative)
 
 Используется во время разговора о услугах которые будут сделаны или были сделаны для нас кем-то другим еще.
 
-Построение производится с помощью:
-- `have` + `<something>` + `<verb>`(`-ed` / III form);
-- `get` + `<something>` + `<verb>`(`-ed` / III form).
-> I **get** my car **cleaned** once a week. - They clean my car once a week.
+Построение производится с помощью конструкций в нужном времени:
+- `to have` + `<something>` + `<verb>`(`-ed` / III form);
+- `to get` + `<something>` + `<verb>`(`-ed` / III form).
+> I **get** my car **cleaned** once a week. - They clean my car once a week.  
+> Sarah **is having her hair cut**.
 
 Для прошедшего времени, когда услуга была уже оказана, используется конструкция:  
-`<subject>` + `have` + `<object>` + `<verb>`(`-ed` / III form);
+`<subject>` + `to have` + `<object>` + `<verb>`(`-ed` / III form)
+
+Также используется для не хороших случаев, когда что-то случилось с кем-то или их принадлежностями:
+> Paul and Karen **had all their money stolen** while they were on holliday.
 
 ### Преобразование из Активной формы в Пассивную
 
@@ -1519,6 +1641,9 @@ object  | a cake | by Susan
 
 Когда в активном предложении предпологают или делают прогноз, то в пассивной форме используется модальный глагол `must`.
 > I **suppose** that Jeremy has written this letter. -> This letter **must** have been written by Jeremy.
+
+`<verb>`(`-ing`) глаголы переходят в форму `being` + `<verb>`(`-ed` / III form):
+> I remember **being taken** to the zoo when I was child. (= I remember somebody taking me to the zoo)
 
 ## Употребление времен
 
@@ -1647,6 +1772,33 @@ object  | a cake | by Susan
 > Is Tom a good worker?  
 > Yes, he is. / No, he is not.
 
+Для согласия или несогласия используются следующие конструкции, когда не нужно повторять что-то, оставшуюся часть предложения.
+
+Позитивная форма | Негативная форма
+---------------- | ----------------
+`I think so`     | `I don't think so`
+`I expect so`    | `I don't expect so`
+`I hope so`      | `I hope not`
+`I'm afraid so`  | `I'm afraid not`
+`I guess so`     | `I guess not`
+`I suppose so`   | `I suppose not` / `I don't suppose so`
+
+> "Are those people English?" - "**I think so**." (I think they are English)
+
+### Негативные вопросы
+
+`Do` / `Does` + `not` + `<субъект>` + `<предикат>` + `<остальное>`
+
+Используются:
+- для выражения удивления:
+    > **Didn't** you hear the doorbell? I rang it three times.
+- когда ожидаем что слушатель согласиться с нами:
+    > **Haven't** we met somewhere before?
+
+При этом краткие ответы на негативные вопросы обозначают:
+- `Yes` - `Yes, I` + `<verb>`;
+- `No` - `No, I don't` + `<verb>`.
+
 ## Специальные вопросы
 
 Имеют целью выяснение какого-либо факта или обстоятельства.
@@ -1712,13 +1864,23 @@ object  | a cake | by Susan
 
 > Which books are more interesting: these ones or those ones?
 
+## Котороткие вопросы
+
+Используются для выражения интереса о том, что только что сказали или для выражения удивления. Строится:
+
+`<вспом._глагол>` + (`not`) + `<somebody>` + ?
+
+> "I've just seen Simon" - "Oh, **have you**? How is he?
+
 ## Разделительные вопросы
 
 Соответствуют русским вопросительным предложениям, заканчивающимся словами `не так ли?` / `не правда ли?`, и имеют схожие формы построения, состоящие из двух частей: `<повествовательное_предложение>` + `не так ли?`.
 
 Условно разделяются на 2 группы по построению:
-- `<утверд._предложение>` + `<первый_вспом._или_модал._глагол>` + `not` `<местоимение_заменяющее_подлежащее>`?;
-- `<отриц._предложение>` + `<первый_вспом._или_модал._глагол>` + `<местоимение_заменяющее_подлежащее>`?.
+- `<утверд._предложение>` + `<первый_вспом._или_модал._глагол>` + `not` `<местоимение_заменяющее_подлежащее>` + ? - используются в основном для задания вопроса или для выражения согласия или несогласия:
+    > "It's a nice day, **isn't it**?" - "Yes, beautiful."
+- `<отриц._предложение>` + `<первый_вспом._или_модал._глагол>` + `<местоимение_заменяющее_подлежащее>` + ? - используются в просьбах о вещах или информации, или просьбы кого-то сделать что-то:
+    > "You haven't got a pen, **have you**?" - "Yes, here you are"
 
 Если не первого вспомогательного глагола или модального глагола, то используется вместо него `do` в нужном времени и форме для 3-го лица ед.ч.
 
@@ -1738,7 +1900,21 @@ object  | a cake | by Susan
 
 Используются для того, чтобы узнать чье-то мнение (часто в предложениях или предположениях). Строятся по аналогии с вопросами `will`, где вместо `will` используется `shall`:
 `Shall I / we` + `...`
-> Shall I shut the door? = Do you want me to shut the door?
+> **Shall I** shut the door? = Do you want me to shut the door?
+
+## Сложные вопросы
+
+Состоят из конструкции:
+
+`Do you know` / `I don't know` / `Could you tell me` / ... + `<вопросительное_слово>` + `<вопрос>` ?
+
+При этом `<вопрос>` строится в прямом порядке слов.
+
+> **Do you know** what time **it is**?  
+> **Can you tell mee** where I **can find** Linda?
+
+Если вопрос начинается со вспомогательного глагола: `be`, `do`, `have` или модального глагола: `can`, `may`, `will`, то тогда вопрос в сложной конструкции образуется при помощи `if` или `whether`.
+> Do you know **if** anybody saw you?
 
 Сложные предложения
 ===================
@@ -1875,12 +2051,14 @@ object  | a cake | by Susan
 ### Цели
 
 Используются для выражения цели действий, объясняют почему кто-то делает что-то. Вводятся конструкциями:
-- `to-инфинитив` - `чтобы` / `для того чтобы` (только для положительный введений):
+- `to-<verb>` - `чтобы` / `для того чтобы` (только для положительный введений):
     > I'm going out **to get** some fresh air.
 - `in order (not) to` / `so as (not) to` (formal) - `для того чтобы`:
     > He went to Harvard **in order to** / **so as to** obtain a degree in economics.
-- `so that` + `<существительное>` + `can` / `will` / `could` / `would` - `так что ... может` / `для того чтобы ... может`:
+- `so that` + `<существительное>` + `can` / `will` / `could` / `would` - `так что ... может` / `для того чтобы ... может`, когда выражают предположение:
     > He works hard **so that he can** make a lot of money.
+- `so that` + `<существительное>` + `won't` / `wouldn't` - `для того чтобы ... не`, когда выражают предположение:
+    > I hurried **so that** I **wouldn't** be late. (= because I didn't want to be late)
 - `in order that` / `as so that` + `<существительное>` + `can` / `will` / `could` / `would` (formal) - `так что ... может` / `для того чтобы ... может`;
 - `in case` + `<придаточное_предложение>` (present or past) - `в случае ...`:
     > Take a map **in case** you get lost.
@@ -1889,10 +2067,56 @@ object  | a cake | by Susan
 - `for` + `<verb>`(`-ing`) - `для ...`, когда выражают цель или функцию чего-то:
     > We use an axe **for chopping** wood.
 
-## Принуждение
+## Предпочтение
 
-Конструкция `<Somebody> would rather <somebody> <Past_Simple>` - `<Кто-то> (бы) предпочел, чтобы <кто-то> ...`, используется когда необходимо выразить мысль, которая хочет чтобы кто-то сделал что-то в настоящем или будущем. С английского переводится настоящим или будущем временем.
-> **I would rather you** didn't go there alone. - Я бы предпочел, чтобы ты не ходил туда в одиночку.
+Для выражений предпочтений используются следующие конструкции:
+- для того чтобы сообщить о предпочтениях в действиях в общем: `prefer` + `to-<verb>` / `<verb>`(`-ing`):
+    > I don't like cities. I **prefer to live** in the country.
+
+- для указания предпочтений между чем-то и чем-то в общем:
+    - между какими-то вещами: `prefer` + `<something>` + `to` + `<something_else>`:
+        > I **prefer** this coat **to** the coat you were wearing yesterday.
+    - между какими-то действиями:
+        - `prefer` + `<verb>`(`-ing`) + `<something>` + `to` + `<verb>`(`-ing`) + `<something_else>`:
+            > I **prefer driving to travelling** by train
+        - `prefer` + `to-<verb>` + `<something>` + `rather that` + (`<verb>`) + `<something_else>`:
+            > I **prever to drive rather that travel** by train.
+
+- для указания предпочтений в определенной ситуации: `would prefer` + `to-<verb>`:
+    > I **prefer to drive**.
+
+- для указания предпочтений между чем-то и чем-то в определенной ситуации:
+    - между какими-то вещами: `would prefer` + `<something>` + `to` + `<something_else>`:
+        > **Would** you **prefer** tea or coffee?
+    - между какими-то действиями: `would prefer` + `to-<verb>` + `<something>` + `rather that` + (`<verb>`) + `<something_else>`:
+        > I **would prefer to stay** at home tonight **rather than go** to the cinema.
+
+- `would rather` + `<verb>` аналогично `would prefer` + `to-<verb>`:
+    > I'm tired. I **would rather not go** out this evening, if you don't mind.
+
+- `would rather` + `<verb>` + `<something>` + `that` + `<verb>` + `<something_else>` аналогично `would prefer` + `to-<verb>` + `<something>` + `rather that` + (`<verb>`) + `<something_else>`:
+    > I **would rather stay** at home tonight **than go** to the cinema.
+
+- конструкция `<somebody>` + `would rather` + `<somebody>` + `<verb>`(`-ed` / II form) - `<кто-то> (бы) предпочел, чтобы <кто-то> ...`, используется когда необходимо выразить мысль, которая хочет чтобы кто-то сделал что-то в настоящем или будущем. Переводится настоящим или будущем временем.
+    > **I would rather you** didn't go there alone. - Я бы предпочел, чтобы ты не ходил туда в одиночку.  
+    > I **would rather you didn't tell** anyone what I said.
+
+## Сообщение о чем-то
+
+Конструкции: `It` + `to be said that` + `<somebody>` + `<verd>` + ... и `<somebody>` + `to be said to` + `<verb>` + ... используются для того чтобы передать информацию о ком-то, "Говорят что <кто-то> <делает> ...", вместо часто `said` используются `alleged`, `believed`, `considered`, `expected`, `known`, `reported`, `thought`, `understood`:
+> **It is expected that** it will end soon.  
+> The strike **is expected to end** soon.
+
+`to be supposed to` = `to be said to` и используется в ситуациях когда что-то намеревалось, устраиволось или ожидалось и при этом отличается от реальной ситуации:
+> The plan **is supposed to be** a secret, but everybody seems to know about it.
+
+`<somebody>` + `to be not supposed to` + `<verb>` + ... - используется когда что-то не разрешено или что-то не советуют делать:
+> You **are not supposed to park** your car here. It's private parking only.
+
+При этом:
+- `to <verb>` - для настоящего и будущего времени;
+- `to be` + `<verb>`(`-ing`) - для настоящего времени;
+- `to have` + `<verb>`(`-ed` / III form) - для прошедшего времени.
 
 Условные предложения
 ====================
@@ -1935,18 +2159,24 @@ object  | a cake | by Susan
     > I'll see you **when** I come to Paris.  
     > **If** he wakes up late, he will miss the bus.
 
-2. **Нереальное настоящее или будущее**. Употребляется, когда выражают воображение или невероятную ситуацию которая к несчастью не случится в настоящем или будущем. Строится из условной части и части результата выполнения условия:
+2. **Нереальное настоящее или будущее**. Употребляется, когда выражают воображение или невероятную ситуацию которая к несчастью не случится в настоящем или будущем ("если бы"). Строится из условной части и части результата выполнения условия:
     - `If` + `<Past_Simple>` + `,` + `<subject>` + `would` / `could` / `might` + `<Bare_Infinitive>`;
     > **If** I **had** more free time, I **would take up** basketball. (I don't have much free time now, so it unlikely that I will take up basketball. - improbable situation)
 
+    Для воображаемой ситуации используется конструкция: `if I knew` + ...
+    > **If** I **knew** his number, I **would phone** him. (but she doesn't know his number)
+
     Для всех может использоваться `were` вместо `was`.
 
-    Конструкция `if I were you` вместо `If` + `<Past_Simple>`, используется когда хотят дать совет.
+    Конструкция `if I were you` вместо `If` + `<Past_Simple>`, используется когда хотят дать совет ("на твоем месте я бы").
     > **If I were you**, I would stop eating junk food.
 
-3. **Нереальное прошлое**. Употребляется, когда выражают нереальное условие и результат который мог случиться в прошлом. Строится из условной части и части результата выполнения условия:
+3. **Нереальное прошлое**. Употребляется, когда выражают нереальное условие и результат который мог случиться в прошлом ("если бы"). Строится из условной части и части результата выполнения условия:
     - `If` + `<Past_Perfect>` + `,` + `<subject>` + `would` / `could` + `have` + `<verb>`(`-ed` / III form);
     > **If Charlie had left** the house earlier, he **wouldn't have been late** for work. - Если бы Чарли вышел раньше из дому, то он не опоздал бы на работу.
+
+    - `If` + `<Past_Perfect>` + `,` + `<subject>` + `would` / `could` / `might` + `<Bare_Infinitive>` для указания того, что если ыб случилось что-то в прошлом, то результат был бы сейчас:
+    > **If I had gone** to the party last night, **I would be** tired now. (I am not tired now)
 
 ## Инвертированое условное предложение
 
@@ -2076,69 +2306,104 @@ object  | a cake | by Susan
 Употребляемые конструкции
 =========================
 
-## `To used to`
+## `to used to`
 
-`<субъект>` + `used to` + `<предикат>` + `<остальное>`
+`<somebody>` + `used to` + `<something>` + ...
 
 Используется:
-- **для передачи сведений о том, что случалось обычно в прошлом, но больше не случается**:
+- для передачи сведений о том, что случалось обычно в прошлом, но больше не случается:
     > I **used to play** tennis a lot, but I don't play very often now.
-- **для вещей, который были истины, но теперь не являются такими**:
+- для вещей, который были истины, но теперь не являются такими:
     > I've started drinking tea recently. I never **used to like** it before.
 
 Отрицательная форма может быть: `used not to`:
 > I **used not to like** him.
 
-## Глаголы с разными значениями в зависимости от консрукций
+## `to be used to`
+
+`<somebody>` + `to be used to` + `<something>` / `<verb>`(`-ing`) + ...
+
+Используется:
+- для указания того, что это не новая или странная вешь для кого-то:
+    > Frank lives alone. He doesn't mind this because he has lived alone for 15 years. It is not strange for him. He **is used to it**. He **is used to living** alone.
+- для указания того, что это новая или странная ситуация используется отрицание:
+    > I bought some new shoes. They felt a bit strange at first because I **wasn't used to them**.
+
+`to be` может заменяться на `to get` для предметов:
+> Our new flat is on a very busy street. I expected we'll **get used to** the noise, but at the moment it's very disturbing.
+
+## `It's time`
+
+`It's time` + (`for` + `<somebody>`) + `to` + `<verb>` + ... - Пришло (для кого-то) время сделать ...
+
+Используется когда хотим сообщить что пришло (для кого-то) время совершить что-то:
+> **It's time** for us **to go** home.
+
+`It's` + (`about`) + `time` + `<somebody>` + `<verb>`(`-ed` / II form) + ... - Пока кому-то делать ...
+
+Используется для критики или жалобы о том что, кто-то уже сделал что-то или начал делать это (`about` - усиливает критику). Используется для настоящего времени:
+> Jack is a great talker. But **it's about time** he **did** something instead of just talking.
+
+## Глаголы с разными значениями в зависимости от конструкций
 
 - `stop`:
-    - `stop` + `to-<инфинитив>` - stop briefly to do something - приостановить или прервать действие на какое-то время, а потом возобновить:
+    - `stop` + `to-<verb>` - stop briefly to do something - приостановить или прервать действие на какое-то время, а потом возобновить:
         > I **stopped to have** a cup of coffee.
     - `stop` + `<verb>`(`-ing`) - finish, give up - завершить действие:
         > We **stopped reading** when the bell rang.
 - `remember`:
-    - `remember` + `to-<инфинитив>` - not forget - помнить о том, что нужно сделать:
-        > Please **remember to buy** some milk.
-    - `remember` + `<verb>`(`-ing`) - bring to your mind - вспоминать о прошлом:
-        > I **remember giving** you the key before I left.
+    - `remember` + `to-<verb>` - not forget - помнить о том, что нужно сделать:
+        > Please **remember to buy** some milk. (= Don't forget to buy some milk)
+    - `remember` + `<verb>`(`-ing`) - somebody did it and now somebody remember this - вспоминать о чем-то что было сделано:
+        > I know I locked the door. I clearly **remember locking** it. (= I locked it, and now I remember this)
 - `forget`:
-    - `forget` + `to-<инфинитив>` - not remember to do action - не помнить что нужно было сделать:
+    - `forget` + `to-<verb>` - not remember to do action - не помнить что нужно было сделать:
         > She **forgot to play** the phone bill.
     - `forget` + `<verb>`(`-ing`) - not remember that action as fact was happened - не помнить что действие, как факт, совершено:
         > I'll never **forget learning** how to ride a bicycle.
 - `need`:
-    - `need` + `to-<инфинитив>` - somebody has the necessity in action - кто-то имеет необходимость в действии:
-        > **Needs to clean**.
-    - `need` + `<verb>`(`-ing`) - something needs to be acted by somebody - что-то должно быть сделано кем-то:
+    - `need` + `to-<verb>` - it is necessary for somebody to do it - кому-то необходимо это сделать:
+        > He **needs to work* harder if he wants to make progress.
+    - `need` + `<verb>`(`-ing`) - it needs to be done - это должно быть сделано:
         > This car **needs cleaning**.
 - `try`:
-    - `try` + `to-<инфинитив>` - somebody start doing something, but do not have success - пытаться, делать усилия:
+    - `try` + `to-<verb>` - attempt to do, make an effort to do - пытаться, делать усилия:
         > Brittany **tried to learn** English, but she didn't succeed in it.
-    - `try` + `<verb>`(`-ing`) - somebody start doing something, but somebody doesn't enjoy to do it - пробовать новое:
+    - `try` + `<verb>`(`-ing`) - do something as an experiment or test - делать что-то как эксперимент или проверять что-то:
         > She **tried eating** carrot jam.
 - `regret`:
-    - `regret` + `to-<инфинитив>` - извиняться за то, что сейчас предстоит сделать:
+    - `regret` + `to-<verb>` - somebody is sorry that somebody has to do - извиняться за то, что сейчас предстоит сделать:
         > We **regret to inform** you that ...
-    - `regret` + `<verb>`(`-ing`) - сожалеть:
+    - `regret` + `<verb>`(`-ing`) - somebody did it and now somebody is sorry about it - сожалеть о содеяном:
         > I **regret moving** to New York.
 - `go on`:
-    - `go on` + `to-<инфинитив>` - переключиться, сделать что-то новое:
+    - `go on` + `to-<verb>` - do or say something new - переключиться, сделать что-то новое:
         > You should **go on to look** at further examples.
-    - `go on` + `<verb>`(`-ing`) - продолжать делать:
+    - `go on` + `<verb>`(`-ing`) - continue with the same thing - продолжать делать:
         > You should **go on styding**.
+- `like`:
+    - `like` + `to-<verb>` - somebody think it is a good thing to do, but somebody don't necessarily enjoy it - считаь что это хорошо делать, но необязательно радоваться этому:
+        > It's not my favourite job, but I **like to clean** kitchen as often as possible.
+    - `like` + `<verb>`(`-ing`) - do it and enjoy it - делать это и радоваться тому что делаешь:
+        > I **like cleaning** the kitchen.
+
+### Другие конструкции
+
+- `can't help` + `<verb>`(`-ing`) + `<something>` - can't stop myself doing it - не могу заставить себя перестать делать это:
+    > She tried to be serious, but she **couldn't help laughing**. (= she couldn't stop herself laughing)
 
 ## `Too` - `Enough`
 
 `Too` следует перед прилагательными и наречиями и имеет негативное значение, которое показывает что что-то больше (черезчур) чем достаточно, больше чем необходимо или больше чем хочется, для этого используется конструкция:
 
-`too` + `<прилагательное>` / `<наречие>` + `to-<инфинитив>`
+`too` + `<прилагательное>` / `<наречие>` + `to-<verb>`
 
 > Bob is **too short to become** a basketball player. She talks **too softly** for me **to hear** her.
 
 `Enough` следует перед существительными, но после прилагательных и наречий и имеет позитивное значение, которое показывает что того что хочется или необходимо имеется в достатке (достаточно), для этого используется конструкция:
 
-`<прилагательное>` / `<наречие>` + `enough` + `to-<инфинитив>`  
-`enough` + `<существительное>` + `to-<инфинитив>`
+`<прилагательное>` / `<наречие>` + `enough` + `to-<verb>`  
+`enough` + `<существительное>` + `to-<verb>`
 
 > The dog is **gentle enough to play** for me. We've got **enough eggs to make** an omelette.
 
@@ -2259,18 +2524,17 @@ object  | a cake | by Susan
 
 ## Устойчивые идиомы с глаголом `have`
 
-- `have` + `breakfast` / `lunch` / `dinner` / `something to eat` и д.р.
-- `have` + `a bath` / `a shower` / `a swim` / `a party` и д.р.
-- `have` + `an accident` / `an experience` / `a dream` и д.р.
-- `have` + `a look` (at something)
-- `have` + `a chat` / `a conversation` / `a discussion` (with somebody) и д.р.
-- `have` + `difficulty` / `fun` / `trouble` / `a good time` и д.р.
+- `have` + `breakfast` / `lunch` / `dinner` / `something to eat` и д.р.;
+- `have` + `a bath` / `a shower` / `a swim` / `a party` и д.р.;
+- `have` + `an accident` / `an experience` / `a dream` и д.р.;
+- `have` + `a look` (at something);
+- `have` + `a chat` / `a conversation` / `a discussion` (with somebody) и д.р.;
+- `have` + `difficulty` / `fun` / `trouble` / `a good time` и д.р.;
 - `have` + `a baby` и д.р.
 
 ## Описание локаций
 
-Для описания локаций используются следующие фразы:  
-... + `is` + `located` / `situated`:
+Для описания локаций используются следующие фразы: ... + `is` + `located` / `situated`:
 - `in the` + `east` / `west` / `south-east` и д.р. + `of` + ...;
 - `on the` + `east` / `west` / `south-east` и д.р. + `coast` + `of` + ...;
 - `in the` + `heart` / `center` + `of` + ....
@@ -2297,14 +2561,43 @@ object  | a cake | by Susan
 ## Разочарование (Disappointment)
 
 Выражает сожаление:
-- **о настоящем или будущем в виде мечты**. Формируется: `<somebody> wish <subject> <Past_Simple>` - `Жаль что <subject> ...` и переводится с английского настоящим или будущем временем.
-    > **I wish** I didn't have to do that task. - Жаль что я должен делать эту задачу.
-- **о прошлом**. Формируется: `I wish <subject> <Past_Perfect>` - `Жаль что <subject> ...`
+- **о настоящем или будущем в виде мечты**. Формируется: `<somebody>` + `wish` + `<subject>` + `<verb>`(`-ed` / II form) + `...` - `Жаль что <subject> ...` или `<somebody> желал бы (сейчас) чтобы <subject> <verb> ...` и переводится с английского настоящим или будущем временем.
+    > **I wish** I didn't have to do that task. - Жаль что я должен делать эту задачу. / Я желал бы сейчас не делать эту задачу.
+
+    - `<somebody>` + `wish` + `<subject>` + `could` + `<verb>`(`-ed` / II form) + `...` = `<somebody> regret that <subject> cannot <verb> ...`:
+        > I'm sorry I have to go. I **wish** I **could stay** longer. (but I can't)
+
+- **о прошлом**. Формируется: `<somebody>` + `wish` + `<subject>` + `have` + `<verb>`(`-ed` / III form) + `...` - `Жаль что <subject> ...` или `<somebody> желал бы чтобы <subject> <Past_Perfect> ...`:
     > **I wish** I had known her before. - Жаль что я не знал ее раньше.
 
+    - `<somebody>` + `wish` + `<subject>` + `could` + `had` + `<verb>`(`-ed` / III form) + `...` = `<somebody> regret that <subject> could not <Past_Perfect> ...`:
+        > I hear the party was great. I **wish** I **could have gone**. (but I couldn't go)
+
+Жалоба на ситуацию: `<somebody>` + `wish` + `<subject>` + `would` + `<verb>` + `...` - `<somebody> желал бы чтобы <subject> <verb> ...`:
+> The phone has been ringing for five minutes. **I wish** somebody **would answer** it.
+
+Жалоба на вещи, которые люди делают неоднократно: `<somebody>` + `wish` + `<subject>` + `wouldn't` + `<verb>` + `...` - `<somebody> желал бы чтобы <subject> <verb> ...`:
+> **I wish** you **wouldn't keep** interrupting me.
+
 Разочарование:
-- **о прошлом**. Формируется: `I would rather <subject> <Past_Perfect>` - `Лучше бы <subject> ...`
+- **о прошлом**. Формируется: `I would rather` + `<subject>` + `have` + `<verb>`(`-ed` / III form) + `...` - `Лучше бы <subject> ...`:
     > **I would rather** Sandra hadn't moved to Paris a year ago. - Лучше бы Сандра не ехала в Париж год назад.
+
+### Сожаление
+
+`<somebody>` + `would` + `love` / `like` / `hate` / `prefer` + `to have` + `<verb>`(`-ed` / III form) + `<something>` - `somebody regret now that somebody didn't or couldn't <verb> it`:
+> I **would like to have gone** to the party, but it was impossible.
+
+## Желания
+
+Для выражения желания:
+- о ситуации используется конструкция: `<somebody> wish <subject> <something> ...`:
+    > **I wish** you **a pleasant stay** here.
+- о действии используется конструкция: `<somebody> hope <subject> <verb> ...`:
+    > **I hope** you **have** a pleasant stay here.
+
+Когда хотим чтобы что-то случилось или изменилось, но не верим в это. используется только для действий или изменений, но не ситуаций. Формируется: `<somebody> wish <subject> would <verb> ...` - `<somebody> желал бы чтобы <subject> <verb> ...`:
+> **I wish** it **would stop** raining.
 
 Косвенная речь
 ==============
@@ -2325,8 +2618,8 @@ object  | a cake | by Susan
 - `Present Simple` - `Past Simple`;
 - `Present Continuous` - `Past Continuous`;
 - `Present Perfect` - `Past Perfect`;
-- `Past Simple` - `Past Perfect`;
-- `Past Continuous` - `Past Perfect Continuous`;
+- `Past Simple` - `Past Simple` / `Past Perfect`;
+- `Past Continuous` - `Past Continuous` / `Past Perfect Continuous`;
 - `Future Simple` - `Future in the past Simple` (`Conditional (would)`).
 
 Когда прямая речь выражает постоянную правду или закон природы, то при переходе в косвенную речь время не изменяется и наоборот тоже.
@@ -2349,26 +2642,29 @@ object  | a cake | by Susan
 | `this`                     | `that`                              |
 | `these`                    | `those`                             |
 
-Конструкция `order` / `tell` + `<somebody>` + `(not)` + `to-<инфинитив>` используется для выражения команды в косвенной речи.
+Конструкция `order` / `tell` + `<somebody>` + `(not)` + `to-<verb>` используется для выражения команды в косвенной речи.
 > "Be quiet!" she said. - She **ordered me to be quiet**.  
 > "Be polite with the customers," he said. - He **told me to be** polite with the customers.
 
-`Ask` / `beg` + `<somebody>` + `(not)` + `to-<инфинитив>` используется для выражения просьбы в косвенной речи.
+`Ask` / `beg` + `<somebody>` + `(not)` + `to-<verb>` используется для выражения просьбы в косвенной речи.
 > "Please, please don't go" he said. - He begged me not to go.
+
+`to say` + `<something>` + `to` + `<somebody>` используется для передачи косвенной речи от одного человека к другому.
+> Ann **said** goodbye **to** me and left.
 
 ## Вопросы
 
-Вопросы в косвенной речи образуются при помощи глаголов `ask`, `want` без вопросительного знака , с глаголом в утвердительной форме (в прямом порядке слов в вопросе).
+Вопросы в косвенной речи образуются при помощи глаголов `ask`, `want` без вопросительного знака, с глаголом в утвердительной форме (в прямом порядке слов в вопросе).
 > "What time does the film start?" Mary asked me. - Mary **asked** me **what time the film started**.
 
 Если вопрос в прямой речи начинается со вспомогательного глагола: `be`, `do`, `have` или модального глагола: `can`, `may`, `will`, то вопрос в косвенной речи образуется при помощи `if` или `whether`.
 > "**Have** you got a pet?" he asked me. - He asked me if I had got a pet.
 
-`whether` - используется после предлогов и перед глаголов вида `to-<инфинитив>` и в конструкции `whether or not`.
+`whether` - используется после предлогов и перед глаголов вида `to-<verb>` и в конструкции `whether or not`.
 > Claire wondered **whether to phone** him.  
 > I asked **whether or not** that was OK.
 
-Если субъект в косвенном вопросе тот же самый что и в главной части предложения, то он опускается и используется вместо глагола конструкция `to-<инфинитив>`.
+Если субъект в косвенном вопросе тот же самый что и в главной части предложения, то он опускается и используется вместо глагола конструкция `to-<verb>`.
 > Maria doesn't know **where to see glaciers**.
 
 Используется конструкция `know how to`, вместо ~~`know to`~~.
@@ -2409,7 +2705,7 @@ object  | a cake | by Susan
 
 - `to say` - *use your voice to express something in words*:
     - используется когда делятся какой-либо информацией, либо передают на письме прямую речь. После глагола `say` чаще всего стоит союз `that` (что):
-        > He said that he wouldn’t be able to come to the party, since he has lots of work to do.
+        > He said that he wouldn't be able to come to the party, since he has lots of work to do.
     - используется для выражения своего мнения:
         > I wouldn't say that he's a great guitarist.
     - если нужно пересказать содержание написанного или передать словами то, что нарисовано или передано в цифрах:
@@ -2424,7 +2720,7 @@ object  | a cake | by Susan
 ## `see`, `watch`, `look`
 
 - `to see` - *to see something* - значит видеть что-то, что попадает в поле зрения, даже если это не очень-то и хотелось видеть. По значению этот глагол схож с глаголом `to notice` (замечать):
-    > Let’s see if we can find it.
+    > Let's see if we can find it.
     - также распространенное значение этого глагола - **понимать**, то есть синоним глагола `to understand`:
         > They had no children. They married late, you see.
     - `you see` при объяснении чего-то, сродни **понимаешь?**;
@@ -2527,14 +2823,14 @@ Type of eating:
 ### `small` and `little`
 
 - `small` - use when you say about size / dimension / intensity - about physical conceptions;
-- `little` - use with uncountable / quantity / stature / adjective of degree  
-    a small amount / number = a little (few)
+- `little` - use with uncountable / quantity / stature / adjective of degree:
+    - a small amount / number = a little (few).
 
 ### `big` and `large`
 
-- `big` - about status  
-    a large number of ...  
-    a big / large amount of
+- `big` - about status:
+    - a large number of ...;
+    - a big / large amount of ....
 
 ### `tall` and `high`
 

@@ -91,7 +91,7 @@ fs.readdir(inputDir, (err, filenames) => {
     }
     filenames.filter(filename => /\.md$/.test(filename))
         .reduce((promise, filename) => promise.then(() => new Promise((res, rej) => {
-            fs.readFile(`${inputDir}/${filename}`, 'utf8',  (err, content) => {
+            fs.readFile(`${inputDir}/${filename}`, 'utf8', (err, content) => {
                 if (err) {
                     return rej(err);
                 }
