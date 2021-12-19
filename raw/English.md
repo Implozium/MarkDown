@@ -25,7 +25,34 @@
 
 ### Сложные слова
 
-Существительное, стоящее **перед** другим существительным, становится его определением; выполняет роль прилагательного (**какой?**...).
+Если есть существительное, стоящее **перед** другим существительны:
+- то оно становится его определением, выполняет роль прилагательного (**какой?**...), обычно стоит в единственном числе, но обозначает множественное число:
+    > an apple tree = a tree that has apples  
+    > a three-hour journey = a journey that takes three hours
+    > the exam results = the results of the exams
+- то оно обозначает тип принадлежности существительного к какой-то группе:
+    > a tennis ball = a ball used to play tennis
+- если оно оканчивается на `-ing`, то обычно оно обозначает для чего последующее слово используется:
+    > a frying pan = a pan for frying
+
+Некоторые слова могут сливаться или содиняться через `-`:
+> headache  
+> three-year-old
+
+### Единственное и множественное число
+
+Иногда одна вещь состоит из пары и поэтому используется как множественное число, к примеру такие слова: `throusers` (two legs), `pyjamas` (top and bottom), `glasses` и т.д. Эти слова можно использовать в конструкции: `a pair of` + `<noun>`:
+> a pair of throusers
+
+Некоторые слова одновременно обозначают множественное и единственное число: `means`, `series`, `species` и т.д.:
+> a television series  
+> two television series
+
+Некоторые слова в единственной форме часто используются во множественном числе, к ним часто относятся слова обозначающие группу людей: `audience`, `committee`, `company`, `family`, `firm`, `goverment`, `staff`, `team`, `police` и т.д., спортивную команду или компанию, но могут использоваться и в единственном числе:
+> The government want to increase taxes
+
+Существительные, которые обозначают количество денег, период времени, растояние и т.п. используются в единственном числе:
+> Six miles is a long way to walk every day.
 
 ### Артикль (article)
 
@@ -53,6 +80,8 @@
     > My daughter is **a** student.
 - обычно после глаголов `to be`, `to have`:
     > He is **a** photographer. He has got **a** camera.
+- перед приемами пищи `breakfast`, `lunch`, `dinner`, если перед ними стоит прилагательное:
+    > We had **a** very nice lunch.
 
 #### Определенный
 
@@ -68,18 +97,21 @@
     > Haven't you been to **the Acropolis** yet?
     - **исключение** - не используется перед собственными (личными) именами:
         > **Paula** comes from **Canada**.
+- перед существительными, которые единственные в чем-то:
+    > I'm going away at **the end** of this month.
 - перед словами: `cinema`, `theatre`, `radio`, `country(side)`, `seaside`, `beach` и др.;
-- перед именами кинотеатров, гостиниц, театров, музеев, газет и кораблей:
+- перед именами кинотеатров, ресторанов, гостиниц, театров, музеев, газет и кораблей:
     - **исключение** - не используется перед именами видов спорта, активностей, цветов, веществ и приемов пищи;
     - **исключение** - не используется если название дано в честь определенного человека и оканчивается на `-s` или `-'s`:
         > **Lloyds Bank**
-- перед именами рек, морей, групп островов или штатов, горных образований, пустыньи и океанов:
-    - **исключение** - не используется перед именами стран, городов, улиц, площадей, островов, озер и континентов.
+- перед именами рек, морей, групп островов или штатов, горных образований, пустынь, каналов и океанов:
+    - **исключение** - не используется перед именами стран, городов, улиц, площадей, дорог, парков, островов, озер, гор и континентов.
 - перед именами стран в составе которых используются слова `republic`, `kingdom`, `states`:
     > The Republic of Ireland
 - перед конструкцией `... of ...`:
     > The Tower of London.
-- перед музыкальными инструментами;
+- перед музыкальными инструментами:
+    > the piano
 - перед именами людей / фамилий / национальностей во множественном числе:
     > the Smiths, the English, the Dutch
 - перед титулами без собственных имен:
@@ -90,8 +122,6 @@
     > **The** British
     - **исключение** - не используется перед названиями национальностей, у которых есть форма множественного числа:
         > **Russians**
-- перед прилагательными, которые используются в качестве существительных во множественном числе:
-    > the rich
 - в сочетании с существительными, перед которыми идут следующие прилагательные: `following` - следующий, `former` - бывший, `last` - прошлый, `latter` - последний (из упомянутых), `main` - главный, `next` - следующий, `only` - единственный, `previous` - предыдущий, `right` - правильный, `same` - тот же, `wrong` неверный:
     > I know a lot of people who've had **the same** problem.
     - **исключение** - не используется перед существительными, выражающими временное значение, стоят прилагательные `next` - будущий, `last` - прошлый:
@@ -99,12 +129,21 @@
 - перед превосходной степенью прилагательных или наречий:
     > the best
 - ставится перед существительным или прилагательными, которые его описывают;
-- когда о предмете есть конкретная информация или говорится о конкретном предмете или предметах.
+- когда о предмете есть конкретная информация или говорится о конкретном предмете или предметах:
+    > Tim sat downon **the** chair nearest **the** door.
+- когда по контексту ясно какую вещь или персону подразумевают:
+    > Can you turn off **the** light, please? (= the light in this room)
+- `the` + исчисляемое существительное в единичном числе для обозначения конкретного типа чего-то:
+    > the giraffe = a specific type of animal, not a specific giraffe
+- `the` + прилагательное для обозначения группы (людей) в качестве существительных во множественном числе:
+    > the poor = poor people
 
 Не используется:
 - перед словами: `home`, `mother`, `father`, когда они используются в качестве своего дома или родителей;
-- перед словами: `bed`, `school`, `church`, `hospital`, `prison`, когда они используется в качестве тех вещей для чего они нужны:
+- перед словами: `bed`, `work`, `home`, `school`, `church`, `hospital`, `prison`, `university`, `college` когда они используется в качестве тех вещей для чего они нужны:
     > John waws sent to **prison**.
+- для вещей или людей в общем смысле, даже в том случае когда они частично ограничены:
+    > Do you like **strong black cofee**? (not all coffee, but it is stell a general idea)
 
 ### Множественное число и глагол 3-го лица ед. ч. наст. времени (`simple`)
 
@@ -118,20 +157,37 @@
 
 ### Притяжательный падеж существительного
 
-Выражает принадлежность, соответствует притяжательному прилагательному. Образуется:
-- **для людей и животных**:
-    - прибавлением `` `s `` к слову в единственном числе или неправильным множественным глаголам:
-        > Ken's car.  
-        > the women's clothes
-    - прибавлением  `` ` `` к слову которое оканчивается на `-s` или во множественном числе:
-        > the girls' dresses
-    - когда одна и та же вещь принадлежит двум и более людям, то `` `s `` добавляется только к последнему существительному:
-        > Gina and Tom's car.
-    - когда две или более вещей принадлежат двум и более людям и мы хотим показать что у каждого есть своя собстенная вещь, то добавляем `` `s `` добавляется к каждому существительному:
-        > Claire's and Kate's uniforms.
-- **для вещей или частей вещей используется предлог `of`**:
-    - `<сущ.> of <кого? / чего?>`:
-        > the roof **of the house**
+Притяжательный падеж выражает принадлежность, соответствует притяжательному прилагательному и образуется:
+- прибавлением `'s` к слову в единственном числе или неправильным множественным глаголам:
+    > Ken's car.  
+    > the women's clothes
+- прибавлением `'` к слову которое оканчивается на `-s` или во множественном числе:
+    > the girls' dresses
+- когда одна и та же вещь принадлежит двум и более людям, то `'s` добавляется только к последнему существительному:
+    > Gina and Tom's car.
+- когда две или более вещей принадлежат двум и более людям и мы хотим показать что у каждого есть своя собстенная вещь, то добавляем `'s` добавляется к каждому существительному:
+    > Claire's and Kate's uniforms.
+
+Используется:
+- для людей и животных:
+    > Tom's sister's name  
+    > the cat's tail
+- для организаций, групп людей:
+    > the government's decision
+- для мест:
+    > the city's street
+- для сокращенного названия места:
+    > at the **butcher's** = at the butcher's shop
+- для временных выражений: `yesterday`, `next week`, `today`, `tomorrow` и т.п.:
+    > next week's meeting
+- для периодов времени:
+    > ten minutes' walk
+
+Если есть поянения к существительному, то притяжательный падеж не употребляется, а используется предлог `of`:
+> the name **of the man who phoned you**
+
+Для вещей или частей вещей используется предлог `of`: `<сущ.> of <кого? / чего?>`:
+> the roof **of the house**
 
 Иерархия одушевленности при использовании притяжательного падежа (чем выше тем более вероятно использовать притяжательный падеж, чем ниже тем выше использовать предлог `of`):
 - Первое, второе и третье лицо;
@@ -140,18 +196,12 @@
 - Одушевленное;
 - Неодушевленное.
 
-Произносится `` `s ``:
+Произносится `'s`:
 - после гл. согл. `[s]`;
 - после гласных и зв. согл. `[z]`;
 - после шипящих и свистящих звуков `[iz]`.
 
 `<Притяжательный_падеж> <сущ.>`
-
-Когда ссылаются на место или время:
-- фраза выражающая место: магазин, здание и другое, то к нему прибавляется `` `s ``:
-    > at the **butcher's** (we mean the shop)
-- фраза которая показывает измерение времени как долго это длиться, то к ней прибавляется `` `s/ ``:
-    > a **day's** walk / two **hours'** drive
 
 ### Сложные слова с `some`, `any`, `every`, `no`
 
@@ -211,8 +261,7 @@ Refer for  | Positive    | Interrogative | Negative
 
 Все сорта видов мяса считаются неисчисляемыми.
 
-Много неисчисляемых существительных могут быть исчисляемыми с использованием ограничитлей для них:  
-`<существительное_ограничитель> of <неисчисляемое_существительное>`
+Много неисчисляемых существительных могут быть исчисляемыми с использованием ограничитлей для них: `<существительное_ограничитель> of <неисчисляемое_существительное>`:
 > a bottle of water
 
 ## Порядок слов в предложении
@@ -273,6 +322,9 @@ She | reads |    | her notes   | to Peter | every day
 - `you guys` - `вы все`, при этом `guys` не имеет пола;
 - `you lot` - `вы все`, британский вариант `you guys`.
 
+После притяжательного местоимения может употребляться `own` для того чтобы подчеркнуть, что что-то является собственным, а не заимствованным или разделяемым:
+> Brian usually cuts **his own hair**. (= he cuts it himself; he doesn't go to hairdresser's)
+
 ### Возвратные местоимения
 
 Число         | Личное | Возвратное
@@ -286,6 +338,8 @@ She | reads |    | her notes   | to Peter | every day
 .             | `you`  | `yourselves`
 .             | `they` | `themselves`
 
+Основная причина использования - это когда субъект и объект одинаковы.
+
 Возвратные местоимения используются:
 - с глаголами такими как: `behave`, `burn`, `cut`, `enjoy`, `hurt`, `introduce`, `kill`, `look at`, `teach` и др. когда субъект и объект действия одно и тоже лицо:
     > Andrew has hurt himself.
@@ -296,10 +350,39 @@ She | reads |    | her notes   | to Peter | every day
     - `enjoy yourself` - весело проводить время;
     - `behave yourself` - быть хорошим;
     - `help yourself` - тебе позволено брать что угодно, если ты хочешь это.
-- для выделения существительного или местоимения в предложении: `<существительное>` / `<местоимение>` + `<возвратное_местоимение>`:
-    > I myself made this cake. (I made the cake, not somebody else.)
+- для выделения существительного или местоимения в предложении:
+    - `<существительное>` / `<местоимение>` + `<возвратное_местоимение>`:
+        > I myself made this cake. (I made the cake, not somebody else.)
+    - `<существительное>` / `<местоимение>` + ... + `<возвратное_местоимение>`:
+        > I repaired this bike myself. (I repaired it, not anybody else.)
 
     Замечание: обычно не используется с такими глаголами как: `dress`, `wash`, `shave`. Но используются, когда нужно показать что что-то было сделано с многими усилиями.
+
+    Со глаголами `feel`, `relax`, `concentrate`, `meet` не употребляется.
+
+`on` + `<местоимение>` + `own` = `by` + `<возвратное_местоимение>`:
+> David was sitting **on his own** in a corner of the cafe.
+
+### Абсолютная форма притяжательного местоимения
+
+Местоимение | Абсолютное
+----------- | ----------
+`I`         | `mine`
+`you`       | `yours`
+`he`        | `his`
+`she`       | `hers`
+`it`        | `its`
+`we`        | `ours`
+`you`       | `yours`
+`they`      | `theirs`
+
+Используется тогда, когда местоимение не определяет никакое существительное. Оно занимает в предложении самостоятельное место.
+
+> The fridge is **mine** , and everything that is inside the fridge is also **mine**!
+
+`<something>` + `of` + `<абс._притяжательное_местоимение>` / `<притяжательное_существительное>` - используется для указания принадлежности:
+> Michael had aa argument with **a neighbour of his**.  
+> It was **a good idea of Tom's** to go to the cinema.
 
 ### Указательные местоимения
 
@@ -312,9 +395,14 @@ She | reads |    | her notes   | to Peter | every day
 
 Используются перед существительными **во множественном числе**, когда количество не указано и перед не исчисляемыми существительными (те, которые нельзя взять по одному).
 
-`some` - `[sʌm]` - обозначает **некоторый**, **несколько** (`a little` или `a few`), употребляется в утвердительных предложениях и в вежливых просьбах, предложениях, запросах или когда ожидают положительный ответ.
-> Can I have **some** milk please?  
-> I want **some** milk and **some** biscuits.
+`some` - `[sʌm]` - обозначает **некоторый**, **несколько** (`a little` или `a few`), употребляется:
+- в утвердительных предложениях и в вежливых просьбах, предложениях, запросах или когда ожидают положительный ответ.
+    > Can I have **some** milk please?  
+    > I want **some** milk and **some** biscuits.
+- для обозначения некоторого количества по аналогии с `a number of` / `a few of` / `a pair of`:
+    > I need **some** new sunglasses.
+- для выделения не всех:
+    > **Some** children learnt very quickly.
 
 `any` - `[enı]` - **любой**, встречается преимущественно в вопросительных и отрицательных предложениях и имеет значение, что и `some` в утвердительных, и не используется для выражения просьб и предложений.
 > There isn't **any** salt left.
@@ -401,11 +489,20 @@ She | reads |    | her notes   | to Peter | every day
 - чтобы выразить цель, то есть объяснить, зачем кто-то что-то делает:
     > He is going to the ark **to get** some money.
 
-- в конструкциях: `<verb>` + `<somebody>` + `to-<verb>` для указания того совершает `<verb>` для кого-то `<somebody>` из-за чего кого-то `<somebody>` делает `to-<verb>`, для глаголов и конструкций :`want`, `expect`, `ask`, `beg`, `help`, `mean` (`intend`), `would like`, `would prefer`, `tell`, `order`, `remind`, `warn`, `force`, `invite`, `encourage`, `persuade`, `teach`, `enable`, `get` (`persuade` / `arrange for`), `advise`, `recommend`, `allow`:
+- в конструкциях: `<verb>` + `<somebody>` + `to-<verb>` для указания того совершает `<verb>` для кого-то `<somebody>` из-за чего кого-то `<somebody>` делает `to-<verb>`, для глаголов и конструкций: `want`, `expect`, `ask`, `beg`, `help`, `mean` (`intend`), `would like`, `would prefer`, `tell`, `order`, `remind`, `warn`, `force`, `invite`, `encourage`, `persuade`, `teach`, `enable`, `get` (`persuade` / `arrange for`), `advise`, `recommend`, `allow`:
     > He doesn't want **anybody to know**.
 
 - после глаголов в форме `<verb>`(`-ing`):
     > It's **starting to rain**.
+
+- после прилагательных в конструкции `<adjective>` + (`<noun>`) + (`for <sombody>`) + `to-<verb>`:
+    > This is a **difficult question** (for me) **to answer**.
+
+- после прилагательных в конструкции (`It's`) + `<adjective>` + `of <somebody>` + `to-<verb>`, для прилагательных: `kind`, `clever`, `nice`, `sensible`, `mean`, `silly`, `stupid`, `careless`, `unfair`, `considerate`:
+    > It's **silly of Mary to give** up her job when she needs the money.
+
+- конструкции `the` + `first` / `last` / `next` / `only` / `second` + `<noun>` + `to-<verb>`:
+    > **The next** train **to arrive** at platform 4 will be the 10.50 to Cardiff.
 
 #### Инфинитив без `to` - голый (**bare**)
 
@@ -1191,10 +1288,10 @@ Verb                                                    | Preposition
 Отрицательные предложения с `for`: `<subject>` + `have not` + `<verb>`(`-ed` / III form) + `...` + `for` + `<продолжительность>`, можно пределать в конструкцию:
 - с **Present Simple** и `since`:
     - `It is` + `<продолжительность>` + `since` + `<subject>` + `<verb>`(`-ed` / II form) + `...`:
-    > I **have not seen** Joe **for** two years. = **It's** two years **since** I last **saw** Joe.
+        > I **have not seen** Joe **for** two years. = **It's** two years **since** I last **saw** Joe.
 - с **Present Perfect** и `since`:
     - `It has been` + `<продолжительность>` + `since` + `<subject>` + `<verb>`(`-ed` / II form) + `...`:
-    > I **have not seen** Joe **for** two years. = **It has been** two years **since** I last **saw** Joe.
+        > I **have not seen** Joe **for** two years. = **It has been** two years **since** I last **saw** Joe.
 
 Тип предложения | Вспом гл | Субъект     | Вспом гл   | Предикат                   | Пример
 ----------------| -------- | ----------- | ---------- | -------------------------- | ------
@@ -2067,6 +2164,19 @@ object  | a cake | by Susan
 - `for` + `<verb>`(`-ing`) - `для ...`, когда выражают цель или функцию чего-то:
     > We use an axe **for chopping** wood.
 
+### `-ing`
+
+Используются:
+- (`when` / `while`) + `<verb>`(`-ing`) - для указания того что две вещи происходили в одно и то же время:
+    > Kate is in the kitchen **making** coffee. (=  she is in the kitchen and she is making coffee)
+- `having` + `<verb>`(`-ed` / III form) - для указания того что одно действие произошло до другого, для коротких действий может использоваться конструкция `<verb>`(`-ing`):
+    > **Having found** a hotel, we looked for somewhere to have dinner.  
+    > **Taking** a key out of his pocket, he opened the door.
+- `after` + `<verb>`(`-ing`) - аналогично `having` + `<verb>`(`-ed` / III form):
+    > **After finishing** her work, she went home.
+- `<verb>`(`-ing`) - для объяснения зачем кто-то делает что-то, при этом распологается в начале предложения:
+    > **Not having** a car, she finds it difficult to get around.
+
 ## Предпочтение
 
 Для выражений предпочтений используются следующие конструкции:
@@ -2386,6 +2496,26 @@ object  | a cake | by Susan
         > It's not my favourite job, but I **like to clean** kitchen as often as possible.
     - `like` + `<verb>`(`-ing`) - do it and enjoy it - делать это и радоваться тому что делаешь:
         > I **like cleaning** the kitchen.
+- `be afraid`:
+    - `be afraid` + `to-<verb>` - somebody don't want to do something because it is dangerous or the result could be bad - кто-то не хочет делать что-то, так как это опасно или результат будет плохим. Используется для вещей, которые делаются умышленно и можно выбрать делать или нет:
+        > This part of town is dangerous. People **are afraid to walk** here at night. (= they don't want to walk here because it is dangerous - so they don't)
+    - `be afraid of ` + `<verb>`(`-ing`) - it is possible that something bad will happen - когда есть вероятность что что-то плохое случится. Используется для вещей, которые делаются не умышленно:
+        > The path was icy, so we walked very carefully. We **were afraid of falling**. (= it was possible that we would fall)
+- `be interested`:
+    - `be interested` + `to-<verb>` - to say how somebody reacts to what the do - для того чтобы сказать о реакции на действие. Используется с глаголами: `hear`, `see`, `read`, `learn`, `know`, `find`:
+        > I **was interested to hear** that Tanya has left her job.
+    - `be interested in` + `<verb>`(`-ing`) - somebody is thinking of doing it and would like to do it - кто-то думает сделать что-то или хотел бы делать что-то:
+        > Let me know if you **are interested in joining** the club.
+- `be sorry`:
+    - `be sorry` + `to-<verb>` - to say when somebody regret something that happens or to apologise at the time somebody do something - когда кто-то сожалеет о чем-то, что сейчас происходит или извиняется за то, что сейчас делает:
+        > I **was sorry to hear** that Nicky lost her job. (= I was sorry when I heard that ...)
+    - `be sorry` + `for` / `about` + `<verb>`(`-ing`) - to apologise for something somebody did before - для извинений о том, что сделали ранее:
+        > I **am sorry for (about) shouting** at you yesterday.
+- `see` / `hear` / `feel` / `notice` / `listen to` / `smell` / `find` + `<somebody>`:
+    - `see` / ... + `<somebody>` + `<verb>` - in past somebody saw when somebody did something from beginning to end - в прошлом когда кто-то видел как кто-то делает что-то от начала и до конца:
+        > I **saw him fall** of the wall.
+    - `see` / ... + `<somebody>` + `<verb>`(`-ing`) - in past somebody saw when somebody was in the middle of doing something - в прошлом когда кто-то видел как кто-то был в процессе совершения действия:
+        > I **saw him walking** along the street.
 
 ### Другие конструкции
 
@@ -2511,6 +2641,24 @@ object  | a cake | by Susan
 Отрицательное  | There isn't any milk in the fridge. | There aren't any people in the room.
 Вопросительное | Is there any milk in the fridge?    | Are there any people in the room?
 Краткий ответ  | Yes, there is.                      | Yes, there are.
+
+`there is` используется для вещей в первый раз, для того чтобы сказать что они существуют и в дальнейшем разговоре заменяется на `it is`:
+> I don't like this town. **There's** nothing to do here. **It's** a boring place.
+
+Могут использоваться конструкции: `there will be`, `there might be`, `there must be`, `there used to be` и д.р.:
+> If people drove more carefully, **there wouldn't be** so many accidents.  
+> **Is there** a flight to Paris this evening? - **There might be**. I'll phone the airport.
+
+Могут использоваться конструкции: `there is` + `sure` / `certain` / `bound` / `likely` + `to be`:
+> **There is bound to be** a flight to Paris this evening.
+
+## `it is`
+
+Используется:
+- для определенных вещей, мест, фактов, ситуаций и т.п.:
+    > We went to the new restaurant. **It's** very good place.
+- для растояния, времени и погоды:
+    > **It's** a long time since we saw you last.
 
 ## `have been` (`to`) / `have gone` (`to`)
 
