@@ -13,6 +13,7 @@
         - [Притяжательный падеж существительного](#Притяжательный-падеж-существительного)
         - [Сложные слова с `some`, `any`, `every`, `no`](#Сложные-слова-с-some-any-every-no)
         - [Количество предметов `much` / `many` / `a lot of` / `lots of` / `a little` / `a few` / `little` / `few`](#Количество-предметов-much--many--a-lot-of--lots-of--a-little--a-few--little--few)
+        - [Выделение подгруппы](#Выделение-подгруппы)
         - [Неисчисляемые существительные](#Неисчисляемые-существительные)
     - [Порядок слов в предложении](#Порядок-слов-в-предложении)
         - [Инвертированный порядок](#Инвертированный-порядок)
@@ -123,9 +124,11 @@
     - [`Too` - `Enough`](#Too---Enough)
     - [Время](#Время)
     - [Согласие и не согласие](#Согласие-и-не-согласие)
-    - [`Both` / `Neither` - `All` / `None`](#Both--Neither---All--None)
-    - [`Both ... and`](#Both--and)
-    - [`Neither ... nor`](#Neither--nor)
+    - [`both` / `neither` / `either`](#both--neither--either)
+        - [`Both ... and`](#Both--and)
+        - [`Neither ... nor`](#Neither--nor)
+        - [`Either ... or`](#Either--or)
+    - [`all` / `none`](#all--none)
     - [Суффиксы `-er`, `-or`](#Суффиксы--er--or)
     - [Оборот `there is` / `there are`](#Оборот-there-is--there-are)
     - [`it is`](#it-is)
@@ -392,6 +395,20 @@ Refer for  | Positive    | Interrogative | Negative
 `everywhere`            | везде
 `nowhere`               | нигде
 
+Являются единственным числом.
+
+После слов с `one`, `body` употребляются местоимения `they`, `them`, `their` для ссылка на них:
+> **Someone** has forgotten **their** umbrella. (= his or her umbrella)
+
+Слова с `no` часто используются после глаголов `have`, `be`:
+> We **had nothing** to eat.
+
+`no` + `<noun>` = `not a` / `not any`:
+> There were **no shops** open. (= There were **not any** shops open.)
+
+`no-<noun>` = `not` + `any-<noun>`:
+> I did **not** say **anything**. (= I said **nothing**)
+
 ### <a id="Количество-предметов-much--many--a-lot-of--lots-of--a-little--a-few--little--few" href="#Количество-предметов-much--many--a-lot-of--lots-of--a-little--a-few--little--few">Количество предметов `much` / `many` / `a lot of` / `lots of` / `a little` / `a few` / `little` / `few`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
 Тип         | Количество    | Значение                                                       | Пример
@@ -403,10 +420,27 @@ Refer for  | Positive    | Interrogative | Negative
 `plenty of` | оба           | много, в форм. предл., не используется в отриц. предложениях   | 
 `a little`  | неисчисляемое | немножко / чуть-чуть / больше чем один предмет                 | a little milk
 `a few`     | исчисляемое   | немножко / чуть-чуть / больше чем один предмет для сущ. во мн. ч. | a few apples
-`little`    | неисчисляемое | меньше чем единица / часть чего-то целого                      | 
-`few`       | исчисляемое   | меньше чем единица / часть чего-то целого                      | 
+`little`    | неисчисляемое | используется для выражения: не настолько много, как хотелось   | little time
+`few`       | исчисляемое   | используется для выражения: не настолько много, как хотелось   | few friends
 
 В негативном контексте `few` обозначает что `почти никто / ничто`.
+
+Для времени используется `many`:
+> many years
+
+### <a id="Выделение-подгруппы" href="#Выделение-подгруппы">Выделение подгруппы</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+Слова `all`, `some`, `any`, `most`, `much`, `many`, `little`, `few`, `half`, `none` могут использоваться с конструкцией: `of` + `the` / `this` / `that` / `these` / `those` / `<притяжательное_местоимение>` + `<noun>` для выделения подгруппы:
+> **Some of the people** I work with are not very friendly. (= a specific group of people)
+
+После `all`, `half` - `of` может опускаться:
+> **Half this money** is mine.
+
+Слова `all`, `some`, `any`, `most`, `much`, `many`, `little`, `few`, `half`, `none` могут использоваться с конструкцией: `of` + `<косвенное_местоимение>`:
+> **All of us** were late.
+
+Слова `all`, `some`, `any`, `most`, `much`, `many`, `little`, `few`, `half`, `none` могут использоваться самостоятельно, если понятен консекст использования:
+> A few of the shops were open, but **most** were closed.
 
 ### <a id="Неисчисляемые-существительные" href="#Неисчисляемые-существительные">Неисчисляемые существительные</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
@@ -563,18 +597,18 @@ She | reads |    | her notes   | to Peter | every day
     > I need **some** new sunglasses.
 - для выделения не всех:
     > **Some** children learnt very quickly.
+- в вопросах о человеке или вещи, о которой знаем что она существует или думаем что существует:
+    > Are you waiting for **somebody**?
 
-`any` - `[enı]` - **любой**, встречается преимущественно в вопросительных и отрицательных предложениях и имеет значение, что и `some` в утвердительных, и не используется для выражения просьб и предложений.
-> There isn't **any** salt left.
-
-Может также использоваться в положительных предложениях, в значениях: "Это не важно как / что / когда / где / который / кто".
-> You can ask me **anything** you want.
-
-Может использоваться после `if` в положительных предложениях.
-> If **anyone** calls, tell them I'm not home.
-
-Используется при наличие слов с негативным смыслом: `hardly`, `newer`, `without` и др.
-> It's too dark in the room, I can **hardly** see anything here.
+`any` - `[enı]` - **любой**, употребляется:
+- преимущественно в вопросительных и отрицательных предложениях и имеет значение, что и `some` в утвердительных, и не используется для выражения просьб и предложений:
+    > There isn't **any** salt left.
+- в положительных предложениях, в значениях: "Это не важно как / что / когда / где / который / кто".
+    > You can ask me **anything** you want.
+- после `if` в положительных предложениях.
+    > If **anyone** calls, tell them I'm not home.
+- при наличие слов с негативным смыслом: `hardly`, `newer`, `without` и др.
+    > It's too dark in the room, I can **hardly** see anything here.
 
 ### <a id="Относительные-местоимения-who--which--where" href="#Относительные-местоимения-who--which--where">Относительные местоимения `who` / `which` / `where`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
@@ -2739,9 +2773,9 @@ object  | a cake | by Susan
 > A: I often go swimming at weekends.  
 > B: I don't.
 
-## <a id="Both--Neither---All--None" href="#Both--Neither---All--None">`Both` / `Neither` - `All` / `None`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+## <a id="both--neither--either" href="#both--neither--either">`both` / `neither` / `either`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
-`Both` и `Neither` используется, когда относится к двум людям или вещам:
+`both`, `neither`, `either` используется, когда относится к двум людям или вещам:
 - `both` - имеет позитивное значение, констукции:
     - `both` + `(the + )<существительное_в_мн.ч.>` + `<предикат>`;
     - `both` + `of the / these / my / your / etc. + <существительное_в_мн.ч.>` + `<предикат>`;
@@ -2752,8 +2786,38 @@ object  | a cake | by Susan
     - `neither` + `of the / these / my / your / etc. + <существительное_в_мн.ч.>` + `<предикат>`;
     - `neither` + `of us / them / etc.` + `<предикат>`;
     > Neither of the books / Neither of them is / are interesting.
+- `either` - имеет безразличное значение, констукции:
+    - `either` + `<существительное_в_ед.ч.>` + `<предикат>`;
+    - `either` + `of the / these / my / your / etc. + <существительное_в_мн.ч.>` + `<предикат>`;
+    - `either` + `of us / them / etc.` + `<предикат>`;
+    > Either restaurant / Either of them is / are good.
 
-`All` и `None` используется, когда относится к более чем двум людям или вещам:
+`both` / `all` могут следовать:
+- после глагола `to be`:
+    > They were both tired.
+- после вспомогательных глаголов, но перед главным глаголом:
+    > They will all come to the party.
+- в начале предложения:
+    > Both women are tall.
+
+### <a id="Both--and" href="#Both--and">`Both ... and`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+Используется для соединения субъектов двух разных предложений в одно предложение которое имеет позитивное значение. Глагол в предложение всегда во множественном числе.
+> **Both** Bob **and** Paul **are** from Scotland.
+
+### <a id="Neither--nor" href="#Neither--nor">`Neither ... nor`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+Используется для соединения субъектов двух разных предложений в одно предложение которое имеет негативное значение. Глагол в предложение всегда в утвердительный и согласен со вторым субъектом.
+> **Neither** Sheila **nor** Mary **wants** to travel abroad.
+
+### <a id="Either--or" href="#Either--or">`Either ... or`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+Используется для соединения субъектов двух разных предложений в одно предложение которое имеет безразличное значение. Глагол в предложение всегда во множественном числе.
+> **Either** you apoligise **or** I'll never speak to you again.
+
+## <a id="all--none" href="#all--none">`all` / `none`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+`all` и `none` используется, когда относится к более чем двум людям или вещам:
 - `all` - имеет позитивное значение, констукции:
     - `all` + (`the` +) `<существительное_в_мн.ч.>` + `<предикат>`;
     - `all` + `of the / these / my / your / etc. + <существительное_в_мн.ч.>` + `<предикат>`;
@@ -2764,23 +2828,10 @@ object  | a cake | by Susan
     - `none` + `of us / them / etc.` + `<предикат>`;
     > None of these cars is / are cheap.
 
-`Both` / `All` могут следовать:
-- после глагола `to be`:
-    > They were both tired.
-- после вспомогательных глаголов, но перед главным глаголом:
-    > They will all come to the party.
-- в начале предложения:
-    > Both women are tall.
+`all` обычно не используется в значении `every`.
 
-## <a id="Both--and" href="#Both--and">`Both ... and`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
-
-Используется для соединения субъектов двух разных предложений в одно предложение которое имеет позитивное значение. Глагол в предложение всегда во множественном числе.
-> **Both** Bob **and** Paul **are** from Scotland.
-
-## <a id="Neither--nor" href="#Neither--nor">`Neither ... nor`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
-
-Используется для соединения субъектов двух разных предложений в одно предложение которое имеет негативное значение. Глагол в предложение всегда в утвердительный и согласен со вторым субъектом.
-> **Neither** Sheila **nor** Mary **wants** to travel abroad.
+`whole` используется вместо `all` для описания полноценного единственного исчесляемого существительного:
+> the whole book
 
 ## <a id="Суффиксы--er--or" href="#Суффиксы--er--or">Суффиксы `-er`, `-or`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
