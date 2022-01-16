@@ -712,7 +712,7 @@ She | reads |    | her notes   | to Peter | every day
 **Отрицательное**   |      | I | haven't got | a cat. |    | I | don't have | a cat.
 **Вопросительное**  | Have | I | got         | a cat? | Do | I | have       | a cat?
 
-`Have got` употребляется только в настоящем времени.
+`Have got` употребляется только в настоящем времени, в прошедшем использется `had`.
 
 `Have` может иметь форму **Continuous**:
 > Mike **is having** a shower at the moment.
@@ -878,6 +878,8 @@ Verb                                                    | Preposition
         - `may not have` / `might not have` аналогично `may not` / `might not` только для прошлого:
             > He **may not have been feeling** well.  
             > She **might not have known** about it.
+    - `might` - используется для ситуаций, которые не реальны:
+        > If I were in Tom's position, I **might** look for another job. (= because I am not in Tom's position)
 - `may` + `<verb>`:
     - значит **мочь** в смысле **иметь разрешение**;
 - `might` + `<verb>`:
@@ -1311,17 +1313,23 @@ Verb                                                    | Preposition
 - `so far` - `с тех пор` - вопросительная конструкция;
 - `recently` - `недавно`;
 - `always` - `всегда`;
-- `since` - `с какого-то момента` - используется для указания точки начала (стартового момента действия) - чтобы подчеркнуть, насколько велик был период времени, прошедшего с момента старта действия до текущего момента:
+- `since` + `<начало_периода>` - `с какого-то момента` - используется для указания точки начала (стартового момента действия) - чтобы подчеркнуть, насколько велик был период времени, прошедшего с момента старта действия до текущего момента:
     > She **hasn't been** to New York **since 1992**.
-- `for` - `в течении` - используется для выражения продолжительности - чтобы подчеркнуть, насколько велик был период времени, прошедшего с момента старта действия до текущего момента:
+- `for` + `<период_времени>` - `в течении` - используется для выражения продолжительности - чтобы подчеркнуть, насколько велик был период времени, прошедшего с момента старта действия до текущего момента:
     > I **have known** Sue **for ten years**.
 
-Отрицательные предложения с `for`: `<subject>` + `have not` + `<verb>`(`-ed` / III form) + `...` + `for` + `<продолжительность>`, можно пределать в конструкцию:
+    В положительных предложениях `for` можно опускать:
+    > They've been married ten years.
+
+    Если в периоде времени используется слово `all`, то `for` не используется:
+    > I've lived here all my life.
+
+Отрицательные предложения с `for`: `<subject>` + `have not` + `<verb>`(`-ed` / III form) + `...` + `for` + `<период_времени>`, можно пределать в конструкцию:
 - с **Present Simple** и `since`:
-    - `It is` + `<продолжительность>` + `since` + `<subject>` + `<verb>`(`-ed` / II form) + `...`:
+    - `It is` + `<период_времени>` + `since` + `<subject>` + `<verb>`(`-ed` / II form) + `...`:
         > I **have not seen** Joe **for** two years. = **It's** two years **since** I last **saw** Joe.
 - с **Present Perfect** и `since`:
-    - `It has been` + `<продолжительность>` + `since` + `<subject>` + `<verb>`(`-ed` / II form) + `...`:
+    - `It has been` + `<период_времени>` + `since` + `<subject>` + `<verb>`(`-ed` / II form) + `...`:
         > I **have not seen** Joe **for** two years. = **It has been** two years **since** I last **saw** Joe.
 
 Тип предложения | Вспом гл | Субъект     | Вспом гл   | Предикат                   | Пример
@@ -1456,6 +1464,10 @@ Verb                                                    | Preposition
 > Could I eat this apple?  
 > Might she come with us?
 
+Смысловой глагол `to be` в вопросах и негативных предложениях не использует вспомогательный глагол `did`:
+> **Was** the weather good when you **were** on holiday?  
+> They **weren't** able to come because they **were** so busy.
+
 ### Past Continuous
 
 Используется в ситуациях:
@@ -1575,6 +1587,8 @@ Verb                                                    | Preposition
     > This car **won't** start.
 - **иногда используется в разговоре о том что происходит сейчас**:
     > Don't phone Ann now. She **will be** busy. = she will be busy now.
+- **в конструкции `I (don't) think I'll**:
+    > I **don't think I'll go** out tonight. I'm too tired.
 
 Используются такие ключевые слова:
 - `tomorrow`;
@@ -1599,8 +1613,8 @@ Verb                                                    | Preposition
     > Susan **is going to** move house.
 - **if we have decided to do something but perhaps not arranged to do it in the near future** - если мы решили что-то сделать, но, возможно, еще не запланировали сделать это в ближайшем будущем (часто различие между **Present Continuous** очень мало и может заменяться этой формой):
     > Teresa **is going to see** her son's teacher tomorrow morning.
-- **for predictions based on what we see or we know** - для предсказаний основанных на том что мы видим, слышим, чувствуем или знаем:
-    > Look at him. He **is going to** jump out of the train.
+- **for predictions based on what we see or we know** - для предсказаний основанных на том что мы видим, слышим, чувствуем или знаем на текущий момент:
+    > Look at thouse black clouds. It **is going to rain**. (I can see that it **is going to rain** from the clouds that are in the sky now.)
 - **for actions which were indented to do it, but did not do it** - для действий, которые намеривались совершить, но не совершили:
     > We **were going to travek** by train, but then we decided to go by car instead.
 
@@ -1612,6 +1626,11 @@ Verb                                                    | Preposition
 
 Главное отличии от `will` - используется когда говорим о том, что что-то случится из-за ситуации, которая происходит сейчас:
 > Look at those black clouds. I **is going to rain**.
+
+#### Прошедшая форма
+
+Прошедшая форма `to be going to` используется для того чтобы показать, что кто-то намеревался сделать что-то, но не сделал:
+> We **were going to travel** by train, but then we decided to go by car instead.
 
 ### Future Continuous
 
@@ -1713,18 +1732,19 @@ perfect continuous | `to have been` + `<verb>`(`-ing`)      | `to have been bein
 
 Модальные глаголы применяются также аналогично.
 
-Может использоваться `get` вместо `be` в пассивных предложениях, в случае когда какие-то вещи происходят:
+Может использоваться `get` вместо `be` в пассивных предложениях, в случае когда какие-то вещи происходят. Употребляется только в неформальной речи:
 > I don't often **get invited** to parties. (= I'n not often invited)
 
 ### Пассивная причинная связь (Passive Causative)
 
-Используется во время разговора о услугах которые будут сделаны или были сделаны для нас кем-то другим еще.
+Используется когда хотим сообщить о том, что договорились с кем-то еще сделать что-то для кого-то.
 
 Построение производится с помощью конструкций в нужном времени:
 - `to have` + `<something>` + `<verb>`(`-ed` / III form);
-- `to get` + `<something>` + `<verb>`(`-ed` / III form).
+- `to get` + `<something>` + `<verb>`(`-ed` / III form) - для неформальной речи.
 > I **get** my car **cleaned** once a week. - They clean my car once a week.  
-> Sarah **is having her hair cut**.
+> Sarah **is having her hair cut**.  
+> Our neighbour has just **had** a garage **built**.
 
 Для прошедшего времени, когда услуга была уже оказана, используется конструкция:  
 `<subject>` + `to have` + `<object>` + `<verb>`(`-ed` / III form)
@@ -2030,6 +2050,46 @@ object  | a cake | by Susan
 `Shall I / we` + `...`
 > **Shall I** shut the door? = Do you want me to shut the door?
 
+## Вопросы запросов
+
+Для запросов - вопросы людям сделать что-то, используются:
+- конструкции: `can` / `could`:
+    > **Can you** wait a moment, please?
+- фраза: `Do you think you could` + ... ?
+    > **Do you think you could** lend me some moneyuntil next week?
+- конструкции: `will` / `would`, но чаще предпочтительно использовать `can` / `could`:
+    > Liz, **will you** do me a favour?
+
+## Вопросы о вещах
+
+Для вопросов о чем-то используются:
+- конструкции: `Can I have` / `Could I have` + ... ?
+    > **Could I have** the salt, please?
+- конструкция: `May I have` + ... ?
+    > **May I have** these postcards, please?
+
+## Вопросы сделать что-то
+
+Для вопросов сделать что-то используются:
+- конструкции: `can`, `could` или `may`, которая менее формальна:
+    > **May I** come in?
+- фразы: `Do you mind if I` / `Is it alright if I` / `Is it OK if I` + ... ?
+    > **Is it all right if I** come in?
+
+## Вопросы о предложениях сделать что-то
+
+Для предложений сделать что-то используюется:
+- конструкции: `Can I` + ... ?
+    > **Can I** get you a cup of coffee?
+
+## Вопросы о предложениях или приглашениях
+
+Для предложений или приглашений используются:
+- конструкция: `Would you like` + ... ?
+    > **Would you like** to come to dinner tomorrow evening?
+- фраза: `I'd like` + ... - вежливый способ спросить о том, что хочется:
+    > **I'd like** to try on this jacket, please.
+
 ## Сложные вопросы
 
 Состоят из конструкции:
@@ -2245,11 +2305,14 @@ object  | a cake | by Susan
 ## Сообщение о чем-то
 
 Конструкции: `It` + `to be said that` + `<somebody>` + `<verd>` + ... и `<somebody>` + `to be said to` + `<verb>` + ... используются для того чтобы передать информацию о ком-то, "Говорят что <кто-то> <делает> ...", вместо часто `said` используются `alleged`, `believed`, `considered`, `expected`, `known`, `reported`, `thought`, `understood`:
-> **It is expected that** it will end soon.  
-> The strike **is expected to end** soon.
+> **It is expected that** the strike will end soon. (= The strike **is expected to end** soon.)  
+> **It is said that** she works 16 hours a day. (= She **is said to work** 16 hours a day.)
 
-`to be supposed to` = `to be said to` и используется в ситуациях когда что-то намеревалось, устраиволось или ожидалось и при этом отличается от реальной ситуации:
-> The plan **is supposed to be** a secret, but everybody seems to know about it.
+Вместо `to be said to` может использоваться `to be supposed to`, который равен по значению:
+> I want to see that film. It **is supposed to be** good.
+
+`to be supposed to` используется в ситуациях когда что-то намеревалось, устраиволось или ожидалось и при этом отличается от реальной ситуации:
+> The plan **is supposed to be** a secret, but everybody seems to know about it. (The plan is intended to be a secret)
 
 `<somebody>` + `to be not supposed to` + `<verb>` + ... - используется когда что-то не разрешено или что-то не советуют делать:
 > You **are not supposed to park** your car here. It's private parking only.
@@ -2271,6 +2334,7 @@ object  | a cake | by Susan
 0. Употребляется, когда используется постоянная правда или законы природы. Строится из условной части и части результата выполнения условия:
     - `If` / `When` + `<Present_Simple>` + `,` + `<Present_Simple>`;
     - `<Present_Simple>` + `if` / `when` + `<Present_Simple>`;
+
     > When water become colder, tourists go away from us.
 
 1. **Реальное условие**. Употребляется, когда действие относиться к настоящему или будущему и действие реальное. Строится из условной части и части результата выполнения условия:
@@ -2757,13 +2821,13 @@ object  | a cake | by Susan
 ## Разочарование (Disappointment)
 
 Выражает сожаление:
-- **о настоящем или будущем в виде мечты**. Формируется: `<somebody>` + `wish` + `<subject>` + `<verb>`(`-ed` / II form) + `...` - `Жаль что <subject> ...` или `<somebody> желал бы (сейчас) чтобы <subject> <verb> ...` и переводится с английского настоящим или будущем временем.
+- **о настоящем или будущем в виде мечты**. Формируется: `<somebody>` + `wish` + `<subject>` + `<verb>`(`-ed` / II form) + `...` - `Жаль что <subject> не ...` или `<somebody> желал бы (сейчас) чтобы <subject> <verb> ...` и переводится с английского настоящим или будущем временем.
     > **I wish** I didn't have to do that task. - Жаль что я должен делать эту задачу. / Я желал бы сейчас не делать эту задачу.
 
     - `<somebody>` + `wish` + `<subject>` + `could` + `<verb>`(`-ed` / II form) + `...` = `<somebody> regret that <subject> cannot <verb> ...`:
         > I'm sorry I have to go. I **wish** I **could stay** longer. (but I can't)
 
-- **о прошлом**. Формируется: `<somebody>` + `wish` + `<subject>` + `have` + `<verb>`(`-ed` / III form) + `...` - `Жаль что <subject> ...` или `<somebody> желал бы чтобы <subject> <Past_Perfect> ...`:
+- **о прошлом**. Формируется: `<somebody>` + `wish` + `<subject>` + `have` + `<verb>`(`-ed` / III form) + `...` - `Жаль что <subject> не ...` или `<somebody> желал бы чтобы <subject> <Past_Perfect> ...`:
     > **I wish** I had known her before. - Жаль что я не знал ее раньше.
 
     - `<somebody>` + `wish` + `<subject>` + `could` + `had` + `<verb>`(`-ed` / III form) + `...` = `<somebody> regret that <subject> could not <Past_Perfect> ...`:
@@ -2818,7 +2882,7 @@ object  | a cake | by Susan
 - `Past Continuous` - `Past Continuous` / `Past Perfect Continuous`;
 - `Future Simple` - `Future in the past Simple` (`Conditional (would)`).
 
-Когда прямая речь выражает постоянную правду или закон природы, то при переходе в косвенную речь время не изменяется и наоборот тоже.
+Когда прямая речь выражает постоянную правду, ситуацию, которая не изменяется или закон природы, то при переходе в косвенную речь время не изменяется и наоборот тоже.
 
 > He said that green-cheeked parrots **live** in Mexico.
 
