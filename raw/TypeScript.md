@@ -176,6 +176,9 @@ type PageWithId = `${Page}_id`;
 
 Их можно использовать напрямую в виде типа переменных.
 
+Можно использовать стандартные типы внутри:
+> `type NumberString = ${number};` - тип, который представляет из себя число в виде строки
+
 ##### Встроенные шаблонные типы
 
 `Uppercase<<строковый_литерал>>` - конвертирует каждый символ в символ верхнего регистра.
@@ -837,6 +840,16 @@ type CreateMutable<Type> = {
 type Concrete<Type> = {
   [Property in keyof Type]-?: Type[Property];
 };
+```
+
+## Исключающие типы
+
+Тип `never` можно использовать для того, чтобы исключить определенные свойства:
+```typescript
+type Arg = {one?: never, two: boolean} | {one: boolean, two?: never};
+//   ^ = {two: boolean}
+//     = {one: boolean}
+//     != {two: boolean, one: boolean}
 ```
 
 ## Рекурсивные типы

@@ -201,11 +201,14 @@
 - после гласных и зв. согл. `[z]`;
 - после шипящих и свистящих звуков `[iz]`.
 
-`<Притяжательный_падеж> <сущ.>`
+`<притяжательный_падеж> <сущ.>`
 
 ### Сложные слова с `some`, `any`, `every`, `no`
 
 Используются по аналогии с `some` / `any`.
+
+`some` / `any` / `every` / `no` + `<существительное_в_ед.ч.>` - являются единственным числом.
+> every chair
 
 Refer for  | Positive    | Interrogative | Negative
 ---------- | ----------- | ------------- | --------
@@ -246,17 +249,28 @@ Refer for  | Positive    | Interrogative | Negative
 `no-<noun>` = `not` + `any-<noun>`:
 > I did **not** say **anything**. (= I said **nothing**)
 
+`every` + `<период_времени>` - используется для обозначения времени:
+> every ten minutes
+
+`every one` - может употребляться как для людей, так и для вещей.
+
+`each` + `<существительное_в_ед.ч.>` употребляется аналогично `every` + `<существительное_в_ед.ч.>` и используется в основном, когда подразумевают объекты отдельно и их малое количество:
+> There were four books on the table. **Each book** was a different color.
+
+`each` / `every one` + `of` + `the` / `this` / `that` / `these` / `those` / `<притяжательное_местоимение>` + `<существительное_в_мн.ч.>` - используется для обозначения определенной группы, но эта конструкция единственным числом:
+> **Each of the books** is a different color.
+
 ### Количество предметов `much` / `many` / `a lot of` / `lots of` / `a little` / `a few` / `little` / `few`
 
 Тип         | Количество    | Значение                                                       | Пример
 ----------- | ------------- | -------------------------------------------------------------- | ------
 `much`      | неисчисляемое | много, чаще в отриц. и вопрос. предложениях                    | 
-`many`      | исчисляемое   | много, чаще в отриц. и вопрос. предложениях для сущ. во мн. ч. | many towers
-`a lot of`  | оба           | много, не используется в отриц. предложениях                   | 
+`many`      | исчисляемое   | много                                                          | many towers
+`a lot of`  | оба           | много                                                          | 
 `lots of`   | оба           | много, не используется в отриц. предложениях                   | 
-`plenty of` | оба           | много, в форм. предл., не используется в отриц. предложениях   | 
-`a little`  | неисчисляемое | немножко / чуть-чуть / больше чем один предмет                 | a little milk
-`a few`     | исчисляемое   | немножко / чуть-чуть / больше чем один предмет для сущ. во мн. ч. | a few apples
+`plenty of` | оба           | больше, чем достаточно, не используется в отриц. предложениях  | 
+`a little`  | неисчисляемое | немножко, но достаточно / чуть-чуть / больше чем один предмет  | a little milk
+`a few`     | исчисляемое   | немножко, но достаточно / чуть-чуть / больше чем один предмет  | a few apples
 `little`    | неисчисляемое | используется для выражения: не настолько много, как хотелось   | little time
 `few`       | исчисляемое   | используется для выражения: не настолько много, как хотелось   | few friends
 
@@ -267,7 +281,7 @@ Refer for  | Positive    | Interrogative | Negative
 
 ### Выделение подгруппы
 
-Слова `all`, `some`, `any`, `most`, `much`, `many`, `little`, `few`, `half`, `none` могут использоваться с конструкцией: `of` + `the` / `this` / `that` / `these` / `those` / `<притяжательное_местоимение>` + `<noun>` для выделения подгруппы:
+Слова `all`, `some`, `any`, `most`, `much`, `many`, `little`, `few`, `half`, `none` могут использоваться с конструкцией: `of` + `the` / `this` / `that` / `these` / `those` / `<притяжательное_местоимение>` + `<существительное_в_мн.ч.>` - для обозначения определенной группы, и эта конструкция является единственным числом:
 > **Some of the people** I work with are not very friendly. (= a specific group of people)
 
 После `all`, `half` - `of` может опускаться:
@@ -303,9 +317,57 @@ We  | study |    | mathematics |          |
 He  | gives | us | lessons     |          | in the room
 She | reads |    | her notes   | to Peter | every day
 
+Глагол и объект (дополнение) обычно следуют вместе и между ними не ставятся другие слова.
+> Do you **eat meat** every day?
+
+Место (обстоятельство) обычно следует после глагола или глагола и объекта.
+> take somebody home
+
+Время (обстоятельство) обычно следует после места, а также часто может распологаться вначале предложения.
+> They have lived **in the same house** **for a long time**.
+
+Наречия и слова `both`, `all` распологаются:
+- перед глаголом, если глагол состоит из одного слова:
+    > I cleaned the house and I **also cooked** the dinner.
+- перед `have to`:
+    > Joe never phones me. I **always have to** phone him.
+- после глагола `to be`:
+    > My parents **are both** teachers.
+- после первого вспомогательного глагола, если глагол состоит более чем из одного слова:
+    > **Do** you **still work** for the same company?
+- перед глаголом, если это повторяющаяся часть предложения:
+    > He always says he won't be late, but he **always is**.
+
+Наречие `probably` распологается перед глаголом, если он отрицательный:
+> I **probable won't see** you.
+
+#### Основные наречия
+
+- `still` - `все еще` - указывает на то, что ситуация или действие продолжается и при этом оно не менялось и не останавливалось:
+    > Do you **still** want to go away or have you changed your mind?
+
+    - в отрицательных предложениях `still ... not` показывает сильное чувство удивления или нетерпения:
+        > I wrote to him months ago and he **still** has **not** replied. (he should have replied before now)
+
+- `not ... any more` / `not ... any longer` - указывает на то, что ситуация или действие изменились и распологается в конце предложения:
+    > Lucy does **not** work here **any more** (**any longer**).
+
+- `no longer` - указывает на то, что ситуация или действие изменились:
+    > We are **no longer** friends.
+
+- `yet` = until now - `уже` / `все еще` - указывает на то, что ожидается что, что-то случится и используется в основном в вопросительных предложениях или отрицательных:
+    > It's 10 o'clock and Joe is **not** here **yet**.
+
+- `already` - `уже` - указывает на то, что что-то случилось раньше чем ожидали:
+    > I've only just had lunch and I'm **already** hungry.
+
+- `even` - `даже` - используется для выражения чего необычного или удивительного, может распологаться в начале предложения или в конце предложения:
+    > He always wear a coat - **even in hot weather**.  
+    > I can't cook. I can't **even** boil an egg.
+
 ### Инвертированный порядок
 
-Инвертирование субъекта и предиката происходит если предложение начинается с слов:
+Инвертирование субъекта и предиката происходит если предложение начинается со слов:
 - `hardly`:
     > **Hardly had Tom reached** the house, it started to snow heavily.
 - `never before`:
@@ -391,7 +453,7 @@ She | reads |    | her notes   | to Peter | every day
 
     Со глаголами `feel`, `relax`, `concentrate`, `meet` не употребляется.
 
-`on` + `<местоимение>` + `own` = `by` + `<возвратное_местоимение>`:
+`on` + `<местоимение>` + `own` = `by` + `<возвратное_местоимение>` - для обозначение "одного":
 > David was sitting **on his own** in a corner of the cafe.
 
 ### Абсолютная форма притяжательного местоимения
@@ -446,27 +508,6 @@ She | reads |    | her notes   | to Peter | every day
     > If **anyone** calls, tell them I'm not home.
 - при наличие слов с негативным смыслом: `hardly`, `newer`, `without` и др.
     > It's too dark in the room, I can **hardly** see anything here.
-
-### Относительные местоимения `who` / `which` / `where`
-
-Относительные местоимения вводят относительные предложения. Используются относительные предложения для определения существительных в главном предложении. `who` - используется для людей (глагол после идет в том роде для которого заменяется слово), `which` - для объектов или животных, `where` - для мест.
-> A porter is someone **who** carries luggage.  
-> A clock is something **which** shows the time.  
-> This is the hotel **where** we spent our holidays.
-
-#### Относительное слово `that`
-
-Используется для описания предыдущего слова в значении `который`:
-> I love this TV **that** I watched recently.
-
-При этом может опускаться:
-> I love this TV I watched recently.
-
-##### Garden-path sentences
-
-Это ситуация при которой в конструкции `<subject>` + `that` + `<дополнение_начинающееся_глаголом>` + `<verb>` опускают слово `that`.
-> The horse (that) raced past the barn fell.  
-> The florist (that) sent the flowers was pleased.
 
 ## Глагол (verb)
 
@@ -526,10 +567,10 @@ She | reads |    | her notes   | to Peter | every day
 - после глаголов в форме `<verb>`(`-ing`):
     > It's **starting to rain**.
 
-- после прилагательных в конструкции `<adjective>` + (`<noun>`) + (`for <sombody>`) + `to-<verb>`:
+- после прилагательных в конструкции `<adjective>` + (`<noun>`) + (`for <sombody>`) + `to-<verb>`, для прилагательных: `easy`, `hard`, `impossible`, `dangerous`, `safe`, `expensive`, `cheap`, `nice`, `good`, `interesting`, `exciting`:
     > This is a **difficult question** (for me) **to answer**.
 
-- после прилагательных в конструкции (`It's`) + `<adjective>` + `of <somebody>` + `to-<verb>`, для прилагательных: `kind`, `clever`, `nice`, `sensible`, `mean`, `silly`, `stupid`, `careless`, `unfair`, `considerate`:
+- после прилагательных в конструкции (`It's`) + `<adjective>` + `of <somebody>` + `to-<verb>`, для прилагательных: `kind`, `clever`, `nice`, `sensible`, `mean`, `silly`, `stupid`, `careless`, `unfair`, `considerate` и д.р.:
     > It's **silly of Mary to give** up her job when she needs the money.
 
 - конструкции `the` + `first` / `last` / `next` / `only` / `second` + `<noun>` + `to-<verb>`:
@@ -575,6 +616,8 @@ She | reads |    | her notes   | to Peter | every day
 В завершенной форме глаголы `<verb>`(`-ing`) переходят в форму `having` + `<verb>`(`-ed` / III form):
 > `doing` - `having done`
 
+Но часто употребляется вместо завершенной формы простая форма.
+
 Употребляется:
 - как существительное выражающее общее (собирательное) понятие - неисчисляемое существительное:
     > **Exercising** is good for your health.
@@ -584,9 +627,9 @@ She | reads |    | her notes   | to Peter | every day
     - выражающих мнение: `admit`, `appreciate`, `avoid`, `consider`, `deny`, `fancy`, `imagine`, `mind`, `miss`, `prevent`, `spend`, `suggest`, `waste`, `resist` и похожих по смыслу;
     - движения: `stop`, `finish`, `start`, `begin`, `keep`, `go` и похожих по смыслу;
     - глаголов: `practice`, `postpone`, `waste`.
+    > She stop **talking**.
 
     но кроме глаголов: `hope`, `believe`, `think`, `afford`, `deserve`, `choose`, `seem` и других глаголов восприятия и конструкции: `would` + `<verb>` + `to-<verb>` (хотел бы):
-    > She stop **talking**.  
     > I **would like to travel** to China one day.
 
     - в конструкции `would mind` + `<verb>`(`-ing`) (не возражал бы):
@@ -630,7 +673,7 @@ She | reads |    | her notes   | to Peter | every day
 - в виде герундия, когда обозначает **процесс**:
     > **Starting** new business is not easy.
 
-Конструкции: `<somebody>` + `deny` / `admit` / `suggest` + `<verb>`(`-ing`) могут раскрываться в конструкции: `<somebody>` + `deny` / `admit` / `suggest` + `that` + `<somebody>` + `<verb>` и наоборот схлопываться:
+Конструкции: `<somebody>` + `deny` / `admit` / `suggest` / т.п. + `<verb>`(`-ing`) могут раскрываться в конструкции: `<somebody>` + `deny` / `admit` / `suggest` / т.п. + `that` + `<somebody>` + `<verb>` и наоборот схлопываться:
 > They **denied stealing** the money. = They **denied that** they **had stolen** the money.
 
 ### `-ed`-форма / III form
@@ -722,24 +765,25 @@ She | reads |    | her notes   | to Peter | every day
 
 ### Фразовые глаголы (Phrasal verbs)
 
-Формируются: `<verb>` + `<один_или_два_предлога>` / `<наречие>`.
+Формируются: `<verb>` + `<одна_или_две_частицы>` / `<наречие>`.
+
+Если фразовый глагол имеет объект, то возможны два варианта его применения:
+- `<verb>` + `<одна_или_две_частицы>` + `<объект>`:
+    > Could you **fill in** this form?
+- `<verb>` + `<объект>` + `<одна_или_две_частицы>`
+    > Could you **fill** this form **in**?
+
+Если `<объект>` - это местоимение, то возможен только один вариант:
+- `<verb>` + `<объект>` + `<одна_или_две_частицы>`
+    > They game me a form and told me to **fill** it **in**.
 
 Один фразеологический глагол может иметь более чем одно значение и эти значения часто не соотносятся с изначальным глаголом.
 
 Эти глаголы часто используются в неформальной или в разговорной лексике. Часто имеются более формальные слова для выражения того же самого.
 
-#### С предлогами
-
-Указанные глаголы часто употребляются с такими предлогами:
-
-Verb                                                    | Preposition
-------------------------------------------------------- | -----------
-`ask` / `wait` / `pay` / `look` / `apply` / `apologize` | `for`
-`talk` / `listen` / `belong` / `explain`                | `to`
-`look` / `laugh`                                        | `at`
-`depend`                                                | `on`
-`talk` / `know` / `dream`                               | `about`
-`remind` / `accuse`                                     | `of`
+После фразовых глаголов может идти предлог, который относится к глаголу. И тогда используется только одна конструкция:
+- `<verb>` + `<одна_или_две_частицы>` + `<предлог>` + `<объект>`:
+    > I promised I'd go to the wedding. I don't want to go, but I can't **get out of** it now.
 
 #### С наречиями
 
@@ -756,6 +800,39 @@ Verb                                                    | Preposition
 Одинаковые частицы не обозначают тоже самое что и предлоги и наречия, а имеют другое значение.
 
 - `out`:
+    - для движения наружу с глаголами движения = out of a room, building, a car, ...:
+        > He walked **out**. = He walked **out of the room**.
+    - `eat` + `out` = eat at a restaurant, not at home;
+    - `drop` + `out` + `of` + college / university / a course / a race = stop before you have completely finished college / university / a course / a race;
+    - `get` + `out` + `of` + `<something>` = avoid doing something that you arranged to do;
+    - `cut` + `<someting>` + `out` + (`of` + a newspaper / ...);
+    - `leave` + `<someting>` + `out` = omit it, not include it;
+    - `cross` + `<someting>` + `out`;
+    - `rub` + `<someting>` + `out`;
+    - `fill` + `out` + a form / a questionnaire / ... = write the nessary information on a form;
+    - для обозначения тушения = not burning, not shining:
+        - `go` + `out`:
+            > Suddenly all the lights in the building **went out**.
+        - `put` + `out` + a fire / a cigarette / a light;
+        - `turn` + `out` + a light;
+        - `blow` + `out` + a candle.
+    - `work` + `out`:
+        - do physical exercises;
+        - develop, progress;
+        - for mathematical calculations;
+        - `work` + `<someting>` + `out` = calculate, think about a problem and find the answer.
+    - `carry` + `out` + an order / an experiment / a survey / an investigation / a plan / ... = fulfill, execute;
+    - `fall` + `out` + (`with` + `<somebody>`) = stop being friends;
+    - `find` + `out` + `that` / `what` / `when` / ... = get information;
+    - `find` + `out` + `about` + `<something>` = get information;
+    - `give` / `hand` + things + `out` = give to each person;
+    - `point` + `<something>` + `out` + (`to` + `<somebody>`) = draw attention to something;
+    - `run` + `out` + (`of` + `<something>`) = finish, end;
+    - `sort` + `<something>` + `out` = find a solution to, put in order;
+    - `turn` + `out` + `to be` = prove;
+    - `turn` + `out` + `good` / `nice` / ... = prove;
+    - `turn` + `out` + `that` = prove;
+    - `try` + `out` + a machine / a system / a new idea / ... = test it to see if it is OK;
     - обозначает "вне, снаружи" - "по направлению наружу", для глаголов эквивалентно русской приставке **"вы-"**:
         - `run out` - **вы-бегать**;
         - `fly out` - **вы-летать**.
@@ -769,7 +846,15 @@ Verb                                                    | Preposition
     - обозначает "двигать/ся в разных направлениях из исходной точки" не только в пространстве, но и во времени, для глаголов эквивалентно русской приставке **"раз-"** / **"рас-"**:
         - `give out` - **раз-давать**;
         - `drag out` - **рас-тягивать**.
+
 - `in`:
+    - для движения внутрь с глаголами движения = into a room, building, a car, ...:
+        > I'm moving **in** next week. = I'm moving **into my new flat** on Friday.
+    - `drop` / `call` + `in` = visit somebody for a short time without arranging to do this;
+    - `join` + `in` = take part in an activity that is already going on;
+    - `plug` + `in` + an electrical machine = connect it to the electricity supply;
+    - `fill` + `in` + a form / a questionnaire / ... = write the nessary information on a form;
+    - `take` + (`<somebody>`) + `in` = deceive somebody;
     - обозначает "внутрь, до конца, полностью", для глаголов эквивалентно русской приставке **"в-"** (**"за-"**):
         - `drive in` - **в-гонять** / **за-гонять**;
         - `breathe in` - **в-дыхать**;
@@ -778,7 +863,59 @@ Verb                                                    | Preposition
         - `pull in` - **с-тянуть**;
         - `hold in` - **с-держивать** / **у-держивать**;
         - `pack in` - **у-паковать**.
-- `up` - "верх" ассоциируется с чем-то положительным, сильным, топовым, с увеличением присутствия, активности:
+
+- `up`:
+    - в значении движения вверх:
+        - `put` + `<somthing>` + `up` + (`on` + a wall, ...);
+        - `pick` + `<somthing>` + `up`;
+        - `stand` + `up`;
+    - `turn` + `up` = increase;
+    - `go` / `come` / `walk` + `up` + (`to`) = approach;
+    - `catch` + `up` + (`with` + `<somebody>`) = move faster than somebody in front of you so that you reach them;
+    - `catch` + `<somebody>` + `up` = move faster than somebody in front of you so that you reach them;
+    - `keep` + `up` + (`with` + `<somebody>`) = continue at the same speed or level;
+    - `set` + `up` + an organisation / a company / a business / a system / a website / ... = start it;
+    - `take` + `up` + a hobby / a sport / an activity / ... = start doing it;
+    - `fix` + `up` + a meeting / ... = arrange it;
+    - `grow` + `up` = become an adult;
+    - `bring` + `up` + a child = raise / look after a child;
+    - `clean` / `clear` / `tidy` + `up` + `<something>` = make it clean / clear / tidy;
+    - `wash` + `up` = wash the plates, dishes, ... after a meal;
+    - `end` + `up` + `<somewhere>` = finish in somewhere in the end:
+        > There was a fight in the street and three men **ended up** in hospital.
+    - `end` + `up` + `<verb>`(`-ing`) + `<something>` = in the end:
+        > I couldn't find a hotel and **ended up** sleeping on a bench at the station.
+    - `give` + `up` = stop trying;
+    - `give` + `<something>` + `up` = stop doing it;
+    - `make` + `up` + `<something>` = compose;
+    - `be` + `made` + `up` + `of` + `<something>` = consists of;
+    - `take` + `up` + space / time = use space / time;
+    - `turn` / `show` + `up` = arrive, appear;
+    - `use` + `<something>` + `up` = use all of it so that nothing left;
+    - `bring` + `up` + a topic / ... = introsuce it in a conversation;
+    - `come` + `up` = be introduced in a conversation:
+        > Some interesting matters **came up** in our discussion yesterday.
+    - `come` + `up` + `with` + an idea, a suggestion, ... = produce an idea;
+    - `make` + `<something>` + `up` = invent something that is not true;
+    - `cheer` + `up` = be happier;
+    - `cheer` + `<somebody>` + `up` = make somebody feel happier;
+    - `save` + `up` + `for` + `<something>` = save money to buy something;
+    - `save` + `up` + `to do` + `<something>` = save money to buy something;
+    - `clear` + `up` = become bright (for weather);
+    - `blow` + `up` = explode;
+    - `blow` + `<something>` + `up` = destroy it with a bomb, ...;
+    - `tear` + `<something>` + `up` = tear it into pieces;
+    - `beat` + `<somebody>` + `up` = hit someone repeatedly so that they are badly hurt;
+    - `break` / `split` + `up` + (`with` + `<somebody>`) = separate;
+    - `do` + `up` + a coat, a shoelace, buttons, ... = fasten, tie, ...;
+    - `do` + `up` + a building, a room, ... = repair and improve it;
+    - `look` + `<something>` + `up` + `in` + a dictionary / an encyclopaedia / ... = find it in;
+    - `put` + `up` + `with` + `<something>` = tolerate it;
+    - `hold` + `up` + a person / a plan / ... = delay;
+    - `mix` + `up` + people / things = you think one is the other:
+        > The two brothers look very similar. Many people **mix** them **up**.
+    - `get` + people / things + `mixed` + `up` = you think one is the other;
+    - "верх" ассоциируется с чем-то положительным, сильным, топовым, с увеличением присутствия, активности;
     - обозначает "до конца, полностью", для глаголов эквивалентно русской приставке **"с-"** / **"за-"**:
         - `eat up` - **с-есть**;
         - `wrap up` - **за-вернуть**.
@@ -797,7 +934,24 @@ Verb                                                    | Preposition
         - `pull up` - **под-тянуть**;
         - `walk up` - **под-ходить к**;
         - `run up to` - **под-бегать к**.
-- `down` - "низ" - наоборот, с отрицательным, слабым, некачественным, с уменьшением присутствия, активности:
+
+- `down`:
+    - в значении движения вниз:
+        - `take` + `<somthing>` + `down` + (`from` + a wall, ...);
+        - `put` + `<somthing>` + `down`;
+        - `sit` / `bend` / `lie` + `down`;
+    - `turn` + `down` = reduce;
+    - `knock` + `down` + a building / `blow` + `<somthing>` + `down` / `cut` + `<somthing>` + `down` / ... = destroy;
+    - `be` + `knocked` + `down` + (`by` + a car, ...);
+    - `slow` + `down` = go more slowly;
+    - `calm` + (`<somebody>`) + `down` = become calmer, make somebody calmer;
+    - `cut` + `down` + (`on` + `<something>`) = eat, drink or do something less often;
+    - `break` + `down` = stop working (for machines, cars, relationships, ...);
+    - `close` / `shut` + `down` = stop doing business;
+    - `let` + `<somebody>` + `down` = disappoint somebody because you didn't do what they hoped;
+    - `turn` + `<somebody>` / `<something>` + `down` = refuse an application, an offer, ...;
+    - `write` + `<something>` + `down` = write something on paper because you may need the information later;
+    - "низ" - наоборот, с отрицательным, слабым, некачественным, с уменьшением присутствия, активности;
     - в значении "угнетения", "ослабления интенсивности" (усохнуть, ушить, урезать), для глаголов эквивалентно русской приставке **"у-"**:
         - `calm down` - **у-спокоить/ся**.
     - в значении движения вниз - "оседать", "опускать", "обрушиваться", для глаголов эквивалентно русской приставке **"о-"**:
@@ -806,7 +960,30 @@ Verb                                                    | Preposition
         - `roll down` - **с-катываться**;
         - `burn down` - **с-жечь**;
         - `break down` - **с-ломать/ся**.
+
 - `off`:
+    - для выключения / не работы света, машин, ...:
+        - `turn` / `switch` + `<something>` + `off`.
+    - `call` + `<something>` + `off` (for events) = cancel it;
+    - `put` + `<something>` + `off` (for events) = delay it;
+    - `put` + `off` + `<verb>`(`-ing`) + `<something>` = delay it;
+    - `take` + `off` + clothes, glasses, make-up, a seat belt, ... = remove;
+    - `be` + `off` + (`to` + a place) = to be going to a place:
+        > Tomorrow I **am off** to Paris. (I am going to Paris)
+    - `walk` / `run` / `drive` / `ride` / `go` + `off` = `walk` / `run` / `drive` / `ride` / `go` + `away`;
+    - `set` + `off` = start a journey;
+    - `take` + `off` = leave the ground (for planes);
+    - `see` + `<something>` + `off` = go with somebody to the airport / station to say goodbye;
+    - `doze` / `drop` / `nod` + `off` = fall asleep;
+    - `finish` + `<something>` + `off` = do the last part of something;
+    - `go` + `off` = explode;
+    - an alarm + `go` + `off` = ring;
+    - `put` + `<somebody>` + `off` + `<verb>`(`-ing`) + `<something>` = cause somebody not to want something or to do something:
+        > We wanted to go to the exhibition, but we were **put off** by the long queue.
+    - `rip` + `<somebody>` + `off` = cheat somebody (informal);
+    - `show` + `off` = try to impress people with your ability, your knowledge, ...;
+    - `tell` + `<somebody>` + `off` = speak angrily to somebody because they did something wrong:
+        > Clare's mother **told** her **off** for wearing dirty shoes in the house.
     - обозначает "состояние части, отделенной от целого", "отделение", для глаголов эквивалентно русской приставке **"от-"** (**"с-"**):
         - `work off` - **от-работать**;
         - `put off` - **от-кладывать**;
@@ -815,7 +992,26 @@ Verb                                                    | Preposition
     - обозначает механическое "в не работающем состоянии", для глаголов эквивалентно русской приставке **"вы-"**:
         - `turn off` - **вы-ключить**;
         - `is off` - **закончилось и не происходит**.
+
 - `on`:
+    - для включения / работы света, машин, ...:
+        - `put` / `be` / `leave` / ... + `on`;
+        - `turn` / `switch` + `<something>` + `on`;
+        - `put` + `on` (fro some music, a CD, a video, ...).
+    - `go` + `on` (for events) = happen;
+    - `put` + `on` + clothes, glasses, make-up, a seat belt, ... = robe;
+    - `put` + `on` + weight = get heavier;
+    - `try` + `on` + clothes (to see if they fit);
+    - для продолжания делания чего-то:
+        - `drive` / `walk` / `play` / ... + `on` = continue walking / driving / playing / ...;
+        - `go` + `on` = continue;
+        - `go` / `carry` + `on` + (`<verb>`(`-ing`) + `<something>`) = continue (doing something);
+        - `go` / `carry` + `on` + `with` + `<something>` = continue;
+        - `keep` + `on` + `<verb>`(`-ing`) + `<something>` = do it continue or repeatedly;
+    - `get` + `on` = progress;
+    - `get` + `on` + (`with` + `<somebody>`) = have a good relationship;
+    - `get` + `on` + `with` + `<something>` = continue doing something you have to do, usually after an interruption:
+        > I must **get on with** my work. I have a lot to do.
     - обозначает "на что-то", "наложение", для глаголов эквивалентно русской приставке **"на-"**:
         - `put on` - **на-кладывать**.
     - обозначает "двигаться вперед", "продолжать", для глаголов эквивалентно русской приставке **"про-"**:
@@ -826,6 +1022,31 @@ Verb                                                    | Preposition
     - обозначает механическое "в работающем состоянии", для глаголов эквивалентно русской приставке **"в-"**:
         - `turn on` - **в-ключить**;
         - `is on` - **началось и происходит**.
+
+- `away`:
+    - `go away` = away from home;
+    - для движения от чего-то = away from a place, a person, ...:
+        > The woman got into her car and **drove away**.
+    - `get` + `away` = escape, leave with difficulty;
+    - `get` + `away` + `with` + `<something>` = do something wrong without being caught:
+        > I parked in no-parking zone, but I **got away with** it.
+    - `keep` + `away` + (`from`) = don't go near;
+    - `give` + `<something>` + `away` = give it to somebody else because you don't want it any more;
+    - `put` + `<something>` + `away` = put it in the place where it is kept, usually out of sight;
+    - `throw` + `<something>` + `away` = put it in the rubbish.
+
+- `back`:
+    - `be back` = back home;
+    - для движения назад к чему-то = back to a place, a person, ...:
+        > After eating at a restaurant, we **walked back** to our hotel.
+    - `wave` / `smile` / `shout` / `write` + `back` = reciprocally do same;
+    - `hit` + `<somebody>` + `back` = reciprocally do same;
+    - `call` / `phone` / `ring` + (`<somebody>`) + `back` = return a phone call;
+    - `get` + `back` + `to` + `<somebody>` = reply to them by phone, ...;
+    - `look` + `back` + (`on` + `<something>`) = think about what happened in the past:
+        > My first job was in a travel agency. I didn't like it very much at the time but, **looking back on** it, I learnt a lot and it was a very useful experience.
+    - `pay` + `back` + money = return money;
+    - `pay` + `<somebody>` + `back` = return money to somebody.
 
 ## Модальные глаголы
 
@@ -840,6 +1061,7 @@ Verb                                                    | Preposition
     - `can't have` + `<verb>`(`-ed` / III form):
         - аналогично `can't`, только для прошлого:
             > Sue hasn't contacted me. She can't have got my message.
+
 - `could` + `<verb>`:
     - прошедшая форма `can`:
         > I **could hear** something.
@@ -858,6 +1080,7 @@ Verb                                                    | Preposition
             > The trip was cancelled last week. Paul **couldn't have gone** anywawy because he was ill. (= it would not have been possible for him to go)
     - в некоторых ситуациях обозначает: `would be able to` / `was/were able to`:
         > You **could** get a better job if you **could** use a computer.
+
 - `may` / `might` + `<verb>`:
     - значит что, что-то возможное (`perhaps`), аналогично `could`:
         > It **may** be true. (= perhaps it is true)  
@@ -880,10 +1103,13 @@ Verb                                                    | Preposition
             > She **might not have known** about it.
     - `might` - используется для ситуаций, которые не реальны:
         > If I were in Tom's position, I **might** look for another job. (= because I am not in Tom's position)
+
 - `may` + `<verb>`:
     - значит **мочь** в смысле **иметь разрешение**;
+
 - `might` + `<verb>`:
     - прошедшая форма `may`;
+
 - `must` + `<verb>`:
     - для указания того, что кто-то верит во что-то очень сильно:
         > You're been travelling all day. You **must be** tired.
@@ -891,6 +1117,7 @@ Verb                                                    | Preposition
     - `must have` + `<verb>`(`-ed` / III form):
         - аналогично `must`, только для прошлого:
             > I didn't hear the phone. I **must have been** asleep.
+
 - `would` (`'d`) (`wouldn't`) + `<verb>`:
     - для воображаемых ситуаций или действий или когда мы думаем о чем-то что не может быть реальным:
         > I **would phone** Sue, but I haven't got her number.
@@ -1055,6 +1282,11 @@ Verb                                                    | Preposition
 
 Описывают глаголы, другие наречия или прилагательные. Ставятся после глаголов.
 
+Если глагол это причастие второго рода, то наречие ставится перед ним:
+> Two people were **seriously injured** in the accident.
+
+Также прилагательное распологается после наречия.
+
 Наречия, которые выражают частоту времени (`sometimes`, `often`, `usually` и др.) обычно располагаются:
 1. Перед главным смысловым глаголом, между субъектом и предикатом:  
     `<субъект>` + `<наречие>` + `<предикат>` + `<остальное>`
@@ -1097,68 +1329,101 @@ Verb                                                    | Preposition
 
 Описывают существительные. Имеют одинаковую форму для единственного и множественного числа. Ставятся перед существительным. А также могут использоваться после глагола `to be` и глаголов таких как: `look`, `smell`, `sound`, `feel`, `taste` и подобных.
 
-Прилагательные, которые оканчиваются на `-ing` (`interesting`, `amazing`), используются для описания, чего-то, что кому-то или чему-то нравиться:
+Прилагательные, которые оканчиваются на `-ing` (`interesting`, `amazing`), используются для описания людей или вещей, которые воздействуют на других и делают их такими же (`-ed`):  
+`If` + `<somebody>` / `<something>` + `is` + `<adjective>`(`-ing`) + `,` + `<somebody_else>` / `<something_else>` + `makes` + `<somebody>` / `<something>` + `<adjective>`(`-ed`):
+> If something is **boring**, it makes you **bored**.  
 > The film was **boring**. She is a very interesting person.
 
-Прилагательные, которые оканчиваются на `-ed` (`interested`, `amazed`), используются для описания, того, как кто-то чувствует что-то:
+Прилагательные, которые оканчиваются на `-ed` (`interested`, `amazed`), используются для описания, того, когда кто-то или что-то воздействовало на них и сделало таким же (`-ing`):  
+`<somebody>` / `<something>` + `is` + `<adjective>`(`-ed`) + `if` `<somebody_else>` / `<something_else>` + `is` + `<adjective>`(`-ing`):
+> Somebody is **bored** if something else is **boring**.  
 > The children were **terrified** when they heard the thunder.
 
 ### Порядок прилагательных
 
 Прилагательные располагаются в следующем порядке - прилагательные которые выражают собственное мнение (**opinion**) (`beautiful`, `lovely`, `great`, `expensive` и подобные) и которые выражают фактическую информацию (**fact***) о ком-то или о чем-то, в указаном порядке:
-1. Размер (**size**) - `small`, `big`, `short`, `long`, etc;
+1. Размер (**size**) и длина (**long**) - `small`, `big`, `short`, `long`, etc;
 2. Возраст (**age**) - `old`, `young`, etc;
-3. Форма (**shape**) - `triangular`, `round`, `rectangular`, `square`, etc;
+3. Форма (**shape**) и ширина (**width**) - `triangular`, `round`, `rectangular`, `square`, etc;
 4. Цвет (**colour**) - `dark / light blue`, `yellow`, `pink`, `cream`, etc;
 5. Происхождение (**origin**) - `oriental`, etc.
 6. Материал (**material**) - `cotton`, `wooden`, `woollen`, `gold`, etc.
 7. Назначение (**purpose**) - `riding`
 
-Прилагательные обычно разделяются запятыми.
-
-> an expensive, red, leather suitcase
+Прилагательные обычно разделяются запятыми, но два или более цветов соединяются через `and`:
+> an expensive, red, leather suitcase  
+> a red, white and green flag
 
 Мнемоническое правило для запоминания:  
 **op**inion + **s**ize + **a**ge + **sh**ape + **c**olour + **o**rigin + **m**aterial = **opsashcom** (*опсашком*)
 
-### Сравнение
+## Сравнение наречий и прилагательных
 
-.                  | Adjective         | Comparative form          | Superlative form
------------------- | ----------------- | ------------------------- | --------------------
-Вопрос             | `какой?` / `как?` | `как?`                    | `самый какой?` / `как?`
-Одно-, двусложные  | `<adj>`           | `<adj>-er` (`than`)       | `the` + `<adj>-est` (`in` / `of`)
-.                  | big               | bigger than               | the biggest in
-Двусложные и более | `<adj>`           | `more` + `<adj>` (`than`) | `the most` + `<adj>` (`in` / `of`)
-.                  | comfortable       | more comfortable than     | the most comfortable of
-Исключения         | good / well       | better                    | the best
-.                  | bad / badly       | worse                     | the worst
-.                  | much / many       | more                      | the most
-.                  | little            | less                      | the least
-.                  | far               | farther / further         | the farthest / furthest
-.                  | old               | elder                     | the eldest
+.                  | Adjective / Adverb | Comparative form          | Superlative form
+------------------ | ------------------ | ------------------------- | --------------------
+Вопрос             | `какой?` / `как?`  | `как?`                    | `самый какой?` / `как?`
+Одно-, двусложные  | `<adj>`            | `<adj>-er` (`than`)       | `the` + `<adj>-est` (`in` / `of`)
+.                  | big                | bigger than               | the biggest in
+Двусложные и более | `<adj>`            | `more` + `<adj>` (`than`) | `the most` + `<adj>` (`in` / `of`)
+.                  | comfortable        | more comfortable than     | the most comfortable of
+Исключения         | good / well        | better                    | the best
+.                  | bad / badly        | worse                     | the worst
+.                  | much / many        | more                      | the most
+.                  | little             | less                      | the least
+.                  | far                | farther / further         | the farthest / furthest
+.                  | old                | elder                     | the eldest
 
-Если двусложное прилагательное заканчивается на `ly`, `y`, `w`, то к ним также добавляется `er` и `est`:
+Если двусложное прилагательное или наречие заканчивается на `ly`, `y`, `w`, то к ним также добавляется `er` и `est`:
 > heavy - heavier - the heaviest
 
-Если прилагательное заканчивается на `y`, то `y` преобразуется в `i`, и тогда будет:
+Если прилагательное или наречие заканчивается на `y`, то `y` преобразуется в `i`, и тогда будет:
 - `y` + `er` -> `ier`;
 - `y` + `est` -> `iest`.
 > happy - happier - the happiest
 
-Если прилагательное оканчивается согласной и ей предшествует краткий гласный звук, то она удваивается.
+Если прилагательное или наречие оканчивается согласной и ей предшествует краткий гласный звук, то она удваивается.
 > big - bigger - the biggest
 
-Использование:
-- **Comparative form** (сравнительная степень) используется для сравнения двух людей, вещей, мест и т.п. Обычно используется `than` после сравнительного прилагательного;
-    > Sue's skirt is **longer than** Mary's.
-- **Superlative form** (превосходная степень) используется для сравнения человека, вещи, местности с целой группой, к которой они принадлежат. Обычно используется `in` (в качестве *где*) / `of` (в качестве *среди всего рода*) после превосходного прилагательного;
-    > Pluto is **the coldest planet in** our solar system.
-- Для указания (не) похожести двух людей, вещей, мест используется конструкция: `(not) as <adj> as`;
-    > Tom is **as tall as** Peter.
-- Для указания сравнения в меньшую степень двух людей, вещей, мест используется конструкция: `less <adj> than`;
-    > The green jacket is **less expensive** than the yellow jacket.
-- Для указания сравнения в большую степень двух людей, вещей, мест используется конструкция: `much <comparative_form> than`;
-    > This tie is **much longer** than one.
+`even` - `даже` может использоваться перед:
+> I got up very early, but Jack got up **even earlier**.
+
+### Использование
+
+**Comparative form** (сравнительная степень) используется для сравнения двух людей, вещей, мест и т.п. Обычно используется `than` после сравнительного прилагательного или наречия:
+> Sue's skirt is **longer than** Mary's.
+
+**Superlative form** (превосходная степень) используется для сравнения человека, вещи, местности с целой группой, к которой они принадлежат. Обычно используется `in` для организаций или групп людей или `of` для периода времени, после превосходного прилагательного или наречия:
+> Pluto is **the coldest planet in** our solar system.
+
+Для указания (не) похожести двух людей, вещей, мест используется конструкция: `(not) as <adjective> as` или `(not) so <adjective> as`:
+> Tom is **as tall as** Peter.
+
+Для указания сравнения в меньшую степень двух людей, вещей, мест используется конструкция: `less <adjective> than`, что подобно конструкции `not as <adjective> as`:
+> The green jacket is **less expensive** than the yellow jacket.
+
+Для указания сравнения в большую степень двух людей, вещей, мест используется конструкция: `much <comparative_form> than`:
+> This tie is **much longer** than one.
+
+Перед **comparative form** (сравнительная степень) могут использоваться конструкции для усиления или уменьшения сравнения: `much` / `a lot` / `far` (= a lot) / `a bit` / `a little` / `slightly` (= a little):
+> Don't go by train. It's **a lot more expensive**.
+
+Конструкция: `no` + `<comparative_form>` - используется для отрицания:
+> We expected their house to be very big, but it's **no bigger** that ours.
+
+Конструкция: `any` + `<comparative_form>` - используется для усиления в значении "чуть-чуть":
+> How do you feel now? Do you feel **any better**?
+
+Конструкция: `<comparative_form>` + `and` + `<comparative_form>` - для одно-, двусложных и `more and more` + `<comparative_form>` для двусложных и более - используется для выражения того, что что-то меняется постоянно:
+> Your English is improving. It's getting **better and better**.
+
+Конструкция: `the` + `<comparative_form>` + ... + `the better` - используется для предпочтения:
+> When you are travelling, **the less luggage** you have **the better**.
+
+Конструкция: `the` + `<comparative_form>` + ... + `the` + `<comparative_form>` - используется для указания того, что одна вещь зависит от другой - (`чем ... чем ...`):
+> **The warmer** the weather, **the better** I feel.
+
+Конструкция: `the same` + ... + `as` - используется для указания равенства в сравнении:
+> David is **the same** age **as** James.
 
 Времена
 =======
@@ -1992,7 +2257,9 @@ object  | a cake | by Susan
 > What are they making?  
 > What bridge do you see?
 
-Вопросительные слова используются с предлогами, которые занимают место в самом конце предложения (но перед обстоятельством времени при его наличии) или в самом начале (намного реже).
+Вопросительные слова используются с предлогами, которые занимают место в самом конце предложения (но перед обстоятельством времени при его наличии) или в самом начале для вопроса `whom`:
+> **Which** job has Ann applied **for**?  
+> **To whom** do you wish to speak?
 
 Слова `what` / `which` в значении `какой` ставятся на первое место вместе с существительными, к которым относятся.
 
@@ -2030,7 +2297,7 @@ object  | a cake | by Susan
 - `<отриц._предложение>` + `<первый_вспом._или_модал._глагол>` + `<местоимение_заменяющее_подлежащее>` + ? - используются в просьбах о вещах или информации, или просьбы кого-то сделать что-то:
     > "You haven't got a pen, **have you**?" - "Yes, here you are"
 
-Если не первого вспомогательного глагола или модального глагола, то используется вместо него `do` в нужном времени и форме для 3-го лица ед.ч.
+Если нет первого вспомогательного глагола или модального глагола, то используется вместо него `do` в нужном времени и форме для 3-го лица ед.ч.
 
 При этом переходят:
 - императивная форма глагола - `will` / `won't` + `you`;
@@ -2132,12 +2399,20 @@ object  | a cake | by Susan
     > She exhibited her work in Paris **too**.
 - `but` - `но` используется для выражения противопоставления:
     > The perfomance was good,**but** few people came.
-- `although` / `though` / `even though` - `хотя` / `несмотря на` / `даже не смотря на` - используется для выражения удивительного контраста между предложениями:
-    > **Even thiugh** rescue teams had been searching the lost climbers all night, they couldn't find any trace of them.
+- `although` / `though` - `хотя` / `несмотря на` + `<subject>` + `<verb>` - используется для выражения контраста между предложениями:
+    > **Although it rained** a lot, we enjoyed our holiday.
 - `though` - `однако` - используется для выражения контраста между предложениями, ставится либо в начале, либо в конце предложения:
     > Vets tried hard to save my poppy. He died, **though**.
-- `despite` / `in spite of` + `<наречие>` / `<существительное>` / `<verb>`(`-ing`) - `несмотря на` - используется для выражения удивительного контраста между предложениями:
-    > The weather held out, **despite** some dark clouds.
+- `even though` / `even when` / `even if` + `<subject>` + `<verb>` - `даже не смотря на` - используется для того, чтобы указать что что-то произойдет не смотря на указанную причину:
+    > **Even though she can't** drive, she has bought a car.  
+    > **Even though** rescue teams had been searching the lost climbers all night, they couldn't find any trace of them.
+- `despite` / `in spite of` + `<наречие>` / `<существительное>` / `<verb>`(`-ing`) - `несмотря на` - используется для выражения контраста между частями предложениямя:
+    > The weather held out, **despite** some dark clouds.  
+    > I couldn't sleep **despite** being very tired.
+
+    - `despite` / `in spite of` + `the fact` + (`that`):
+        > I didn't get the job **in spite of the fact (that)** I had the necessary qualifications.
+
 - `although` / `while` / `whilst` / `whereas` - `несмотря на то, что` - используется для выражения конфликта между главным предложением и подчиненным:
     > **Whilst** investigators didn't find any evidence of Mr. Clark's involvement in hijacking, he was inprisoned.
 - `although, in spite of fact` / `notwithstanding` - `хотя, несмотря на то, что` / `несмотря на то, что` - используется для выражения контраста между частями предложения:
@@ -2187,8 +2462,8 @@ object  | a cake | by Susan
     `not ... until` / `not ... till` = `not ... before`
 - `by` + `<временное_наречие>` - `к ...` (не позже чем наступит `<временное_наречие>`):
     > I have to be back **by** Tuesday evening. (no later than Tuesday evening)
-- `while` / `as` + `<предложение>` - `пока ...` (пока `<предложение>` происходило):
-    > The earthquake occured **while** / **as** the were sleeping.
+- `while` / `(just) as` + `<предложение>` - `пока ...` / `(именно) в то время как ...` (пока `<предложение>` происходило):
+    > The earthquake occured **while** / **as** they were sleeping.
 - `during` + `<временное_наречие>` - `пока ...` (пока `<временное_наречие>` происходило):
     > The earthquake occured **during** the night.
 - `no sooner ... than` / `hardly ... when` - `едва ... как` (используется для указания что одно действие случилось сразу же за другим действием), при этом главное предложение используется во времени **Perfect**:
@@ -2198,21 +2473,72 @@ object  | a cake | by Susan
 
 ## Придаточные предложения (`Clauses`)
 
+### Относительные
+
+Используются для описания людей или вещей. Используются относительные предложения для определения или дополнения существительных в главном предложении. При этом глагол после относительного слова идет в том роде для которого заменяется слово. Вводятся конструкциями:
+- `who` / `that` - `кто` / `который` - для обозначения людей:
+    > The woman **who lives next door** is a doctor.
+- `which` / `that` - `что` / `который` - для обозначения вещей:
+    > I don't like stories **which have unhappy endings**.
+
+    - `what` = `the thing(s) that`:
+        > Did you hear **what they said**? (= the things that they said)
+    - `which` - `что`:
+        > Sarah couldn't meet us, **which** was a pity.
+
+- `whose` - `чей` / `чья` - для обозначения принадлежности кому-то:
+    > A widow is a woman **whose husband is dead**.
+- `whom` - `кто` - для обозначения людей, только когда относительное предложение выступает в роли объекта, и редко используется в разговорной речи:
+    > The people **with whom I work** are very nice.
+- `where` - `где` - для обозначения места:
+    > The restaurant **where we had dinner** was near the airport.
+- `<время> that` - `когда` - для обозначения конкретного времени или периода:
+    > Do you remember **the day (that) we went to the zoo**?
+- `<verb>`(`-ing`) - используется для того, чтобы сообщить, что описываемый кто-то или что-то делает самостоятельно определенной или постоянное время, используется в качестве описания описываемого:
+    > Police **investigating the crime** are looking for three men. (police **are investigating** the crime)  
+    > The road **connecting two villages** is very narrow. (the road **connects** two villages)
+- `<verb>`(`-ed` / III form) - используется для того, чтобы сообщить, что с описываемым кем-то или чем-то происходит что-то (в качестве пассивного значения), используется в качестве описания описываемого:
+    > The boy **injured in the accident** was taken to hospital. (the boy **was injured** in the accident)
+
+Если относительное предложение выступает в роли объекта, то `who` / `which` / `that` могут опускаться:
+> **The woman** (who) I wanted to see was away.
+
+Предлог для относительного слова используются после сказуемого в относительном предложении:
+> I met someone whose brother I went to school **with**.
+
+Для слов `whom` / `which` предлог может употребляться перед ними, а не после сказуемого в относительном предложении:
+> Fortunately we had a map, **without which** we would have hot lost.
+
+Конструкции `<verb>`(`-ing`) и `<verb>`(`-ed` / III form) часто используются после оборота `there is`:
+> **There were** some children **swimming** in the river.
+
+Перед словами `whom` / `which` могут употребляться предлоги `none of` / `neither of` / `any of` / `either of` / `some of` / `many of` / `much of` / `(a) few of` / `both of` / `half of` / `each of` / `one of` и т.д., а также `the cause of` / `the name of` и т.д.:
+> The building was destroyed in a fire, **the cause of which** was never established.
+
+Если относительное предложение используется, не как определение или дополнение к существительному, а предоставляет дополнительную информацию, то оно выделяется запятыми и относительные слова не могут опускаться:
+> My brother Rob, **who lives in Australia**, is a doctor.
+
+#### Garden-path sentences
+
+Это ситуация при которой в конструкции `<subject>` + `that` + `<дополнение_начинающееся_глаголом>` + `<verb>` опускают слово `that`.
+> The horse (that) raced past the barn fell.  
+> The florist (that) sent the flowers was pleased.
+
 ### Результата
 
 Используются для выражения результата чего-то. Вводятся конструкциями:
 - `so` - `так что`:
     > I was tured, **so** I went to bed early.
-- `such` + `a` / `an` + `<прилагательное>` + `<единственное_исчисляемое_существительное>` (`that`):
+- `such` + `a` / `an` + `<прилагательное>` + `<единственное_исчисляемое_существительное>` + (`that`):
     > She is **such a nice girl** (that) everybody likes her.
-- `such` + `<прилагательное>` + `<множественное_или_неисчисляемое_существительное>` (`that`):
+- `such` + `<прилагательное>` + `<множественное_или_неисчисляемое_существительное>` + (`that`):
     > It was **such hot weather** (that) we went swimming.
-- `such a lot of` + `<множественное_или_неисчисляемое_существительное>` (`that`):
+- `such a lot of` + `<множественное_или_неисчисляемое_существительное>` + (`that`):
     > They gave me **such a lot of presents** (that) I couldn't carry them home.
-- `so` + `<прилагательное>` / `<наречие>` (`that`):
+- `so` + `<прилагательное>` / `<наречие>` + (`that`):
     > She is **so clever** (that) everyone admires her.
-- `so` + `much` / `little` + `<неисчисляемое_существительное>` (`that`);
-- `so` + `many` / `few` + `<множественное_существительное>` (`that`);
+- `so` + `much` / `little` + `<неисчисляемое_существительное>` + (`that`);
+- `so` + `many` / `few` + `<множественное_существительное>` + (`that`);
 - `as a result` / `therefore` / `consequently` - `в результате` / `следовательно` (`поэтому`) / `как следствие`, может начинать новое вводное предложение:
     > Certain species of animals are being killed for their fur and **as a result** / **therefore** / **consequently** they are becoming extinct.
 
@@ -2225,7 +2551,7 @@ object  | a cake | by Susan
     > I went to bed early **because** I was tired.
 - `the reason for` + `<существительное>` / `<verb>`(`-ing`) - `причина ...`:
     > **The reason for her delay** was (the fact) that she had missed the train.
-- `the reason why` + `<придаточное_предложение>` - `причина почему ...`:
+- `the reason` + `why` / `that` + `<придаточное_предложение>` - `причина почему ...`:
     > **The reason why she was** delayed (the fact) that she had missed the train.
 - `because of` / `due to` / `owing to` + `<существительное>` - `по причине ...`:
     > They came home late **because of the traffic**.  
@@ -2248,18 +2574,19 @@ object  | a cake | by Susan
 - `so that` + `<существительное>` + `won't` / `wouldn't` - `для того чтобы ... не`, когда выражают предположение:
     > I hurried **so that** I **wouldn't** be late. (= because I didn't want to be late)
 - `in order that` / `as so that` + `<существительное>` + `can` / `will` / `could` / `would` (formal) - `так что ... может` / `для того чтобы ... может`;
-- `in case` + `<придаточное_предложение>` (present or past) - `в случае ...`:
-    > Take a map **in case** you get lost.
+- `(just) in case` + `<придаточное_предложение>` (present or past) - `в случае ...` - используется для того, чтобы объяснить почему кто-то делает что-то (`just` - уменьшает вероятность наступления события). Кто-то делает что-то сейчас **в случае** если что-то случится позже. Для прошлого времени объясняет зачем или почему кто-то сделал что-то:
+    > We'll buy some more food **in case** Tom comes.  
+    > I left my phone switched on **in case** Jane called.
 - `for` + `<существительное>` - `для ...`, когда выражают цель действия:
     > They went to an Indian restaurant **for dinner**.
 - `for` + `<verb>`(`-ing`) - `для ...`, когда выражают цель или функцию чего-то:
     > We use an axe **for chopping** wood.
 
-### `-ing`
+### `-ing` clauses
 
 Используются:
 - (`when` / `while`) + `<verb>`(`-ing`) - для указания того что две вещи происходили в одно и то же время:
-    > Kate is in the kitchen **making** coffee. (=  she is in the kitchen and she is making coffee)
+    > Kate is in the kitchen **making** coffee. (= she is in the kitchen and she is making coffee)
 - `having` + `<verb>`(`-ed` / III form) - для указания того что одно действие произошло до другого, для коротких действий может использоваться конструкция `<verb>`(`-ing`):
     > **Having found** a hotel, we looked for somewhere to have dinner.  
     > **Taking** a key out of his pocket, he opened the door.
@@ -2267,6 +2594,9 @@ object  | a cake | by Susan
     > **After finishing** her work, she went home.
 - `<verb>`(`-ing`) - для объяснения зачем кто-то делает что-то, при этом распологается в начале предложения:
     > **Not having** a car, she finds it difficult to get around.
+
+Если располагается вначале предложения, то отделяется запятой:
+> **Feeling tired**, I went to bed early.
 
 ## Предпочтение
 
@@ -2284,7 +2614,7 @@ object  | a cake | by Susan
             > I **prever to drive rather that travel** by train.
 
 - для указания предпочтений в определенной ситуации: `would prefer` + `to-<verb>`:
-    > I **prefer to drive**.
+    > Shall we go by train? - I **would prefer to drive**.
 
 - для указания предпочтений между чем-то и чем-то в определенной ситуации:
     - между какими-то вещами: `would prefer` + `<something>` + `to` + `<something_else>`:
@@ -2298,7 +2628,7 @@ object  | a cake | by Susan
 - `would rather` + `<verb>` + `<something>` + `that` + `<verb>` + `<something_else>` аналогично `would prefer` + `to-<verb>` + `<something>` + `rather that` + (`<verb>`) + `<something_else>`:
     > I **would rather stay** at home tonight **than go** to the cinema.
 
-- конструкция `<somebody>` + `would rather` + `<somebody>` + `<verb>`(`-ed` / II form) - `<кто-то> (бы) предпочел, чтобы <кто-то> ...`, используется когда необходимо выразить мысль, которая хочет чтобы кто-то сделал что-то в настоящем или будущем. Переводится настоящим или будущем временем.
+- конструкция `<somebody>` + `would rather` + `<somebody>` + `<verb>`(`-ed` / II form) - `<кто-то> (бы) предпочел, чтобы <кто-то> ...`, используется когда выражают предпочтение, о том чтобы кто-то сделал что-то в настоящем или будущем. Переводится настоящим или будущем временем.
     > **I would rather you** didn't go there alone. - Я бы предпочел, чтобы ты не ходил туда в одиночку.  
     > I **would rather you didn't tell** anyone what I said.
 
@@ -2344,7 +2674,11 @@ object  | a cake | by Susan
     Ключевые слова:
     - `If` - когда условие показывает что мы **не уверены** в том что условие сбудется;
     - `When` - когда условие показывает что мы **уверены** в том что условие сбудется;
-    - `Unless` - `If` + `not`.
+    - `Unless` = `except if` - `если только` - можно заменить на `if ... not`:
+        > I'll see you tomorrow **unless* I have to work late. (= except if I have to work late)
+
+        - `not unless` = `only if` - `только если`:
+            > Shall I tell Liz what happened? - **Not unless** she asks you. (= only if she asks you)
 
     `<Future_Form>` - также может состоять из:
     - `<Present_Form>`, которая начинается с модального глагола.
@@ -2380,8 +2714,14 @@ object  | a cake | by Susan
     - `If` + `<Past_Perfect>` + `,` + `<subject>` + `would` / `could` + `have` + `<verb>`(`-ed` / III form);
     > **If Charlie had left** the house earlier, he **wouldn't have been late** for work. - Если бы Чарли вышел раньше из дому, то он не опоздал бы на работу.
 
-    - `If` + `<Past_Perfect>` + `,` + `<subject>` + `would` / `could` / `might` + `<Bare_Infinitive>` для указания того, что если ыб случилось что-то в прошлом, то результат был бы сейчас:
+    - `If` + `<Past_Perfect>` + `,` + `<subject>` + `would` / `could` / `might` + `<Bare_Infinitive>` для указания того, что если бы случилось что-то в прошлом, то результат был бы сейчас:
     > **If I had gone** to the party last night, **I would be** tired now. (I am not tired now)
+
+Конструкция: `in case of` + `<существительное>` обозначает `if there if` + `<существительное>` - `в случае`:
+> **In case of fire**, please leave the building as quickly as possible.
+
+Конструкции: `as long as` / `so long as` / `provided (that)` / `providing (that)` обозначают `if` или `on condition that`:
+> You can borrow my car **as long as** you promise not to drive too fast.
 
 ## Инвертированое условное предложение
 
@@ -2418,7 +2758,7 @@ object  | a cake | by Susan
     - `at night`;
     - `at midnight`.
 
-Предлог `in` употребляется:
+Предлог `in` употребляется для длинных периодов времени:
 - когда указывают только **месяцы**:
     > **in** September  
     > **in** March
@@ -2429,16 +2769,19 @@ object  | a cake | by Susan
     > **in** 1996
 - когда указывают только **века**:
     > **in** the 20th century
+- когда указывают **интервал**:
+    > **in** four weeks
 - **в выражениях**:
     - `in the morning` / `in the afternoon` / `in the evening`;
     - `in an hour` / `in a minute` / `in a week` / `in a few days` / `in a month` / `in a year` - в этом контексте обозначает через.
 
 Предлог `on` употребляется:
-- когда указывают **дни**:
+- когда указывают **дни**, в разговорном перед днями недели можно опускать предлог `on`:
     > **on** Monday  
     > **on** New Year's Day
 - когда указывают **даты**:
-    > **on** May 6th
+    > **on** May 6th  
+    > **on** 16 May 1999
 - когда указывают **части суток конкретного дня**:
     > **on** Tuesday evening
 - когда указывают **прилагательное** + `day`:
@@ -2450,37 +2793,99 @@ object  | a cake | by Susan
 - перед словами: `this`, `last`, `next`, `every`, `all`, `some`, `each`, `one` или `any`:
     > Let's go to the cinema next Saturday.
 
+### Конструкции
+
+`on time` = `punctual` / `not late` - `точно`, `во время`:
+> The 11.45 train left **on time**. (= it left at 11.45)
+
+`late` - антоним `on time` - `поздно`:
+> Be on time. Don't be **late**.
+
+`in time` + (`for <something>` / `to <verb> <something>`) = `soon enough` - `достаточно скоро ...`:
+> I'm in a hurry. I want to be home **in time to see** the game on television. (= soon enough to see the game)
+
+`too late` - антоним `in time` - `слишком поздно`:
+> I got home **too late** to see the game on television.
+
+`just in time` = `almost too late` - `как раз вовремя`:
+> We got to the stantion **just in time** for our train.
+
+`at the end` + `of` + `<something>` = `at the time when <something> ends` - `в конце ...`:
+> I'm going away **at the end of January**.
+
+`at the beginning` + (`of` + `<something>`) = `at the time when <something> starts` - `в начале ...`:
+> I'm going away **at the beginning of January**.
+
+`in the end` = `finally` - `в конце (концов)`:
+> He got more and more angry. **In the end** he just walked out of the room.
+
+`at first` - `в начале`:
+> **At first** we didn't get on very well, but in the end we became good friends.
+
 ## Предлоги места
 
 Предлоги места употребляются для указания местонахождения:
 - `under` - `под` - указывает на нахождение под объектом;
-- `in front of` - `перед` - указывает на прямое нахождение перед объектом;
 - `behind` - `позади` / `за` - указывает на прямое нахождение за объектом;
 - `beside` / `next to` - `сбоку` - указывает на нахождение сбоку (рядом) объекта;
+- `by` = `beside`
 - `near` - `рядом` - указывает на нахождение рядом с объектом;
 - `between` - `между` - указывает на место между двумя объектами;
 - `among` - `среди` - указывает на место среди трех и более объектов;
 - `over` - `над` - указывает на нахождение над объектом не касаясь его;
-- `at` - `среди` - указывает на нахождение рядом с объектом, а также:
+- `at` - `среди` / `рядом` - указывает на нахождение рядом с объектом, а также:
     - в выражениях:
-        - `at school` / `at university` / `at college`;
-        - `at work` / `at home`;
-        - `at the top of ...` / `at the bottom of ...`.
+        - `at the top of ...` / `at the bottom of ...` / `at the end of ...`;
+        - `at the station` / `at the airport`.
+    - когда кто-то находится:
+        - `at work` / `at home` / `at school` / `at university` / `at college`;
+        - `at sea` = `on a voyage`.
+    - когда кто-то находится на событие:
+        - `at a party` / `at a concert` / ....
+    - когда кто-то находится в чьем-то доме:
+        > I was **at Sue's house** last night.
+    - когда используется со зданиями в которых происходит какое-то событие:
+        > We went to a concert **at the Royal Festival Hall**.
     - с адресами, когда указан номер дома:
         > at 20, Oxford Street
+    - когда используются города, деревни и т.п. в качестве точки или станции путешествия:
+        > We stopped **at a small village** on the way to London.
+
 - `in` - `в` - указывает на нахождение в каком-то объекте, а также:
     - в выражениях:
-        - `in the middle` / `in the air` / `in the sky`;
-        - `in bed` / `in hospital` / `in prison`;
-        - `in a newspaper` / `in a magazine` / `in a picture`.
+        - `in a line` / `in a row` / `in a queue`;
+        - `in the middle` / `in the air` / `in the sky` / `in the world`;
+        - `in the country` / `in the countryside`;
+        - `in an office` / `in a department`;
+        - `in a photograph` / `in a picture`;
+        - `in a book` / `in a (news)paper` / `in a magazine` / `in a letter`;
+        - `in a car` / `in a taxi`.
+    - когда кто-то находится:
+        - `in bed` / `in hospital` / `in prison`.
+    - когда используется со зданиями в общем значении здания:
+        > It's always cold **in Sue's house**. The heating doesn't work very well.
     - с названиями городов, стран и континентов:
         > in Athens
     - с названиями улиц:
         > in Oxford Street
+
 - `on` - `на` - указывает на нахождение на каком-то объекте, а также:
     - в выражениях:
         - `on the left` / `on the right`;
-        - `on the first` / `second` / ... `floor`.
+        - `on the left-hand side` / `on the right-hand side`;
+        - `on the gound` / `on the first` / `second` / ... `floor`;
+        - `on a map` / `on a menu` / `on a list`;
+        - `on a farm`;
+        - `on the way`;
+        - `on a bus` / `on a train` / `on a plane` / `on a ship` / `on (motor)bike` / `on a horse`.
+    - когда место находится:
+        - `on a river` / `on a road` / `on a coast`.
+
+- `in the front` / `in the back` + `of a car` - для указания расположения в машине;
+- `at the front` / `at the back` + `of` + `a building` / `a theatre` / `a group of people` / ... - для указания расположения в помещении, групп ...;
+- `on the front` / `on the back` + `of` + `a letter` / `a piece of paper` / ... - для указания расположения на бумаге;
+- `in the corner` + `of a room` - для указания расположения в комнате;
+- `at` / `on` + `the corner` + `of a street` - для указания расположения на улице.
 
 ## Предлоги движения
 
@@ -2489,14 +2894,289 @@ object  | a cake | by Susan
 - `along` - `вдоль` - указывает на направление вдоль объекта;
 - `across` - `через` - указывает на направление через объект, пересекая его при этом;
 - `up` / `down` - `в` / `на` / `с` - указывает на направление поднятие на / спуска с объекта;
-- `into` - `в` / `внутрь` - указывает на направление внутрь объекта;
-- `out of` - `из` / `наружу` - указывает на направление наружу из объекта;
+- `into` = `enter` - `в` / `внутрь` - указывает на направление движения внутрь объекта:
+    - с некоторыми глаголами (особенно `go`, `get`, `put`) может использоваться `in`:
+        > She **got in** the car and drove away.
+- `out of` - `из` / `наружу` - указывает на направление движения наружу из объекта;
 - `round` - `вокруг` / `за` - указывает на направление за объект;
 - `onto` - `на` - указывает на направление на объект;
 - `through` - `сквозь` - указывает на направление сквозь объект;
 - `from` - `из` - указывает на направление из объекта;
-- `to` - `в` - указывает на направление в объект;
+- `to` - `в` / `на` - указывает на направление движения в место или на событие:
+    - используется с глаголами движения: `go`, `come`, `travel` и д.р.
+        > **return to** London
+    - `welcome` + (`<somebody>`) + `to`
+    - используется с существительными обозначающие движение: `journey`, `visit`, `my way` и д.р.
+        > **on my way to** the bank
+    - `get to` + `<somewhere>` - для указания достижения места:
+        > What time did they **get to** the party.
+        - исключение для глагола `arrive`:
+            - `arrive in` для городов и стран:
+                > They **arrived in** Spain a week ago.
+            - `arrive at` для других мест, зданий или событий:
+                > When did they **arrive at** the hotel?
 - `past` - `мимо` - указывает на направление мимо объекта.
+
+- `get` + `on` / `off` `a bus` / `a train` / `a plane` - используется вместо `into` / `out of`:
+    > She **got on** the bus and I never saw her again.
+
+## Другие случаи
+
+- `in`:
+    - `in the rain` / `in the sun` / `in the shade` / `in the dark` / `in bad weather` и д.р.:
+        > We sat **in the shade**. It was too hot to sit **in the sun**.
+    - `write` + `in ink` / `in biro` / `in pencil`:
+        > When you do the exam, you're not allowed to write **in pencil**.
+    - `write` + `in words` / `in figures` / `in block capitals`:
+        > Write the story **in your own words**.
+    - `be` / `fall` + `in love` + (`with` + `<somebody>`):
+        > Have you ever been **in love with** anybody?
+    - `in` + (`my`) + `opinion`:
+        > **In my opinion**, the film wasn't very good.
+
+- `at`:
+    - `at` + `<величина>` - для указания какой-то величины:
+        > at the age of 16  
+        > at 120 miles an hour
+
+- `on`:
+    - `be` / `go` + `on` + `<событие>` - для указания нахождения в каком-то событии:
+        > I'm going **on holiday** next week.
+    - `on television` / `on the radio`;
+    - `on the (tele)phone`;
+    - `be` / `go` + `on strike`;
+    - `be` / `go` + `on diet`;
+    - `be` + `on fire`;
+    - `on the whole` = `in general`;
+    - `on purpose` = `intentionally`.
+
+- `for`:
+    - `go to` + `<somewhere>` + `for` + `<событие>` - для указания направления куда-то для события:
+        > Steve has gome to France **for a holiday**.
+
+- `by`:
+    - `by` + `<существительное>` - для выражения того, как делают что-то `кем?` / `чем?` (`с помощью`), при этом пред существительным не употребляется артикль:
+        > Can I pay **by credit card**?
+    - `by mistake` / `by accident` / `by chance` - `по` / `из-за`:
+        > I didn't intend to take your umbrella. I took it **by mistake**.
+    - `by` + `<средство_передвижения>` - для выражения того, как кто-то путешествует (`с помощью`) - в общем, при этом пред существительным не употребляется артикль:
+        - `by car` / `by train` / `by plane` / `by boat` / `by ship` / `by bus` / `by bike` и д.р.
+        - `by air` / `by road` / `by rail` / `by sea` / `by underground`;
+        - исключение `on foot`.
+    - `by` + `<кто-то>` - для указания того, что это относится к кому-то (`кого?`):
+        > a novel **by Tolstoy**
+    - `by` + `<величина>` - для указания изменения на величину:
+        > Carl and Mike had a race over 200 meters. Carl won **by about three meters**.
+
+## Существительные и предлоги
+
+- `for`:
+    - `a cheque` + `for` (a sum of money);
+    - `a demand` / `a need` + `for`;
+    - `a reason` + `for`.
+
+- `of`:
+    - `an advantage` / `a disadvantage` + `of`:
+        - исключение `there is` + `an advantage` + `in` / `to` + `<verb>`(`-ing`).
+    - `a cause of`;
+    - `<something>` + `of`.
+
+- `in`:
+    - `an increase` / `a decrease` / `a rise` / `a fall` + `in` (prices).
+
+- `to`:
+    - `damage` + `to`;
+    - `an invitation` + `to`;
+    - `a solution` + `to` (a problem) / `a key` + `to` (a door) / `a answer` + `to` (a question) / `a reply` + `to` (a letter) / `a reaction` + `to`;
+    - `an attitude` + `to` / `towards`.
+
+- `with`:
+    - `a relationship` / `a connection` / `contact` + `with`.
+
+- `between`:
+    - `a relationship` / `a connection` / `contact` / `a difference` + `between` + `<two_subjects>`.
+
+## Прилагательные и предлоги
+
+- `of`:
+    - `nice` / `kind` / `good` / `generous` / `polite` / `stupid` / `silly` / ... + `of` + `<somebody>` + (`<verb>` + `<something>`) - для описания того, как сделано что-то для кого-то (часто преводится наречием вместо прилагательного):
+        > It is **stupid of me** to go out without a coat in such cold weather.
+    - `afraid` / `frightened` / `terrified` / `scared` + `of`;
+    - `fond` / `proud` / `ashamed` / `jealous` / `envious` + `of`;
+    - `suspicious` / `critical` / `tolerant` + `of`;
+    - `aware` / `conscious` + `of`;
+    - `capable` / `incapable` + `of`;
+    - `full` / `short` + `of`;
+    - `typical` + `of`;
+    - `tired` / `sick` + `of`;
+    - `certain` / `sure` + `of` / `about`;
+    - `independent` + `of`.
+
+- `to`:
+    - `be` + `nice` / `kind` / `good` / `generous` / `polite` / `stupid` / `rude` / `friendly` / `cruel` / ... + `to` + `<somebody>` - для описания отношения к кому-то:
+        > Why were you so **unfriendly** to Lucy?
+    - `married` / `engaged` + `to`;
+    - `similar` + `to`.
+
+- `from`:
+    - `different` + `from` / `to`.
+
+- `about`:
+    - `angry` / `annoyed` / `furious` + `about` + `<something>`;
+    - `excited` / `worried` / `upset` / `nervous` / `happy` / ... + `about` (a situation);
+    - `sorry` + `about` (a situation or something that happened).
+
+- `with`:
+    - `angry` / `annoyed` / `furious` + `with` + `<somebody>` + (`for` + `<verb>`(`-ing`) + `<something>`):
+        > Are you **annoyed with me for** being late?
+    - `delighted` / `pleased` / `satisfied` / `happy` / `disappointed` + `with` (something you receive, or the result of something):
+        > I was **delighted with** the present you gave me.
+    - `fed up` / `bored` + `with` + `<something>`;
+    - `impressed` + `with` / `by` + `<somebody>` / `<something>`;
+    - `crowded` + `with`.
+
+- `at`:
+    - `surprised` / `shocked` / `amazed` / `astonished` + `at` / `by` + `<something>`;
+    - `good` / `bad` / `brilliant` / `better` / `hopeless` / ... + `at` + `<something>`.
+
+- `for`:
+    - `sorry` + `for` / `about` (a something you did):
+        - `I am sorry ...`.
+    - `feel` / `be` + `sorry` + `for` (somebody who is in a bad situation);
+    - `famous` + `for`;
+    - `responsible` + `for`.
+
+- `in`:
+    - `interested` + `in`.
+
+- `on`:
+    - `keen` + `on`;
+    - `dependent` + `on`.
+
+## Глаголы и предлоги
+
+- `to`:
+    - `talk` / `speak` + `to` + `<somebody>`:
+        - `with` можно использовать вместо `to`.
+    - `listen` + `to`;
+    - `write` (a letter) + `to`;
+    - `apologise` + `to` + `<somebody>` + (`for`);
+    - `explain` + `<something>` + `to` + `<somebody>`;
+    - `explain` / `describe` + `to` + `<somebody>` + `what` / `how` / `why` / ...;
+    - `shout` + `to` + `<somebody>` (so that they can hear you);
+    - `throw` + `<something>` + `to` + `<somebody>` (for somebody to catch);
+    - `happen` + `to`;
+    - `invite` + `<somebody>` + `to` + a party / a wedding / ...;
+    - `prefer` + one thing / one person + `to` + another.
+
+- `at`:
+    - `look` / `stare` / `glance` + `at`;
+    - `have a look` / `take a look` + `at`;
+    - `laugh` + `at`;
+    - `aim` / `point` + (`<something>`) + `at`;
+    - `shoot` / `fire` (a gun) + `at`;
+    - `shout` + `at` + `<somebody>` (when you are angry);
+    - `throw` + `<something>` + `at` + `<somebody>` / `<something>` (in order to hit them).
+
+- `about`:
+    - `talk` / `read` / `know` + `about`;
+    - `tell` + `<somebody>` + `about`;
+    - `have a discussion` + `about` + `<something>`:
+        - исключение `discuss` + `<something>`.
+    - `do` + `<something>` + `about` + `<something>` = do something to improve a bad situation:
+        > If you're worried about the problem, you should **do** something **about** it.
+    - `care` + `about` + `<somebody>` / `<something>` = think that somebody / something is important:
+        - исключение `care` + `what` / `how` / `why` / ...
+    - `dream` + `about` (when you are asleep);
+    - `hear` + `about` = be told about something;
+    - `think` + `about` + `<something>` (when you consider it, you concentrate your mind on it);
+    - `remind` + `<somebody>` + `about` = tell somebody not to forget;
+    - `complain` + (`to` + `<somebody>`) + `about` = say that you are not satisfied;
+    - `warn` + `<somebody>` + `about` (for person or thing which is bad, dangerous, unusual, ...);
+    - `warn` + `<somebody>` + `about` / `of` (for a danger, something bad which might happen later).
+
+- `for`:
+    - `care` + `for` + `<something>` = like something (часто в вопросах и отрицательных предложениях):
+        > I don't **care for** very hot weather. (= I don't like ...)
+    - `care` + `for` + `<somebody>` = look after somebody;
+    - `ask` + (`<somebody>`) + `for`:
+        - исключение `ask` + (`<somebody>`) + `the way`;
+        - исключение `ask` + (`<somebody>`) + `my name`.
+    - `apply` + (`to` + a person, a company, ...) + `for` + a job, ...:
+        > I think you'd be good at this job. Why don't you **apply for** it?
+    - `wait` + `for`;
+    - `search` + (a person, a place, a bag, ...) + `for` - обыскал (что-то) в поисках:
+        > I've **searched** the house **for** my keys, but I still can't find them.
+    - `leave` + (a place) + `for` + another place:
+        > I haven't seen her since she **left** (home) **for** the office this morning.
+    - `look` + `for` = search for, try to find;
+    - `pay` + (`<somebody>`) + `for`:
+        - исключение `pay` + a bill, a fine, rent, a sum of money, ...;
+    - `thank` / `forgive` + `<somebody>` + `for`;
+    - `apologise` + (`to` + `<somebody>`) + `for`;
+    - `blame` + `<somebody>` / `<something>` + `for`;
+    - `<somebody>` + `is to blame` + `for`:
+        > Everybody said that I **was to blame for** the accident.
+
+- `of`:
+    - `take care` + `of` = look after:
+        > Have a nice holiday. **Take care of** yourself! (= look after yourself)
+    - `dream` + `of` / `about` + `being` / `doing` + `<something>` = imagine;
+    - `wouldn't` + `dream` + `of` + `doing` + `<something>` = would never do it;
+    - `hear` + `of` = know that somebody / something exists;
+    - `think` + `of` + `<something>` (when idea comes to your mind or when you ask or give an opinion);
+    - `think` + `of` / `about` + `doing` + `<something>` (for possible future actions);
+    - `remind` + `<somebody>` + `of` = cause somebody to remember:
+        > This house **reminds me of** the one I lived in when I was a child.
+    - `complain` + `of` + a pain, an illness, ... = say that you have a pain, ...;
+    - `accuse` / `suspect` + `<somebody>` + `of`;
+    - `approve` / `disapprove` + `<somebody>` + `of`;
+    - `die` + `of` / `from` + an illness, ...;
+    - `consist` + `of`.
+
+- `after`:
+    - `look` + `after` = take care of.
+
+- `from`:
+    - `hear` + `from` = receive a letter, phone call or message from somebody:
+        > Have you **hear from** Jane recently? - Yes, she phoned a few days ago.
+    - `suffer` + `from` + an illness, ...;
+    - `protect` + `<somebody>` / `<something>` + `from` / `against`.
+
+- `on`:
+    - `blame` + (a problem, ...) + `on` - винят (в проблеме, ...):
+        > Everybody **blamed the accident on** me.
+    - `depend` / `rely` + `on`;
+    - `depend` + (`on`) + `when` / `where` / `how` / ...;
+    - `live` + `on` + money / food;
+    - `congratulate` / `compliment` + `<somebody>` + `on`;
+    - `concentrate` + `on`;
+    - `insist` + `on`;
+    - `spend` + (money) + `on`.
+
+- `in`:
+    - `belive` + `in`:
+        - исключение `belive` + `<something>` = believe it is true;
+        - исключение `belive` + `<somebody>` = believe they are telling the truth.
+    - `specialize` + `in`;
+    - `succeed` + `in`.
+
+- `into`:
+    - `break` + `into`;
+    - `crash` / `drive` / `bump` / `run` + `into`;
+    - `divide` / `cut` / `split` + `<something>` + `into` (for two or more parts);
+    - `translate` + a book / ... + (`from` + one language) + `into` another.
+
+- `with`:
+    - `collide` + `with`;
+    - `fill` + `<something>` + `with`;
+    - `provide` / `supply` + `<somebody>` + `with`.
+
+- без предлогов:
+    - `phone` / `telephone` / `call` + `<somebody>`;
+    - `answer` + `<somebody>` / `<something>`;
+    - `ask` + `<somebody>`;
+    - `thank` + `<somebody>` + (`for` + `<something>`).
 
 ## Общие предлоги
 
@@ -2617,20 +3297,59 @@ object  | a cake | by Susan
 - `can't help` + `<verb>`(`-ing`) + `<something>` - can't stop myself doing it - не могу заставить себя перестать делать это:
     > She tried to be serious, but she **couldn't help laughing**. (= she couldn't stop herself laughing)
 
-## `Too` - `Enough`
+## `so` - `such`
 
-`Too` следует перед прилагательными и наречиями и имеет негативное значение, которое показывает что что-то больше (черезчур) чем достаточно, больше чем необходимо или больше чем хочется, для этого используется конструкция:
+`so` + `<прилагательное>` / `<наречие>` - используется для усиления значения наречия или прилагательного (`такой`):
+> so stupid
 
-`too` + `<прилагательное>` / `<наречие>` + `to-<verb>`
+(`no`) + `such` + (`a` / `an`) + (`<прилагательное>`) + `<существительное>` - используется для усиления значения существительного (`такой`):
+> such a story  
+> There's no such word.
 
-> Bob is **too short to become** a basketball player. She talks **too softly** for me **to hear** her.
+## `too` - `enough`
 
-`Enough` следует перед существительными, но после прилагательных и наречий и имеет позитивное значение, которое показывает что того что хочется или необходимо имеется в достатке (достаточно), для этого используется конструкция:
+`Too` следует перед прилагательными и наречиями и имеет негативное значение, которое показывает что что-то больше (черезчур) чем достаточно (`слишком`), больше чем необходимо или больше чем хочется, для этого используется конструкция:
+- `too` + `<прилагательное>` / `<наречие>`:
+    > too hard
 
-`<прилагательное>` / `<наречие>` + `enough` + `to-<verb>`  
-`enough` + `<существительное>` + `to-<verb>`
+`Enough` следует **перед** существительными, но **после** прилагательных и наречий и имеет позитивное значение, которое показывает, что того что хочется или необходимо имеется в достатке (`достаточно`), для этого используется конструкции:
+- `<прилагательное>` / `<наречие>` + `enough`:
+    > fit enough
+- `enough` + `<существительное>`
+    > enough chairs
 
-> The dog is **gentle enough to play** for me. We've got **enough eggs to make** an omelette.
+Основные конструкции:
+- `too` / `enough` + ... + `for` + `<somebody>` / `<something>` - для описания того, что чего-то слишком или достаточно для кого-то или чего-то:
+    > She talks **too softly for me to hear** her.  
+    > The dog is **gentle enough to play for me**.
+- `too` / `enough` + ... + `to-<verb>` - для описания того, что чего-то слишком или достаточно для того чтобы сделать что-то:
+    > Bob is **too short to become** a basketball player.  
+    > We've got **enough eggs to make** an omelette.
+
+## `quite` / `pretty` / `rather` / `fairly`
+
+Следуют перед прилагательными и наречиями и используются для обозначения: меньше чем "очень" и больше чем "мало" (`достаточно`).
+
+- `quite`, может употребляться:
+    - `quite` + (`a` / `an`) + `<прилагательное>` + `<существительное>`:
+        > We live in **quite an old house**.
+    - `quite` + (`a` / `an`) + `<существительное>`:
+        > It was **quite a surprise**.
+    - `quite` + `a lot of` + `<множественное_или_неисчисляемое_существительное>`:
+        > There were **quite a lot of people** in the meeting.
+    - `quite` + `<verb>`:
+        > I **quite like** tennis, but it's not my favourite sport.
+    - может обозначать `completely` (`совершенно`):
+        > She was **quite different** from what I expected. (= completely different)
+- `pretty` - используется в основном в неформальном языке:
+    > Sally has **a pretty** good job.
+- `rather`, может употребляться:
+    - часто в негативных ситуациях:
+        > The weather isn't so good. It's **rather cloudly**.
+    - в положительных ситуациях используется для выражения необычности или удивления:
+        > These oranges are **rather good**. Where did you get them?
+- `fairly` - используется в основном когда что-то не очень и может быть лучше:
+    > My room is **fairly big**, but I'd prefer a bigger one.
 
 ## Время
 
@@ -2716,7 +3435,7 @@ object  | a cake | by Susan
 Используется для соединения субъектов двух разных предложений в одно предложение которое имеет безразличное значение. Глагол в предложение всегда во множественном числе.
 > **Either** you apoligise **or** I'll never speak to you again.
 
-## `all` / `none`
+## `all` / `none` / `whole`
 
 `all` и `none` используется, когда относится к более чем двум людям или вещам:
 - `all` - имеет позитивное значение, констукции:
@@ -2731,7 +3450,7 @@ object  | a cake | by Susan
 
 `all` обычно не используется в значении `every`.
 
-`whole` используется вместо `all` для описания полноценного единственного исчесляемого существительного:
+`whole` используется вместо `all` для описания полноценного единственного исчесляемого существительного: `the / a / an / these / my / your / etc.` + `whole` + `<существительное_в_ед.ч.>`
 > the whole book
 
 ## Суффиксы `-er`, `-or`
@@ -2744,7 +3463,7 @@ object  | a cake | by Susan
 
 Выражение соответствует **имеется**, **есть**, **бывает**, **находится** и стоит на первом месте в англ. предложении, указывает на местонахождение кого-то или чего-то где-то. Этот оборот дословно не переводится. Предложения лучше всего переводить, начиная с **обстоятельства места** (**где?**).
 
-`There is / are...` (дополнительное `there` означает там).
+`There is / are...` (дополнительное `there` означает там в значении `to` / `in` / `at` + `that place`).
 
 Тип            | `there is`                          | `there are`
 -------------- | ----------------------------------- | ----------
@@ -2800,10 +3519,53 @@ object  | a cake | by Susan
 - `in the` + `heart` / `center` + `of` + ....
 > Vancouver **is situated on** the west coast **of** Canada.
 
-## Слова подобия `as`, `like`
+## `as`, `like`
 
-- `As <существительное>` - обозначает `Будучи <существительное>`;
-- `Like <существительное>` - обозначает `Так как я <существительное>`.
+`as`:
+- `as` + `<существительное>` = `in the position of` / `in the form of` - `в позиции` / `в форме` + `<существительное>`:
+    > A few years ago I worked **as a taxi driver**.
+- употребляются обычно конструкции: `as usual` (`как обычно`), `as always` (`как всегда`):
+    > You're late **as usual**.
+- `as if` / `as though` + `<subject>` + `<verb>`:
+     - используется для того, чтобы описать как кто-то или что-то выглядит (`look`), звучитт (`sound`), чувствует (`feel`) в значении `как будто`, в неформальном языке может заменяться `like`:
+        > That house looks **as if** it's going to fall down.  
+        > He ate **as if** he hadn't eaten for a week.
+    - в конструкциях: `it` + `look` / `sound` / `feel` + `as if` / `as though` + `<subject>` + `<verb>`:
+        > **It sounds as if** they are having a party.
+    - используется для того, чтобы описать как кто-то делает что-то, в неформальном языке может заменяться `like`:
+        > He ran **as if he was running for his life**.
+    - используется для того, чтобы выразить нереальную идею в настоящем, для этого после `as if` / `as though` используется прошедшее время:
+        > I don't like Tim. He talks **as if** he **knew** everything. (= Tim doesn't know everything)
+
+`like`:
+- `like` + `<существительное>` / `<verb>`(`-ing`) = `similar to` / `the same as` - `подобно` / `такой же как`:
+    > What a beautiful house! It's **like a palace**.
+- `like` + `<somebody>` / `<something>` + `<verb>`(`-ing`) + `<something>`:
+    > What's that noise? It sounds **like a baby crying**.
+- `like` = `for example`, можно заменить на `such as`:
+    > Some sports, **like motor-racing**, can be dangerous.
+
+## Предлоги времени
+
+`for` + `<период_времени>` - `в течении` - используется для выражения того, как долго что-то происходит:
+> We watched television **for two hours** last night.
+
+`during` + `<существительное>` - `во время` - используется для выражения того, когда что-то случилось, а не сколько длилось, с **временными словами** (`the morning`) может заменяться на `in`:
+> I fell asleep **during the film**.
+
+`while` + `<subject>` + `<verb>` - используется для выражения того, во время какого действия что-то случилось, для будущего времени, после `while`, используется настоящее:
+> We saw Clare **while we were waiting** for the bus.  
+> What are you going to do **while are you waiting for**.
+
+`by` + `<время>` = `not later than` - `к` (`не позже чем`) - используется для выражения того, до какого времени действие произойдет:
+> We'd better hurry. We have to be home **by 5 o'clock**. (= at or before 5 o'clock, not later than 5 o'clock)
+
+`by the time` + `<subject>` + `<verb>` - `к тому времени` - используется для выражения того, что что-то случится или случилось к моменту времени:
+> It's too late to go to the bank now. **By the time we get there**, it will be closed. (= the bank will close between now and the time we get there)  
+> Karen's car broke down on the way to the party last night. **By the time she aarived**, most of the other guests had left. (= it took her a long time to get to the party and most of the guests left during the time)
+
+`until` / `till` - `пока` - используется для выражения того, как долго что-то происходит до определенного момента времени:
+> I couldn't get up this morning. I stayed in bed **until** half past ten.
 
 Выражение эмоций
 ================

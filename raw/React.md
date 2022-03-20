@@ -1597,6 +1597,111 @@ it("renders with or without a name", () => {
 });
 ```
 
+## React-testing-library
+
+Используется для тестирования компонентов.
+
+Базовое строение теста:
+```javascript
+import React from 'react';
+import { render, screen } from '@testing-library/react';
+import userEvent from '@testing-library/user-event';
+
+import <Компонент> from './<имя_файла>';
+
+test("<имя_теста>", () => {
+    // рендер компонента
+    render(<<Компонент> />);
+    // проверки компонета
+    expect(screen.getByLabelText<HTMLSelectElement>('From')).toBeInTheDocument();
+});
+```
+
+`expect` - используется для проверки утверждений.
+
+Основные выражения:
+- `toBeNull()` - ожидание, что элемент будет равен `null`;
+- `toBeInTheDocument()` - ожидание, что элемент будет есть в DOM;
+- `toBeTruthy()` - ожидание, что значение истино;
+- `toHaveTextContent('<содержимое>')` - ожидание, что в элементе будет содержимое;
+- `toBe(<значение>)` - ожидание, что значение будет равно указаному значению.
+
+Отрицание вводится префиксом: `.not`.
+
+> `expect(screen.getByText<HTMLSpanElement>(/balance/i)).not.toHaveTextContent('10');`
+
+### react
+
+`render` - используется для рендера компонента.
+
+`screen` - объект с помошью которого можно получить доступ к DOM-дереву.
+
+Основные методы поиска:
+- префикс:
+    - `getBy` - поиск элементов, которые присутсвуют на странице - возвращает элемент;
+    - `queryBy` - поиск элементов, которых нет на странице;
+    - `findBy` - поиск элементов, которые зависят от асинхронного кода - возвращает промис, который разрешиться когда элемент появится.
+- метод поиска:
+    - `Text`;
+    - `Role` - поиск по логической роли элемента;
+    - `LabelText`;
+    - `PlaceholderText`;
+    - `AltText`;
+    - `DisplayValue`;
+    - `TestId` - поиск по атрибуту `data-testid`;
+    - `Title`.
+- модификатор:
+    - `All` - для поиска всех элементов.
+
+Поиск: `screen.<префикс>[<модификатор>][<метод_поиска>][<<тип>>]('<строка_поиска>')` (или регулярное выражение):
+> `await screen.findByText<HTMLInputElement>(/Hello/)`
+
+### userEvent
+
+Позволяет производить взаимодействия с элементами DOM.
+
+Основные методы взаимодействия:
+- `​​click(<элемент>)` - нажимает на элемент;
+- `dblClick(<элемент>)` - дважды нажимает на элемент;
+- `type(<элемент>, '<текст>')` - вводит текст;
+- `clear(<элемент>)` - очищает поле ввода (только `<input/>` и `<select/>`);
+- `tab()` - нажимает на tab;
+- `hover(<элемент>)` - наводит мышку;
+- `unhover(<элемент>)` - убирает наведения мышки;
+- `upload(<элемент>, <файл>)` - згружает файла;
+- `selectOptions(<элемент>, <идентификатор>)` - выбирает из выпадающего списка (`<select />`);
+- `deselectOptions(<элемент>)` - убрирает выбор;
+- `paste(<элемент>)` - вставляет из буфера обмена;
+- `keyboard(<элемент>, <клавиша>)` - нажимает клавишу.
+
+> `userEvent.type(screen.getByLabelText<HTMLInputElement>('Amount'), '10');`
+
+Альтернатива использования - это `fireEvent`, которая использует более низкоуровневую абстракцию.
+
+> `fireEvent.change(screen.getByLabelText<HTMLInputElement>('Amount'), {target: { value: '10' }});`
+
+### Redux
+
+Для тестирования Redux-компонентов, используется конструкция:
+```tsx
+const renderWithRedux = (
+    component: JSX.Element,
+    { initialState,
+        store = createStore(reducer, initialState)
+    }: {initialState?: WalletItem[]; store?: any } = {},
+) => {
+    return {
+        ...render((
+            <Provider store={store}>
+            {component}
+            </Provider>,
+        store
+    };
+}
+```
+
+Где у возвращаемого `store` можно использовать `store.getState()` для доступа к хранилищу Redux.
+
 Паттерны
 ========
 
