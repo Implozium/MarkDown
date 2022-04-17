@@ -290,7 +290,7 @@ Refer for  | Positive    | Interrogative | Negative
 Слова `all`, `some`, `any`, `most`, `much`, `many`, `little`, `few`, `half`, `none` могут использоваться с конструкцией: `of` + `<косвенное_местоимение>`:
 > **All of us** were late.
 
-Слова `all`, `some`, `any`, `most`, `much`, `many`, `little`, `few`, `half`, `none` могут использоваться самостоятельно, если понятен консекст использования:
+Слова `all`, `some`, `any`, `most`, `much`, `many`, `little`, `few`, `half`, `none` могут использоваться самостоятельно, если понятен контекст использования:
 > A few of the shops were open, but **most** were closed.
 
 ### Неисчисляемые существительные
@@ -2569,11 +2569,11 @@ object  | a cake | by Susan
     > I'm going out **to get** some fresh air.
 - `in order (not) to` / `so as (not) to` (formal) - `для того чтобы`:
     > He went to Harvard **in order to** / **so as to** obtain a degree in economics.
-- `so that` + `<существительное>` + `can` / `will` / `could` / `would` - `так что ... может` / `для того чтобы ... может`, когда выражают предположение:
+- `so that` + `<существительное>` + (`can` / `will` / `could` / `would`) - `так что ... (может)` / `для того чтобы ... (может)`, когда выражают предположение:
     > He works hard **so that he can** make a lot of money.
 - `so that` + `<существительное>` + `won't` / `wouldn't` - `для того чтобы ... не`, когда выражают предположение:
     > I hurried **so that** I **wouldn't** be late. (= because I didn't want to be late)
-- `in order that` / `as so that` + `<существительное>` + `can` / `will` / `could` / `would` (formal) - `так что ... может` / `для того чтобы ... может`;
+- `in order that` / `as so that` + `<существительное>` + (`can` / `will` / `could` / `would` (formal)) - `так что ... (может)` / `для того чтобы ... (может)`;
 - `(just) in case` + `<придаточное_предложение>` (present or past) - `в случае ...` - используется для того, чтобы объяснить почему кто-то делает что-то (`just` - уменьшает вероятность наступления события). Кто-то делает что-то сейчас **в случае** если что-то случится позже. Для прошлого времени объясняет зачем или почему кто-то сделал что-то:
     > We'll buy some more food **in case** Tom comes.  
     > I left my phone switched on **in case** Jane called.
