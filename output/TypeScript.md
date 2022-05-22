@@ -366,6 +366,20 @@ function formatName(...name: Name): string {
 }
 ```
 
+Если необходимо сделать так чтобы функция принимала разнообразыне параметы и количество, то можно воспользоваться примером:
+```typescript
+type UndefinedKeys<Obj> = {
+    [K in keyof Obj]: Obj[K] extends undefined ? K : never;
+}[keyof Obj];
+class EventEmitter<E> {
+    emit<K extends UndefinedKeys<E>>(name: K): void;
+    emit<K extends keyof E>(name: K, data: E[K]): void;
+    emit<K extends keyof E>(name: K, data?: E[K]): void {
+        return;
+    }
+}
+```
+
 ### <a id="Тип-функции" href="#Тип-функции">Тип функции</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
 Каждая функция имеет тип, как и обычные переменные. Тип функции фактически представляет комбинацию типов параметров и типа возвращаемого значения. Имеет вид:  
@@ -783,6 +797,10 @@ function isSorted<T>(xs: T[]): xs is SortedList<T> {
     return true;
 }
 ```
+
+Можно сделать тип, который будет выводить бренд-типы на основе символов:  
+`type Brand<T, Name extends string> = T & { [Symbol.species]: Name }`
+> `type AbsolutePath = Brand<string, "AbsolutePath">`
 
 ## <a id="keyof" href="#keyof">`keyof`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 

@@ -1702,6 +1702,48 @@ const renderWithRedux = (
 
 Где у возвращаемого `store` можно использовать `store.getState()` для доступа к хранилищу Redux.
 
+### Hooks
+
+Для тестирования хуков используется `renderHook`:
+```js
+import { renderHook, act } from '@testing-library/react-hooks';
+import <хук> from '<путь>';
+
+test('<имя_теста>', () => {
+    const { result, rerender } = renderHook(
+        (<props>) => <хук>([<аргумент1>[, ...]]),
+        {
+            initialProps: <props>,
+        }
+    );
+
+    rerender(<props>); // перерендер хука с новыми аргументами
+    // выполнение действий с хуком по изменению его
+    act(() => {
+        result.current.<метод>(...);
+    });
+
+    expect(result.current.<свойство>).toBe(<значение>);
+});
+```
+
+Пример:
+```js
+test('should reset counter to updated initial value', () => {
+    const { result, rerender } = renderHook(({ initialValue }) => useCounter(initialValue), {
+        initialProps: { initialValue: 0 }
+    });
+
+    rerender({ initialValue: 10 });
+
+    act(() => {
+        result.current.reset();
+    });
+
+    expect(result.current.count).toBe(10);
+});
+```
+
 Паттерны
 ========
 

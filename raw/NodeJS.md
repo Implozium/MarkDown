@@ -399,6 +399,8 @@ util.inherits(<Stream>, stream.Transform);
 
 `npm version { major | minor | patch }` - увеличивает текущую версию пакета (модуля): `<major>.<minor>.<patch>`.
 
+`npm i --package-lock-only` - перегенирирует `package-lock.json`.
+
 Строение `package.json`:
 ```json
 {
