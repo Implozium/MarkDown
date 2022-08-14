@@ -27,7 +27,7 @@ const checkers = [
         return errors;
     },
     (current, prev, next) => {
-        const endList = /^\s*- .*([^;.:])$/;
+        const endList = /^\s*- .*([^;.:?])$/;
         const errors = [];
         const matched = current.match(endList);
         if (matched) {
