@@ -893,6 +893,14 @@ type LazyPerson = Getters<Person>;
 
 Для того чтобы узнать тип значений массива используется: `<array>[number]`.
 
+Для того чтобы узнать тип значений структуры используется: `<Интерфейс>[<тип_ключа>]`:
+```ts
+type Keys = 'key_1' | 'key_2';
+type InnerType = number | string;
+type Rec = Record<Keys, InnerType>;
+type SubType = Rec[Keys]; // = InnerType
+```
+
 Для добавления или удаления модификаторов используются префиксы `-` / `+` перед их названиями для отображенных типов:
 ```typescript
 type CreateMutable<Type> = {
