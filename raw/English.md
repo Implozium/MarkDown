@@ -866,8 +866,8 @@ She | reads |    | her notes   | to Peter | every day
 
 - `up`:
     - в значении движения вверх:
-        - `put` + `<somthing>` + `up` + (`on` + a wall, ...);
-        - `pick` + `<somthing>` + `up`;
+        - `put` + `<something>` + `up` + (`on` + a wall, ...);
+        - `pick` + `<something>` + `up`;
         - `stand` + `up`;
     - `turn` + `up` = increase;
     - `go` / `come` / `walk` + `up` + (`to`) = approach;
@@ -892,7 +892,7 @@ She | reads |    | her notes   | to Peter | every day
     - `take` + `up` + space / time = use space / time;
     - `turn` / `show` + `up` = arrive, appear;
     - `use` + `<something>` + `up` = use all of it so that nothing left;
-    - `bring` + `up` + a topic / ... = introsuce it in a conversation;
+    - `bring` + `up` + a topic / ... = introduce it in a conversation;
     - `come` + `up` = be introduced in a conversation:
         > Some interesting matters **came up** in our discussion yesterday.
     - `come` + `up` + `with` + an idea, a suggestion, ... = produce an idea;
@@ -937,11 +937,11 @@ She | reads |    | her notes   | to Peter | every day
 
 - `down`:
     - в значении движения вниз:
-        - `take` + `<somthing>` + `down` + (`from` + a wall, ...);
-        - `put` + `<somthing>` + `down`;
+        - `take` + `<something>` + `down` + (`from` + a wall, ...);
+        - `put` + `<something>` + `down`;
         - `sit` / `bend` / `lie` + `down`;
     - `turn` + `down` = reduce;
-    - `knock` + `down` + a building / `blow` + `<somthing>` + `down` / `cut` + `<somthing>` + `down` / ... = destroy;
+    - `knock` + `down` + a building / `blow` + `<something>` + `down` / `cut` + `<something>` + `down` / ... = destroy;
     - `be` + `knocked` + `down` + (`by` + a car, ...);
     - `slow` + `down` = go more slowly;
     - `calm` + (`<somebody>`) + `down` = become calmer, make somebody calmer;
