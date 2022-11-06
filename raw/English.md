@@ -2582,7 +2582,7 @@ object  | a cake | by Susan
 
 Используются для выражения результата чего-то. Вводятся конструкциями:
 - `so` - `так что`:
-    > I was tured, **so** I went to bed early.
+    > I was tired, **so** I went to bed early.
 - `such` + `a` / `an` + `<прилагательное>` + `<единственное_исчисляемое_существительное>` + (`that`):
     > She is **such a nice girl** (that) everybody likes her.
 - `such` + `<прилагательное>` + `<множественное_или_неисчисляемое_существительное>` + (`that`):

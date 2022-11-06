@@ -146,6 +146,59 @@ TypeScript является строго типизированным языко
 
 Обычно типы параметров могут быть выведены, если функция использована в качестве обратного вызова библиотеки с декларациями типов. Но для функций, если они не являются функциями обратного вызова, лучше указывать возврвщаемый тип чтобы избежать ошибок реализации в использовании функции.
 
+## Вариативности типов
+
+**Совместимость присваивания** (assignment compatibility) - это возможность присвоить значение более частного типа совместимой переменной более общего типа.
+
+**Вариантность** - это сохранение совместимости присваивания исходных типов у производных типов.
+
+**Ковариантность** - это сохранение иерархии наследования исходных типов в производных типах - контейнеры, обобщенные типы, делегаты и т. п. в том же порядке.
+
+**Контравариантность** - это обращение иерархии исходных типов на противоположную в производных типах - контейнеры, обобщенные типы, делегаты и т. п..
+
+**Инвариантность** - это отсутствие наследования между производными типами.
+
+Для функций:
+- операции передачи аргументов в функции по умолчанию являются **контрвариантны**, со стороны вызова функции;
+- операции присвоения результата вызова функции по умолчанию является **ковариантны**, со стороны вызова функции.
+
+```ts
+abstract class Animal {}
+abstract class Pet extends Animal {}
+class Cat extends Pet {}
+class Dog extends Pet {}
+class Fox extends Animal {}
+
+class AnimalCage { content?: Animal }
+class PetCage extends AnimalCage { content?: Pet }
+class CatCage extends PetCage { content?: Cat }
+class DogCage extends PetCage { content?: Dog }
+class FoxCage extends AnimalCage { content?: Fox }
+
+// ковариантность
+function touchPet(cage: PetCage): void {
+    console.log(`touch ${cage.content}`);
+}
+
+touchPet(new AnimalCage()); // forbid
+touchPet(new PetCage()); // allow
+touchPet(new CatCage()); // allow
+touchPet(new DogCage()); // allow
+touchPet(new FoxCage()); // forbid
+
+// контрвариантность
+function pushPet(cage: PetCage): void {
+    const Pet = Math.random() > .5 ? Cat : Dog;
+    cage.content = new Pet();
+}
+
+pushPet(new AnimalCage()); // allow
+pushPet(new PetCage()); // allow
+pushPet(new CatCage()); // forbid
+pushPet(new DogCage()); // forbid
+pushPet(new FoxCage()); // forbid
+```
+
 ## Псевдонимы типов
 
 TypeScript позволяет определять псевдонимы типов с помощью ключевого слова `type`:  
@@ -503,7 +556,7 @@ interface <Интерфейс> {
 }
 ```
 
-Слово `index` может быть любым, так как оно используется только для документации. А `<тип_ключа>` может быть одним из `number`, `string`, `symbol`.
+Слово `index` может быть любым, так как оно используется только для документации. А `<тип_ключа>` может быть одним из `number`, `string`, `symbol` и только ими, а не объединениями литеральных типов или шаблонами.
 
 ```typescript
 interface Dictionary {
@@ -642,6 +695,30 @@ function double(x: any) {
 ```
 T => A | B | C
 A | B | C extends U ? X : Y => (A extends U ? X : Y) | (B extends U ? X : Y) | (C extends U ? X : Y)
+```
+
+С помощью этого подхода можно сужать типы:
+```ts
+type A =
+    | {
+        type: 'one';
+    }
+    | {
+        type: 'two';
+        value: number;
+    }
+    | {
+        type: 'three';
+        value: string;
+    };
+
+type Filter<T> = T extends { value: unknown } ? T : never;
+type Types<T> = T extends { type: unknown } ? T['type'] : never;
+type FilterByType<T, K extends Types<T>> = T extends { type: K } ? T : never;
+
+type O = Filter<A>; // { type: 'two'; value: number; } | { type: 'three'; value: string; }
+type OT = FilterByType<A, 'two' | 'one'>; // { type: 'two'; value: number; } | { type: 'one'; }
+
 ```
 
 ## Вывод типа
