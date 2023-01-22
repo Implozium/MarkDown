@@ -367,14 +367,14 @@
 
 Общие приставки, некоторые пишутся через дефис:
 - `anit-` - `arainst` - **против**:
-    > **anti-**war, **anti**social
+    > **anti**-war, **anti**social
 - `auto-` - `of or by oneself` - **безсебя или самостоятельно**:
-    > **auto-**pilot, **auto**graph
+    > **auto**-pilot, **auto**graph
 - `bi-` - `two, twice` - **два, дважды**:
-    > **bi**cycle, **bi-**monthly
+    > **bi**cycle, **bi**-monthly
 - `ex-`:
     - `former` - **бывший**:
-        > **ex-**wife, **ex-**president
+        > **ex**-wife, **ex**-president
     - `out of` - **вне**:
         > **ex**tract, **ex**hale
 - `in-` (`im-`):
@@ -383,25 +383,25 @@
     - `into` - **внутрь**:
         > **in**sert, **im**port
 - `micro-` - `small` - **микро, маленький**:
-    > **micro**wave, **micro-**computer
+    > **micro**wave, **micro**-computer
 - `mis-` - `badly / wrongly` - **плохой / ошибочный**:
     > **mis**understand, **mis**inform
 - `mono-` - `one / single` - **один / единичный**:
     > **mono**logue, **mono**gamous
 - `multi-` - `many` - **множественный**:
-    > **multi-**national, **multi-**purpose
+    > **multi**-national, **multi**-purpose
 - `over-` - `too much` - **сверх**:
     > **over**do, **over**sleep
 - `post-` - `after` - **после**:
-    > **post**war, **post-**revolutionary
+    > **post**war, **post**-revolutionary
 - `pro-` - `in favour of` - **в пользу / в интересах**:
-    > **pro-**government, **pro-**revolutionary
+    > **pro**-government, **pro**-revolutionary
 - `pseudo-` - `false` - **ложный**:
-    > **pseudo-**scientific, **pseudo-**intellectual
+    > **pseudo**-scientific, **pseudo**-intellectual
 - `re-` - `again or back` - **снова или обратно**:
     > **re**type, **re**read
 - `semi-` - `half` - **полу**:
-    > **semi**circular, **semi-**final
+    > **semi**circular, **semi**-final
 - `sub-` - `under` - **под, ниже**:
     > **sub**way, **sub**marine
 - `under-` - `not enough` - **не достаточно**:
@@ -419,7 +419,7 @@
 ### <a id="Сложные-слова" href="#Сложные-слова">Сложные слова</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
 Если есть существительное, стоящее **перед** другим существительны:
-- то оно становится его определением, выполняет роль прилагательного (**какой?**...), обычно стоит в единственном числе, но обозначает множественное число:
+- то оно становится его определением, выполняет роль прилагательного (**какой?**...), обычно стоит в единственном числе, но обозначает множественное число (если необходимо указать конкретное число, то используется конструкция `of`):
     > an apple tree = a tree that has apples  
     > a three-hour journey = a journey that takes three hours
     > the exam results = the results of the exams
@@ -448,6 +448,8 @@
 > Six miles is a long way to walk every day.
 
 ### <a id="Артикль-article" href="#Артикль-article">Артикль (article)</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+Артикль объявляет, что стоящее за ним слово - это существительное или группа существительного (существительное с предшествующими определениями), но совершенно точно не глагол.
 
 #### <a id="Неопределенный" href="#Неопределенный">Неопределенный</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 

@@ -731,7 +731,7 @@ type OT = FilterByType<A, 'two' | 'one'>; // { type: 'two'; value: number; } | {
 
 `infer` может использоваться только в инструкции расширения условного типа. Переменная типа, объявленная посредством `infer`, доступна только в истинной ветке условного типа.
 
-При наличии нескольких кандидатов для одной и той же переменной типа в ковариантной позиции (когда используется более одного `infer` с одинаковой переменной), предполагается, что результирующий тип является объединением (`|`). В  контрвариативной позиции, предполагается, что результирующий тип является пересечением (`&`)
+При наличии нескольких кандидатов для одной и той же переменной типа в ковариантной позиции (когда используется более одного `infer` с одинаковой переменной), предполагается, что результирующий тип является объединением (`|`). В контрвариативной позиции, предполагается, что результирующий тип является пересечением (`&`).
 
 `infer R ? R : <тип>` - `infer` смотрит на структуру данных и выводит ее тип, иначе тип будет `<тип>`.
 
@@ -744,7 +744,27 @@ type Item = ArrayElement<(number | string)[]>; // Item === (number | string)
 ```typescript
 export type Swap<T extends [any, any]> = T extends [infer X, infer Y] ? [Y, X] : never;
 
-type Swapped = Swap<[string, number]> // Swapped === [number, string]
+type Swapped = Swap<[string, number]>; // Swapped === [number, string]
+```
+
+С помощью `infer` можно "распаковывать" типы из контейнеров, которые были отображены:
+```typescript
+type Box<T> = { value: T };
+
+type Unbox<T> = T extends Box<infer U> ? U : never;
+
+type O = {
+    a: string;
+    b: boolean;
+};
+
+type Bo = {
+    [K in keyof O]: Box<O[K]>;
+};
+
+type Uo = {
+    [K in keyof Bo]: Unbox<Bo[K]>;
+}; // Uo === { a: string; b: boolean; }
 ```
 
 ## Ключевое слово `new`
@@ -1023,7 +1043,7 @@ type CreateMutable<Type> = {
 };
 
 type Concrete<Type> = {
-  [Property in keyof Type]-?: Type[Property];
+    [Property in keyof Type]-?: Type[Property];
 };
 ```
 
