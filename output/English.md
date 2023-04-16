@@ -1291,7 +1291,8 @@ She | reads |    | her notes   | to Peter | every day
     - `make` + `up` + `<something>` = compose;
     - `be` + `made` + `up` + `of` + `<something>` = consists of;
     - `take` + `up` + space / time = use space / time;
-    - `turn` / `show` + `up` = arrive, appear;
+    - `turn` + `up` = arrive, appear;
+    - `show` + `up` = arrive, appear;
     - `use` + `<something>` + `up` = use all of it so that nothing left;
     - `bring` + `up` + a topic / ... = introduce it in a conversation;
     - `come` + `up` = be introduced in a conversation:
@@ -1307,7 +1308,8 @@ She | reads |    | her notes   | to Peter | every day
     - `blow` + `<something>` + `up` = destroy it with a bomb, ...;
     - `tear` + `<something>` + `up` = tear it into pieces;
     - `beat` + `<somebody>` + `up` = hit someone repeatedly so that they are badly hurt;
-    - `break` / `split` + `up` + (`with` + `<somebody>`) = separate;
+    - `break` + `up` + (`with` + `<somebody>`) = separate;
+    - `split` + `up` + (`with` + `<somebody>`) = separate;
     - `do` + `up` + a coat, a shoelace, buttons, ... = fasten, tie, ...;
     - `do` + `up` + a building, a room, ... = repair and improve it;
     - `look` + `<something>` + `up` + `in` + a dictionary / an encyclopaedia / ... = find it in;
@@ -1374,7 +1376,7 @@ She | reads |    | her notes   | to Peter | every day
     - `walk` / `run` / `drive` / `ride` / `go` + `off` = `walk` / `run` / `drive` / `ride` / `go` + `away`;
     - `set` + `off` = start a journey;
     - `take` + `off` = leave the ground (for planes);
-    - `see` + `<something>` + `off` = go with somebody to the airport / station to say goodbye;
+    - `see` + `<somebody>` + `off` = go with somebody to the airport / station to say goodbye;
     - `doze` / `drop` / `nod` + `off` = fall asleep;
     - `finish` + `<something>` + `off` = do the last part of something;
     - `go` + `off` = explode;
@@ -1940,7 +1942,9 @@ She | reads |    | her notes   | to Peter | every day
 
 ### <a id="Present-Perfect" href="#Present-Perfect">Present Perfect</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
-Описывает действие именно как результат.
+Описывает действие именно как результат - это завершенная форма, не требующая изменений.
+
+Можно выразить: `у субъекта сейчас есть результат действия, которое закончилось этим результатом`.
 
 Буквально означает по конструкции: `субъект совершил действие когда-то в прошлом и имеет результат действия к текущему моменту времени`:
 > I have seen you. - Я увидел тебя. "Я имею увиденным тебя к текущему моменту времени."  
