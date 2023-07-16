@@ -508,6 +508,8 @@ util.inherits(<Stream>, stream.Transform);
 `npm view <имя_модуля> version` - возвращает самый последний номер версии пакета.  
 `npm view <имя_модуля> versions` - возвращает все номера версии пакета.
 
+`npm show <имя_модуля>` - выводит информацию о пакете.
+
 `npm version { major | minor | patch }` - увеличивает текущую версию пакета (модуля): `<major>.<minor>.<patch>`.
 
 `npm i --package-lock-only` - перегенирирует `package-lock.json`.
@@ -548,6 +550,12 @@ util.inherits(<Stream>, stream.Transform);
         "start": "<команды_запуска>",
         "install": "<команды_установки>",
         "<команда>": "<команды>",
+    },
+    "imports": {
+        "<имя_алиаса1>": "<шаблон_или_путь_к_файлу_или_каталогу>",
+        "<имя_алиаса2>": [
+            "<шаблон_или_путь_к_файлу_или_каталогу1>"
+        ]
     }
 }
 ```
@@ -805,6 +813,7 @@ util.inherits(<Stream>, stream.Transform);
     `request.setEncoding("<кодировка>");` - указывает какая кодировка ожидается для обработки запроса, при `"utf8"` - будут возвращаться строки вместо `Buffer`.
     Для форм значение заголовка `content-type` может быть:
     - `application/x-www-form-urlencoded` - значение (по ум.) для HTML-форм;
+    - `application/json` - если тело содержит JSON данные;
     - `multipart/form-data` - используется когда форма содержит файлы, двоичные данные или текст, кодировка которого отличается от ASCII (задается на форме как `enctype="multipart/form-data"`).
 
 - `response` - объект ответа:

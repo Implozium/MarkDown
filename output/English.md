@@ -1343,7 +1343,7 @@ She | reads |    | her notes   | to Peter | every day
         - `take` + `<something>` + `down` + (`from` + a wall, ...);
         - `put` + `<something>` + `down`;
         - `sit` / `bend` / `lie` + `down`;
-    - `turn` + `down` = reduce;
+    - `turn` + `down` = refuce;
     - `knock` + `down` + a building / `blow` + `<something>` + `down` / `cut` + `<something>` + `down` / ... = destroy;
     - `be` + `knocked` + `down` + (`by` + a car, ...);
     - `slow` + `down` = go more slowly;
