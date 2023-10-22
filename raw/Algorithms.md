@@ -389,3 +389,48 @@ BubbleSort(A) // A[1..n] массив, содержащий последоват
     - обычно эта функция используется на последнем слое, когда нужно сделать классификацию не несколько классов. Softmax будет гарантировать, что значение суммы вероятностей, связанных с каждым классом, всегда будет равняться 1.
 
 `А = <функция_активации>(Z)` - представляет выходной сигнал функции активации.
+
+Другие алгоритмы
+================
+
+## Алгоритм создания всех наборов элементов
+
+```ts
+function makeSequences<T>(itemSets: T[][]): Iterable<T[]> {
+    const positions = itemSets.map(() => 0).concat(0);
+    positions[0] = -1;
+
+    return {
+        [Symbol.iterator](): Iterator<T[]> {
+            return {
+                next(): IteratorResult<T[]> {
+                    if (positions[positions.length - 1] === 0) {
+                        positions[0] += 1;
+                        for (let i = 0; i < positions.length - 1; i++) {
+                            if (positions[i] >= itemSets[i].length) {
+                                positions[i + 1] += 1;
+                                positions[i] = 0;
+                            }
+                        }
+                    }
+                    if (positions[positions.length - 1] === 1) {
+                        return {
+                            done: true,
+                            value: undefined,
+                        };
+                    }
+
+                    return {
+                        done: false,
+                        value: itemSets.map((itemSet, i) => itemSet[positions[i]]),
+                    };
+                }
+            };
+        },
+    };
+}
+
+for (const seq of makeSequences([[1, 2, 3], [1, 2]])) {
+    console.log('seq', seq);
+}
+```

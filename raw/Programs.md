@@ -414,7 +414,7 @@ Redis
 - `-o <путь_к_файлу>` - сохранит все в файл `<путь_к_файлу>`;
 - `-w "\n\n%{time_connect}:%{time_starttransfer}:%{time_total}\n"` - выведет информацию о времени выполнения запроса.
 
-Для запросов типа POST по умолчанию используется заголовки: `Content-Type: application/x-www-form-urlencoded`. Для передачи JSON нужно дополнительно пропичывать зоголовок: `Content-Type: application/json`.
+Для запросов типа POST по умолчанию используется заголовки: `Content-Type: application/x-www-form-urlencoded`. Для передачи JSON нужно дополнительно прописывать заголовок: `Content-Type: application/json`.
 
 Примеры:
 - `curl -F '<имя_поля>=@<путь_к_файлу>'[ ...] <url>` - загружает файл на указанный адрес `<url>`;
