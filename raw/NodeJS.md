@@ -410,6 +410,8 @@ util.inherits(<Stream>, stream.Transform);
 
 `npm pack` - собирает tar-архив для текущего проекта, чтобы его можно было установить в другой проект как пакет, с помощью команды `npm install <package.tar>`.
 
+`npm cache clean --force` - удаляет кеш пакетов.
+
 Строение `package.json`:
 ```json
 {

@@ -434,3 +434,65 @@ for (const seq of makeSequences([[1, 2, 3], [1, 2]])) {
     console.log('seq', seq);
 }
 ```
+
+## Алгоритм Леванштейна
+
+```ts
+type Action = 'delete' | 'replace' | 'add' | 'match';
+
+function correct<I, O>(arrI: I[], arrO: O[], isEqual: (a: I, b: O) => boolean, costs: Record<Action, number>): Action[] {
+    const matrix: number[][] = Array.from({length: arrO.length + 1}, () => new Array(arrI.length + 1).fill(0));
+    for (let i = 1; i < arrO.length + 1; i++) {
+        matrix[i][0] = matrix[i - 1][0] + costs['delete'];
+    }
+    for (let j = 1; j < arrI.length + 1; j++) {
+        matrix[0][j] = matrix[0][j - 1] + costs['add'];
+    }
+    for (let i = 1; i < arrO.length + 1; i++) {
+        for (let j = 1; j < arrI.length + 1; j++) {
+            matrix[i][j] = Math.min(
+                matrix[i - 1][j] + costs['delete'],
+                matrix[i][j - 1] + costs['add'],
+                matrix[i - 1][j - 1] + (isEqual(arrI[j - 1], arrO[i - 1]) ? costs['match'] : costs['replace']),
+            );
+        }
+    }
+
+    const actions: Action[] = [];
+    
+    for (let i = arrO.length, j = arrI.length; i !== 0 || j !== 0;) {
+        const currentCost = matrix[i][j];
+        const deleteCost = j - 1 >= 0 ? matrix[i][j - 1] + costs['delete']: Number.POSITIVE_INFINITY;
+        const addCost = i - 1 >= 0 ? matrix[i - 1][j] + costs['add'] : Number.POSITIVE_INFINITY;
+        const replaceCost = i - 1 >= 0 && j - 1 >= 0 ? matrix[i - 1][j - 1] + costs['replace'] : Number.POSITIVE_INFINITY;
+        if (deleteCost < addCost && deleteCost < replaceCost) {
+            j -= 1;
+            actions.unshift('delete');
+            continue;
+        }
+        if (addCost < replaceCost) {
+            i -= 1;
+            actions.unshift('add');
+            continue;
+        }
+        i -= 1;
+        j -= 1;
+        if (currentCost + costs['replace'] === replaceCost) {
+            actions.unshift('match');
+        } else {
+            actions.unshift('replace');
+        }
+    }
+
+    return actions;
+}
+
+const actions = correct('polynomial'.split(''), 'exponential'.split(''), (a, b) => a === b, {
+    delete: 1,
+    replace: 1,
+    add: 1,
+    match: 0,
+});
+
+console.log(actions);
+```

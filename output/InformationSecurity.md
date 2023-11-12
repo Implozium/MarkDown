@@ -1,18 +1,18 @@
 [Содержание](#Содержание)
 ==========
 
-    - [Аутентификация](#Аутентификация)
-    - [HTTP Авторизация](#HTTP-Авторизация)
-    - [JWT-токен](#JWT-токен)
-        - [Серверные методы](#Серверные-методы)
-- [XSS](#XSS)
-    - [Атака CSRF](#Атака-CSRF)
-        - [Защита](#Защита)
-    - [Взаимодействие сервисов](#Взаимодействие-сервисов)
-    - [Fuzzing](#Fuzzing)
-    - [SDL: Secure Software Development Lifecycle](#SDL-Secure-Software-Development-Lifecycle)
-    - [SAST: Static Application Security Testing](#SAST-Static-Application-Security-Testing)
-    - [Cloud](#Cloud)
+    - [Аутентификация](#user-content-Аутентификация)
+    - [HTTP Авторизация](#user-content-HTTP-Авторизация)
+    - [JWT-токен](#user-content-JWT-токен)
+        - [Серверные методы](#user-content-Серверные-методы)
+- [XSS](#user-content-XSS)
+    - [Атака CSRF](#user-content-Атака-CSRF)
+        - [Защита](#user-content-Защита)
+    - [Взаимодействие сервисов](#user-content-Взаимодействие-сервисов)
+    - [Fuzzing](#user-content-Fuzzing)
+    - [SDL: Secure Software Development Lifecycle](#user-content-SDL-Secure-Software-Development-Lifecycle)
+    - [SAST: Static Application Security Testing](#user-content-SAST-Static-Application-Security-Testing)
+    - [Cloud](#user-content-Cloud)
 
 ## <a id="Аутентификация" href="#Аутентификация">Аутентификация</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 

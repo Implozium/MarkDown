@@ -33,7 +33,8 @@ function makeHrefId(content) {
 
 function makeHeader(content, level) {
     const hash = getHash(content);
-    return '    '.repeat(level - 1) + `- [${content}](#${hash})`;
+    // prefix 'user-content-' is fix for github because it replaces id with this prefix
+    return '    '.repeat(level - 1) + `- [${content}](#user-content-${hash})`;
 }
 
 function makeContent(arr) {
