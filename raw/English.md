@@ -2949,7 +2949,7 @@ object  | a cake | by Susan
     - `If` - когда условие показывает что мы **не уверены** в том что условие сбудется;
     - `When` - когда условие показывает что мы **уверены** в том что условие сбудется;
     - `Unless` = `except if` - `если только` - можно заменить на `if ... not`:
-        > I'll see you tomorrow **unless* I have to work late. (= except if I have to work late)
+        > I'll see you tomorrow **unless** I have to work late. (= except if I have to work late)
 
         - `not unless` = `only if` - `только если`:
             > Shall I tell Liz what happened? - **Not unless** she asks you. (= only if she asks you)

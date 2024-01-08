@@ -33,6 +33,8 @@
 - [Другие алгоритмы](#user-content-Другие-алгоритмы)
     - [Алгоритм создания всех наборов элементов](#user-content-Алгоритм-создания-всех-наборов-элементов)
     - [Алгоритм Леванштейна](#user-content-Алгоритм-Леванштейна)
+    - [Отложеный вызов](#user-content-Отложеный-вызов)
+    - [Параллельное выполнение](#user-content-Параллельное-выполнение)
 
 <a id="Основы" href="#Основы">Основы</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 ======
@@ -515,4 +517,57 @@ const actions = correct('polynomial'.split(''), 'exponential'.split(''), (a, b) 
     match: 0,
 });
 console.log(actions);
+```
+
+## <a id="Отложеный-вызов" href="#Отложеный-вызов">Отложеный вызов</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+```ts
+function throttle<A extends unknown[], T>(fn: (...args: A) => void, delay: number, ctx: T): (...args: A) => void {
+    let timer: number | undefined;
+    let lastArgs: A | undefined;
+    const func = (...args: A): void => {
+        if (timer) {
+            lastArgs = args;
+            return;
+        }
+        lastArgs = undefined;
+        fn.apply(ctx, args);
+        timer = setTimeout(() => {
+            timer = undefined;
+            if (lastArgs) {
+                func(...lastArgs);
+            }
+        }, delay);
+    };
+    return func;
+}
+```
+
+## <a id="Параллельное-выполнение" href="#Параллельное-выполнение">Параллельное выполнение</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+```ts
+function parallel<T, R>(array: T[], predicat: (item: T, index: number, array: T[]) => Promise<R>, limit: number): Promise<R[]> {
+    return new Promise((res) => {
+        const output: R[] = [];
+        let position = 0;
+        const next = () => {
+            if (position < array.length) {
+                const index = position;
+                position += 1;
+                predicat(array[index], index, array).then((result) => {
+                    console.log('finished', index);
+                    output[index] = result;
+                    next();
+                });
+                return;
+            }
+            if (Object.keys(output).length === array.length) {
+                res(output);
+            }
+        };
+        for (let i = 0; i < limit; i++) {
+            next();
+        }
+    });
+}
 ```
