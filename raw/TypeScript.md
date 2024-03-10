@@ -86,6 +86,7 @@ TypeScript является строго типизированным языко
 В TypeScript имеются следующие базовые типы:
 - `boolean` - логическое значение `true` или `false`;
 - `number` - представляет числа, причем все числа в TypeScript, как и в JavaScript, являются числами с плавающей точкой. TS поддерживает двоичную (`0b`), восьмеричную (`0o`), десятичную и шестнадцатиричную (`0x`) записи чисел;
+- `bigint` - представляет большие целочисленные числа. TS поддерживает запись `<число>n`;
 - `string` - строки.
 
     Тип `string` имеет проблемы, присущие `any`. Он допускает неверные значения и скрывает связи между типами. Поэтому если есть возможность, то лучше использовать объединения вместо типа `string`:
@@ -554,7 +555,7 @@ interface FullNameBuilder {
     (name: string, surname: string): string;
 }
 
-let simpleBuilder: FullNameBuilder = function (name:string, surname: string): string {
+let simpleBuilder: FullNameBuilder = function (name: string, surname: string): string {
     return "Mr. " + name + " " + surname;
 }
 ```
@@ -1004,7 +1005,14 @@ type NewType = {
 ```typescript
 type OfUnion<T extends {type: string}> = {
     [P in T['type']]: Extract<T, {type: P}>
-}
+};
+```
+
+Для отображения типажа (**tuple**) используется:
+```typescript
+type OfTuple<T extends unknown[]> = {
+    [I in keyof T]: Type<T[I]>;
+} & {length: T['length']};
 ```
 
 Для того чтобы исключить какие-то ключи по определенному типу используется структура:
