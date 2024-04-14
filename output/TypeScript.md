@@ -450,11 +450,11 @@ function formatName(...name: Name): string {
 
 Если необходимо сделать так чтобы функция принимала разнообразыне параметы и количество, то можно воспользоваться примером:
 ```typescript
-type UndefinedKeys<Obj> = {
-    [K in keyof Obj]: Obj[K] extends undefined ? K : never;
+type TypedKeys<Obj, T> = {
+    [K in keyof Obj]: Obj[K] extends T ? K : never;
 }[keyof Obj];
 class EventEmitter<E> {
-    emit<K extends UndefinedKeys<E>>(name: K): void;
+    emit<K extends TypedKeys<E, undefined>>(name: K): void;
     emit<K extends keyof E>(name: K, data: E[K]): void;
     emit<K extends keyof E>(name: K, data?: E[K]): void {
         return;

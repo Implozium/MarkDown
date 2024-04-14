@@ -116,6 +116,7 @@
     - [`TransformStream`](#user-content-TransformStream)
         - [`TransformStreamDefaultController`](#user-content-TransformStreamDefaultController)
     - [Пример](#user-content-Пример)
+- [Кодировки](#user-content-Кодировки)
 - [WebRTC](#user-content-WebRTC)
     - [Потоки от пользователя](#user-content-Потоки-от-пользователя)
     - [`RTCPeerConnection`](#user-content-RTCPeerConnection)
@@ -1980,6 +1981,15 @@ readableStream
    .pipeThrough(transformStream)
    .pipeTo(writableStream);
 ```
+
+<a id="Кодировки" href="#Кодировки">Кодировки</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+=========
+
+`const <encoder> = new TextEncoder();` - создает кодировщик, который преобразует строки в кодировке `utf-8` в массив байт.  
+`const <array> = <encoder>.encode(<string>)` - возвращает массив типа `Uint8Array`, который состоит из байтов `utf-8` из строки `<string>`.
+
+`const <decoder> = new TextDecoder([<кодировка>]);` - создает декодировщик, который преобразует массив байт [из определенной кодировки `<кодировка>`] в строки в кодировке `utf-8`.  
+`const <string> = <decoder>.decode(<массив>)` - возвращает строку в кодировке `utf-8` из массива типа `Uint8Array`, `Int8Array`, `Uint16Array`, `Int16Array`, `Int32Array`.
 
 <a id="WebRTC" href="#WebRTC">WebRTC</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 ======

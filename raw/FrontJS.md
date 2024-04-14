@@ -1803,6 +1803,15 @@ readableStream
    .pipeTo(writableStream);
 ```
 
+Кодировки
+=========
+
+`const <encoder> = new TextEncoder();` - создает кодировщик, который преобразует строки в кодировке `utf-8` в массив байт.  
+`const <array> = <encoder>.encode(<string>)` - возвращает массив типа `Uint8Array`, который состоит из байтов `utf-8` из строки `<string>`.
+
+`const <decoder> = new TextDecoder([<кодировка>]);` - создает декодировщик, который преобразует массив байт [из определенной кодировки `<кодировка>`] в строки в кодировке `utf-8`.  
+`const <string> = <decoder>.decode(<массив>)` - возвращает строку в кодировке `utf-8` из массива типа `Uint8Array`, `Int8Array`, `Uint16Array`, `Int16Array`, `Int32Array`.
+
 WebRTC
 ======
 
