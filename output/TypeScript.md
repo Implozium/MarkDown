@@ -68,6 +68,11 @@
     - [Декоратор метода доступа](#user-content-Декоратор-метода-доступа)
     - [Фабрики декораторов](#user-content-Фабрики-декораторов)
     - [Новые декораторы](#user-content-Новые-декораторы)
+        - [Декоратор метода](#user-content-Декоратор-метода)
+        - [Декораторы модификаторов](#user-content-Декораторы-модификаторов)
+        - [Декоратор поля](#user-content-Декоратор-поля)
+        - [Декоратор класса](#user-content-Декоратор-класса)
+        - [Декоратор автомодификаторных полей](#user-content-Декоратор-автомодификаторных-полей)
 - [TSDoc](#user-content-TSDoc)
     - [Интерфейсы и классы](#user-content-Интерфейсы-и-классы)
 - [Рекомендации](#user-content-Рекомендации)
@@ -507,7 +512,7 @@ class <Класс>[ extends <Родитель>][ implements <Интерфейс1
 
 Ключевое слово `readonly` позволяет определить свойства, которые доступны только для чтения. Его значение можно установить только в конструкторе класса или при объявлении.
 
-Ключевое слово `accessor` позволяет определить свойства, для которых астоматически будет создано приватное свойство: `#__<свойство>` и методы доступа к нему `get`/`set`.
+Ключевое слово `accessor` позволяет определить свойства, для которых автоматически будет создано приватное свойство: `#__<свойство>` и методы доступа к нему `get`/`set`.
 
 Ключевое слово `override` перед методом указывает, что метод переопределен при наследовании или реализации интерфейса и если это метод пропадет из интерфейса или класса, то будет ошибка компиляции.
 
@@ -1558,24 +1563,23 @@ class Account {
 
 Декоратор представляет из себя функцию, которая принимает значение для декорируемости и контекст вызова:
 ```typescript
-type Decorator = (
-    value: DecoratedValue, // only fields differ
-    context: {
-        kind: string;
-        name: string | symbol;
-        addInitializer(initializer: () => void): void;
-        // Don’t always exist:
-        static?: boolean;
-        private?: boolean;
-        access?: {get: () => unknown, set: (value: unknown) => void};
-    }
-) => void | ReplacementValue; // only fields differ
+type Decorator = (value: Input, context: {
+    kind: string;
+    name: string | symbol;
+    access: {
+        get?(): unknown;
+        set?(value: unknown): void;
+    };
+    private?: boolean;
+    static?: boolean;
+    addInitializer(initializer: () => void): void;
+}) => Output | void;
 ```
 
-Дектораторы могут применяться к классам, методам, `get`, `set`, полям и `accessor` полям.
+Дектораторы могут применяться к классам, методам, `get`, `set`, полям и `accessor` полям класса.
 
 Где контекст - это объект со свойствами:
-- свойство `kind` содержит тип к чему применяется декоратор и бывает:
+- `kind` содержит тип к чему применяется декоратор и бывает:
     - `'class'`;
     - `'method'`;
     - `'getter'`;
@@ -1583,12 +1587,133 @@ type Decorator = (
     - `'accessor'`;
     - `'field'`.
 - `name` - имя элемента;
-- `addInitializer` - позволяет вызвать метод при инициализации декторатора;
+- `addInitializer` - позволяет вызвать метод при инициализации декторатора. Метод будет вызван:
+    - для классов - после объявления класса и после назначения статических полей;
+    - для статических элементов:
+        - для методов, `get`, `set` - во время объявления класса, после назначения статических методов и до инициализации статических полей;
+        - для полей и `accessor` - во время объявления класса, сразу после объявления поля или назначения инициализатора;
+    - для нестатических элементов:
+        - для методов, `get`, `set` - во время создания экземпляра класса и до инициализации полей;
+        - для полей и `accessor` - во время создания экземпляра класса, сразу после объявления поля или назначения инициализатора;
 - `static` - содержит `true` - если это статический метод или свойство, иначе `false`, а если это не метод или свойства, то этого свойства нет;
 - `private` - содержит `true` - если это приватный метод или свойство, иначе `false`, а если это не метод или свойства, то этого свойства нет;
-- `access` - содержит методы для установки и чтения значения, если это свойство, для `get` только чтение, для `set` только установка и для метода только чтение.
+- `access` - содержит методы для прямой установки и чтения значения, если это свойство, для `get` только чтение, для `set` только установка и для метода только чтение.
 
 Если декоратор возвращает новое значение, то оно заменяет применяемое значение, а иначе значение остается прежним.
+
+Для применения декоратора используется знак `@`. Сам декоратор ставится перед названием отделенным пробелом или на строке перед: `@<декоратор>`.
+
+Функции могут возвращать декораторы:
+```typescript
+function customElement(name) {
+    return (value, { addInitializer }) => {
+        addInitializer(function() {
+            customElements.define(name, this);
+        });
+    }
+}
+@customElement('my-element')
+class MyElement extends HTMLElement {
+    static get observedAttributes() {
+        return ['some', 'attrs'];
+    }
+}
+```
+
+### <a id="Декоратор-метода" href="#Декоратор-метода">Декоратор метода</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+```typescript
+type ClassMethodDecorator = (value: Function, context: {
+    kind: "method";
+    name: string | symbol;
+    access: { get(): unknown };
+    static: boolean;
+    private: boolean;
+    addInitializer(initializer: () => void): void;
+}) => Function | void;
+```
+
+Где в `value` будет передаваться метод.
+
+### <a id="Декораторы-модификаторов" href="#Декораторы-модификаторов">Декораторы модификаторов</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+```typescript
+type ClassGetterDecorator = (value: Function, context: {
+    kind: "getter";
+    name: string | symbol;
+    access: { get(): unknown };
+    static: boolean;
+    private: boolean;
+    addInitializer(initializer: () => void): void;
+}) => Function | void;
+```
+
+Где в `value` будет передаваться `get`-метод.
+
+```typescript
+type ClassSetterDecorator = (value: Function, context: {
+    kind: "setter";
+    name: string | symbol;
+    access: { set(value: unknown): void };
+    static: boolean;
+    private: boolean;
+    addInitializer(initializer: () => void): void;
+}) => Function | void;
+```
+
+Где в `value` будет передаваться `set`-метод.
+
+### <a id="Декоратор-поля" href="#Декоратор-поля">Декоратор поля</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+```typescript
+type ClassFieldDecorator = (value: undefined, context: {
+    kind: "field";
+    name: string | symbol;
+    access: { get(): unknown, set(value: unknown): void };
+    static: boolean;
+    private: boolean;
+    addInitializer(initializer: () => void): void;
+}) => (initialValue: unknown) => unknown | void;
+```
+
+Где в `value` не будет передаваться значение, а только в функцию, которая была возвращена как входящее значение `initialValue` и которая должна вернуть новое значение.
+
+### <a id="Декоратор-класса" href="#Декоратор-класса">Декоратор класса</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+```typescript
+type ClassDecorator = (value: Function, context: {
+    kind: "class";
+    name: string | undefined;
+    addInitializer(initializer: () => void): void;
+}) => Function | void;
+```
+
+Где в `value` будет передаваться класс и должен возвращаться другой класс.
+
+### <a id="Декоратор-автомодификаторных-полей" href="#Декоратор-автомодификаторных-полей">Декоратор автомодификаторных полей</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+```typescript
+type ClassAutoAccessorDecorator = (
+    value: {
+        get: () => unknown;
+        set(value: unknown) => void;
+    },
+    context: {
+        kind: "accessor";
+        name: string | symbol;
+        access: { get(): unknown, set(value: unknown): void };
+        static: boolean;
+        private: boolean;
+        addInitializer(initializer: () => void): void;
+    }
+) => {
+    get?: () => unknown;
+    set?: (value: unknown) => void;
+    init?: (initialValue: unknown) => unknown;
+} | void;
+```
+
+Где в `value` будет передаваться автоматически созданные `set`-метод и `get`-метод для поля.
 
 <a id="TSDoc" href="#TSDoc">TSDoc</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 =====
