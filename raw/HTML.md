@@ -37,11 +37,11 @@
 ```html
 <input id="color" list="suggestions">
 <datalist id="suggestions">
-    <option value="Black">
-    <option value="Red">
-    <option value="Green">
-    <option value="Blue">
-    <option value="White">
+    <option value="Black"></option>
+    <option value="Red"></option>
+    <option value="Green"></option>
+    <option value="Blue"></option>
+    <option value="White"></option>
 </datalist>
 ```
 

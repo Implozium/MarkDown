@@ -426,13 +426,21 @@ BubbleSort(A) // A[1..n] массив, содержащий последоват
 ## <a id="Алгоритм-создания-всех-наборов-элементов" href="#Алгоритм-создания-всех-наборов-элементов">Алгоритм создания всех наборов элементов</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
 ```ts
-function makeSequences<T>(itemSets: T[][]): Iterable<T[]> {
+type SequenceSet<T extends readonly (readonly unknown[])[]> =
+    T extends readonly [infer F, ...infer R]
+        ?  F extends readonly (infer FT)[]
+            ?  R extends readonly (readonly unknown[])[]
+                ? [FT, ...SequenceSet<R>]
+                : []
+            : []
+        : [];
+function makeSequences<const T extends readonly (readonly unknown[])[]>(itemSets: T): Iterable<SequenceSet<T>> {
     const positions = itemSets.map(() => 0).concat(0);
     positions[0] = -1;
     return {
-        [Symbol.iterator](): Iterator<T[]> {
+        [Symbol.iterator](): Iterator<SequenceSet<T>> {
             return {
-                next(): IteratorResult<T[]> {
+                next(): IteratorResult<SequenceSet<T>> {
                     if (positions[positions.length - 1] === 0) {
                         positions[0] += 1;
                         for (let i = 0; i < positions.length - 1; i++) {
@@ -450,14 +458,14 @@ function makeSequences<T>(itemSets: T[][]): Iterable<T[]> {
                     }
                     return {
                         done: false,
-                        value: itemSets.map((itemSet, i) => itemSet[positions[i]]),
+                        value: itemSets.map((itemSet,i) => itemSet[positions[i]]) as SequenceSet<T>,
                     };
                 }
             };
         },
     };
 }
-for (const seq of makeSequences([[1, 2, 3], [1, 2]])) {
+for (const seq of makeSequences([[1, 2, 3], [1, 2], ['one', 'two']])) {
     console.log('seq', seq);
 }
 ```
