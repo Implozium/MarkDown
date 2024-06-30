@@ -28,7 +28,7 @@
         - [Оператор проверки на null `??`](#user-content-Оператор-проверки-на-null-)
     - [Циклы](#user-content-Циклы)
         - [Цикл `while`](#user-content-Цикл-while)
-        - [Цикл `do...while`](#user-content-Цикл-dowhile)
+        - [Цикл `do..while`](#user-content-Цикл-dowhile)
         - [Цикл `for`](#user-content-Цикл-for)
         - [Прерывание цикла](#user-content-Прерывание-цикла)
             - [Метки для `break`/`continue`](#user-content-Метки-для-breakcontinue)
@@ -457,7 +457,7 @@ while (<условие>) {
 
 Пока условие: `<условие>` верно - выполняется тело: `<код_тела_итерации_цикла>`.
 
-### <a id="Цикл-dowhile" href="#Цикл-dowhile">Цикл `do...while`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+### <a id="Цикл-dowhile" href="#Цикл-dowhile">Цикл `do..while`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
 ```javascript
 do {
@@ -1545,9 +1545,16 @@ class A {
 
 `<set>.add(<значение>)` - добавляет в коллекцию `<значение>`, возвращает `<set>`.  
 `<set>.delete(<значение>)` - удаляет `<значение>` из коллекции, возвращает `true`, если он там был, иначе `false`.  
-`<set>.has(<значение>)` - возвращает `true`, если `<значение>` есть в коллекции, иначе `false`.
+`<set>.has(<значение>)` - возвращает `true`, если `<значение>` есть в коллекции, иначе `false`.  
 `<set>.clear()` - очищает `<set>`.  
-`<set>.size` - свойство, которое хранит общее количество записей в `<set>`.
+`<set>.size` - свойство, которое хранит общее количество записей в `<set>`.  
+`<set>.union(<another_set>)` - возвращает новый `Set` в котором находятся **все** элементы из `<set>` и `<another_set>` (*объединение*).  
+`<set>.intersection(<another_set>)` - возвращает новый `Set` в котором находятся **общие** элементы из `<set>` и `<another_set>` (*пересечение*).  
+`<set>.difference(<another_set>)` - возвращает новый `Set` в котором находятся **только** элементы из `<set>`, которых нет в `<another_set>`.  
+`<set>.symmetricDifference(<another_set>)` - возвращает новый `Set` в котором находятся элементы из `<set>`, которых нет в `<another_set>` и элементы из `<another_set>`, которых нет в `<set>`.  
+`<set>.isSubsetOf(<another_set>)` - возвращает `true` если `<another_set>` содержит  в себе все элементы `<set>` (*подмножество*), а иначе `false`.  
+`<set>.isSupersetOf(<another_set>)` - возвращает `true` если `<set>` содержит в себе все элементы `<another_set>` (*надмножество*), а иначе `false`.  
+`<set>.isDisjointFrom(<another_set>)` - возвращает `true` если `<set>` и `<another_set>` не содержат в себе общих элементов, а иначе `false`.
 
 Перебор `Set` осуществляется через `forEach` или `for..of` аналогично как `Map`.
 
@@ -2103,7 +2110,7 @@ for await ((let | const) <переменная> of <объект>) {
 `btoa('<строка>');` - возвращает строку в виде Base64, в которой закодирована указанная строка.  
 `atob('<строка_в_формате_Base64>');` - возвращает строку, в которой указанная строка в виде Base64 раскодирована.
 
-Для кодирования Unicode строк, необходимо воспользоваться преобразователями.
+Для кодирования Unicode строк, необходимо воспользоваться преобразователями, так как `btoa()` и `atob()` - работают только со строками, где символ занимает только один байт.
 
 Кодирование:
 ```javascript
@@ -2115,6 +2122,11 @@ function toBinary(string) {
     return String.fromCharCode(...new Uint8Array(codeUnits.buffer));
 }
 btoa(toBinary('<строка>'));
+function stringToBase64(str) {
+    const bytes = new TextEncoder().encode(str)
+    const binString = String.fromCodePoint(...bytes);
+    return btoa(binString);
+}
 ```
 
 Декодирование:
@@ -2127,6 +2139,10 @@ function fromBinary(binary) {
     return String.fromCharCode(...new Uint16Array(bytes.buffer));
 }
 fromBinary(atob('<строка_в_формате_Base64>'));
+function base64ToString(base64) {
+    const binString = atob(base64);
+    return new TextDecoder().decode(Uint8Array.from(binString, (m) => m.codePointAt(0)));
+}
 ```
 
 ### <a id="Кодирование-URI" href="#Кодирование-URI">Кодирование URI</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
