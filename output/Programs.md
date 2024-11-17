@@ -25,6 +25,10 @@
     - [Сервис](#user-content-Сервис)
     - [Ingress](#user-content-Ingress)
     - [Job](#user-content-Job)
+    - [RBAC](#user-content-RBAC)
+        - [Role / ClusterRole](#user-content-Role--ClusterRole)
+    - [RoleBinding / ClusterRoleBinding](#user-content-RoleBinding--ClusterRoleBinding)
+    - [NetworkPolicy](#user-content-NetworkPolicy)
     - [minikube](#user-content-minikube)
     - [Helm](#user-content-Helm)
         - [Шаблоны](#user-content-Шаблоны)
@@ -744,7 +748,7 @@ spec:
 
 Манифест для Deployment:
 ```yaml
-apiVersion: v1
+apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: <имя>
@@ -778,7 +782,7 @@ spec:
 
 Манифест для HorizontalPodAutoscaler:
 ```yaml
-apiVersion: v1
+apiVersion: autoscaling/v2
 kind: HorizontalPodAutoscaler
 metadata:
   name: <имя>
@@ -957,6 +961,107 @@ spec:
 ```
 
 `kubectl create job --from="cronjob/<имя_job>" [<новое_имя_job>]` - создает джобу, на основе кронджобы `cronjob/<job-name>` [с новым именем `<новое_имя_job>`] и запускает ее.
+
+## <a id="RBAC" href="#RBAC">RBAC</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+Компоненты RBAC:
+- **Role** (роль) - набор разрешений, который определяет, какие действия можно выполнять над ресурсами в определенном неймспейсе;
+- **ClusterRole** аналогичен Role, но применяется ко всему кластеру и используется для управления ресурсами, которые не привязаны к определенному неймспейсу (например nodes или persistentvolumes);
+- **RoleBinding** связывает пользователя, группу или сервисный аккаунт с ролью (Role) в конкретном неймспейсе и предоставляет разрешения, которые определены в роли;
+- **ClusterRoleBinding** аналогичен RoleBinding, но применяется ко всему кластеру и связывает пользователя, группу или сервисный аккаунт с кластерной ролью (ClusterRole).
+
+### <a id="Role--ClusterRole" href="#Role--ClusterRole">Role / ClusterRole</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+Существую две категории глаголов (verb):
+- для права на запись (write) - `create`, `update`, `patch`, `delete`;
+- для права на чтение (read) - `get`, `list`, `watch`.
+
+Манифест для Role:
+```yaml
+apiVersion: rbac.authorization.k8s.io/v1
+kind: Role
+metadata:
+  namespace: <namespace>
+  name: <имя_роли>
+rules:
+- apiGroups: ["<тип_api_1>"[, ...]]
+  resources: ["<тип_ресурса_1>"[, ...]]
+  verbs: ["<глагол_1>"[, ...]]
+```
+
+Манифест для ClusterRole:
+```yaml
+apiVersion: rbac.authorization.k8s.io/v1
+kind: ClusterRole
+metadata:
+  name: <имя_роли>
+rules:
+- apiGroups: ["<тип_api_1>"[, ...]]
+  resources: ["<тип_ресурса_1>"[, ...]]
+  verbs: ["<глагол_1>"[, ...]]
+```
+
+## <a id="RoleBinding--ClusterRoleBinding" href="#RoleBinding--ClusterRoleBinding">RoleBinding / ClusterRoleBinding</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+Используется для связи роли и пользователей.
+
+Манифест для RoleBinding:
+```yaml
+apiVersion: rbac.authorization.k8s.io/v1
+kind: RoleBinding
+metadata:
+  name: <имя_связи>
+  namespace: <namespace>
+subjects:
+- kind: User
+  name: <имя_пользователя_1>
+  apiGroup: rbac.authorization.k8s.io
+roleRef:
+  kind: Role
+  name: <имя_роли>
+  apiGroup: rbac.authorization.k8s.io
+```
+
+Манифест для ClusterRoleBinding:
+```yaml
+apiVersion: rbac.authorization.k8s.io/v1
+kind: ClusterRoleBinding
+metadata:
+  name: <имя_связи>
+subjects:
+- kind: User
+  name: <имя_пользователя_1>
+  apiGroup: rbac.authorization.k8s.io
+roleRef:
+  kind: Role
+  name: <имя_роли>
+  apiGroup: rbac.authorization.k8s.io
+```
+
+## <a id="NetworkPolicy" href="#NetworkPolicy">NetworkPolicy</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+**Сетевые политики** (NetworkPolicy) позволяют ограничивать и настраивать сетевую активность в кластере, задавая правила для входящего и исходящего трафика.
+
+Манифест для NetworkPolicy:
+```yaml
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+  name: <имя_сетевой_политики>
+spec:
+  podSelector:
+    matchLabels:
+      <ключ_входящий_1>: <значение>
+  policyTypes:
+  - Ingress
+  ingress:
+  - from:
+      - podSelector:
+          matchLabels:
+            <ключ_исходящий_1>: <значение>
+```
+
+Позволяет взаимодействовать подам с метками: `<ключ_исходящий_1>: <значение>` с подами с метками: `<ключ_входящий_1>: <значение>`.
 
 ## <a id="minikube" href="#minikube">minikube</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
@@ -1591,7 +1696,7 @@ admin_users = {
 
 **Модуль** - это контейнер для нескольких ресурсов, которые используются совместно и позволяют структурировать код Terraform. Модуль состоит из набора файлов `.tf` или `.tf.json` в одной директории и позволяет компоновать и переиспользовать код Terraform, скрывая его внутреннюю реализацию.
 
-Корневой модуль - **root**, который содержит файлы в текущей директории. Корневой модуль может вызывать другие модули для добавления их в конфигурацию — **child**, или дочерние. При этом дочерние модули также могут вызывать другие модули.
+Корневой модуль - **root**, который содержит файлы в текущей директории. Корневой модуль может вызывать другие модули для добавления их в конфигурацию - **child**, или дочерние. При этом дочерние модули также могут вызывать другие модули.
 
 Дочерний модуль предоставляет интерфейс для взаимодействия с ним посредством входных и выходных значений. В качестве входных значений передаются параметры для создаваемой инфраструктуры. В качестве выходных значений можно получить, например, идентификаторы созданных ресурсов для использования в корневом модуле.
 
