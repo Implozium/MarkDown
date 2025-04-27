@@ -104,12 +104,18 @@
 ### Суффиксы
 
 Для образования существительных используются:
-- `-er` - для глаголов, для лиц которые производят деятельность (делают что-то):
+- `-er` - для глаголов, для лиц которые производят деятельность (делают что-то), употребляется после: `-tch`, `-ph`, `-gh`, `-sh`, `-ng`:
     > writt**er**, work**er**
-- `-or` - аналогично `-er` для некоторых глаголов:
+- `-or` - аналогично `-er` для некоторых глаголов, употребляется после: `-it`, `-ate`, `-ct`:
     > operat**or**, act**or**
+- `-ist` - аналогично `-er` для некоторых глаголов, употребляется после: `-ize` и заменяет его:
+    > dramat**ist**
+- `-ent` - аналогично `-er` для некоторых глаголов:
+    > stud**ent**
 - `-er` / `-or` - для глаголов, для вещей которые делают конкретную работу:
     > project**or**, open**er**
+- `-ian` - для существительных, для лиц которые соответствуют определенному месту, вере или профессии:
+    > music**ian**
 - `-ee` - для глаголов, для лиц которые являются объектом действия или испытывают его на себе:
     > employ**ee**, pay**ee**
 - `-(t)ion` - для глаголов:
@@ -729,16 +735,19 @@ She | reads |    | her notes   | to Peter | every day
 
 ### Отрицательная форма глагола
 
-Образуется с помощью отрицания `not` (`[nɔt]`) **не**, которая ставится после глагола, в разговорной речи принимает форму `n't` и сливается с глаголом:
-- `to be` - `am not`; `is not` / `isn't`; `are not` / `aren't`;
-- `to have` - `have not` / `haven't`; `has not` / `hasn't`;
-- `can` - `cannot` / `can't`;
-- `may` - `may not`;
-- `must` - `must not` / `mustn't`.
+Образуется с помощью отрицания `not` - `[nɔt]` - не, которая ставится после глагола, в разговорной речи принимает форму `n't` и сливается с глаголом.
 
-Отрицательная форма смысловых глаголов образуется с помощью `do not` / `don't` (`[dount]`) перед смысловым глаголом; для 3-го лица ед. числа ставится `does not` / `doesn't` (`[dʌznt]`), и поглощает окончание `-(e)s` смыслового глагола.
+Глагол    | Отрицание
+--------- | ---------
+`to be`   | `am not`; `is not` / `isn't`; `are not` / `aren't`
+`to have` | `have not` / `haven't`; `has not` / `hasn't`
+`can`     | `cannot` / `can't`
+`may`     | `may not`
+`must`    | `must not` / `mustn't`
 
-Перед формой Infinitive частица `not` ставится впереди этой формы.
+Отрицательная форма смысловых глаголов образуется с помощью `do not` / `don't` - `[dount]` перед смысловым глаголом; для 3-го лица ед. числа ставится `does not` / `doesn't` - `[dʌznt]`, и поглощает окончание `-(e)s` смыслового глагола.
+
+Перед формой **Infinitive** частица `not` ставится впереди этой формы.
 
 ### Инфинитив **Infinitive**
 
@@ -798,7 +807,7 @@ She | reads |    | her notes   | to Peter | every day
 - после модальных глаголов (`can`, `could`, `must`, `needn't`, `shall`, `will`, `may` и т.д.):
     > He can't read.
 
-- после глаголов `let` (`let's` = `let us`) (в значении "позволять") и `make` (в значении "заставлять"): `let` / `make` + `<кого>` + `<что_делать>` + ...:
+- после глаголов `let` (`let's` = `let us`) (в значении "позволять"), `make` (в значении "заставлять") и `help` (в значении "помогать"): `let` / `make` / `help` + `<кого>` + `<что_делать>` + ...:
     > My parents don't **let** me **stay** out late.  
     > Mother **made** me **clean** my room yesterday.
 
@@ -926,22 +935,6 @@ She | reads |    | her notes   | to Peter | every day
 `I` / `we` / `you` / `they` | `have` - `[hæv]`
 `he` / `she` / `it`         | `has` - `[hæz]`
 
-### Отрицательная форма глагола
-
-Образуется с помощью отрицания `not` - `[nɔt]` - не, которая ставится после глагола, в разговорной речи принимает форму `n't` и сливается с глаголом.
-
-Глагол    | Отрицание
---------- | ---------
-`to be`   | `am not`; `is not` / `isn't`; `are not` / `aren't`
-`to have` | `have not` / `haven't`; `has not` / `hasn't`
-`can`     | `cannot` / `can't`
-`may`     | `may not`
-`must`    | `must not` / `mustn't`
-
-Отрицательная форма смысловых глаголов образуется с помощью `do not` / `don't` - `[dount]` перед смысловым глаголом; для 3-го лица ед. числа ставится `does not` / `doesn't` - `[dʌznt]`, и поглощает окончание `-(e)s` смыслового глагола.
-
-Перед формой **Infinitive** частица `not` ставится впереди этой формы.
-
 ### Императивная форма глагола (Imperative)
 
 Императивная форма глагола формируется глаголом без субъекта и глагол соответствует для 2-ой формы единственного или множественного числа:  
@@ -1025,6 +1018,7 @@ She | reads |    | her notes   | to Peter | every day
     - `leave` + `<someting>` + `out` = omit it, not include it;
     - `cross` + `<someting>` + `out`;
     - `rub` + `<someting>` + `out`;
+    - `ask` + `<somebody>` + `out` + (`to` + a place / `for` + a meal) = invite somebody for a date;
     - `fill` + `out` + a form / a questionnaire / ... = write the nessary information on a form;
     - для обозначения тушения = not burning, not shining:
         - `go` + `out`:
@@ -1133,6 +1127,7 @@ She | reads |    | her notes   | to Peter | every day
     - `mix` + `up` + people / things = you think one is the other:
         > The two brothers look very similar. Many people **mix** them **up**.
     - `get` + people / things + `mixed` + `up` = you think one is the other;
+    - `be hung up on` + `<somebody>` = spend an unreasonably large amount of time thinking about somebody;
     - "верх" ассоциируется с чем-то положительным, сильным, топовым, с увеличением присутствия, активности;
     - обозначает "до конца, полностью", для глаголов эквивалентно русской приставке **"с-"** / **"за-"**:
         - `eat up` - **с-есть**;
@@ -1202,6 +1197,8 @@ She | reads |    | her notes   | to Peter | every day
     - `show` + `off` = try to impress people with your ability, your knowledge, ...;
     - `tell` + `<somebody>` + `off` = speak angrily to somebody because they did something wrong:
         > Clare's mother **told** her **off** for wearing dirty shoes in the house.
+    - `cut` + `<somebody>` + `off` = interrupt somebody and stop them from speaking
+        > But you didn’t have to **cut** me **off**
     - обозначает "состояние части, отделенной от целого", "отделение", для глаголов эквивалентно русской приставке **"от-"** (**"с-"**):
         - `work off` - **от-работать**;
         - `put off` - **от-кладывать**;
@@ -1223,7 +1220,7 @@ She | reads |    | her notes   | to Peter | every day
     - для продолжания делания чего-то:
         - `drive` / `walk` / `play` / ... + `on` = continue walking / driving / playing / ...;
         - `go` + `on` = continue;
-        - `go` / `carry` + `on` + (`<verb>`(`-ing`) + `<something>`) = continue (doing something);
+        - `go` / `carry` + `on` + [`<verb>`(`-ing`) + `<something>`] = continue (doing something);
         - `go` / `carry` + `on` + `with` + `<something>` = continue;
         - `keep` + `on` + `<verb>`(`-ing`) + `<something>` = do it continue or repeatedly;
     - `get` + `on` = progress;
@@ -1266,11 +1263,26 @@ She | reads |    | her notes   | to Peter | every day
     - `pay` + `back` + money = return money;
     - `pay` + `<somebody>` + `back` = return money to somebody.
 
+- `over`:
+    - `screw` + `<someone>` + `over` = put someone in a difficult position, especially in an unfair or selfish manner;
+
+- `into`:
+    - `read` + `into` + `<something>` = think that something means more than it really does;
+
 ## Модальные глаголы
+
+Основные функции, которые помогают выразить модальные глаголы:
+- способность и возможность (`can`);
+- совет (`should`);
+- обязанность, необходимость или отсутствие необходимости (`must`);
+- запрет (`mustn't`);
+- разрешение (`may`);
+- просьба (`could`);
+- неуверенность, сомнение и предположение (`might`).
 
 ### Модальные глаголы вероятности
 
-Выражают не реальное действие или состояние, а отношение к ним действующего лица.
+Выражают не реальное действие или состояние, а отношение к ним действующего лица. Бывают:
 - `can` + `<verb>`:
     - значит **мочь** в смысле что, что-то возможно или разрешено, или что кто-то имеет возможность сделать что-то:
         > We **can see** the lake from our bedroom window.
@@ -1331,7 +1343,7 @@ She | reads |    | her notes   | to Peter | every day
 - `must` + `<verb>`:
     - для указания того, что кто-то верит во что-то очень сильно:
         > You're been travelling all day. You **must be** tired.
-    - означает **должествование**.
+    - означает **должествование**;
     - `must have` + `<verb>`(`-ed` / III form):
         - аналогично `must`, только для прошлого:
             > I didn't hear the phone. I **must have been** asleep.
@@ -1357,32 +1369,6 @@ She | reads |    | her notes   | to Peter | every day
 Прошедшая форма `to be able to` или `managed to` используется для того, чтобы сказать что, кто-то сделал что-то в прошлом в определенной ситуации:
 > We didn't know where David was, but we **were able to find** him in the end.
 
-#### Вопросы
-
-Для запросов кому-то сделать что-то используются: `can`, `could`, реже `will`, `would`:
-> **Can** you wait a moment, please?
-
-И конструкция: `Do` + `<somebody>` + `think` + `<somebody>` + `could` + `<verb>` + ...?
-> **Do** you **think** you **could** lend me some money until next week?
-
-Для просьб о чем-то используются конструкции: `Can I have` + `<something>` + ...?, `Could I have` + `<something>` + ...?, `May I have` + `<something>` + ...?:
-> **Could I have** the salt, please?
-
-Для просьб сделать что-то используются конструкции: `Can I` + `<verb>` + ...?, `Could I` + `<verb>` + ...?, `May I` + `<verb>` + ...?:
-> **May I** come in? - Yes, please do.
-
-И конструкции: `Do` + `<somebody>` + `mind if I` + `<verb>` + ...?, `Is it all right` / `Is it OK` + `if I` + `<verb>` + ...?:
-> **Do** you **mind if I** use your phone?
-
-Для предложений сделать что-то используется конструкция: `Can I` + `<verb>` + ...?:
-> **Can I** get ypu a cup of coffee. - That would be nice.
-
-Для предложений и приглашений используется конструкция: `Would` + `<somebody>` + `like` + (`to` + `<verb>`) + ...?:
-> **Would** you **like to come** to dinner tomorrow evening? - I'd love to.
-
-Конструкция: `I'd like` + (`to` + `<verb>`) + ... используется когда хотят попросить что-то вежливо:
-> **I'd like to try** on this jacket, please.
-
 #### `might as well` / `may as well`
 
 Используется, когда хотят сказать что нет лучшей альтернативы и нет причин не делать этого:
@@ -1390,8 +1376,11 @@ She | reads |    | her notes   | to Peter | every day
 
 ### Разрешение `can` - `be allowed to`
 
-`Can` используется когда спрашивают или дают разрешение и `can't` для отказа в разрешении.
+`Can` используется когда спрашивают или дают разрешение и `can't` для отказа в разрешении:
 > "**Can** I watch TV?" "Of course, you can."
+
+`Cannot` = `can't` для указания того, что что-то нарушает правила:
+> Karen, you **can’t eat** at your desk!
 
 `Be allowed to` используется когда спрашивают, дают или отказывают в разрешения. При этом разрешение, однако, не зависит от говорящего.
 > **Am** I **allowed to** park my motorcycle here? (What is the law?)  
@@ -1416,7 +1405,7 @@ She | reads |    | her notes   | to Peter | every day
     - для выражения о том что, что-то было сделано, но это не должно было сделано в прошлом:
         > I'm feeling sick. I **shouldn't have eaten** so much. (= I ate too much)
 - после глаголов, в частности: `demand` / `insist` / `propose` / `recommend` / `suggest`. При этом `should` может опускаться:
-    > I **demand** that he (**should**) **apologise**.
+    > I **demand** that he (**should**) apologise.
 - после прилагательных, в частности: `strange` / `odd` / `funny` / `typical` / `natural` / `interesting` / `surprised` / `surprising`:
     > It's **strange** that he **should be** late. He's usually on time.
 - в конструкции: `It's` + `important` / `vital` / `necessary` / `essential` + `that` + ... + `should` + ...:
@@ -1424,7 +1413,8 @@ She | reads |    | her notes   | to Peter | every day
 - для дачи совета о том как кто-то поступил бы на его месте:
     > I'm going out now. Is it cold? - yes, **I should wear** a coat.
 
-Имеет устаревший эквивалент `ought to`.
+Имеет устаревший эквивалент `ought [not] to`, которое употребляется в более формальном тоне:
+> Children **ought to** respect their parents.
 
 #### `Had better`
 
@@ -1442,10 +1432,12 @@ She | reads |    | her notes   | to Peter | every day
 Используются для выражения обязанностей и необходимостей.
 
 `Have to` / `Don't have to` / `Doesn't have to` + `<verb>` используются во всех временах:
-- для выражения обязанностей и необходимостей:
+- для выражения обязанностей и необходимостей сделать что-то исходящих из внешнего мира:
     > I **have to wear** glasses for reading.
 - для выражения нехватки чего-то с помощью `don't have` / `doesn't have`:
     > You **don't have to** buy any oranges. We've got plenty.
+- для выражения того, что кто-то может не делать это, но может сделать если захочет с помощью `don't have` / `doesn't have`:
+    > You **don’t have to** cook dinner tonight, I’ll order takeout.
 - для выражения того, что кто-то должен делать что-то:
     > I **have to work** from 8.30 to 5.30 every day.
 - в будущем времени с использованием `will` или `might` / `may`:
@@ -1456,19 +1448,20 @@ She | reads |    | her notes   | to Peter | every day
 `Have got to` + `<verb>` может применяться вместо `have to`.
 
 `Must` / `Mustn't` + `<verb>` используются только в настоящем времени:
-- для выражения обязанностей и необходимостей, аналогично `have to`:
+- для выражения обязанностей и необходимостей, аналогично `have to`, исходящих от самого говорящего (то есть важных лично для него):
     > It's later than I thought. I **must go**.
-- для выражения собственного совета о том что что-то необходимо сделать или рекомендации сделать что-то:
-    > I haven't spoken to Sue for ages. I **must phone** her.
+- для выражения собственного совета о том что что-то необходимо сделать или "сильной" рекомендации сделать что-то:
+    > I haven't spoken to Sue for ages. I **must phone** her.  
+    > Dan, you **must try** this new office software. It’s amazing!
 - для написаных правил или инструкций:
     > You **must write** your answers in ink.
 - для выражения строгого запрета с помощью `mustn't`:
-    > You **mustn't** park here.
+    > You **mustn’t smoke** here. This is a smoke-free area.
 
 ### `Need to`
 
 `Need to` + `<verb>` используется:
-- для выражения необходимости для кого-то сделать что-то:
+- для выражения личной или внешней необходимости для кого-то сделать что-то:
     > I **need to do** more exercise.
 - `needn't` (`don't need to`) используется когда нет необходимости делать что-то, но возможность сделать это остается:
     > You can come with me if you like, but you **needn't come** if you don't want to. (= it is not necessary for you to come)
@@ -1495,6 +1488,32 @@ She | reads |    | her notes   | to Peter | every day
 `<субъект>` + `can't` + `<предикат>` + `<остальное>`
 
 > This book **can't** be his. He doesn't like detective stories.
+
+#### Вопросы
+
+Для запросов кому-то сделать что-то используются: `can`, `could`, реже `will`, `would`:
+> **Can** you wait a moment, please?
+
+И конструкция: `Do` + `<somebody>` + `think` + `<somebody>` + `could` + `<verb>` + ...?
+> **Do** you **think** you **could** lend me some money until next week?
+
+Для просьб о чем-то используются конструкции: `Can I have` + `<something>` + ...?, `Could I have` + `<something>` + ...?, `May I have` + `<something>` + ...?:
+> **Could I have** the salt, please?
+
+Для просьб сделать что-то используются конструкции: `Can I` + `<verb>` + ...?, `Could I` + `<verb>` + ...?, `May I` + `<verb>` + ...?:
+> **May I** come in? - Yes, please do.
+
+И конструкции: `Do` + `<somebody>` + `mind if I` + `<verb>` + ...?, `Is it all right` / `Is it OK` + `if I` + `<verb>` + ...?:
+> **Do** you **mind if I** use your phone?
+
+Для предложений сделать что-то используется конструкция: `Can I` + `<verb>` + ...?:
+> **Can I** get ypu a cup of coffee. - That would be nice.
+
+Для предложений и приглашений используется конструкция: `Would` + `<somebody>` + `like` + (`to` + `<verb>`) + ...?:
+> **Would** you **like to come** to dinner tomorrow evening? - I'd love to.
+
+Конструкция: `I'd like` + (`to` + `<verb>`) + ... используется когда хотят попросить что-то вежливо:
+> **I'd like to try** on this jacket, please.
 
 ## Наречие (adverb)
 
@@ -1552,6 +1571,9 @@ She | reads |    | her notes   | to Peter | every day
 > If something is **boring**, it makes you **bored**.  
 > The film was **boring**. She is a very interesting person.
 
+Используются когда говорят о событиях, опыте, или личностях: `<somebody>` / `<something>` + `is` + `<adjective>`(`-ing`):
+> It was amazing.
+
 Прилагательные, которые оканчиваются на `-ed` (`interested`, `amazed`), используются для описания, того, когда кто-то или что-то воздействовало на них и сделало таким же (`-ing`):  
 `<somebody>` / `<something>` + `is` + `<adjective>`(`-ed`) + `if` `<somebody_else>` / `<something_else>` + `is` + `<adjective>`(`-ing`):
 > Somebody is **bored** if something else is **boring**.  
@@ -1605,6 +1627,12 @@ She | reads |    | her notes   | to Peter | every day
 `even` - `даже` может использоваться перед:
 > I got up very early, but Jack got up **even earlier**.
 
+Прилагательные бывают:
+- **нормальными** - которые имеют разные уровни их качества:
+    > a bit cold
+- **экстремальные** - которые имеют уже заложеное значение `very` в их значении:
+    > exhausting
+
 ### Использование
 
 **Comparative form** (сравнительная степень) используется для сравнения двух людей, вещей, мест и т.п. Обычно используется `than` после сравнительного прилагательного или наречия:
@@ -1613,7 +1641,7 @@ She | reads |    | her notes   | to Peter | every day
 **Superlative form** (превосходная степень) используется для сравнения человека, вещи, местности с целой группой, к которой они принадлежат. Обычно используется `in` для организаций или групп людей или `of` для периода времени, после превосходного прилагательного или наречия:
 > Pluto is **the coldest planet in** our solar system.
 
-Для указания (не) похожести двух людей, вещей, мест используется конструкция: `(not) as <adjective> as` или `(not) so <adjective> as`:
+Для указания (не) похожести двух людей, вещей, мест используется конструкция: [`not`] + `as <adjective> as` или [`not`] + `so <adjective> as`:
 > Tom is **as tall as** Peter.
 
 Для указания сравнения в меньшую степень двух людей, вещей, мест используется конструкция: `less <adjective> than`, что подобно конструкции `not as <adjective> as`:
@@ -1622,8 +1650,14 @@ She | reads |    | her notes   | to Peter | every day
 Для указания сравнения в большую степень двух людей, вещей, мест используется конструкция: `much <comparative_form> than`:
 > This tie is **much longer** than one.
 
-Перед **comparative form** (сравнительная степень) могут использоваться конструкции для усиления или уменьшения сравнения: `much` / `a lot` / `far` (= a lot) / `a bit` / `a little` / `slightly` (= a little):
+Перед **comparative form** (сравнительная степень) могут использоваться конструкции для усиления сравнения: `much` / `a lot` / `far` / `way` (= a lot)  или уменьшения: `a bit` / `a little` / `slightly` (= a little), но они не используются с **экстремальными** прилагательными:
 > Don't go by train. It's **a lot more expensive**.
+
+Перед **comparative form** (сравнительная степень) для **экстремальных** и **простых** прилагательных могут использоваться конструкции для усиления сравнения: `absolutely` / `really`:
+> The mountain view was **absolutely gorgeous**.
+
+Перед **comparative form** (сравнительная степень) для **простых** прилагательных могут использоваться конструкции для усиления / уменьшения сравнения: `very`:
+> The work on my new project is **very tiring**.
 
 Конструкция: `no` + `<comparative_form>` - используется для отрицания:
 > We expected their house to be very big, but it's **no bigger** that ours.
@@ -1642,6 +1676,27 @@ She | reads |    | her notes   | to Peter | every day
 
 Конструкция: `the same` + ... + `as` - используется для указания равенства в сравнении:
 > David is **the same** age **as** James.
+
+Конструкция: ... + [`by far`] + `the` + `<superlative_form>` + ... + `I` + `have` + `ever` + `<verb>-ed` - используется для рассказа об опыте:
+> This is **the longest** book I’ve **ever** read.
+
+Конструкция: ... + `the` + `<superlative_form>` + ... + `in my live` / `ever` - используется для рассказа об опыте:
+> This is **the most boring** trip **in my life**.
+
+Для усиления эмоциональной окраски используются слова: `a bit`, `really`, `so`, и `very` перед прилагательными:
+> It was so scary.
+
+Конструкция: [`not`] + `as` + `<adjective>` + `as` + `<promise>` - используется для сравнения ожидания или обещания с реальностью:
+> The swimming pool was **not as** big **as** the manager promised.
+
+Конструкция: [`not`] + `as` + `<adjective>` + `as` + `<something>` - используется для указания того, что две вещи [не] равны:
+> The ticket to the Yeti Cave is **as** expensive **as** the Witch Hut. They both cost $15.
+
+Перед `as` может использоваться:
+- `just` - для указания того, что две вещи одинаковые:
+    > Campsites are just as cheap as in my country. (The prices are the same in both countries.)
+- `nearly` - для указания того, что две вещи одинаковые, но с маленькой разницей (при использовании `not` - большой):
+    > All-inclusive hotels in Romania aren’t nearly as expensive as in Paris. (All-inclusive hotels in Paris are much more expensive.)
 
 Времена
 =======
@@ -2056,7 +2111,7 @@ She | reads |    | her notes   | to Peter | every day
     > You **will be** a great computer operator one day.
 - **для выражения угроз или предупреждений (threats / warnings)**:
     > Be quiet or I **will send** you out.
-- **для выражения обещаний (promises) или решений принятых в момент речи (on-the-spot-decisions)**:
+- **для выражения обещаний (promises) или решений принятых в момент речи (on-the-spot-decisions)** только для `I` / `we`:
     > I **will buy** you this ring.
 - **после глаголов `hope`, `think`, `believe`, `expect` и т.п.; с выражениями `I'm sure`, `I'm afraid` и т.п., а также наречиями `probably`, `perhaps` и т.п.**:
     > I hope he **will pass** his exams.  
@@ -2892,7 +2947,7 @@ object  | a cake | by Susan
     > The earthquake occured **during** the night.
 - `no sooner ... than` / `hardly ... when` - `едва ... как` (используется для указания что одно действие случилось сразу же за другим действием), при этом главное предложение используется во времени **Perfect**:
     > Sheila had **no sooner** finished reading the letter **than** she burst into tears.
-- `as soon as` / `the moment (that)` - `как только` / `в тот момент` (сразу когда произойдет событие):
+- `as soon as` / `the moment` + [`that`] - `как только` / `в тот момент` (сразу когда произойдет событие):
     > Call me **as soon as** / **the moment (that)** you arrive.
 
 ## Придаточные предложения (`Clauses`)
@@ -3216,6 +3271,11 @@ object  | a cake | by Susan
     > Come to my house tomorrow morning.
 - перед словами: `this`, `last`, `next`, `every`, `all`, `some`, `each`, `one` или `any`:
     > Let's go to the cinema next Saturday.
+
+## Предлог `due`
+
+Употребляется для указания того, что кто-то / что-то должно быть ровно в какое-то время:
+> The next bus is **due** tomorrow at 6 a.m. = The next bus arrives tomorrow at 6 a.m.
 
 ### Конструкции
 
@@ -3641,6 +3701,29 @@ object  | a cake | by Susan
 `to be` может заменяться на `to get` для предметов:
 > Our new flat is on a very busy street. I expected we'll **get used to** the noise, but at the moment it's very disturbing.
 
+## `to used to be`
+
+`<something>` + `used to be` + `<something>` / `<adjective>` + ...
+
+Используется:
+- для указания того, чтобы описать состояние или качество кого-то / чего-то в прошлом:
+    > She **used to be** going to work on foot.
+
+## `there used to be`
+
+`there used to be` + `<something>` / `<adjective>` + ...
+
+- для указания того, что что-то существовало в определенном месте ранее, но сейчас нет этого:
+    > There **used to be** plenty of green spaces in the city.
+
+## `used` questions
+
+`Did` + `<somebody>` + `use to` + `<verb>` + `when` + `<period_of_time>`? - вопрос о привычках в прошлом:
+> Did you use to walk to work when you lived there?
+
+`Did` + `<somebody>` + `use to` + `<verb>` + ...? - вопрос о состояниях, привычках, повторяемых действиях в прошлом:
+> Did you use to work here?
+
 ## `It's time`
 
 `It's time` + (`for` + `<somebody>`) + `to` + `<verb>` + ... - Пришло (для кого-то) время сделать ...
@@ -3732,21 +3815,23 @@ object  | a cake | by Susan
 
 ## `too` - `enough`
 
-`Too` следует перед прилагательными и наречиями и имеет негативное значение, которое показывает что что-то больше (черезчур) чем достаточно (`слишком`), больше чем необходимо или больше чем хочется, для этого используется конструкция:
+`Too` следует **перед** прилагательными, наречиями и существительными и имеет негативное значение, которое показывает что что-то больше (черезчур) чем достаточно (`слишком`), больше чем необходимо или больше чем хочется, для этого используется конструкция:
 - `too` + `<прилагательное>` / `<наречие>`:
-    > too hard
+    > The accident happened **too quickly**, so I didn’t remember the details.
+- `too` + `much` / `many` / `few` / `little` + `<существительное>`:
+    > There’s **too much traffic** in big cities.
 
 `Enough` следует **перед** существительными, но **после** прилагательных и наречий и имеет позитивное значение, которое показывает, что того что хочется или необходимо имеется в достатке (`достаточно`), для этого используется конструкции:
 - `<прилагательное>` / `<наречие>` + `enough`:
-    > fit enough
+    > Our dining room is **spacious enough** for all the guests.
 - `enough` + `<существительное>`:
-    > enough chairs
+    > Do you have **enough money** to pay for your gym membership this month?
 
 Основные конструкции:
-- `too` / `enough` + ... + `for` + `<somebody>` / `<something>` - для описания того, что чего-то слишком или достаточно для кого-то или чего-то:
+- `too` / `enough` + ... + `for` + `<somebody>` / `<something>` - для описания того, что чего-то слишком / достаточно для кого-то / чего-то:
     > She talks **too softly for me to hear** her.  
     > The dog is **gentle enough to play for me**.
-- `too` / `enough` + ... + `to-<verb>` - для описания того, что чего-то слишком или достаточно для того чтобы сделать что-то:
+- `too` / `enough` + ... + `to-<verb>` - для описания того, что чего-то слишком / достаточно для того чтобы сделать что-то:
     > Bob is **too short to become** a basketball player.  
     > We've got **enough eggs to make** an omelette.
 
@@ -3821,7 +3906,7 @@ object  | a cake | by Susan
 
 `both`, `neither`, `either` используется, когда относится к двум людям или вещам:
 - `both` - имеет позитивное значение, констукции:
-    - `both` + `(the + )<существительное_в_мн.ч.>` + `<предикат>`;
+    - `both` + [`the`] + `<существительное_в_мн.ч.>` + `<предикат>`;
     - `both` + `of the / these / my / your / etc. + <существительное_в_мн.ч.>` + `<предикат>`;
     - `both` + `of us / them / etc.` + `<предикат>`;
     > Both girls / Both of the girls / Both of them are very good students.
@@ -3988,8 +4073,11 @@ object  | a cake | by Susan
 > It's too late to go to the bank now. **By the time we get there**, it will be closed. (= the bank will close between now and the time we get there)  
 > Karen's car broke down on the way to the party last night. **By the time she aarived**, most of the other guests had left. (= it took her a long time to get to the party and most of the guests left during the time)
 
-`until` / `till` - `пока` - используется для выражения того, как долго что-то происходит до определенного момента времени:
+`until` / `till` - `до тех пор` / `пока` - используется для выражения того, как долго что-то происходит до определенного момента времени:
 > I couldn't get up this morning. I stayed in bed **until** half past ten.
+
+`within` + `<период_времени>` - `в течении` - используется для выражения того, в течении какого периода времени что-то произойдет:
+> I have to send this email **within** two days.
 
 Выражение эмоций
 ================
@@ -4049,11 +4137,11 @@ object  | a cake | by Susan
 ==============
 
 Передает содержание чьего-лбо высказывания, но не точные слова. Образуется с помощью глаголов `say` - сказал, `tell` - рассказал (чаще используется, когда адресат - это само лицо, которое выражает косвенную речь), при этом `that` может опускаться:
-- `<someone>` + `said` + `(that)` + `...`:
+- `<someone>` + `said` + [`that`] + `...`:
     > She **said** she was angry.
-- `<someone>` + `said` + `to` + `<адресат>` + `(that)` + `...`:
+- `<someone>` + `said` + `to` + `<адресат>` + [`that`] + `...`:
     > She **said to me that** she was angry.
-- `<someone>` + `told`  + `<адресат>` + `(that)` + `...`:
+- `<someone>` + `told` + `<адресат>` + [`that`] + `...`:
     > She **told me** that she was angry.
 
 > "He sent me flowers", she said. - She said that he had sent her flowers.
@@ -4088,11 +4176,11 @@ object  | a cake | by Susan
 | `this`                     | `that`                              |
 | `these`                    | `those`                             |
 
-Конструкция `order` / `tell` + `<somebody>` + `(not)` + `to-<verb>` используется для выражения команды в косвенной речи.
+Конструкция `order` / `tell` + `<somebody>` + [`not`] + `to-<verb>` используется для выражения команды в косвенной речи.
 > "Be quiet!" she said. - She **ordered me to be quiet**.  
 > "Be polite with the customers," he said. - He **told me to be** polite with the customers.
 
-`Ask` / `beg` + `<somebody>` + `(not)` + `to-<verb>` используется для выражения просьбы в косвенной речи.
+`Ask` / `beg` + `<somebody>` + [`not`] + `to-<verb>` используется для выражения просьбы в косвенной речи.
 > "Please, please don't go" he said. - He begged me not to go.
 
 `to say` + `<something>` + `to` + `<somebody>` используется для передачи косвенной речи от одного человека к другому.
@@ -4103,7 +4191,7 @@ object  | a cake | by Susan
 Вопросы в косвенной речи образуются при помощи глаголов `ask`, `want` без вопросительного знака, с глаголом в утвердительной форме (в прямом порядке слов в вопросе).
 > "What time does the film start?" Mary asked me. - Mary **asked** me **what time the film started**.
 
-Если вопрос в прямой речи начинается со вспомогательного глагола: `be`, `do`, `have` или модального глагола: `can`, `may`, `will`, то вопрос в косвенной речи образуется при помощи `if` или `whether`.
+Если вопрос в прямой речи начинается со вспомогательного глагола: `be`, `do`, `have` или модального глагола: `can`, `may`, `will`, то вопрос в косвенной речи образуется при помощи `if` или `whether`, при этом `do` не используется: `<someone>` + `ask` / `want` + [`<someone>`] + `if` / `whether` + `<subject>` + `<verb>` + ...:
 > "**Have** you got a pet?" he asked me. - He asked me if I had got a pet.
 
 `whether` - используется после предлогов и перед глаголов вида `to-<verb>` и в конструкции `whether or not`.
@@ -4294,6 +4382,58 @@ Type of eating:
 - `can't stand`;
 - `hate` - ненависть.
 
+Для выражения того, что нравится используются конструкции:
+- `<somebody>` + `to be interested in` + `<noun>` / `<verb>-ing`;
+- `<somebody>` + `to be crazy about` + `<noun>` / `<verb>-ing`;
+- `<somebody>` + `to be mad about` + `<noun>` / `<verb>-ing`;
+- `<somebody>` + `to be keen on` + `<noun>` / `<verb>-ing`;
+- `<somebody>` + `to have a soft spot for` + `<noun>` / `<verb>-ing`.
+> I **have a soft spot for** arthouse movies.
+
+Для выражения того, что не нравится используются конструкции:
+- `<somebody>` + `can't stand` + `<noun>` / `<verb>-ing`;
+- `<somebody>` + `to be fed up with` + `<noun>` / `<verb>-ing`;
+- `<somebody>` + `to be not interested in` + `<noun>` / `<verb>-ing`;
+- `<somebody>` + `to be not keen on` + `<noun>` / `<verb>-ing`.
+> Our kids **aren’t keen on** field trips.
+
+## Предпочтения
+
+`like` + `<something>` + `more` / `less` / `better` + `than` + `<something>`:
+> I **like** fresh juice **better than** fruit.
+
+`prefer` + `<something>` + `to` + `<something>`:
+> My parents **prefer** flying **to** going by ferry.
+
+## Согласие
+
+Для выражения согласия используются конструкции:
+- `Definitely!`;
+- `Absolutely!`;
+- `Exactly!`;
+- `Totally!`;
+- `You're absolutely right!`;
+- `I feel exactly the same.`;
+- `That’s what I'm talking about.`;
+
+Для выражения несогласия используются конструкции:
+- `I'm not sure about that.`;
+- `I don't think so.`;
+- `I'm afraid I disagree.`;
+- `I see your point, but` + ...;
+- `Well, actually` + ....
+
+## `influence`
+
+Используется для выражения влияния:
+- как существительное: `have` + `an influence` + `on` + `<someone>`:
+    > Books by Prishvin **had a big influence on** my younger sister
+- как глагол:
+    - `influence` + `<someone>`:
+        > Books about superheroes **influence** children.
+    - `influence` + `<someone>` + `to` + `<verb>`:
+        > This book **influenced** me **to** stop smoking.
+
 ## `do` and `make`
 
 `do` - обозначает акцент на процессе действия.
@@ -4303,3 +4443,56 @@ Type of eating:
 `do` + `<verb>` - перед глаголом усиливает его:
 > Jane, I **do** like your new dress. Where did you get it? - Джейн, мне **действительно** нравится твое новое платье. Где ты его достала?  
 > Your music is too loud. **Do** turn it off! - Твоя музыка слишком громкая. **Давай** выключай ее!
+
+## `what’s the point of`
+
+`What’s the point of` + ... + `<noun>` / `<verb>+ing` + ...? - используется для задания вопроса о смысле.
+> `What’s the point of buying a camper van when we can rent it?`
+
+## Выражение
+
+`I'd like to try` + `<something>` + ... + `someday` - для выражения заинтересованости или любопытства:
+> **I’d like to try** the real sushi in Japan **someday**.
+
+[`Sounds like`] + `it’s worth trying` + `<noun>` / `<verb>+ing` + ... - для выражения рекомендации:
+> **Sounds like it’s worth trying** the local street food in Thailand.
+
+`I’m curious about` + `<something>` + ...:
+> **I’m curious about** the diverse flavors of Indian cuisine.
+
+`Given the choice, I’d` + `<verb>` + ... - для выражения предпочтения определенного варианта:
+> **Given the choice, I’d** eat only Japanese food.
+
+`I try to avoid` + `<noun>` / `<verb>+ing` + ... - для выражения уклонения или нежелания пробовать что-то:
+> **I try to avoid eating** dairy products because I’m allergic to lactose.
+
+`I would never try` + `<something>` + ...:
+> **I would never** try fried insects
+
+## Идентификация
+
+`<somebody>` + `identify` + `<pronoun>-self` + `with` + `<somebody>` - используется для того, чтобы сообщить, что кто-то ассоциирует себя с кем-то по характеру, внешности и поведению:
+> I **identify myself with** Katniss from The Hunger Games.
+
+`<somebody>` + `reminds` + `me` + `of` + `<somebody>` - используется для того, чтобы сообщить, что кто-то напоминает кого-то:
+> My boss **reminds me of** Miranda Priestly from The Devil Wears Prada - she is really serious and strict.
+
+`<somebody>` + `behaves` + [`just`] + `like` + `<somebody>` - используется для того, чтобы сообщить, что кто-то ведет себя как кто-то:
+> Sometimes Jason **behaves like** Donkey from Shrek.
+
+`<somebody>` + `looks` + `like` + `<somebody>` - используется для того, чтобы сообщить, что кто-то выглядет как кто-то:
+> My niece **looks like** Pippi Longstocking - she has red hair and freckles.
+
+## Национальности
+
+Для обозначения в общем людей принадлежащих определенным национальнастям используются правила:
+- не используются артикль для форм, которые имеею множественное число:
+    > Canadians (= all people from Canada) don’t mind cold weather.
+- если национальность оканчивается на `-ss`, `-ch`, `-ese`, ил `-sh`, то у них нет множественной формы:
+    > The French (= all people from France) are a deeply patriotic nation.
+- определенный артикль используется когда говорят о целой нации:
+    > The Russians suffered significant loses in WWII.
+- не используются артикль или используюется определенный артикль когда ссылаются на нацию:
+    > Brazilian people are very hospitable.
+- определенный артикль используется когда ссылаются на определенную группу людей определенной национальности:
+    > he Americans did well at the Winter Olympics in Vancouver.
