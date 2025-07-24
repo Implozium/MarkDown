@@ -1042,7 +1042,12 @@ She | reads |    | her notes   | to Peter | every day
     - `turn` + `out` + `to be` = prove;
     - `turn` + `out` + `good` / `nice` / ... = prove;
     - `turn` + `out` + `that` = prove;
+    - `shout` + `out` + `to` + `<somebody>` = поблагодарить;
+    - `make` + `out` + `with` + `<somebody>` = to kiss someone passionately:
+        > Toby didn't see the scene in the movie because he was **making out with** his girlfriend.
     - `try` + `out` + a machine / a system / a new idea / ... = test it to see if it is OK;
+    - `go` + `out` + `with` + `<somebody>` - to be in a romantic relationship:
+        > I heard Philip is **going out with** that girl from accounting, the blonde one.
     - обозначает "вне, снаружи" - "по направлению наружу", для глаголов эквивалентно русской приставке **"вы-"**:
         - `run out` - **вы-бегать**;
         - `fly out` - **вы-летать**.
@@ -1065,6 +1070,9 @@ She | reads |    | her notes   | to Peter | every day
     - `plug` + `in` + an electrical machine = connect it to the electricity supply;
     - `fill` + `in` + a form / a questionnaire / ... = write the nessary information on a form;
     - `take` + (`<somebody>`) + `in` = deceive somebody;
+    - `move` + `in` + `with` + `<somebody>` = съехаться с кем-то;
+    - `cheat` + `in` = обманывать;
+    - `chip` + `in` = скидываться (деньгами);
     - обозначает "внутрь, до конца, полностью", для глаголов эквивалентно русской приставке **"в-"** (**"за-"**):
         - `drive in` - **в-гонять** / **за-гонять**;
         - `breathe in` - **в-дыхать**;
@@ -1108,6 +1116,7 @@ She | reads |    | her notes   | to Peter | every day
         > Some interesting matters **came up** in our discussion yesterday.
     - `come` + `up` + `with` + an idea, a suggestion, ... = produce an idea;
     - `make` + `<something>` + `up` = invent something that is not true;
+    - `make` + `up` + `with` + `<somebody>` = мириться с кем-то;
     - `cheer` + `up` = be happier;
     - `cheer` + `<somebody>` + `up` = make somebody feel happier;
     - `save` + `up` + `for` + `<something>` = save money to buy something;
@@ -1115,6 +1124,8 @@ She | reads |    | her notes   | to Peter | every day
     - `clear` + `up` = become bright (for weather);
     - `blow` + `up` = explode;
     - `blow` + `<something>` + `up` = destroy it with a bomb, ...;
+    - `screw` + `up` = напортачить;
+    - `mess` + `up` = напортачить;
     - `tear` + `<something>` + `up` = tear it into pieces;
     - `beat` + `<somebody>` + `up` = hit someone repeatedly so that they are badly hurt;
     - `break` + `up` + (`with` + `<somebody>`) = separate;
@@ -1194,11 +1205,12 @@ She | reads |    | her notes   | to Peter | every day
     - `put` + `<somebody>` + `off` + `<verb>`(`-ing`) + `<something>` = cause somebody not to want something or to do something:
         > We wanted to go to the exhibition, but we were **put off** by the long queue.
     - `rip` + `<somebody>` + `off` = cheat somebody (informal);
+    - `pull` + `<something>` + `off` = удасться / осуществить;
     - `show` + `off` = try to impress people with your ability, your knowledge, ...;
     - `tell` + `<somebody>` + `off` = speak angrily to somebody because they did something wrong:
         > Clare's mother **told** her **off** for wearing dirty shoes in the house.
     - `cut` + `<somebody>` + `off` = interrupt somebody and stop them from speaking
-        > But you didn’t have to **cut** me **off**
+        > But you didn't have to **cut** me **off**
     - обозначает "состояние части, отделенной от целого", "отделение", для глаголов эквивалентно русской приставке **"от-"** (**"с-"**):
         - `work off` - **от-работать**;
         - `put off` - **от-кладывать**;
@@ -1214,6 +1226,7 @@ She | reads |    | her notes   | to Peter | every day
         - `turn` / `switch` + `<something>` + `on`;
         - `put` + `on` (fro some music, a CD, a video, ...).
     - `go` + `on` (for events) = happen;
+    - `move` + `on` = перейти;
     - `put` + `on` + clothes, glasses, make-up, a seat belt, ... = robe;
     - `put` + `on` + weight = get heavier;
     - `try` + `on` + clothes (to see if they fit);
@@ -1227,6 +1240,8 @@ She | reads |    | her notes   | to Peter | every day
     - `get` + `on` + (`with` + `<somebody>`) = have a good relationship;
     - `get` + `on` + `with` + `<something>` = continue doing something you have to do, usually after an interruption:
         > I must **get on with** my work. I have a lot to do.
+    - `cheat` + `on` + `<somebody>` = to have a secret romantic relationship with someone who is not your partner:
+        > According to statistics, most people who **cheat on** their partners are aged 40–49.
     - обозначает "на что-то", "наложение", для глаголов эквивалентно русской приставке **"на-"**:
         - `put on` - **на-кладывать**.
     - обозначает "двигаться вперед", "продолжать", для глаголов эквивалентно русской приставке **"про-"**:
@@ -1268,6 +1283,20 @@ She | reads |    | her notes   | to Peter | every day
 
 - `into`:
     - `read` + `into` + `<something>` = think that something means more than it really does;
+
+- `about`:
+    - `care` + `about` + `<someone>` = to like somebody and worry about what happens to them:
+        > I really **care about** you, so I can't let you ruin your life.
+    - `talk` + `about` + `<something>` = talk on spicial theme;
+
+- `with`:
+    - `fight` + `with` + `<someone>` = ссориться / драться (в зависимости от контекста) с кем-то.
+
+- `at`
+    - `cheat` + `at` = обманывать (в играх);
+
+- `for`
+    - `go` + `for` = стоить (в деньгах);
 
 ## Модальные глаголы
 
@@ -1380,7 +1409,7 @@ She | reads |    | her notes   | to Peter | every day
 > "**Can** I watch TV?" "Of course, you can."
 
 `Cannot` = `can't` для указания того, что что-то нарушает правила:
-> Karen, you **can’t eat** at your desk!
+> Karen, you **can't eat** at your desk!
 
 `Be allowed to` используется когда спрашивают, дают или отказывают в разрешения. При этом разрешение, однако, не зависит от говорящего.
 > **Am** I **allowed to** park my motorcycle here? (What is the law?)  
@@ -1437,7 +1466,7 @@ She | reads |    | her notes   | to Peter | every day
 - для выражения нехватки чего-то с помощью `don't have` / `doesn't have`:
     > You **don't have to** buy any oranges. We've got plenty.
 - для выражения того, что кто-то может не делать это, но может сделать если захочет с помощью `don't have` / `doesn't have`:
-    > You **don’t have to** cook dinner tonight, I’ll order takeout.
+    > You **don't have to** cook dinner tonight, I'll order takeout.
 - для выражения того, что кто-то должен делать что-то:
     > I **have to work** from 8.30 to 5.30 every day.
 - в будущем времени с использованием `will` или `might` / `may`:
@@ -1452,11 +1481,11 @@ She | reads |    | her notes   | to Peter | every day
     > It's later than I thought. I **must go**.
 - для выражения собственного совета о том что что-то необходимо сделать или "сильной" рекомендации сделать что-то:
     > I haven't spoken to Sue for ages. I **must phone** her.  
-    > Dan, you **must try** this new office software. It’s amazing!
+    > Dan, you **must try** this new office software. It's amazing!
 - для написаных правил или инструкций:
     > You **must write** your answers in ink.
 - для выражения строгого запрета с помощью `mustn't`:
-    > You **mustn’t smoke** here. This is a smoke-free area.
+    > You **mustn't smoke** here. This is a smoke-free area.
 
 ### `Need to`
 
@@ -1566,7 +1595,7 @@ She | reads |    | her notes   | to Peter | every day
 
 Описывают существительные. Имеют одинаковую форму для единственного и множественного числа. Ставятся перед существительным. А также могут использоваться после глагола `to be` и глаголов таких как: `look`, `smell`, `sound`, `feel`, `taste` и подобных.
 
-Прилагательные, которые оканчиваются на `-ing` (`interesting`, `amazing`), используются для описания людей или вещей, которые воздействуют на других и делают их такими же (`-ed`):  
+Прилагательные, которые оканчиваются на `-ing` (`interesting`, `amazing`), используются для описания характеристик людей, вещей или ситуаций, которые воздействуют на других и делают их такими же (`-ed`):  
 `If` + `<somebody>` / `<something>` + `is` + `<adjective>`(`-ing`) + `,` + `<somebody_else>` / `<something_else>` + `makes` + `<somebody>` / `<something>` + `<adjective>`(`-ed`):
 > If something is **boring**, it makes you **bored**.  
 > The film was **boring**. She is a very interesting person.
@@ -1574,7 +1603,7 @@ She | reads |    | her notes   | to Peter | every day
 Используются когда говорят о событиях, опыте, или личностях: `<somebody>` / `<something>` + `is` + `<adjective>`(`-ing`):
 > It was amazing.
 
-Прилагательные, которые оканчиваются на `-ed` (`interested`, `amazed`), используются для описания, того, когда кто-то или что-то воздействовало на них и сделало таким же (`-ing`):  
+Прилагательные, которые оканчиваются на `-ed` (`interested`, `amazed`), используются для описания чувств или того, когда кто-то или что-то воздействовало на них и сделало таким же (`-ing`):  
 `<somebody>` / `<something>` + `is` + `<adjective>`(`-ed`) + `if` `<somebody_else>` / `<something_else>` + `is` + `<adjective>`(`-ing`):
 > Somebody is **bored** if something else is **boring**.  
 > The children were **terrified** when they heard the thunder.
@@ -1678,7 +1707,7 @@ She | reads |    | her notes   | to Peter | every day
 > David is **the same** age **as** James.
 
 Конструкция: ... + [`by far`] + `the` + `<superlative_form>` + ... + `I` + `have` + `ever` + `<verb>-ed` - используется для рассказа об опыте:
-> This is **the longest** book I’ve **ever** read.
+> This is **the longest** book I've **ever** read.
 
 Конструкция: ... + `the` + `<superlative_form>` + ... + `in my live` / `ever` - используется для рассказа об опыте:
 > This is **the most boring** trip **in my life**.
@@ -1696,7 +1725,7 @@ She | reads |    | her notes   | to Peter | every day
 - `just` - для указания того, что две вещи одинаковые:
     > Campsites are just as cheap as in my country. (The prices are the same in both countries.)
 - `nearly` - для указания того, что две вещи одинаковые, но с маленькой разницей (при использовании `not` - большой):
-    > All-inclusive hotels in Romania aren’t nearly as expensive as in Paris. (All-inclusive hotels in Paris are much more expensive.)
+    > All-inclusive hotels in Romania aren't nearly as expensive as in Paris. (All-inclusive hotels in Paris are much more expensive.)
 
 Времена
 =======
@@ -2548,7 +2577,7 @@ object  | a cake | by Susan
 - для действий, которые запланированы и обязательно будут совершены в ближайшем будущем, часто с указанием сроков, места или каких-либо других деталей:
     > Next week we are buying a new car. - На следующей неделе мы покупаем новую машину. (мы не просто решили, а уже выбрали марку машину и автосалон, где будет совершена покупка)
 - для действий в настоящем, влияющем на ближайшее будущее с употреблением глаголов, обозначающих движение:
-    > I’m tired. I am going to bed. - Я устал. Я иду спать. (прямо сейчас я чувствую усталость и пойду спать сразу после того, как сообщу об этом)
+    > I'm tired. I am going to bed. - Я устал. Я иду спать. (прямо сейчас я чувствую усталость и пойду спать сразу после того, как сообщу об этом)
 - для выражения эмоциональной окраски, когда говорящий испытывает недовольство, раздражен или возмущен чем-то, что постоянно случается какое-то действие:
     > You are always interrupting me! - Ты постоянно меня перебиваешь! (ты делаешь это все время, и меня это раздражает)
 - для действий, которые обозначают чувства, умственные процессы, которые не имеют временных пределов при этом имеющее начало и конец:
@@ -2593,7 +2622,7 @@ object  | a cake | by Susan
 - для завершенных действий в настоящем, когда акцент ставится на результат завершенных действий, когда результат действий виден в настоящем:
     > I have already done my homework. - Я уже сделал домашнее задание.
 - для незавершеных действий в настоящем, когда действие, которое началось в прошлом, еще не закончилось в настоящем, но результат действия очевиден:
-    > I’ve written five pages of the new book this morning. - Я написал пять страниц новой книги этим утром. (утро еще не закончилось, он может написать еще несколько страниц)
+    > I've written five pages of the new book this morning. - Я написал пять страниц новой книги этим утром. (утро еще не закончилось, он может написать еще несколько страниц)
 - когда действий, которые указывают на факты каких-то совершенных событий в прошлом без точного указания времени или когда говорим о своем прошлом опыте или спрашиваем об этом своего собеседника:
     > I have been to Bratislava. - Я был (бывал) в Братиславе.  
     > Have you ever been to France? - Ты когда-нибудь был (бывал) во Франции?
@@ -2618,7 +2647,7 @@ object  | a cake | by Susan
 
 Употребление уместно:
 - для длительных действий без четких ограничений во времени или если требуется подчеркнуть, что ситуация временная:
-    > I’ve been living here for 10 years. - Я живу здесь 10 лет.
+    > I've been living here for 10 years. - Я живу здесь 10 лет.
 - для сложных предложений соединенных союзом `since`, когда нужно подчеркнуть длительность действия: `<Present_Perfect_Continuous> since <Past_Simple>`, где придаточное предложение в данном случае будет точкой отсчета для действия в главном:
     > I have been going to this gym since I moved to this neigbourhood a year ago. - Я хожу в этот зал с тех пор, как я переехал в этот район год назад. (я начал ходить в зал после переезда, все это время туда хожу и буду ходить в будущем)
 - для описания увиденного или услышанного с оттенком недовольства:
@@ -2825,8 +2854,14 @@ object  | a cake | by Susan
 ## Вопросы о предложениях сделать что-то
 
 Для предложений сделать что-то используюется:
-- конструкции: `Can I` + ... ?
+- конструкция: `Can I` + ... ?
     > **Can I** get you a cup of coffee?
+- конструкция: [<вопросительное_слово>] + `would you like` + `<somebody>` + `to` + ... ?
+    > **Would you like** me **to** set up a tent? - Хочешь, я установлю палатку?  
+    > **Where would you like** us **to** sit?
+- конструкция: [<вопросительное_слово>] + `do you want` + `<somebody>` + `to` + ... ?
+    > **Do you want** us **to** book that hiking tour? - Хочешь, мы забронируем тот пеший тур?  
+    > **What do you want** me **to** say?
 
 ## Вопросы о предложениях или приглашениях
 
@@ -2835,6 +2870,24 @@ object  | a cake | by Susan
     > **Would you like** to come to dinner tomorrow evening?
 - фраза: `I'd like` + ... - вежливый способ спросить о том, что хочется:
     > **I'd like** to try on this jacket, please.
+- конструкция: `Why not` + `<verb>` + ... ?
+    > **Why not** take my car?
+- конструкция: `Why don't` + `<somebody>` + `<verb>` + ... ?
+    > **Why don't** we **book** a camping tour?
+- конструкция: `How about` + `<noun>` / `<verb>-ing` + ... ?
+    > **How about** taking the scenic route?
+- конструкция: `You could try` + `<noun>` / `<verb>-ing` + ... .
+    > **You could try** skiing in the mountains. I'm sure you'll love that!
+- конструкция: `I wonder if` + ... .
+    > **I wonder if** Jack's brought a tent repair kit with him. - Интересно, есть ли у Джэка с собой набор для ремонта палатки?
+
+Часто используемые выражения на вопросы о предложениях:
+- `I'm not really into` + `<something>` + `, to be honest`;
+- `I'm not a big fan of` + `<something>`;
+- `That sounds` + `great` / `fantastic` / `awesome`;
+- `I'd be up for that.`;
+- `I'm in.`;
+- `I love that kind of thing.`.
 
 ## Сложные вопросы
 
@@ -3140,11 +3193,24 @@ object  | a cake | by Susan
 
 Типы условных предложений:
 
-0. Употребляется, когда используется постоянная правда или законы природы. Строится из условной части и части результата выполнения условия:
+0. Употребляется, когда используется:
+    - постоянная правда или хорошо известные факты:
+        > We work more productively when we get enough sleep.
+    - законы природы:
+        > When water become colder, tourists go away from us.
+    - личные привычки:
+        > When I'm hungry, I get irritated easily.
+
+    Строится из условной части и части результата выполнения условия:
     - `If` / `When` + `<Present_Simple>` + `,` + `<Present_Simple>`;
     - `<Present_Simple>` + `if` / `when` + `<Present_Simple>`.
 
-    > When water become colder, tourists go away from us.
+    Ключевые слова:
+    - `If`;
+    - `When` - когда хотят показать, что одно действие следует за другим.
+
+    Перед глаголом в результате могут использоваться слова: `typically`, `normally`, `usually`:
+    > If we come home late, we usually try not to make much noise.
 
 1. **Реальное условие**. Употребляется, когда действие относиться к настоящему или будущему и действие реальное. Строится из условной части и части результата выполнения условия:
     - `If` / `When` / `Unless` + `<Present_Form>` + `,` + `<Future_Form>`;
@@ -3817,9 +3883,9 @@ object  | a cake | by Susan
 
 `Too` следует **перед** прилагательными, наречиями и существительными и имеет негативное значение, которое показывает что что-то больше (черезчур) чем достаточно (`слишком`), больше чем необходимо или больше чем хочется, для этого используется конструкция:
 - `too` + `<прилагательное>` / `<наречие>`:
-    > The accident happened **too quickly**, so I didn’t remember the details.
+    > The accident happened **too quickly**, so I didn't remember the details.
 - `too` + `much` / `many` / `few` / `little` + `<существительное>`:
-    > There’s **too much traffic** in big cities.
+    > There's **too much traffic** in big cities.
 
 `Enough` следует **перед** существительными, но **после** прилагательных и наречий и имеет позитивное значение, которое показывает, что того что хочется или необходимо имеется в достатке (`достаточно`), для этого используется конструкции:
 - `<прилагательное>` / `<наречие>` + `enough`:
@@ -3901,6 +3967,30 @@ object  | a cake | by Susan
 
 > A: I often go swimming at weekends.  
 > B: I don't.
+
+### Конструкции
+
+Для выражения согласия используются конструкции:
+- `Definitely!`;
+- `Absolutely!`;
+- `Exactly!`;
+- `Totally!`;
+- `You're absolutely right!`;
+- `I feel exactly the same.`;
+- `That's what I'm talking about.`;
+- `I'll go for it.`;
+
+Для выражения несогласия используются конструкции:
+- `I'm not sure about that.`;
+- `I don't think so.`;
+- `I'm afraid I disagree.`;
+- `I see your point, but` + ...;
+- `Well, actually` + ...;
+- `Let's` + `not` + `<verb>` + ... - в утверждениях;
+    > Well, let's not give him a warning - it's only his first time!
+- `Shall we` + `not` + `<verb>` + ... ? - в вопросах;
+    > Shall we not talk to her today?
+- `I'd rather` + `not` [+ ...];
 
 ## `both` / `neither` / `either`
 
@@ -4395,7 +4485,7 @@ Type of eating:
 - `<somebody>` + `to be fed up with` + `<noun>` / `<verb>-ing`;
 - `<somebody>` + `to be not interested in` + `<noun>` / `<verb>-ing`;
 - `<somebody>` + `to be not keen on` + `<noun>` / `<verb>-ing`.
-> Our kids **aren’t keen on** field trips.
+> Our kids **aren't keen on** field trips.
 
 ## Предпочтения
 
@@ -4404,24 +4494,6 @@ Type of eating:
 
 `prefer` + `<something>` + `to` + `<something>`:
 > My parents **prefer** flying **to** going by ferry.
-
-## Согласие
-
-Для выражения согласия используются конструкции:
-- `Definitely!`;
-- `Absolutely!`;
-- `Exactly!`;
-- `Totally!`;
-- `You're absolutely right!`;
-- `I feel exactly the same.`;
-- `That’s what I'm talking about.`;
-
-Для выражения несогласия используются конструкции:
-- `I'm not sure about that.`;
-- `I don't think so.`;
-- `I'm afraid I disagree.`;
-- `I see your point, but` + ...;
-- `Well, actually` + ....
 
 ## `influence`
 
@@ -4444,27 +4516,27 @@ Type of eating:
 > Jane, I **do** like your new dress. Where did you get it? - Джейн, мне **действительно** нравится твое новое платье. Где ты его достала?  
 > Your music is too loud. **Do** turn it off! - Твоя музыка слишком громкая. **Давай** выключай ее!
 
-## `what’s the point of`
+## `what's the point of`
 
-`What’s the point of` + ... + `<noun>` / `<verb>+ing` + ...? - используется для задания вопроса о смысле.
-> `What’s the point of buying a camper van when we can rent it?`
+`What's the point of` + ... + `<noun>` / `<verb>+ing` + ...? - используется для задания вопроса о смысле.
+> `What's the point of buying a camper van when we can rent it?`
 
 ## Выражение
 
 `I'd like to try` + `<something>` + ... + `someday` - для выражения заинтересованости или любопытства:
-> **I’d like to try** the real sushi in Japan **someday**.
+> **I'd like to try** the real sushi in Japan **someday**.
 
-[`Sounds like`] + `it’s worth trying` + `<noun>` / `<verb>+ing` + ... - для выражения рекомендации:
-> **Sounds like it’s worth trying** the local street food in Thailand.
+[`Sounds like`] + `it's worth trying` + `<noun>` / `<verb>+ing` + ... - для выражения рекомендации:
+> **Sounds like it's worth trying** the local street food in Thailand.
 
-`I’m curious about` + `<something>` + ...:
-> **I’m curious about** the diverse flavors of Indian cuisine.
+`I'm curious about` + `<something>` + ...:
+> **I'm curious about** the diverse flavors of Indian cuisine.
 
-`Given the choice, I’d` + `<verb>` + ... - для выражения предпочтения определенного варианта:
-> **Given the choice, I’d** eat only Japanese food.
+`Given the choice, I'd` + `<verb>` + ... - для выражения предпочтения определенного варианта:
+> **Given the choice, I'd** eat only Japanese food.
 
 `I try to avoid` + `<noun>` / `<verb>+ing` + ... - для выражения уклонения или нежелания пробовать что-то:
-> **I try to avoid eating** dairy products because I’m allergic to lactose.
+> **I try to avoid eating** dairy products because I'm allergic to lactose.
 
 `I would never try` + `<something>` + ...:
 > **I would never** try fried insects
@@ -4487,7 +4559,7 @@ Type of eating:
 
 Для обозначения в общем людей принадлежащих определенным национальнастям используются правила:
 - не используются артикль для форм, которые имеею множественное число:
-    > Canadians (= all people from Canada) don’t mind cold weather.
+    > Canadians (= all people from Canada) don't mind cold weather.
 - если национальность оканчивается на `-ss`, `-ch`, `-ese`, ил `-sh`, то у них нет множественной формы:
     > The French (= all people from France) are a deeply patriotic nation.
 - определенный артикль используется когда говорят о целой нации:
