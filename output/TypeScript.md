@@ -67,7 +67,7 @@
     - [Декораторы свойств](#user-content-Декораторы-свойств)
     - [Декоратор метода доступа](#user-content-Декоратор-метода-доступа)
     - [Фабрики декораторов](#user-content-Фабрики-декораторов)
-    - [Новые декораторы](#user-content-Новые-декораторы)
+    - [Стандартные декораторы](#user-content-Стандартные-декораторы)
         - [Декоратор метода](#user-content-Декоратор-метода)
         - [Декораторы модификаторов](#user-content-Декораторы-модификаторов)
         - [Декоратор поля](#user-content-Декоратор-поля)
@@ -1572,7 +1572,7 @@ class Account {
 }
 ```
 
-## <a id="Новые-декораторы" href="#Новые-декораторы">Новые декораторы</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+## <a id="Стандартные-декораторы" href="#Стандартные-декораторы">Стандартные декораторы</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
 Декоратор представляет из себя функцию, которая принимает значение для декорируемости и контекст вызова:
 ```typescript
@@ -1656,6 +1656,18 @@ type ClassMethodDecorator = (value: Function, context: {
 ```
 
 Где в `value` будет передаваться метод.
+
+```ts
+function loggedMethod(originalMethod: any, _context: any) {
+    function replacementMethod(this: any, ...args: any[]) {
+        console.log("LOG: Entering method.")
+        const result = originalMethod.call(this, ...args);
+        console.log("LOG: Exiting method.")
+        return result;
+    }
+    return replacementMethod;
+}
+```
 
 ### <a id="Декораторы-модификаторов" href="#Декораторы-модификаторов">Декораторы модификаторов</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 

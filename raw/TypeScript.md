@@ -1553,7 +1553,7 @@ class Account {
 }
 ```
 
-## Новые декораторы
+## Стандартные декораторы
 
 Декоратор представляет из себя функцию, которая принимает значение для декорируемости и контекст вызова:
 ```typescript
@@ -1638,6 +1638,19 @@ type ClassMethodDecorator = (value: Function, context: {
 ```
 
 Где в `value` будет передаваться метод.
+
+```ts
+function loggedMethod(originalMethod: any, _context: any) {
+    function replacementMethod(this: any, ...args: any[]) {
+        console.log("LOG: Entering method.")
+        const result = originalMethod.call(this, ...args);
+        console.log("LOG: Exiting method.")
+        return result;
+    }
+
+    return replacementMethod;
+}
+```
 
 ### Декораторы модификаторов
 
