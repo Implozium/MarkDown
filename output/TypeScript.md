@@ -1259,6 +1259,11 @@ type MySanta = ReturnType<typeof getGift>; // SecretSanta
 type MyName = Parameters<typeof getGift>[0]; // SecretName
 ```
 
+`ConstructorParameters<typeof <Класс>>` - возвращает массив типов, который принимает конструктор класса.
+```ts
+type ConstructorParameters<T extends abstract new (...args: any) => any> = T extends abstract new (...args: infer P) => any ? P : never;
+```
+
 `Exclude<<Тип1>, <Тип2>>` - возвращает новый тип на основе типа `<Тип1>`, у которго исключены типы из типа `<Тип2>`.
 ```ts
 type Exclude<T, U> = T extends U ? never : T;

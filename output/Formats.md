@@ -663,7 +663,7 @@ POST /articles/1/relationships/comments HTTP/1.1
 - `data` - объект с идентификаторами ресурсов для удаления связей;
 
 ```http
-POST /articles/1/relationships/comments HTTP/1.1
+DELETE /articles/1/relationships/comments HTTP/1.1
 {
     "data": [
         { "type": "comments", "id": "12" },

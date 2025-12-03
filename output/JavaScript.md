@@ -161,6 +161,7 @@
     - [Описание функции как параметра функции](#user-content-Описание-функции-как-параметра-функции)
 - [Тестирование](#user-content-Тестирование)
     - [Автоматические тесты при помощи chai и mocha](#user-content-Автоматические-тесты-при-помощи-chai-и-mocha)
+        - [Основные правила по именованию](#user-content-Основные-правила-по-именованию)
         - [Поток разработки](#user-content-Поток-разработки)
         - [Дополнительные методы тестирования](#user-content-Дополнительные-методы-тестирования)
         - [Виды `chai.assert`](#user-content-Виды-chaiassert)
@@ -2901,18 +2902,101 @@ describe("<имя_тестируемой_сущности>", function () {
 - `it("<что_делает_функция>", function () {...})` - в названии блока `it` человеческим языком описывается, что должна делать функция (с маленькой буквы), далее следует тест, который проверяет это;
 - `assert.equal(<значение1>, <значение2>)` - код внутри `it`, если реализация верна, должен выполняться без ошибок.
 
+Различные функции вида `assert.*` используются, чтобы проверить, делает ли `<тестируемая_функция>` то, что задумано.
+
+### <a id="Основные-правила-по-именованию" href="#Основные-правила-по-именованию">Основные правила по именованию</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+Описание теста должно описывать то, что он проверяет ожидаемое действие или поведение при наступлении определенного события / условия / сценария: `should {<expected_behavior> | <verb> <expected_outcome>} when <specific_condition>` (`дожнен / должна {<ожидаемое_действие> | <поведение>} при / в случае / если {<название_сценария> | <краткое_описание_условия>}`):
+> `should display error message when validation fails`
+
+Тесты должны групироваться в описательном контексте: `{<Component> | <Feature>} should <expected_behavior> when <specific_condition>` (`<конкретная_сущность> должна ожидаемое действие / поведение [когда / при / если {<сценарий> | <контекст>}]`):
 ```javascript
-// <конкретная_сущность> должна ожидаемое действие / поведение [когда / при / если {<сценарий> | <контекст>}]
-describe("<конкретная_сущность>", function () {
-    [describe("когда / при / если {<сценарий> | <контекст>}", function () {]
-        it("дожнен / должна {<ожидаемое_действие> | <поведение>} при / в случае / если {<название_сценария> | <краткое_описание_условия>}", function () {
-            assert.equal(<тестируемая_функция>(...), <ожидаемый_результат>);
-        });
-    [});]
+describe("{<Component> | <Feature>}", () => {
+    describe("when <specific_condition>", () => {
+        it("should <expected_behavior>", () => {});
+    });
 });
 ```
 
-Различные функции вида `assert.*` используются, чтобы проверить, делает ли `<тестируемая_функция>` то, что задумано.
+```javascript
+describe("<конкретная_сущность>", () => {
+    describe("когда / при / если {<сценарий> | <контекст>}", () => {
+        it("дожнен / должна {<ожидаемое_действие> | <поведение>} при / в случае / если {<название_сценария> | <краткое_описание_условия>}", () => {});
+    });
+});
+```
+
+```javascript
+describe("AuthForm", () => {
+    describe("when form is empty", () => {
+        it("should disable submit button", () => {});
+        it("should not show any validation errors", () => {});
+    });
+    describe("when submitting invalid data", () => {
+        it("should show validation errors", () => {});
+        it("should keep submit button disabled", () => {});
+    });
+});
+```
+
+Описание теста должно описывать значения состояний до и после: `should change <attribute> from <initial_state> to <final_state>`:
+> `should change status from pending to approved`  
+> `should mark todo as completed when checkbox clicked`
+
+Описание теста должно включать состояния загрузки и результирующее состояние для асинхронных операций: `should {<expected_behavior> | <verb> <expected_outcome>} {during | after } <async_operation>`:
+> `should show skeleton while loading data`  
+> `should render profile after user data loads`
+
+Описание теста для ошибок должно включать тип ошибки и причину почему она произошла: `should show <specific_error_message> when <error_condition>`:
+> `should show network error when API is unreachable`  
+> `should display "Required" when password is empty`
+
+Описание теста должно описываться бизнес языком, а не техническим: `should <business_action> <business_entity>`:
+> `should save customer order`
+
+Тесты для процессов должны описываться шаг за шагом в виде блоков:
+```javascript
+describe("<complex_process>", () => {
+    it("should first <initial_step>", () => {});
+    it("should then <next_step>", () => {});
+    it("should finally <final_step>", () => {});
+    describe("after <key_milestone>", () => {
+        it("should <follow-up_action>", () => {});
+    });
+});
+```
+
+```javascript
+describe("Checkout Process", () => {
+    it("should first validate items are in stock", () => {});
+    it("should then collect shipping address", () => {});
+    it("should finally process payment", () => {});
+    describe("after successful payment", () => {
+        it("should display order confirmation", () => {});
+        it("should send confirmation email", () => {});
+    });
+});
+```
+
+Пример теста:
+```javascript
+describe("ShoppingCart", () => {
+    describe("when adding items", () => {
+        it("should add item to cart when add button is clicked", () => {});
+        it("should update total price immediately", () => {});
+        it("should show item count badge", () => {});
+    });
+    describe("when cart is empty", () => {
+        it("should display empty cart message", () => {});
+        it("should disable checkout button", () => {});
+    });
+    describe("during checkout process", () => {
+        it("should validate stock before proceeding", () => {});
+        it("should show loading indicator while processing payment", () => {});
+        it("should display success message after completion", () => {});
+    });
+});
+```
 
 ### <a id="Поток-разработки" href="#Поток-разработки">Поток разработки</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
