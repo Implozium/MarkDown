@@ -18,6 +18,7 @@
     - [Теги `details` и `summary`](#user-content-Теги-details-и-summary)
     - [Общие атрибуты](#user-content-Общие-атрибуты)
         - [`inert`](#user-content-inert)
+        - [`contenteditable`](#user-content-contenteditable)
 - [Протокол Open Graph](#user-content-Протокол-Open-Graph)
 
 <a id="Теги" href="#Теги">Теги</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
@@ -132,6 +133,10 @@
 ### <a id="inert" href="#inert">`inert`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
 Это атрибут, который убирает возможность клика или фокуса на элементе.
+
+### <a id="contenteditable" href="#contenteditable">`contenteditable`</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+Это атрибут, включает редактирование элемента. При значении равном `plaintext-only` - устанавливает то, что весь вставляемый текст будет просто текстом.
 
 <a id="Протокол-Open-Graph" href="#Протокол-Open-Graph">Протокол Open Graph</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 ===================
