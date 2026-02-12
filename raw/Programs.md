@@ -387,6 +387,24 @@ docker compose exec -T <сервис> <команда> <<EOF
 EOF
 ```
 
+## ipv6
+
+Для работы с ipv6 нужно в файл `/etc/docker/daemon.json` записать
+{
+    "iptables": false,
+    "ip-forward": false,
+    "ipv6": true,
+    "dns": [
+        "<dns_ipv6_1>"
+    ],
+    "fixed-cidr": "",
+    "fixed-cidr-v6": "<cidr_v6>"
+}
+
+И выполнить команды:
+`sudo ip6tables -t nat -A POSTROUTING -o eth0 -j MASQUERADE`  
+`sudo sysctl -w net.ipv6.conf.all.forwarding=1`
+
 ## Примеры
 
 ### Файлы для сервера ноды

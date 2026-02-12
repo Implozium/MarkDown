@@ -13,6 +13,7 @@
         - [Команды для работы с сетью](#user-content-Команды-для-работы-с-сетью)
     - [Другие команды](#user-content-Другие-команды)
     - [`docker compose`](#user-content-docker-compose)
+    - [ipv6](#user-content-ipv6)
     - [Примеры](#user-content-Примеры)
         - [Файлы для сервера ноды](#user-content-Файлы-для-сервера-ноды)
 - [Kubernetes](#user-content-Kubernetes)
@@ -465,6 +466,24 @@ docker compose exec -T <сервис> <команда> <<EOF
 # <команды>
 EOF
 ```
+
+## <a id="ipv6" href="#ipv6">ipv6</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
+
+Для работы с ipv6 нужно в файл `/etc/docker/daemon.json` записать
+{
+    "iptables": false,
+    "ip-forward": false,
+    "ipv6": true,
+    "dns": [
+        "<dns_ipv6_1>"
+    ],
+    "fixed-cidr": "",
+    "fixed-cidr-v6": "<cidr_v6>"
+}
+
+И выполнить команды:
+`sudo ip6tables -t nat -A POSTROUTING -o eth0 -j MASQUERADE`  
+`sudo sysctl -w net.ipv6.conf.all.forwarding=1`
 
 ## <a id="Примеры" href="#Примеры">Примеры</a> [<a id="Содержание" href="#Содержание">Содержание</a>]
 
